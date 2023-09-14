@@ -5,7 +5,7 @@ import glob
 from tqdm import tqdm
 import csv
 
-fields = ["#", "National ID", "Name EN", "Gender", "csercDea", "cnwn", "CONSIT", "Registerd Box"]
+fields = ["#", "Island", "House Name", "Name", "Sex", "National ID", "Address_DV", "Name_DV"]
 
 # a mapping of ascii character to the unicode integer value
 # of the corresponding Thaana character as on the Phonetic keyboard layout
