@@ -1,0 +1,882 @@
+#,Island,House Name,Name,Sex,National ID,Address_DV,Name_DV
+1,B Fulhadhoo,Dhekunuge,Mohamed Inayath,M,AXXX485,ދެކުނުގެ,މުޙައްމަދު ޢިނާޔަތު
+2,Dh Maaenboodhoo,Moodhumaage,Abdulla Rasheed,M,AXXX838,މޫދުމާގެ,ޢަބްދުﷲ ރަޝީދު
+3,GA Maamendhoo,Aaraadhanaa,Abdulla Rasheed,M,AXXX120,އާރާދަނާ,ޢަބްދުﷲ ރަޝީދު
+4,GA Nilandhoo,Thadiraiymaage,Shaneeza Ahmed,F,AXXX145,ތަޑިރަތްމާގެ,ޝަނީޒާ އަޙްމަދު
+5,GDh Faresmaathodaa,Maathodaa Avah Mehela,Aishath Dheena,F,AXXX979,މާތޮޑާއަވަށް މެހެލަ,ޢާއިޝަތު ދީނާ
+6,GDh Faresmaathodaa,Maathodaa Avah Mileena,Mariyam Muzaina,F,AXXX826,މާތޮޑާއަވަށް މިލީނާ,މަރްޔަމް މުޒައިނާ
+7,GDh Gadhdhoo,Fandunuvaage,Abdulla Ahmeem,M,AXXX757,ފަނޑުނުވާގެ,ޢަބްދުﷲ އަޙްމީމް
+8,Gn Fuvahmulah,Dhadimagu Aabaadhuge,Aishath Ali Didi,F,AXXX498,ދަޑިމަގު އާބާދުގެ,ޢާއިޝަތު ޢަލީދީދީ
+9,Gn Fuvahmulah,Dhadimagu Aabaadhuge,Abdulla Rafeeq,M,AXXX499,ދަޑިމަގު އާބާދުގެ,ޢަބްދުﷲ ރަފީޤު
+10,Gn Fuvahmulah,Dhadimagu Aabaadhuge,Mohamed Abdullah Rafeeq,M,AXXX574,ދަޑިމަގު އާބާދުގެ,މުޙައްމަދު ޢަބްދުﷲ ރަފީޤު
+11,Gn Fuvahmulah,Dhadimagu Aabaadhuge,Ismail Rafeeq,M,AXXX756,ދަޑިމަގު އާބާދުގެ,އިސްމާޢީލް ރަފީޤު
+12,Gn Fuvahmulah,Dhadimagu Aabaadhuge,Azin Mohamed Rafeeg,M,AXXX984,ދަޑިމަގު އާބާދުގެ,އާޛިން މުޙައްމަދު ރަފީޤު
+13,Gn Fuvahmulah,Dhadimagu Aakuri,Shareefa Ibrahim,F,AXXX533,ދަޑިމަގު އާކުރި,ޝަރީފާ އިބްރާހީމް
+14,Gn Fuvahmulah,Dhadimagu Aakuri,Ali Bushree,M,AXXX534,ދަޑިމަގު އާކުރި,ޢަލީ ބުޝްރީ
+15,Gn Fuvahmulah,Dhadimagu Aakuri,Hawwa Shiuna,F,AXXX312,ދަޑިމަގު އާކުރި,ޙައްވާ ޝިއުނާ
+16,Gn Fuvahmulah,Dhadimagu Aakuri,Shaza Ali,F,AXXX648,ދަޑިމަގު އާކުރި,ޝަޛާ ޢަލީ
+17,Gn Fuvahmulah,Dhadimagu Aakuri,Mohamed Ali,M,AXXX649,ދަޑިމަގު އާކުރި,މުޙައްމަދު ޢަލީ
+18,Gn Fuvahmulah,Dhadimagu Aazaadhuge,Thahmeena Mohamed,F,AXXX535,ދަޑިމަގު އާޒާދުގެ,ތަހުމީނާ މުޙައްމަދު
+19,Gn Fuvahmulah,Dhadimagu Aazaadhuvaadhee,Khadeeja Hassan Didi,F,AXXX447,ދަޑިމަގު އާޒާދުވާދީ,ޚަދީޖާ ޙަސަންދީދީ
+20,Gn Fuvahmulah,Dhadimagu Aazaadhuvaadhee,Ali Mueen,M,AXXX619,ދަޑިމަގު އާޒާދުވާދީ,ޢަލީ މުޢީން
+21,Gn Fuvahmulah,Dhadimagu Aazaadhuvaadhee,Mohamed Mueen,M,AXXX439,ދަޑިމަގު އާޒާދުވާދީ,މުޙައްމަދު މުޢީނު
+22,Gn Fuvahmulah,Dhadimagu Afaaz,Ahmed Faisal Ibrahim,M,AXXX373,ދަޑިމަގު އަފާޒު,އަޙްމަދު ފައިޞަލް އިބްރާހީމް
+23,Gn Fuvahmulah,Dhadimagu Akeysiaa,Fathmath Saeeda,F,AXXX375,ދަޑިމަގު އަކޭސިއާ,ފާޠިމަތު ސަޢީދާ
+24,Gn Fuvahmulah,Dhadimagu Akeysiaa,Abdulla,M,AXXX395,ދަޑިމަގު އަކޭސިއާ,ޢަބްދުﷲ
+25,Gn Fuvahmulah,Dhadimagu Akeysiaa,Mohamed Vaiz,M,AXXX399,ދަޑިމަގު އަކޭސިއާ,މުޙައްމަދު ވާޢިޡު
+26,Gn Fuvahmulah,Dhadimagu Akeysiaa,Mariyam Ibrahim,F,AXXX816,ދަޑިމަގު އަކޭސިއާ,މަރްޔަމް އިބްރާހީމް
+27,Gn Fuvahmulah,Dhadimagu Akfaa,Ibrahim Saeed,M,AXXX839,ދަޑިމަގު އަކްފާ,އިބްރާހީމް ސަޢީދު
+28,Gn Fuvahmulah,Dhadimagu Akfaa,Zulfa Mohamed,F,AXXX848,ދަޑިމަގު އަކްފާ,ޒުލްފާ މުޙައްމަދު
+29,Gn Fuvahmulah,Dhadimagu Akfaa,Ahmed Akfah Saeed,M,AXXX986,ދަޑިމަގު އަކްފާ,އަޙްމަދު އަކްފާހް ސަޢީދު
+30,Gn Fuvahmulah,Dhadimagu Ali,Ali Nizar,M,AXXX453,ދަޑިމަގު އަލި,ޢަލީ ނިޒާރު
+31,Gn Fuvahmulah,Dhadimagu Ali,Dr Aishath Wadheefa,F,AXXX814,ދަޑިމަގު އަލި,ޑޮކްޓަރ ޢާއިޝަތު ވަދީފާ
+32,Gn Fuvahmulah,Dhadimagu Andaapooluge,Hawwa Ahmed Didi,F,AXXX738,ދަޑިމަގު އަންޑާޕޫލުގެ,ޙައްވާ އަޙްމަދުދީދީ
+33,Gn Fuvahmulah,Dhadimagu Andaapooluge,Aishath Ali,F,AXXX739,ދަޑިމަގު އަންޑާޕޫލުގެ,ޢާއިޝަތު ޢަލީ
+34,Gn Fuvahmulah,Dhadimagu Andaapooluge,Aishath Ahmed Didi,F,AXXX980,ދަޑިމަގު އަންޑާޕޫލުގެ,ޢާއިޝަތު އަޙްމަދުދީދީ
+35,Gn Fuvahmulah,Dhadimagu Anoanaage,Aminath Hafeeza,F,AXXX779,ދަޑިމަގު އަނޯނާގެ,އާމިނަތު ޙަފީޡާ
+36,Gn Fuvahmulah,Dhadimagu Anoanaage,Mohamed Sharafudeen,M,AXXX820,ދަޑިމަގު އަނޯނާގެ,މުޙައްމަދު ޝަރަފުއްދީން
+37,Gn Fuvahmulah,Dhadimagu Anoanaage,Ibrahim Hassan Didi,M,AXXX047,ދަޑިމަގު އަނޯނާގެ,އިބްރާހީމް ޙަސަންދީދީ
+38,Gn Fuvahmulah,Dhadimagu Anoanaage,Aishath Nadhiya,F,AXXX727,ދަޑިމަގު އަނޯނާގެ,ޢާއިޝަތު ނާދިޔާ
+39,Gn Fuvahmulah,Dhadimagu Anoanaage,Ahmed Inah,M,AXXX257,ދަޑިމަގު އަނޯނާގެ,އަޙްމަދު އިނާޙް
+40,Gn Fuvahmulah,Dhadimagu Aris,Fathimath Saeeda,F,AXXX358,ދަޑިމަގު އަރިސް,ފާޠިމަތު ސަޢީދާ
+41,Gn Fuvahmulah,Dhadimagu Aris,Mohamed Nahil Nihan,M,AXXX041,ދަޑިމަގު އަރިސް,މުޙައްމަދު ނާހިލް ނިހާން
+42,Gn Fuvahmulah,Dhadimagu Army,Ali Nizar Ahmed,M,AXXX224,ދަޑިމަގު އާމީ,ޢަލީ ނިޒާރު އަޙްމަދު
+43,Gn Fuvahmulah,Dhadimagu Arumaazu,Shakeela Zakariyya,F,AXXX682,ދަޑިމަގު އަރުމާޒު,ޝަކީލާ ޒަކަރިއްޔާ
+44,Gn Fuvahmulah,Dhadimagu Asaal,Saudulla Ibrahim,M,AXXX614,ދަޑިމަގު އާސާލް,ސަޢުދުﷲ އިބްރާހީމް
+45,Gn Fuvahmulah,Dhadimagu Asaal,Fathimath Reem Saudulla Ibrahim,F,AXXX076,ދަޑިމަގު އާސާލް,ފާޠިމަތު ރީމް ސަޢުދުﷲ އިބްރާހީމް
+46,Gn Fuvahmulah,Dhadimagu Atha,Badoora Waheed,F,AXXX862,ދަޑިމަގު އަތަ,ބަދޫރާ ވަޙީދު
+47,Gn Fuvahmulah,Dhadimagu Atha,Abdul Hakeem,M,AXXX497,ދަޑިމަގު އަތަ,ޢަބްދުލްޙަކީމް
+48,Gn Fuvahmulah,Dhadimagu Atha,Ninan Abdul Hakeem,F,AXXX258,ދަޑިމަގު އަތަ,ނިނާނު ޢަބްދުލްޙަކީމް
+49,Gn Fuvahmulah,Dhadimagu Atha,Rasha Abdul Hakeem,F,AXXX260,ދަޑިމަގު އަތަ,ރަޝާ ޢަބްދުލްޙަކީމް
+50,Gn Fuvahmulah,Dhadimagu Atha,Dhaniya Abdul Hakeem,F,AXXX305,ދަޑިމަގު އަތަ,ދާނިޔާ ޢަބްދުލްޙަކީމް
+51,Gn Fuvahmulah,Dhadimagu Athiree Aage,Hawwa Mohamed Didi,F,AXXX146,ދަޑިމަގު އަތިރީއާގެ,ޙައްވާ މުޙައްމަދުދީދީ
+52,Gn Fuvahmulah,Dhadimagu Athiree Aage,Ahmed Atheef,M,AXXX990,ދަޑިމަގު އަތިރީއާގެ,އަޙްމަދު ޢަޠީފް
+53,Gn Fuvahmulah,Dhadimagu Athireege,Ibrahim Didi,M,AXXX951,ދަޑިމަގު އަތިރީގެ,އިބްރާހީމްދީދީ
+54,Gn Fuvahmulah,Dhadimagu Azmeebahaaru,Aminath Ahmed,F,AXXX879,ދަޑިމަގު ޢަޒްމީބަހާރު,އާމިނަތު އަޙްމަދު
+55,Gn Fuvahmulah,Dhadimagu Azmeebahaaru,Nisa Mohamed,F,AXXX892,ދަޑިމަގު ޢަޒްމީބަހާރު,ނިސާ މުޙައްމަދު
+56,Gn Fuvahmulah,Dhadimagu Azmeebahaaru,Mohamed Abdulla,M,AXXX893,ދަޑިމަގު ޢަޒްމީބަހާރު,މުޙައްމަދު ޢަބްދުﷲ
+57,Gn Fuvahmulah,Dhadimagu Azmeebahaaru,Azmee Mohamed,M,AXXX611,ދަޑިމަގު ޢަޒްމީބަހާރު,ޢަޒްމީ މުޙައްމަދު
+58,Gn Fuvahmulah,Dhadimagu Azmeebahaaru,Nasla Mohamed,F,AXXX370,ދަޑިމަގު ޢަޒްމީބަހާރު,ނަޞްލާ މުޙައްމަދު
+59,Gn Fuvahmulah,Dhadimagu Azmeebahaaru,Nasfa Mohamed,F,AXXX936,ދަޑިމަގު ޢަޒްމީބަހާރު,ނަސްފާ މުޙައްމަދު
+60,Gn Fuvahmulah,Dhadimagu Azmeebahaaru,Abdulla Azim,M,AXXX880,ދަޑިމަގު ޢަޒްމީބަހާރު,ޢަބްދުﷲ ޢާޒިމް
+61,Gn Fuvahmulah,Dhadimagu Azmeebahaaru,Maaha Mohamed,F,AXXX881,ދަޑިމަގު ޢަޒްމީބަހާރު,މާހާ މުޙައްމަދު
+62,Gn Fuvahmulah,Dhadimagu Azmeebahaaru,Aula Mohamed,F,AXXX941,ދަޑިމަގު ޢަޒްމީބަހާރު,އަޢުލާ މުޙައްމަދު
+63,Gn Fuvahmulah,Dhadimagu Baby House,Aishath Shamveela,F,AXXX573,ދަޑިމަގު ބޭބީހައުސް,ޢާއިޝަތު ޝަމްވީލާ
+64,Gn Fuvahmulah,Dhadimagu Baby House,Mariyam Adam,F,AXXX783,ދަޑިމަގު ބޭބީހައުސް,މަރްޔަމް އާދަމް
+65,Gn Fuvahmulah,Dhadimagu Baby House,Mohamed Ashfag,M,AXXX784,ދަޑިމަގު ބޭބީހައުސް,މުޙައްމަދު އަޝްފާޤް
+66,Gn Fuvahmulah,Dhadimagu Baby House,Abdul Azeez Ali,M,AXXX787,ދަޑިމަގު ބޭބީހައުސް,ޢަބްދުލްޢަޒީޒު ޢަލީ
+67,Gn Fuvahmulah,Dhadimagu Baby House,Aminath Shifana,F,AXXX260,ދަޑިމަގު ބޭބީހައުސް,އާމިނަތު ޝިފާނާ
+68,Gn Fuvahmulah,Dhadimagu Baby House,Hawwa Nishfa,F,AXXX276,ދަޑިމަގު ބޭބީހައުސް,ޙައްވާ ނިޝްފާ
+69,Gn Fuvahmulah,Dhadimagu Baby House,Ahmed Shifaz,M,AXXX939,ދަޑިމަގު ބޭބީހައުސް,އަޙްމަދު ޝިފާޒު
+70,Gn Fuvahmulah,Dhadimagu Baby House,Fathimath Maasha Maushooq,F,AXXX695,ދަޑިމަގު ބޭބީހައުސް,ފާޠިމަތު މާޝާ މަޢުޝޫޤު
+71,Gn Fuvahmulah,Dhadimagu Badimirusge,Fathimath Ali Didi,F,AXXX558,ދަޑިމަގު ބަޑިމިރުސްގެ,ފާޠިމަތު ޢަލީދީދީ
+72,Gn Fuvahmulah,Dhadimagu Badimirusge,Aishath Mohamed,F,AXXX560,ދަޑިމަގު ބަޑިމިރުސްގެ,ޢާއިޝަތު މުޙައްމަދު
+73,Gn Fuvahmulah,Dhadimagu Badimirusge,Mohamed Ali Didi,M,AXXX513,ދަޑިމަގު ބަޑިމިރުސްގެ,މުޙައްމަދު ޢަލީދީދީ
+74,Gn Fuvahmulah,Dhadimagu Badimirusge,Aisaru Ibrahim Mohamed,M,AXXX038,ދަޑިމަގު ބަޑިމިރުސްގެ,އައިސަރު އިބްރާހީމް މުޙައްމަދު
+75,Gn Fuvahmulah,Dhadimagu Bahaaru Vaadhee,Ahmed Siyam Moosa,M,AXXX824,ދަޑިމަގު ބަހާރުވާދީ,އަޙްމަދު ސިޔާމް މޫސާ
+76,Gn Fuvahmulah,Dhadimagu Bahaaru Vaadhee,Mohamed Aiham Siyam,M,AXXX049,ދަޑިމަގު ބަހާރުވާދީ,މުޙައްމަދު އައިހަމް ސިޔާމް
+77,Gn Fuvahmulah,Dhadimagu Bathegedharu,Khadeeja Hassan,F,AXXX409,ދަޑިމަގު ބަތެގެދަރު,ޚަދީޖާ ޙަސަން
+78,Gn Fuvahmulah,Dhadimagu Bathegedharu,Aishath Hassan,F,AXXX410,ދަޑިމަގު ބަތެގެދަރު,ޢާއިޝަތު ޙަސަން
+79,Gn Fuvahmulah,Dhadimagu Bathegedharu,Fathimath Didi,F,AXXX463,ދަޑިމަގު ބަތެގެދަރު,ފާޠިމަތުދީދީ
+80,Gn Fuvahmulah,Dhadimagu Bathegedharu,Hassan Ibrahim,M,AXXX561,ދަޑިމަގު ބަތެގެދަރު,ޙަސަން އިބްރާހީމް
+81,Gn Fuvahmulah,Dhadimagu Bathegedharu,Ibrahim Didi,M,AXXX564,ދަޑިމަގު ބަތެގެދަރު,އިބްރާހީމް ދީދީ
+82,Gn Fuvahmulah,Dhadimagu Benhaage,Mohamed Ali,M,AXXX658,ދަޑިމަގު ބެންހާގެ,މުޙައްމަދު ޢަލީ
+83,Gn Fuvahmulah,Dhadimagu Benhaage,Gasim Mohamed,M,AXXX728,ދަޑިމަގު ބެންހާގެ,ޤާސިމް މުޙައްމަދު
+84,Gn Fuvahmulah,Dhadimagu Benhaage,Aminath Naseera,F,AXXX115,ދަޑިމަގު ބެންހާގެ,އާމިނަތު ނަޞީރާ
+85,Gn Fuvahmulah,Dhadimagu Benhaage,Abdul Ghanee Mohamed,M,AXXX408,ދަޑިމަގު ބެންހާގެ,ޢަބްދުލްޣަނީ މުޙައްމަދު
+86,Gn Fuvahmulah,Dhadimagu Benhaage,Ahmed Firaz,M,AXXX347,ދަޑިމަގު ބެންހާގެ,އަޙްމަދު ފިރާޒް
+87,Gn Fuvahmulah,Dhadimagu Benhaage,Mohamed Aksam Saeed,M,AXXX024,ދަޑިމަގު ބެންހާގެ,މުޙައްމަދު އަކްސަމް ސަޢީދު
+88,Gn Fuvahmulah,Dhadimagu Beyrefeeshi,Saliha Abdul Gafoor,F,AXXX402,ދަޑިމަގު ބޭރެފީށި,ޞާލިޙާ ޢަބްދުލްޣަފޫރު
+89,Gn Fuvahmulah,Dhadimagu Beyrefeeshi,Hassan Abdul Gafoor,M,AXXX962,ދަޑިމަގު ބޭރެފީށި,ޙަސަން ޢަބްދުލްޣަފޫރު
+90,Gn Fuvahmulah,Dhadimagu Beyrefeeshi,Mohamed Hussain Abdul Gafoor,M,AXXX054,ދަޑިމަގު ބޭރެފީށި,މުޙައްމަދު ޙުސައިން ޢަބްދުލްޣަފޫރު
+91,Gn Fuvahmulah,Dhadimagu Beyrefeeshi,Ali Didi,M,AXXX298,ދަޑިމަގު ބޭރެފީށި,ޢަލީދީދީ
+92,Gn Fuvahmulah,Dhadimagu Beyrefeeshi,Aishath Shabana,F,AXXX059,ދަޑިމަގު ބޭރެފީށި,ޢާއިޝަތު ޝަބާނާ
+93,Gn Fuvahmulah,Dhadimagu Beyrefeeshi,Mohamed Mausim,M,AXXX555,ދަޑިމަގު ބޭރެފީށި,މުޙައްމަދު މައުސިމް
+94,Gn Fuvahmulah,Dhadimagu Beyrefeeshi,Mohamed Sameeu,M,AXXX557,ދަޑިމަގު ބޭރެފީށި,މުޙައްމަދު ސަމީޢު
+95,Gn Fuvahmulah,Dhadimagu Beyrefeeshi,Ahmed Anas,M,AXXX044,ދަޑިމަގު ބޭރެފީށި,އަޙްމަދު އަނަސް
+96,Gn Fuvahmulah,Dhadimagu Bilehdhooge,Mariyath Ahmed,F,AXXX251,ދަޑިމަގު ބިލެއްދޫގެ,މާރިޔަތު އަޙްމަދު
+97,Gn Fuvahmulah,Dhadimagu Bilehdhooge,Ahmed Mohamed Manik,M,AXXX253,ދަޑިމަގު ބިލެއްދޫގެ,އަޙްމަދު މުޙައްމަދުމަނިކު
+98,Gn Fuvahmulah,Dhadimagu Bilehdhooge,Samah Saeed,M,AXXX527,ދަޑިމަގު ބިލެއްދޫގެ,ސަމާޙް ސަޢީދު
+99,Gn Fuvahmulah,Dhadimagu Bilehdhooge,Sausan Saeed,F,AXXX528,ދަޑިމަގު ބިލެއްދޫގެ,ސައުސަން ސަޢީދު
+100,Gn Fuvahmulah,Dhadimagu Binbimaage,Shamsunnisa Mohamed,F,AXXX732,ދަޑިމަގު ބިންބިމާގެ,ޝަމްސުއްނިސާ މުޙައްމަދު
+101,Gn Fuvahmulah,Dhadimagu Binbimaage,Shazna Hussain,F,AXXX372,ދަޑިމަގު ބިންބިމާގެ,ޝަޛުނާ ޙުސައިން
+102,Gn Fuvahmulah,Dhadimagu Binbimaage,Shamsa Hussain Mohamed,F,AXXX298,ދަޑިމަގު ބިންބިމާގެ,ޝަމްސާ ޙުސައިން މުޙައްމަދު
+103,Gn Fuvahmulah,Dhadimagu Bingaa,Abdul Hakeem Mohamed Abdul Rahman,M,AXXX318,ދަޑިމަގު ބިންގާ,ޢަބްދުލްޙަކީމް މުޙައްމަދު ޢަބްދުއްރަޙްމާން
+104,Gn Fuvahmulah,Dhadimagu Bingaa,Mohamed Bassam Abdul Hakeem,M,AXXX122,ދަޑިމަގު ބިންގާ,މުޙައްމަދު ބައްސާމް ޢަބްދުލްޙަކީމް
+105,Gn Fuvahmulah,Dhadimagu Bingaa,Ali Basim Abdul Hakeem,M,AXXX128,ދަޑިމަގު ބިންގާ,ޢަލީ ބާސިމު ޢަބްދުލްޙަކީމް
+106,Gn Fuvahmulah,Dhadimagu Bingaa,Hawwa Rafa Abdul Hakeem,F,AXXX495,ދަޑިމަގު ބިންގާ,ޙައްވާ ރަފާ ޢަބްދުލްޙަކީމް
+107,Gn Fuvahmulah,Dhadimagu Bissaaveli,Shareefa Mohamed,F,AXXX781,ދަޑިމަގު ބިއްސާވެލި,ޝަރީފާ މުޙައްމަދު
+108,Gn Fuvahmulah,Dhadimagu Bissaaveli,Fazna Ali,F,AXXX098,ދަޑިމަގު ބިއްސާވެލި,ފަޛުނާ ޢަލީ
+109,Gn Fuvahmulah,Dhadimagu Bissaaveli,Ali Ahmed Didi,M,AXXX399,ދަޑިމަގު ބިއްސާވެލި,ޢަލީ އަޙްމަދުދީދީ
+110,Gn Fuvahmulah,Dhadimagu Bissaaveli,Fathimath Fakhira Ali,F,AXXX028,ދަޑިމަގު ބިއްސާވެލި,ފާޠިމަތު ފާޚިރާ ޢަލީ
+111,Gn Fuvahmulah,Dhadimagu Bissaaveli,Mohamed Faris,M,AXXX368,ދަޑިމަގު ބިއްސާވެލި,މުޙައްމަދު ފާރިސް
+112,Gn Fuvahmulah,Dhadimagu Bodukekurige,Ahmed Fazeel,M,AXXX473,ދަޑިމަގު ބޮޑުކެކުރިގެ,އަޙްމަދު ފަޟީލް
+113,Gn Fuvahmulah,Dhadimagu Bodukekurige,Fareeha Abdulla,F,AXXX709,ދަޑިމަގު ބޮޑުކެކުރިގެ,ފަރީޙާ ޢަބްދުﷲ
+114,Gn Fuvahmulah,Dhadimagu Comet,Aishath Ahmed,F,AXXX677,ދަޑިމަގު ކޮމެޓް,ޢާއިޝަތު އަޙްމަދު
+115,Gn Fuvahmulah,Dhadimagu Comet,Ahmed Mohamed Didi,M,AXXX523,ދަޑިމަގު ކޮމެޓް,އަޙްމަދު މުޙައްމަދުދީދީ
+116,Gn Fuvahmulah,Dhadimagu Comet,Mohamed Javshan Ahmed,M,AXXX213,ދަޑިމަގު ކޮމެޓް,މުޙައްމަދު ޖަވްޝަން އަޙްމަދު
+117,Gn Fuvahmulah,Dhadimagu Cosy Villa,Ahmed Moosa,M,AXXX317,ދަޑިމަގު ކޯޒީވިލާ,އަޙްމަދު މޫސާ
+118,Gn Fuvahmulah,Dhadimagu Cosy Villa,Ibrahim Ahmed,M,AXXX566,ދަޑިމަގު ކޯޒީވިލާ,އިބްރާހީމް އަޙްމަދު
+119,Gn Fuvahmulah,Dhadimagu Cosy Villa,Ali Ahmed,M,AXXX588,ދަޑިމަގު ކޯޒީވިލާ,ޢަލީ އަޙްމަދު
+120,Gn Fuvahmulah,Dhadimagu Cosy Villa,Hawwa Ibrahim,F,AXXX598,ދަޑިމަގު ކޯޒީވިލާ,ޙައްވާ އިބްރާހީމް
+121,Gn Fuvahmulah,Dhadimagu Cosy Villa,Fathimath Ahmed Didi,F,AXXX601,ދަޑިމަގު ކޯޒީވިލާ,ފާޠިމަތު އަޙްމަދުދީދީ
+122,Gn Fuvahmulah,Dhadimagu Cosy Villa,Aminath Yumna,F,AXXX767,ދަޑިމަގު ކޯޒީވިލާ,އާމިނަތު ޔުމްނާ
+123,Gn Fuvahmulah,Dhadimagu Cosy Villa,Hussain Ahmed,M,AXXX936,ދަޑިމަގު ކޯޒީވިލާ,ޙުސައިން އަޙްމަދު
+124,Gn Fuvahmulah,Dhadimagu Cosy Villa,Aishath Nihana,F,AXXX937,ދަޑިމަގު ކޯޒީވިލާ,ޢާއިޝަތު ނިހާނާ
+125,Gn Fuvahmulah,Dhadimagu Creamge,Latheefa Waheed,F,AXXX681,ދަޑިމަގު ކްރީމްގެ,ލަޠީފާ ވަޙީދު
+126,Gn Fuvahmulah,Dhadimagu Creamge,Nasreena Waheed,F,AXXX626,ދަޑިމަގު ކްރީމްގެ,ނަސްރީނާ ވަޙީދު
+127,Gn Fuvahmulah,Dhadimagu Creamge,Aminath Afsheen Asim,F,AXXX188,ދަޑިމަގު ކްރީމްގެ,އާމިނަތު އަފްޝީން ޢާޞިމް
+128,Gn Fuvahmulah,Dhadimagu Cycus,Khadeeja Waheed,F,AXXX084,ދަޑިމަގު ސައިކަސް,ޚަދީޖާ ވަޙީދު
+129,Gn Fuvahmulah,Dhadimagu Cycus,Aminath Siyaza,F,AXXX939,ދަޑިމަގު ސައިކަސް,އާމިނަތު ސިޔާޒާ
+130,Gn Fuvahmulah,Dhadimagu Daisy,Mohamed Nasheed Ibrahim,M,AXXX670,ދަޑިމަގު ޑޭޒީ,މުޙައްމަދު ނަޝީދު އިބްރާހީމް
+131,Gn Fuvahmulah,Dhadimagu Daisy,Safiyya Rushdee,F,AXXX836,ދަޑިމަގު ޑޭޒީ,ޞަފިއްޔާ ރުޝްދީ
+132,Gn Fuvahmulah,Dhadimagu Daisy,Ahmed Najah Ibrahim,M,AXXX838,ދަޑިމަގު ޑޭޒީ,އަޙްމަދު ނަޖާޙް އިބްރާހީމް
+133,Gn Fuvahmulah,Dhadimagu Daisy,Ibrahim Nafees,M,AXXX464,ދަޑިމަގު ޑޭޒީ,އިބްރާހީމް ނަފީސް
+134,Gn Fuvahmulah,Dhadimagu Daisy,Fathimath Nashda Ibrahim,F,AXXX400,ދަޑިމަގު ޑޭޒީ,ފާޠިމަތު ނަޝްދާ އިބްރާހީމް
+135,Gn Fuvahmulah,Dhadimagu Daisy,Aishath Shaheema,F,AXXX085,ދަޑިމަގު ޑޭޒީ,ޢާއިޝަތު ޝަހީމާ
+136,Gn Fuvahmulah,Dhadimagu Daisy,Mariyam Nazaha Ibrahim,F,AXXX273,ދަޑިމަގު ޑޭޒީ,މަރްޔަމް ނަޒާހާ އިބްރާހީމް
+137,Gn Fuvahmulah,Dhadimagu Daisy,Aishath Najee Ibrahim,F,AXXX656,ދަޑިމަގު ޑޭޒީ,ޢާއިޝަތު ނާޖީ އިބްރާހީމް
+138,Gn Fuvahmulah,Dhadimagu Daisy,Hussain Nashath Ibrahim,M,AXXX659,ދަޑިމަގު ޑޭޒީ,ޙުސައިން ނަޝާޠު އިބްރާހީމް
+139,Gn Fuvahmulah,Dhadimagu Daisy Aage,Aishath Aneesa,F,AXXX873,ދަޑިމަގު ޑޭޒީއާގެ,ޢާއިޝަތު އަނީސާ
+140,Gn Fuvahmulah,Dhadimagu Daisy Aage,Fathimath Solih,F,AXXX876,ދަޑިމަގު ޑޭޒީއާގެ,ފާޠިމަތު ޞާލިޙު
+141,Gn Fuvahmulah,Dhadimagu Daisy Aage,Khadeeja Solih,F,AXXX759,ދަޑިމަގު ޑޭޒީއާގެ,ޚަދީޖާ ޞާލިޙު
+142,Gn Fuvahmulah,Dhadimagu Daisy Aage,Mohamed Sudam Solih,M,AXXX762,ދަޑިމަގު ޑޭޒީއާގެ,މުޙައްމަދު ސުދާމް ޞާލިޙު
+143,Gn Fuvahmulah,Dhadimagu Daisy Aage,Mariyam Solih,F,AXXX763,ދަޑިމަގު ޑޭޒީއާގެ,މަރްޔަމް ޞާލިޙު
+144,Gn Fuvahmulah,Dhadimagu Daisy Aage,Ali Sumah Solih,M,AXXX765,ދަޑިމަގު ޑޭޒީއާގެ,ޢަލީ ސުމާޙް ޞާލިޙު
+145,Gn Fuvahmulah,Dhadimagu Daisy Aage,Abdulla Sumaid Solih,M,AXXX065,ދަޑިމަގު ޑޭޒީއާގެ,ޢަބްދުﷲ ސުމައިދު ޞާލިޙު
+146,Gn Fuvahmulah,Dhadimagu Daisy House,Ibrahim Shaheem,M,AXXX328,ދަޑިމަގު ޑޭޒީހައުސް,އިބްރާހީމް ޝަހީމް
+147,Gn Fuvahmulah,Dhadimagu Daisy House,Fathimath Shazra,F,AXXX592,ދަޑިމަގު ޑޭޒީހައުސް,ފާޠިމަތު ޝަޛުރާ
+148,Gn Fuvahmulah,Dhadimagu Daisy House,Hussain Zaidee,M,AXXX594,ދަޑިމަގު ޑޭޒީހައުސް,ޙުސައިން ޒައިދީ
+149,Gn Fuvahmulah,Dhadimagu Daisy House,Abdulla Ali,M,AXXX748,ދަޑިމަގު ޑޭޒީހައުސް,ޢަބްދުﷲ ޢަލީ
+150,Gn Fuvahmulah,Dhadimagu Daisy House,Ahmed Humaam,M,AXXX410,ދަޑިމަގު ޑޭޒީހައުސް,އަޙްމަދު ހުމާމު
+151,Gn Fuvahmulah,Dhadimagu Daisymaage,Fathimath Faanu,F,AXXX252,ދަޑިމަގު ޑޭޒީމާގެ,ފާޠިމަތުފާނު
+152,Gn Fuvahmulah,Dhadimagu Daisymaage,Ahmed Ibrahim,M,AXXX360,ދަޑިމަގު ޑޭޒީމާގެ,އަޙްމަދު އިބްރާހީމް
+153,Gn Fuvahmulah,Dhadimagu Daisymaage,Aishath Ibrahim,F,AXXX458,ދަޑިމަގު ޑޭޒީމާގެ,ޢާއިޝަތު އިބްރާހީމް
+154,Gn Fuvahmulah,Dhadimagu Daisymaage,Ibrahim Didi,M,AXXX016,ދަޑިމަގު ޑޭޒީމާގެ,އިބްރާހީމްދީދީ
+155,Gn Fuvahmulah,Dhadimagu Daisymaage,Aminath Joona Zareer,F,AXXX936,ދަޑިމަގު ޑޭޒީމާގެ,އާމިނަތު ޖޫނާ ޒަރީރު
+156,Gn Fuvahmulah,Dhadimagu Daisymaage,Mohamed Yooh Zareer,M,AXXX768,ދަޑިމަގު ޑޭޒީމާގެ,މުޙައްމަދު ޔޫޙު ޒަރީރު
+157,Gn Fuvahmulah,Dhadimagu Dhadimaguge,Ahmed Abdul Rahman,M,AXXX116,ދަޑިމަގު ދަޑިމަގުގެ,އަޙްމަދު ޢަބްދުއްރަޙްމާން
+158,Gn Fuvahmulah,Dhadimagu Dhadimaguge,Hussain Basheer Ahmed,M,AXXX403,ދަޑިމަގު ދަޑިމަގުގެ,ޙުސައިން ބަޝީރު އަޙްމަދު
+159,Gn Fuvahmulah,Dhadimagu Dhadimaguge,Mohamed Abdul Rahman,M,AXXX805,ދަޑިމަގު ދަޑިމަގުގެ,މުޙައްމަދު ޢަބްދުއްރަޙްމާން
+160,Gn Fuvahmulah,Dhadimagu Dhadimaguge,Mariyam Inayaa Ahmed,F,AXXX046,ދަޑިމަގު ދަޑިމަގުގެ,މަރްޔަމް އިނާޔާ އަޙްމަދު
+161,Gn Fuvahmulah,Dhadimagu Dhadimaguge,Aminath Rooya Mohamed,F,AXXX213,ދަޑިމަގު ދަޑިމަގުގެ,އާމިނަތު ރޫޔާ މުޙައްމަދު
+162,Gn Fuvahmulah,Dhadimagu Dhadimaguge,Aminath Maya Hussain Basheer,F,AXXX741,ދަޑިމަގު ދަޑިމަގުގެ,އާމިނަތު މާޔާ ޙުސައިން ބަޝީރު
+163,Gn Fuvahmulah,Dhadimagu Dhadofeeshi,Asifa Abdul Majeed,F,AXXX362,ދަޑިމަގު ދަޑޮފީށި,ޢާޞިފާ ޢަބްދުލްމަޖީދު
+164,Gn Fuvahmulah,Dhadimagu Dhadofeeshi,Ahmed Nasih,M,AXXX363,ދަޑިމަގު ދަޑޮފީށި,އަޙްމަދު ނާޞިޙް
+165,Gn Fuvahmulah,Dhadimagu Dhadofeeshi,Shamila Abdul Majeed,F,AXXX570,ދަޑިމަގު ދަޑޮފީށި,ޝާމިލާ ޢަބްދުލްމަޖީދު
+166,Gn Fuvahmulah,Dhadimagu Dhadofeeshi,Hawwa Rasheeda,F,AXXX631,ދަޑިމަގު ދަޑޮފީށި,ޙައްވާ ރަޝީދާ
+167,Gn Fuvahmulah,Dhadimagu Dhadofeeshi,Mohamed Nazeer,M,AXXX218,ދަޑިމަގު ދަޑޮފީށި,މުޙައްމަދު ނަޛީރު
+168,Gn Fuvahmulah,Dhadimagu Dhadofeeshi,Asim Abdul Majeed,M,AXXX641,ދަޑިމަގު ދަޑޮފީށި,ޢާޞިމް ޢަބްދުލްމަޖީދު
+169,Gn Fuvahmulah,Dhadimagu Dhadofeeshi,Ismail Sabeeh,M,AXXX255,ދަޑިމަގު ދަޑޮފީށި,އިސްމާޢީލް ޞަބީޙް
+170,Gn Fuvahmulah,Dhadimagu Dhadofeeshi,Mohamed Yathoof Gasim,M,AXXX956,ދަޑިމަގު ދަޑޮފީށި,މުޙައްމަދު ޔަޠޫފް ޤާސިމް
+171,Gn Fuvahmulah,Dhadimagu Dhaharaage,Aishath Salma,F,AXXX424,ދަޑިމަގު ދަހަރާގެ,ޢާއިޝަތު ސަލްމާ
+172,Gn Fuvahmulah,Dhadimagu Dhaharaage,Ali Shameem,M,AXXX693,ދަޑިމަގު ދަހަރާގެ,ޢަލީ ޝަމީމް
+173,Gn Fuvahmulah,Dhadimagu Dhaharaage,Asma Mohamed,F,AXXX731,ދަޑިމަގު ދަހަރާގެ,އަސްމާ މުޙައްމަދު
+174,Gn Fuvahmulah,Dhadimagu Dhaharaage,Mohamed Ahmed,M,AXXX441,ދަޑިމަގު ދަހަރާގެ,މުޙައްމަދު އަޙްމަދު
+175,Gn Fuvahmulah,Dhadimagu Dhaharaage,Aminath Ali,F,AXXX443,ދަޑިމަގު ދަހަރާގެ,އާމިނަތު ޢަލީ
+176,Gn Fuvahmulah,Dhadimagu Dhaharaage,Yasha Ibrahim,F,AXXX056,ދަޑިމަގު ދަހަރާގެ,ޔާޝާ އިބްރާހީމް
+177,Gn Fuvahmulah,Dhadimagu Dhanbumaage,Azra Ali,F,AXXX721,ދަޑިމަގު ދަނބުމާގެ,ޢަޛްރާ ޢަލީ
+178,Gn Fuvahmulah,Dhadimagu Dhanbumaage,Faheema Ali Didi,F,AXXX723,ދަޑިމަގު ދަނބުމާގެ,ފަހީމާ ޢަލީދީދީ
+179,Gn Fuvahmulah,Dhadimagu Dhanbumaage,Ali Ahmed,M,AXXX856,ދަޑިމަގު ދަނބުމާގެ,ޢަލީ އަޙްމަދު
+180,Gn Fuvahmulah,Dhadimagu Dhanbumaage,Khadeeja Ali,F,AXXX138,ދަޑިމަގު ދަނބުމާގެ,ޚަދީޖާ ޢަލީ
+181,Gn Fuvahmulah,Dhadimagu Dhanbumaage,Mohamed Nizam Ali,M,AXXX268,ދަޑިމަގު ދަނބުމާގެ,މުޙައްމަދު ނިޡާމް ޢަލީ
+182,Gn Fuvahmulah,Dhadimagu Dhanburuhmaage,Khadeeja Mohamed,F,AXXX633,ދަޑިމަގު ދަނބުރުއްމާގެ,ޚަދީޖާ މުޙައްމަދު
+183,Gn Fuvahmulah,Dhadimagu Dhanburuhmaage,Hafsa Ahmed,F,AXXX635,ދަޑިމަގު ދަނބުރުއްމާގެ,ޙަފްޞާ އަޙްމަދު
+184,Gn Fuvahmulah,Dhadimagu Dhanburuhmaage,Mohamed Ahmed,M,AXXX819,ދަޑިމަގު ދަނބުރުއްމާގެ,މުޙައްމަދު އަޙްމަދު
+185,Gn Fuvahmulah,Dhadimagu Dhanburuhmaage,Agsa Ahmed,F,AXXX268,ދަޑިމަގު ދަނބުރުއްމާގެ,އަޤްޞާ އަޙްމަދު
+186,Gn Fuvahmulah,Dhadimagu Dhanburuhmaage,Aminath Maisu Ahmed,F,AXXX085,ދަޑިމަގު ދަނބުރުއްމާގެ,އާމިނަތު މައިސު އަޙްމަދު
+187,Gn Fuvahmulah,Dhadimagu Dhanburuhmaage,Mohamed Bassam,M,AXXX086,ދަޑިމަގު ދަނބުރުއްމާގެ,މުޙައްމަދު ބައްސާމު
+188,Gn Fuvahmulah,Dhadimagu Dheeframge,Ahmed Mohamed,M,AXXX583,ދަޑިމަގު ދީފްރަމްގެ,އަޙްމަދު މުޙައްމަދު
+189,Gn Fuvahmulah,Dhadimagu Dheeframge,Fathmath Saruwary,F,AXXX794,ދަޑިމަގު ދީފްރަމްގެ,ފާޠިމަތު ސަރުވަރީ
+190,Gn Fuvahmulah,Dhadimagu Dheeframge,Mariyam Ahmed,F,AXXX894,ދަޑިމަގު ދީފްރަމްގެ,މަރްޔަމް އަޙްމަދު
+191,Gn Fuvahmulah,Dhadimagu Dheeframge,Hussain Ahmed,M,AXXX936,ދަޑިމަގު ދީފްރަމްގެ,ޙުސައިން އަޙްމަދު
+192,Gn Fuvahmulah,Dhadimagu Dhon Bageechaage,Ali Didi,M,AXXX493,ދަޑިމަގު ދޮންބަގީޗާގެ,ޢަލީދީދީ
+193,Gn Fuvahmulah,Dhadimagu Dhon Bageechaage,Mohamed Ali,M,AXXX548,ދަޑިމަގު ދޮންބަގީޗާގެ,މުޙައްމަދު ޢަލީ
+194,Gn Fuvahmulah,Dhadimagu Dhon Bageechaage,Mahroos Mohamed Ali,M,AXXX930,ދަޑިމަގު ދޮންބަގީޗާގެ,މަޙްރޫސް މުޙައްމަދު ޢަލީ
+195,Gn Fuvahmulah,Dhadimagu Dhonveli,Nihad Rafeeq,M,AXXX696,ދަޑިމަގު ދޮންވެލި,ނިހާދު ރަފީޤު
+196,Gn Fuvahmulah,Dhadimagu Dhonveli,Ridha Nihad Rafeeq,F,AXXX815,ދަޑިމަގު ދޮންވެލި,ރިދާ ނިހާދު ރަފީޤު
+197,Gn Fuvahmulah,Dhadimagu Dhoores,Ali Shaah,M,AXXX277,ދަޑިމަގު ދޫރެސް,ޢަލީ ޝާހް
+198,Gn Fuvahmulah,Dhadimagu Dhoores,Nasih Mohamed,M,AXXX440,ދަޑިމަގު ދޫރެސް,ނާޞިޙް މުޙައްމަދު
+199,Gn Fuvahmulah,Dhadimagu Dhoores,Mohamed Hussain Didi,M,AXXX441,ދަޑިމަގު ދޫރެސް,މުޙައްމަދު ޙުސައިންދީދީ
+200,Gn Fuvahmulah,Dhadimagu Dream Girl,Mohamed Habeeb,M,AXXX734,ދަޑިމަގު ޑްރީމްގާރލް,މުޙައްމަދު ޙަބީބު
+201,Gn Fuvahmulah,Dhadimagu Dream Girl,Hassan Shifaz,M,AXXX736,ދަޑިމަގު ޑްރީމްގާރލް,ޙަސަން ޝިފާޒު
+202,Gn Fuvahmulah,Dhadimagu Ethumaage,Ali Shareef,M,AXXX481,ދަޑިމަގު އެތުމާގެ,ޢަލީ ޝަރީފް
+203,Gn Fuvahmulah,Dhadimagu Ethumaage,Fazeel Abdulla,M,AXXX488,ދަޑިމަގު އެތުމާގެ,ފަޟީލް ޢަބްދުﷲ
+204,Gn Fuvahmulah,Dhadimagu Ethumaage,Ibrahim Shareef,M,AXXX509,ދަޑިމަގު އެތުމާގެ,އިބްރާހީމް ޝަރީފް
+205,Gn Fuvahmulah,Dhadimagu Ethumaage,Jameela Hussain,F,AXXX513,ދަޑިމަގު އެތުމާގެ,ޖަމީލާ ޙުސައިން
+206,Gn Fuvahmulah,Dhadimagu Ethumaage,Sharyfa Abdulla,F,AXXX576,ދަޑިމަގު އެތުމާގެ,ޝަރީފާ ޢަބްދުﷲ
+207,Gn Fuvahmulah,Dhadimagu Ethumaage,Mohamed Saaid,M,AXXX782,ދަޑިމަގު އެތުމާގެ,މުޙައްމަދު ސާޢިދު
+208,Gn Fuvahmulah,Dhadimagu Ethumaage,Ali Afsah,M,AXXX600,ދަޑިމަގު އެތުމާގެ,ޢަލީ އަފްޞަޙް
+209,Gn Fuvahmulah,Dhadimagu Ethumaage,Abdulla Niyaz,M,AXXX961,ދަޑިމަގު އެތުމާގެ,ޢަބްދުﷲ ނިޔާޒު
+210,Gn Fuvahmulah,Dhadimagu Ethumaage,Mohamed Ruvaidh Ali,M,AXXX982,ދަޑިމަގު އެތުމާގެ,މުޙައްމަދު ރުވައިދު ޢަލީ
+211,Gn Fuvahmulah,Dhadimagu Ethumaage,Fathimath Anaa Ali,F,AXXX684,ދަޑިމަގު އެތުމާގެ,ފާޠިމަތު އަނާ ޢަލީ
+212,Gn Fuvahmulah,Dhadimagu Ethumaage,Janaan Mohamed Shathir,F,AXXX026,ދަޑިމަގު އެތުމާގެ,ޖަނާން މުޙައްމަދު ޝާޠިރު
+213,Gn Fuvahmulah,Dhadimagu Faanaadige,Nashida Abdul Kareem,F,AXXX519,ދަޑިމަގު ފާނާޑިގެ,ނާޝިދާ ޢަބްދުލްކަރީމް
+214,Gn Fuvahmulah,Dhadimagu Faanaadige,Ibrahim Abdul Kareem,M,AXXX335,ދަޑިމަގު ފާނާޑިގެ,އިބްރާހީމް ޢަބްދުލްކަރީމް
+215,Gn Fuvahmulah,Dhadimagu Faanaadige,Ahmed Nihan Abdul Kareem,M,AXXX794,ދަޑިމަގު ފާނާޑިގެ,އަޙްމަދު ނިހާން ޢަބްދުލްކަރީމް
+216,Gn Fuvahmulah,Dhadimagu Faanaadige,Abdul Kareem,M,AXXX505,ދަޑިމަގު ފާނާޑިގެ,ޢަބްދުލްކަރީމް
+217,Gn Fuvahmulah,Dhadimagu Faanaadige,Aminath Ismail,F,AXXX507,ދަޑިމަގު ފާނާޑިގެ,އާމިނަތު އިސްމާޢީލް
+218,Gn Fuvahmulah,Dhadimagu Faanaadige,Aalif Mohamed Shamil,M,AXXX524,ދަޑިމަގު ފާނާޑިގެ,އާލިފް މުޙައްމަދު ޝާމިލް
+219,Gn Fuvahmulah,Dhadimagu Faanaadige,Mohamed Hisan,M,AXXX037,ދަޑިމަގު ފާނާޑިގެ,މުޙައްމަދު ޙިސާން
+220,Gn Fuvahmulah,Dhadimagu Fahaage,Aishath Shaheeda Ibrahim,F,AXXX400,ދަޑިމަގު ފަހާގެ,ޢާއިޝަތު ޝަހީދާ އިބްރާހީމް
+221,Gn Fuvahmulah,Dhadimagu Fahaage,Fathmath Shazfa Ibrahim,F,AXXX539,ދަޑިމަގު ފަހާގެ,ފާޠިމަތު ޝަޒްފާ އިބްރާހީމް
+222,Gn Fuvahmulah,Dhadimagu Fahaage,Khadeeja Mohamed Didi,F,AXXX107,ދަޑިމަގު ފަހާގެ,ޚަދީޖާ މުޙައްމަދުދީދީ
+223,Gn Fuvahmulah,Dhadimagu Fahivaa,Nazima Hassan Didi,F,AXXX861,ދަޑިމަގު ފަހިވާ,ނާޡިމާ ޙަސަންދީދީ
+224,Gn Fuvahmulah,Dhadimagu Fahivaa,Aminath Lana Ibrahim,F,AXXX503,ދަޑިމަގު ފަހިވާ,އާމިނަތު ލަނާ އިބްރާހީމް
+225,Gn Fuvahmulah,Dhadimagu Falak,Fathimath Hassan,F,AXXX746,ދަޑިމަގު ފަލަކު,ފާޠިމަތު ޙަސަން
+226,Gn Fuvahmulah,Dhadimagu Falak,Ahmed Abdulla,M,AXXX656,ދަޑިމަގު ފަލަކު,އަޙްމަދު ޢަބްދުﷲ
+227,Gn Fuvahmulah,Dhadimagu Falak,Kiram Ahmed,M,AXXX945,ދަޑިމަގު ފަލަކު,ކިރަމް އަޙްމަދު
+228,Gn Fuvahmulah,Dhadimagu Falak,Ikraam Ahmed,M,AXXX089,ދަޑިމަގު ފަލަކު,އިކްރާމް އަޙްމަދު
+229,Gn Fuvahmulah,Dhadimagu Falak,Karam Ahmed,M,AXXX600,ދަޑިމަގު ފަލަކު,ކަރަމް އަޙްމަދު
+230,Gn Fuvahmulah,Dhadimagu Fanthi,Khadeeja Salma,F,AXXX695,ދަޑިމަގު ފަންތި,ޚަދީޖާ ސަލްމާ
+231,Gn Fuvahmulah,Dhadimagu Fanthi,Ali Shameem Hassan,M,AXXX480,ދަޑިމަގު ފަންތި,ޢަލީ ޝަމީމް ޙަސަން
+232,Gn Fuvahmulah,Dhadimagu Fanthi,Aminath Juvaina Shameem,F,AXXX114,ދަޑިމަގު ފަންތި,އާމިނަތު ޖުވައިނާ ޝަމީމް
+233,Gn Fuvahmulah,Dhadimagu Fashan,Ibrahim Naseer,M,AXXX692,ދަޑިމަގު ފަށަން,އިބްރާހީމް ނަޞީރު
+234,Gn Fuvahmulah,Dhadimagu Fashan,Zoona Ibrahim,F,AXXX747,ދަޑިމަގު ފަށަން,ޒޫނާ އިބްރާހީމް
+235,Gn Fuvahmulah,Dhadimagu Fashan,Fathimath Raniya Ibrahim,F,AXXX028,ދަޑިމަގު ފަށަން,ފާޠިމަތު ރާނިޔާ އިބްރާހީމް
+236,Gn Fuvahmulah,Dhadimagu Fasmeeru,Ali Nafiz,M,AXXX327,ދަޑިމަގު ފަސްމީރު,ޢަލީ ނާފިޛު
+237,Gn Fuvahmulah,Dhadimagu Fasmeeru,Saadhin Ali Nafiz,M,AXXX093,ދަޑިމަގު ފަސްމީރު,ސާދިން ޢަލީ ނާފިޛު
+238,Gn Fuvahmulah,Dhadimagu Fassia,Manha Mohamed Ali,F,AXXX920,ދަޑިމަގު ފައްސިއަ,މަންހާ މުޙައްމަދު ޢަލީ
+239,Gn Fuvahmulah,Dhadimagu Fathis,Nasreena Mohamed,F,AXXX618,ދަޑިމަގު ފަތިސް,ނަސްރީނާ މުޙައްމަދު
+240,Gn Fuvahmulah,Dhadimagu Fathis,Fathmath Ali Didi,F,AXXX788,ދަޑިމަގު ފަތިސް,ފާޠިމަތު ޢަލީދީދީ
+241,Gn Fuvahmulah,Dhadimagu Fathis,Naheed Mohamed,M,AXXX791,ދަޑިމަގު ފަތިސް,ނަހީދު މުޙައްމަދު
+242,Gn Fuvahmulah,Dhadimagu Fathis,Mariyam Sithaara,F,AXXX810,ދަޑިމަގު ފަތިސް,މަރްޔަމް ސިތާރާ
+243,Gn Fuvahmulah,Dhadimagu Fathis,Nilna Mohamed,F,AXXX905,ދަޑިމަގު ފަތިސް,ނިލްނާ މުޙައްމަދު
+244,Gn Fuvahmulah,Dhadimagu Fathis,Nashia Mohamed,F,AXXX907,ދަޑިމަގު ފަތިސް,ނާޝިއާ މުޙައްމަދު
+245,Gn Fuvahmulah,Dhadimagu Fathis,Naahee Mohamed,M,AXXX921,ދަޑިމަގު ފަތިސް,ނާހީ މުޙައްމަދު
+246,Gn Fuvahmulah,Dhadimagu Fathis,Mohamed Naajim Naheed,M,AXXX818,ދަޑިމަގު ފަތިސް,މުޙައްމަދު ނާޖިމް ނަހީދު
+247,Gn Fuvahmulah,Dhadimagu Fehikokaa,Aishath Ibrahim,F,AXXX673,ދަޑިމަގު ފެހިކޮކާ,ޢާއިޝަތު އިބްރާހީމް
+248,Gn Fuvahmulah,Dhadimagu Fia,Mohamed Suwad,M,AXXX615,ދަޑިމަގު ފިއަ,މުޙައްމަދު ސުވާދު
+249,Gn Fuvahmulah,Dhadimagu Fia,Hassan Samau,M,AXXX617,ދަޑިމަގު ފިއަ,ޙަސަން ސަމާއު
+250,Gn Fuvahmulah,Dhadimagu Fiares,Hassan Atheeq,M,AXXX056,ދަޑިމަގު ފިއަރެސް,ޙަސަން ޢަޠީޤު
+251,Gn Fuvahmulah,Dhadimagu Fiares,Ismail Aleef Ahmed,M,AXXX132,ދަޑިމަގު ފިއަރެސް,އިސްމާޢީލް ޢަލީފް އަޙްމަދު
+252,Gn Fuvahmulah,Dhadimagu Fiares,Ibrahim Raeef,M,AXXX619,ދަޑިމަގު ފިއަރެސް,އިބްރާހީމް ރައީފް
+253,Gn Fuvahmulah,Dhadimagu Finihiyaage,Aminath Hussain Didi,F,AXXX284,ދަޑިމަގު ފިނިހިޔާގެ,އާމިނަތު ޙުސައިންދީދީ
+254,Gn Fuvahmulah,Dhadimagu Finihiyaage,Hawwa Agisa Sodig,F,AXXX285,ދަޑިމަގު ފިނިހިޔާގެ,ޙައްވާ ޢާޤިޞާ ޞާދިޤު
+255,Gn Fuvahmulah,Dhadimagu Finihiyaage,Mohamed Saadig,M,AXXX316,ދަޑިމަގު ފިނިހިޔާގެ,މުޙައްމަދު ޞާދިޤު
+256,Gn Fuvahmulah,Dhadimagu Finihiyaage,Ibrahim Aqis Mohamed,M,AXXX482,ދަޑިމަގު ފިނިހިޔާގެ,އިބްރާހީމް ޢާޤިޞް މުޙައްމަދު
+257,Gn Fuvahmulah,Dhadimagu Finihiyaage,Abdulla Haneef,M,AXXX487,ދަޑިމަގު ފިނިހިޔާގެ,ޢަބްދުﷲ ޙަނީފް
+258,Gn Fuvahmulah,Dhadimagu Finihiyaage,Khadeeja Ameeza,F,AXXX504,ދަޑިމަގު ފިނިހިޔާގެ,ޚަދީޖާ އަމީޒާ
+259,Gn Fuvahmulah,Dhadimagu Finihiyaage,Azeema Sadiq,F,AXXX396,ދަޑިމަގު ފިނިހިޔާގެ,ޢަޒީމާ ޞާދިޤު
+260,Gn Fuvahmulah,Dhadimagu Finihiyaage,Ibrahim Rai Shafiq,M,AXXX979,ދަޑިމަގު ފިނިހިޔާގެ,އިބްރާހީމް ރާޢީ ޝާފިޤު
+261,Gn Fuvahmulah,Dhadimagu Finivaage,Mohamed Saeed,M,AXXX357,ދަޑިމަގު ފިނިވާގެ,މުޙައްމަދު ސަޢީދު
+262,Gn Fuvahmulah,Dhadimagu Finivaage,Nazeeh Mohamed Saeed,M,AXXX480,ދަޑިމަގު ފިނިވާގެ,ނަޒީހް މުޙައްމަދު ސަޢީދު
+263,Gn Fuvahmulah,Dhadimagu Finivaage,Nazeeu Mohamed Saeed,M,AXXX931,ދަޑިމަގު ފިނިވާގެ,ނަޒީޢު މުޙައްމަދު ސަޢީދު
+264,Gn Fuvahmulah,Dhadimagu Finivaage,Nishya Mohamed Saeed,F,AXXX149,ދަޑިމަގު ފިނިވާގެ,ނިޝްޔާ މުޙައްމަދު ސަޢީދު
+265,Gn Fuvahmulah,Dhadimagu Finiveli,Hussain Rafeeq,M,AXXX533,ދަޑިމަގު ފިނިވެލި,ޙުސައިން ރަފީޤު
+266,Gn Fuvahmulah,Dhadimagu Finiveli,Shaneez Abdul Ghafoor,F,AXXX585,ދަޑިމަގު ފިނިވެލި,ޝާނީޒް ޢަބްދުލްޣަފޫރު
+267,Gn Fuvahmulah,Dhadimagu Finiveli,Humaid Hussain Rafeeq,M,AXXX985,ދަޑިމަގު ފިނިވެލި,ޙުމައިދު ޙުސައިން ރަފީޤު
+268,Gn Fuvahmulah,Dhadimagu Finiveli,Minu Hussain Rafeeq,F,AXXX136,ދަޑިމަގު ފިނިވެލި,މިނޫ ޙުސައިން ރަފީޤް
+269,Gn Fuvahmulah,Dhadimagu Fiyaamaage,Hafsa Ali,F,AXXX619,ދަޑިމަގު ފިޔާމާގެ,ޙަފްޞާ ޢަލީ
+270,Gn Fuvahmulah,Dhadimagu Fiyaamaage,Fathimath Afaaf,F,AXXX254,ދަޑިމަގު ފިޔާމާގެ,ފާޠިމަތު ޢަފާފް
+271,Gn Fuvahmulah,Dhadimagu Fiyaamaage,Aminath Mufliha,F,AXXX695,ދަޑިމަގު ފިޔާމާގެ,އާމިނަތު މުފުލިޙާ
+272,Gn Fuvahmulah,Dhadimagu Fiyaamaage,Mohamed Aneeg Ali,M,AXXX697,ދަޑިމަގު ފިޔާމާގެ,މުހައްމަދު އަނީޤް ޢަލީ
+273,Gn Fuvahmulah,Dhadimagu Fiyaamaage,Jannath Ali,F,AXXX816,ދަޑިމަގު ފިޔާމާގެ,ޖަންނަތު ޢަލީ
+274,Gn Fuvahmulah,Dhadimagu Fiyaamaage,Hussain Ali,M,AXXX263,ދަޑިމަގު ފިޔާމާގެ,ޙުސައިން ޢަލީ
+275,Gn Fuvahmulah,Dhadimagu Fiyaamaage,Asma Ali,F,AXXX513,ދަޑިމަގު ފިޔާމާގެ,އަސްމާ ޢަލީ
+276,Gn Fuvahmulah,Dhadimagu Fiyanoomaage,Ahmed Nafees,M,AXXX812,ދަޑިމަގު ފިޔަނޫމާގެ,އަޙްމަދު ނަފީސް
+277,Gn Fuvahmulah,Dhadimagu Fiyanoomaage,Samahath Ibrahim Didi,F,AXXX964,ދަޑިމަގު ފިޔަނޫމާގެ,ސަމާޙަތު އިބްރާހީމްދީދީ
+278,Gn Fuvahmulah,Dhadimagu Flash,Aishath Sadig,F,AXXX866,ދަޑިމަގު ފްލޭޝް,ޢާއިޝަތު ޞާދިޤު
+279,Gn Fuvahmulah,Dhadimagu Flash,Ahmed Farish,M,AXXX277,ދަޑިމަގު ފްލޭޝް,އަޙްމަދު ފާރިޝް
+280,Gn Fuvahmulah,Dhadimagu Flash,Fathimath Risha,F,AXXX265,ދަޑިމަގު ފްލޭޝް,ފާޠިމަތު ރިޝާ
+281,Gn Fuvahmulah,Dhadimagu Flash,Aivan Mohamed Zahir,M,AXXX458,ދަޑިމަގު ފްލޭޝް,އައިވަން މުޙައްމަދު ޒާހިރު
+282,Gn Fuvahmulah,Dhadimagu Flash,Aiman Mohamed Zahir,M,AXXX230,ދަޑިމަގު ފްލޭޝް,އައިމަން މުޙައްމަދު ޒާހިިރު
+283,Gn Fuvahmulah,Dhadimagu Freeze,Mohamed Evan Ramiz,M,AXXX964,ދަޑިމަގު ފްރީޒް,މުޙައްމަދު އީވަން ރާމިޒު
+284,Gn Fuvahmulah,Dhadimagu Futtaru,Suneela Saeed,F,AXXX584,ދަޑިމަގު ފުއްޓަރު,ސުނީލާ ސަޢީދު
+285,Gn Fuvahmulah,Dhadimagu Futtaru,Aishath Nafeesa,F,AXXX826,ދަޑިމަގު ފުއްޓަރު,ޢާއިޝަތު ނަފީސާ
+286,Gn Fuvahmulah,Dhadimagu Futtaru,Mohamed Saeed Abdulla,M,AXXX864,ދަޑިމަގު ފުއްޓަރު,މުޙައްމަދު ސަޢީދު ޢަބްދުﷲ
+287,Gn Fuvahmulah,Dhadimagu Futtaru,Shuhma Saeed,F,AXXX981,ދަޑިމަގު ފުއްޓަރު,ޝުހުމާ ސަޢީދު
+288,Gn Fuvahmulah,Dhadimagu Futtaru,Ibrahim Saamidh Saeed,M,AXXX983,ދަޑިމަގު ފުއްޓަރު,އިބްރާހީމް ޞާމިދު ސަޢީދު
+289,Gn Fuvahmulah,Dhadimagu Futtaru,Ali Saail Saeed,M,AXXX084,ދަޑިމަގު ފުއްޓަރު,ޢަލީ ސާއިލު ސަޢީދު
+290,Gn Fuvahmulah,Dhadimagu Futtaru,Mohamed Aadin Moosa Latheef,M,AXXX192,ދަޑިމަގު ފުއްޓަރު,މުޙައްމަދު ޢާދިން މޫސާ ލަޠީފް
+291,Gn Fuvahmulah,Dhadimagu Galadhunge,Mariyam Abdul Rahman,F,AXXX365,ދަޑިމަގު ގަލަދުންގެ,މަރްޔަމް ޢަބްދުއްރަޙްމާން
+292,Gn Fuvahmulah,Dhadimagu Galadhunge,Saaila Ahmed,F,AXXX605,ދަޑިމަގު ގަލަދުންގެ,ސާއިލާ އަޙްމަދު
+293,Gn Fuvahmulah,Dhadimagu Galadhunge,Ahmed Ali,M,AXXX606,ދަޑިމަގު ގަލަދުންގެ,އަޙްމަދު ޢަލީ
+294,Gn Fuvahmulah,Dhadimagu Galadhunge,Fazeela Ahmed,F,AXXX638,ދަޑިމަގު ގަލަދުންގެ,ފަޟީލާ އަޙްމަދު
+295,Gn Fuvahmulah,Dhadimagu Galadhunge,Sheela Ahmed,F,AXXX121,ދަޑިމަގު ގަލަދުންގެ,ޝީލާ އަޙްމަދު
+296,Gn Fuvahmulah,Dhadimagu Galadhunge,Mohamed Anoof Fahumy,M,AXXX004,ދަޑިމަގު ގަލަދުންގެ,މުޙައްމަދު އަނޫފް ފަހުމީ
+297,Gn Fuvahmulah,Dhadimagu Garden Gate,Ibrahim Didi,M,AXXX834,ދަޑިމަގު ގާރޑަންގޭޓް,އިބްރާހީމްދީދީ
+298,Gn Fuvahmulah,Dhadimagu Garden Gate,Hawwa Habeeba,F,AXXX859,ދަޑިމަގު ގާރޑަންގޭޓް,ޙައްވާ ޙަބީބާ
+299,Gn Fuvahmulah,Dhadimagu Garden Gate,Fathimath Shiuna,F,AXXX171,ދަޑިމަގު ގާރޑަންގޭޓް,ފާޠިމަތު ޝިއުނާ
+300,Gn Fuvahmulah,Dhadimagu Garden Gate,Aminath Shamla,F,AXXX172,ދަޑިމަގު ގާރޑަންގޭޓް,އާމިނަތު ޝަމްލާ
+301,Gn Fuvahmulah,Dhadimagu Garden Gate,Ali Hunaidh Ibrahim,M,AXXX090,ދަޑިމަގު ގާރޑަންގޭޓް,ޢަލީ ހުނައިދު އިބްރާހީމް
+302,Gn Fuvahmulah,Dhadimagu Garden Gate,Hussain Hoodh Ibrahim,M,AXXX675,ދަޑިމަގު ގާރޑަންގޭޓް,ޙުސައިން ހޫދު އިބްރާހީމް
+303,Gn Fuvahmulah,Dhadimagu Garden Gate,Ahmed Hannaad Ibrahim,M,AXXX686,ދަޑިމަގު ގާރޑަންގޭޓް,އަޙްމަދު ހަންނާދު އިބްރާހީމް
+304,Gn Fuvahmulah,Dhadimagu Garden Grove,Abdulla Mohamed,M,AXXX656,ދަޑިމަގު ގާޑެންގްރޯވ,ޢަބްދުﷲ މުޙައްމަދު
+305,Gn Fuvahmulah,Dhadimagu Garden Grove,Nasiyath Abdulla,F,AXXX511,ދަޑިމަގު ގާޑެންގްރޯވ,ނާޞިޔަތު ޢަބްދުﷲ
+306,Gn Fuvahmulah,Dhadimagu Garden House,Hassan Saeed,M,AXXX411,ދަޑިމަގު ގާރޑެންހައުސް,ޙަސަން ސަޢީދު
+307,Gn Fuvahmulah,Dhadimagu Garden House,Anwaree Mohamed,F,AXXX416,ދަޑިމަގު ގާރޑެންހައުސް,އަންވަރީ މުޙައްމަދު
+308,Gn Fuvahmulah,Dhadimagu Garden House,Ali Haisam,M,AXXX679,ދަޑިމަގު ގާރޑެންހައުސް,ޢަލީ ހައިޘަމް
+309,Gn Fuvahmulah,Dhadimagu Gardeniya,Shathira Saeed,F,AXXX875,ދަޑިމަގު ގާރޑެނިޔާ,ޝާޠިރާ ސަޢީދު
+310,Gn Fuvahmulah,Dhadimagu Gardeniya,Aminath Hilmy,F,AXXX888,ދަޑިމަގު ގާރޑެނިޔާ,އާމިނަތު ޙިލްމީ
+311,Gn Fuvahmulah,Dhadimagu Gardeniya,Hussain Nabeeh,M,AXXX258,ދަޑިމަގު ގާރޑެނިޔާ,ޙުސައިން ނަބީހް
+312,Gn Fuvahmulah,Dhadimagu Gazeeraage,Mamdhooha Waheed,F,AXXX364,ދަޑިމަގު ގަޒީރާގެ,މަމްދޫޙާ ވަޙީދު
+313,Gn Fuvahmulah,Dhadimagu Gazeeraage,Aishath Ahmed Didi,F,AXXX602,ދަޑިމަގު ގަޒީރާގެ,ޢާއިޝަތު އަޙްމަދުދީދީ
+314,Gn Fuvahmulah,Dhadimagu Gazeeraage,Ahmed Wijan,M,AXXX877,ދަޑިމަގު ގަޒީރާގެ,އަޙްމަދު ވިޖާނު
+315,Gn Fuvahmulah,Dhadimagu Gazeeraage,Jeena Waheed,F,AXXX009,ދަޑިމަގު ގަޒީރާގެ,ޖީނާ ވަޙީދު
+316,Gn Fuvahmulah,Dhadimagu Gedhamaage,Mariyam Rasheeda,F,AXXX981,ދަޑިމަގު ގެދަމާގެ,މަރްޔަމް ރަޝީދާ
+317,Gn Fuvahmulah,Dhadimagu Gedhamaage,Aishath Fazla,F,AXXX661,ދަޑިމަގު ގެދަމާގެ,ޢާއިޝަތު ފަޛުލާ
+318,Gn Fuvahmulah,Dhadimagu Gedhamaage,Adam Farish,M,AXXX100,ދަޑިމަގު ގެދަމާގެ,އާދަމް ފާރިޝް
+319,Gn Fuvahmulah,Dhadimagu Gedhamaage,Aminath Fazeela,F,AXXX103,ދަޑިމަގު ގެދަމާގެ,އާމިނަތު ފަޟީލާ
+320,Gn Fuvahmulah,Dhadimagu Gera,Mohamed Akram,M,AXXX657,ދަޑިމަގު ގެރަ,މުޙައްމަދު އަކްރަމް
+321,Gn Fuvahmulah,Dhadimagu Gera,Aminath Ashaa Akram,F,AXXX632,ދަޑިމަގު ގެރަ,އާމިނަތު އަޝާ އަކުރަމް
+322,Gn Fuvahmulah,Dhadimagu Gera,Mariyam Isha Akram,F,AXXX633,ދަޑިމަގު ގެރަ,މަރްޔަމް އިޝާ އަކްރަމް
+323,Gn Fuvahmulah,Dhadimagu Gloryge,Ahmed Reehan,M,AXXX596,ދަޑިމަގު ގްލޯރީގެ,އަޙްމަދު ރީޙާން
+324,Gn Fuvahmulah,Dhadimagu Gulaabeege,Abdulla Jaleel,M,AXXX545,ދަޑިމަގު ގުލާބީގެ,ޢަބްދުﷲ ޖަލީލު
+325,Gn Fuvahmulah,Dhadimagu Guldhasthaage,Fathimath Ahmed,F,AXXX702,ދަޑިމަގު ގުލްދަސްތާގެ,ފާޠިމަތު އަޙްމަދު
+326,Gn Fuvahmulah,Dhadimagu Guldhasthaage,Aminath Shahula,F,AXXX704,ދަޑިމަގު ގުލްދަސްތާގެ,އާމިނަތު ޝަހުލާ
+327,Gn Fuvahmulah,Dhadimagu Guldhasthaage,Ali Fahmy,M,AXXX538,ދަޑިމަގު ގުލްދަސްތާގެ,ޢަލީ ފަހުމީ
+328,Gn Fuvahmulah,Dhadimagu Guldhasthaage,Ali Ahmed,M,AXXX958,ދަޑިމަގު ގުލްދަސްތާގެ,ޢަލީ އަޙްމަދު
+329,Gn Fuvahmulah,Dhadimagu Guldhasthaage,Abdulla Ahmed,M,AXXX649,ދަޑިމަގު ގުލްދަސްތާގެ,ޢަބްދުﷲ އަޙްމަދު
+330,Gn Fuvahmulah,Dhadimagu Guldhasthaage,Mariyam Shizuha,F,AXXX260,ދަޑިމަގު ގުލްދަސްތާގެ,މަރްޔަމް ޝިޒުހާ
+331,Gn Fuvahmulah,Dhadimagu Haaufaage,Fathimath Mohamed Didi,F,AXXX520,ދަޑިމަގު ހާއުފާގެ,ފާޠިމަތު މުޙައްމަދުދީދީ
+332,Gn Fuvahmulah,Dhadimagu Haaufaage,Aminath Ibrahim,F,AXXX813,ދަޑިމަގު ހާއުފާގެ,އާމިނަތު އިބްރާހީމް
+333,Gn Fuvahmulah,Dhadimagu Haaufaage,Ahmed Asim,M,AXXX821,ދަޑިމަގު ހާއުފާގެ,އަޙްމަދު ޢާޞިމް
+334,Gn Fuvahmulah,Dhadimagu Haaufaage,Ibrahim Mohamed,M,AXXX766,ދަޑިމަގު ހާއުފާގެ,އިބްރާހީމް މުޙައްމަދު
+335,Gn Fuvahmulah,Dhadimagu Haaufaage,Najla Ibrahim,F,AXXX388,ދަޑިމަގު ހާއުފާގެ,ނަޖްލާ އިބްރާހީމް
+336,Gn Fuvahmulah,Dhadimagu Handhuvaree,Hassan Ismail,M,AXXX575,ދަޑިމަގު ހަނދުވަރީ,ޙަސަން އިސްމާޢީލް
+337,Gn Fuvahmulah,Dhadimagu Handhuvaree,Aminath Hassan,F,AXXX259,ދަޑިމަގު ހަނދުވަރީ,އާމިނަތު ޙަސަން
+338,Gn Fuvahmulah,Dhadimagu Handhuvaree,Ali Shafeeq,M,AXXX133,ދަޑިމަގު ހަނދުވަރީ,ޢަލީ ޝަފީޤް
+339,Gn Fuvahmulah,Dhadimagu Handhuvaree,Hussain Zaidh,M,AXXX965,ދަޑިމަގު ހަނދުވަރީ,ޙުސައިން ޒައިދު
+340,Gn Fuvahmulah,Dhadimagu Handhuvaruge,Aishath Fauziyya,F,AXXX683,ދަޑިމަގު ހަނދުވަރުގެ,ޢާއިޝަތު ފައުޒިއްޔާ
+341,Gn Fuvahmulah,Dhadimagu Handhuvaruge,Masbooq Mohamed Latheef,M,AXXX722,ދަޑިމަގު ހަނދުވަރުގެ,މަސްބޫޤް މުޙައްމަދު ލަޠީފް
+342,Gn Fuvahmulah,Dhadimagu Handhuvaruge,Rugiyya Mohamed Latheef,F,AXXX109,ދަޑިމަގު ހަނދުވަރުގެ,ރުޤިއްޔާ މުޙައްމަދު ލަޠީފު
+343,Gn Fuvahmulah,Dhadimagu Handhuvaruge,Minna Mohamed Latheef,F,AXXX492,ދަޑިމަގު ހަނދުވަރުގެ,މިންނާ މުޙައްމަދު ލަޠީފް
+344,Gn Fuvahmulah,Dhadimagu Happy Luck,Ahmed Hassan,M,AXXX597,ދަޑިމަގު ހެޕީލަކް,އަޙްމަދު ޙަސަން
+345,Gn Fuvahmulah,Dhadimagu Happy Luck,Samaha Ahmed,F,AXXX452,ދަޑިމަގު ހެޕީލަކް,ސަމާޙާ އަޙްމަދު
+346,Gn Fuvahmulah,Dhadimagu Happy Luck,Safa Ahmed,F,AXXX454,ދަޑިމަގު ހެޕީލަކް,ޞަފާ އަޙްމަދު
+347,Gn Fuvahmulah,Dhadimagu Happy Luck,Saodha Ahmed,F,AXXX455,ދަޑިމަގު ހެޕީލަކް,ސަޢްދާ އަޙްމަދު
+348,Gn Fuvahmulah,Dhadimagu Happy Luck,Mohamed Hoodh Ahmed,M,AXXX211,ދަޑިމަގު ހެޕީލަކް,މުޙައްމަދު ހޫދު އަޙްމަދު
+349,Gn Fuvahmulah,Dhadimagu Haveeree Manzil,Mohamed Ahmed Didi,M,AXXX577,ދަޑިމަގު ހަވީރީމަންޒިލް,މުޙައްމަދު އަޙްމަދުދީދީ
+350,Gn Fuvahmulah,Dhadimagu Haveeree Manzil,Fathimath Shazleen,F,AXXX579,ދަޑިމަގު ހަވީރީމަންޒިލް,ފާޠިމަތު ޝަޒްލީން
+351,Gn Fuvahmulah,Dhadimagu Haveeree Manzil,Husna Ali,F,AXXX790,ދަޑިމަގު ހަވީރީމަންޒިލް,ޙުސްނާ ޢަލީ
+352,Gn Fuvahmulah,Dhadimagu Haveeree Manzil,Aishath Shizleen,F,AXXX331,ދަޑިމަގު ހަވީރީމަންޒިލް,ޢާއިޝަތު ޝިޒްލީން
+353,Gn Fuvahmulah,Dhadimagu Haveeree Manzil,Ali Shaniu,M,AXXX394,ދަޑިމަގު ހަވީރީމަންޒިލް,ޢަލީ ޝާނިޢު
+354,Gn Fuvahmulah,Dhadimagu Haveeree Manzil,Shiuth Mohamed,M,AXXX670,ދަޑިމަގު ހަވީރީމަންޒިލް,ޝިއުތު މުޙައްމަދު
+355,Gn Fuvahmulah,Dhadimagu Haveeree Manzil,Mohamed Luth Aqis,M,AXXX924,ދަޑިމަގު ހަވީރީމަންޒިލް,މުޙައްމަދު ލޫޠް ޢާގިޞް
+356,Gn Fuvahmulah,Dhadimagu Haveyli,Ahmed Ibrahim,M,AXXX867,ދަޑިމަގު ހަވޭލި,އަޙްމަދު އިބްރާހީމް
+357,Gn Fuvahmulah,Dhadimagu Haveyli,Aishath Shahma,F,AXXX868,ދަޑިމަގު ހަވޭލި,ޢާއިޝަތު ޝަހުމާ
+358,Gn Fuvahmulah,Dhadimagu Haveyli,Shamsiyya Waheed,F,AXXX874,ދަޑިމަގު ހަވޭލި,ޝަމްސިއްޔާ ވަޙީދު
+359,Gn Fuvahmulah,Dhadimagu Haveyli,Mohamed Niyaz,M,AXXX900,ދަޑިމަގު ހަވޭލި,މުޙައްމަދު ނިޔާޒު
+360,Gn Fuvahmulah,Dhadimagu Hazaaru,Zidna Mohamed,F,AXXX510,ދަޑިމަގު ހަޒާރު,ޒިދްނާ މުޙައްމަދު
+361,Gn Fuvahmulah,Dhadimagu Hazaaru,Hassan Adam,M,AXXX604,ދަޑިމަގު ހަޒާރު,ޙަސަން އާދަމް
+362,Gn Fuvahmulah,Dhadimagu Hazaaru,Mariyam Maaidha Hassan,F,AXXX538,ދަޑިމަގު ހަޒާރު,މަރްޔަމް މާއިދާ ޙަސަން
+363,Gn Fuvahmulah,Dhadimagu Heaven,Abdulla Ahmed Didi,M,AXXX961,ދަޑިމަގު ހެވަން,ޢަބްދުﷲ އަޙްމަދުދީދީ
+364,Gn Fuvahmulah,Dhadimagu Hevi,Mohamed Maais Asim,M,AXXX026,ދަޑިމަގު ހެވި,މުޙައްމަދު މާއިސް ޢާޞިމް
+365,Gn Fuvahmulah,Dhadimagu Hikifinifenmaage,Mohamed Shakir,M,AXXX512,ދަޑިމަގު ހިކިފިނިފެންމާގެ,މުޙައްމަދު ޝާކިރު
+366,Gn Fuvahmulah,Dhadimagu Hikifinifenmaage,Rugiyya Ibrahim,F,AXXX886,ދަޑިމަގު ހިކިފިނިފެންމާގެ,ރުޤިއްޔާ އިބްރާހީމް
+367,Gn Fuvahmulah,Dhadimagu Hikifinifenmaage,Shazmeena Shakir,F,AXXX651,ދަޑިމަގު ހިކިފިނިފެންމާގެ,ޝަޒްމީނާ ޝާކިރު
+368,Gn Fuvahmulah,Dhadimagu Hikifinifenmaage,Sama Ahmed Shiham,F,AXXX518,ދަޑިމަގު ހިކިފިނިފެންމާގެ,ސަމާ އަޙްމަދު ޝިހާމް
+369,Gn Fuvahmulah,Dhadimagu Hikifinifenmaage,Hana Ahmed Shiham,F,AXXX308,ދަޑިމަގު ހިކިފިނިފެންމާގެ,ހަނާ އަޙްމަދު ޝިހާމް
+370,Gn Fuvahmulah,Dhadimagu Hikifinifenmaage,Luma Mohamed Ibrahim,F,AXXX755,ދަޑިމަގު ހިކިފިނިފެންމާގެ,ލުމާ މުޙައްމަދު އިބްރާހީމް
+371,Gn Fuvahmulah,Dhadimagu Hikikashimaage,Mariyam Ali,F,AXXX563,ދަޑިމަގު ހިކިކަށިމާގެ,މަރްޔަމް ޢަލީ
+372,Gn Fuvahmulah,Dhadimagu Hikikashimaage,Mohamed Riyaz,M,AXXX082,ދަޑިމަގު ހިކިކަށިމާގެ,މުޙައްމަދު ރިޔާޟް
+373,Gn Fuvahmulah,Dhadimagu Hikikashimaage,Shafeena Adam,F,AXXX891,ދަޑިމަގު ހިކިކަށިމާގެ,ޝަފީނާ އާދަމް
+374,Gn Fuvahmulah,Dhadimagu Hikikashimaage,Shafeea Adam,F,AXXX117,ދަޑިމަގު ހިކިކަށިމާގެ,ޝަފީޢާ އާދަމް
+375,Gn Fuvahmulah,Dhadimagu Hirilandhooge,Shizmeen Mohamed,F,AXXX478,ދަޑިމަގު ހިރިލަންދޫގެ,ޝިޒްމީން މުޙައްމަދު
+376,Gn Fuvahmulah,Dhadimagu Hirilandhooge,Hussain Rasheed Mohamed,M,AXXX870,ދަޑިމަގު ހިރިލަންދޫގެ,ޙުސައިން ރަޝީދު މުޙައްމަދު
+377,Gn Fuvahmulah,Dhadimagu Hithahfinivaage,Abdulla Ibrahim,M,AXXX370,ދަޑިމަގު ހިތަށްފިނިވާގެ,ޢަބްދުﷲ އިބްރާހީމް
+378,Gn Fuvahmulah,Dhadimagu Hithahfinivaage,Fathmath Faanu,F,AXXX476,ދަޑިމަގު ހިތަށްފިނިވާގެ,ފާޠިމަތުފާނު
+379,Gn Fuvahmulah,Dhadimagu Hithahfinivaage,Fathimath Luma Luthufee,F,AXXX030,ދަޑިމަގު ހިތަށްފިނިވާގެ,ފާޠިމަތު ލުމާ ލުޠުފީ
+380,Gn Fuvahmulah,Dhadimagu Hithahfinivaage,Mariyam Juma,F,AXXX031,ދަޑިމަގު ހިތަށްފިނިވާގެ,މަރްޔަމް ޖުމާ
+381,Gn Fuvahmulah,Dhadimagu Hiyama,Ahmed Mohamed Didi,M,AXXX675,ދަޑިމަގު ހިޔަމަ,އަޙްމަދު މުޙައްމަދުދީދީ
+382,Gn Fuvahmulah,Dhadimagu Hoonige,Mohamed Rizwy,M,AXXX544,ދަޑިމަގު ހޫނިގެ,މުޙައްމަދު ރިޟުވީ
+383,Gn Fuvahmulah,Dhadimagu Hoonige,Aishath Latheefa,F,AXXX627,ދަޑިމަގު ހޫނިގެ,ޢާއިޝަތު ލަޠީފާ
+384,Gn Fuvahmulah,Dhadimagu Hoonige,Ali Nazir,M,AXXX911,ދަޑިމަގު ހޫނިގެ,ޢަލީ ނާޡިރު
+385,Gn Fuvahmulah,Dhadimagu Hoonige,Ibrahim Mohamed Ali,M,AXXX913,ދަޑިމަގު ހޫނިގެ,އިބްރާހީމް މުޙައްމަދު ޢަލީ
+386,Gn Fuvahmulah,Dhadimagu Hudhumuraka,Ahmed Almas Mohamed,M,AXXX461,ދަޑިމަގު ހުދުމުރަކަ,އަޙްމަދު އަލްމާސް މުޙައްމަދު
+387,Gn Fuvahmulah,Dhadimagu Hudumaa,Asiyath Abdul Kareem,F,AXXX572,ދަޑިމަގު ހުދުމާ,އާސިޔަތު ޢަބްދުލްކަރީމް
+388,Gn Fuvahmulah,Dhadimagu Hudumaa,Nazim Ali,M,AXXX623,ދަޑިމަގު ހުދުމާ,ނާޡިމް ޢަލީ
+389,Gn Fuvahmulah,Dhadimagu Hulhaguge,Mariyam Ansar,F,AXXX275,ދަޑިމަގު ހުޅަގުގެ,މަރްޔަމް އަންޞާރު
+390,Gn Fuvahmulah,Dhadimagu Hulhaguge,Hussain Mohamed,M,AXXX418,ދަޑިމަގު ހުޅަގުގެ,ޙުސައިން މުޙައްމަދު
+391,Gn Fuvahmulah,Dhadimagu Hulhaguge,Hawwa Ahmed,F,AXXX419,ދަޑިމަގު ހުޅަގުގެ,ޙައްވާ އަޙްމަދު
+392,Gn Fuvahmulah,Dhadimagu Hulhaguge,Fathimath Hussain Didi,F,AXXX437,ދަޑިމަގު ހުޅަގުގެ,ފާޠިމަތު ޙުސައިންދީދީ
+393,Gn Fuvahmulah,Dhadimagu Hulhaguge,Shafiu Hussain,M,AXXX467,ދަޑިމަގު ހުޅަގުގެ,ޝާފިޢު ޙުސައިން
+394,Gn Fuvahmulah,Dhadimagu Huravee,Ikram Saeed,F,AXXX360,ދަޑިމަގު ހުރަވީ,އިކްރާމް ސަޢީދު
+395,Gn Fuvahmulah,Dhadimagu Irumatheege,Ibrahim Hussain Didi,M,AXXX724,ދަޑިމަގު އިރުމަތީގެ,އިބްރާހީމް ޙުސައިންދީދީ
+396,Gn Fuvahmulah,Dhadimagu Irumatheege,Fathimath Aayath Ibrahim Hussain,F,AXXX677,ދަޑިމަގު އިރުމަތީގެ,ފާޠިމަތު އާޔަތު އިބްރާހީމް ޙުސައިން
+397,Gn Fuvahmulah,Dhadimagu Irumatheege,Mohamed Iyaan Ibrahim,M,AXXX627,ދަޑިމަގު އިރުމަތީގެ,މުޙައްމަދު ޢިޔާން އިބްރާހީމް
+398,Gn Fuvahmulah,Dhadimagu Iruvaige,Aminath Ali,F,AXXX448,ދަޑިމަގު އިރުވައިގެ,އާމިނަތު ޢަލީ
+399,Gn Fuvahmulah,Dhadimagu Iruvaige,Ahmed Ali,M,AXXX450,ދަޑިމަގު އިރުވައިގެ,އަޙްމަދު ޢަލީ
+400,Gn Fuvahmulah,Dhadimagu Iruvaige,Mariyam Faanu,F,AXXX475,ދަޑިމަގު އިރުވައިގެ,މަރްޔަމްފާނު
+401,Gn Fuvahmulah,Dhadimagu Iruvaige,Fathimath Ali,F,AXXX625,ދަޑިމަގު އިރުވައިގެ,ފާޠިމަތު ޢަލީ
+402,Gn Fuvahmulah,Dhadimagu Iruvaige,Ibrahim Rasheed,M,AXXX661,ދަޑިމަގު އިރުވައިގެ,އިބްރާހީމް ރަޝީދު
+403,Gn Fuvahmulah,Dhadimagu Iruvaige,Mohamed Ali,M,AXXX249,ދަޑިމަގު އިރުވައިގެ,މުޙައްމަދު ޢަލީ
+404,Gn Fuvahmulah,Dhadimagu Iruvaige,Abdulla Ali,M,AXXX969,ދަޑިމަގު އިރުވައިގެ,ޢަބްދުﷲ ޢަލީ
+405,Gn Fuvahmulah,Dhadimagu Iruvaige,Ahmed Yashmeen Mohamed,M,AXXX794,ދަޑިމަގު އިރުވައިގެ,އަޙްމަދު ޔަޝްމީން މުޙައްމަދު
+406,Gn Fuvahmulah,Dhadimagu Iruvaige,Aishath Ashfa Mohamed,F,AXXX976,ދަޑިމަގު އިރުވައިގެ,ޢާއިޝަތު އަޝްފާ މުޙައްމަދު
+407,Gn Fuvahmulah,Dhadimagu Izumiru,Aminath Saada,F,AXXX382,ދަޑިމަގު އިޒުމިރު,އާމިނަތު ސަޢާދާ
+408,Gn Fuvahmulah,Dhadimagu Izumiru,Mohamed Zahid,M,AXXX542,ދަޑިމަގު އިޒުމިރު,މުޙައްމަދު ޒާހިދު
+409,Gn Fuvahmulah,Dhadimagu Izumiru,Nafa Zahid,F,AXXX504,ދަޑިމަގު އިޒުމިރު,ނަފާ ޒާހިދު
+410,Gn Fuvahmulah,Dhadimagu Izumiru,Naash Mohamed Zahid,F,AXXX128,ދަޑިމަގު އިޒުމިރު,ނާޝް މުޙައްމަދު ޒާހިދު
+411,Gn Fuvahmulah,Dhadimagu Izumiru,Ahmed Zamil Zahid,M,AXXX567,ދަޑިމަގު އިޒުމިރު,އަޙްމަދު ޒާމިލު ޒާހިދު
+412,Gn Fuvahmulah,Dhadimagu Jasmane ge,Abdulla Ibrahim,M,AXXX656,ދަޑިމަގު ޖޭސްމޭނުގެ,ޢަބްދުﷲ އިބްރާހީމް
+413,Gn Fuvahmulah,Dhadimagu Jasmane ge,Aishath Ibrahim,F,AXXX726,ދަޑިމަގު ޖޭސްމޭނުގެ,ޢާއިޝަތު އިބްރާހީމް
+414,Gn Fuvahmulah,Dhadimagu Jasmane ge,Mohamed Shiham,M,AXXX332,ދަޑިމަގު ޖޭސްމޭނުގެ,މުޙައްމަދު ޝިހާމް
+415,Gn Fuvahmulah,Dhadimagu Jasmane ge,Ahmed Husham Abdulla,M,AXXX334,ދަޑިމަގު ޖޭސްމޭނުގެ,އަޙްމަދު ހުޝާމު ޢަބްދުﷲ
+416,Gn Fuvahmulah,Dhadimagu Jasmane ge,Fathimath Shadha Abdulla,F,AXXX385,ދަޑިމަގު ޖޭސްމޭނުގެ,ފާޠިމަތު ޝަދާ ޢަބްދުﷲ
+417,Gn Fuvahmulah,Dhadimagu Javaadhu Manzil,Khadeeja Mohamed,F,AXXX829,ދަޑިމަގު ޖަވާދުމަންޒިލް,ޚަދީޖާ މުޙައްމަދު
+418,Gn Fuvahmulah,Dhadimagu Javaadhu Manzil,Ahmed Jiyad Mohamed,M,AXXX947,ދަޑިމަގު ޖަވާދުމަންޒިލް,އަޙްމަދު ޖިޔާދު މުޙައްމަދު
+419,Gn Fuvahmulah,Dhadimagu Javaahiru,Mohamed Waheed Ahmed,M,AXXX277,ދަޑިމަގު ޖަވާހިރު,މުޙައްމަދު ވަޙީދު އަޙްމަދު
+420,Gn Fuvahmulah,Dhadimagu Jazz,Fathimath Azma,F,AXXX885,ދަޑިމަގު ޖޭޒް,ފާޠިމަތު ޢަޒުމާ
+421,Gn Fuvahmulah,Dhadimagu Jazz,Abdulla Adam,M,AXXX692,ދަޑިމަގު ޖޭޒް,ޢަބްދުﷲ އާދަމް
+422,Gn Fuvahmulah,Dhadimagu Jazz,Ahmed Ajzal Abdulla,M,AXXX068,ދަޑިމަގު ޖޭޒް,އަޙްމަދު އަޖުޒަލް ޢަބްދުﷲ
+423,Gn Fuvahmulah,Dhadimagu Jazz,Aishath Saja Abdulla,F,AXXX130,ދަޑިމަގު ޖޭޒް,ޢާއިޝަތު ސަޖާ ޢަބްދުﷲ
+424,Gn Fuvahmulah,Dhadimagu Kaafiyaa,Mohamed Anees Ali,M,AXXX770,ދަޑިމަގު ކާފިޔާ,މުޙައްމަދު އަނީސް ޢަލީ
+425,Gn Fuvahmulah,Dhadimagu Kaali,Mariyam Zaain Saeed,F,AXXX948,ދަޑިމަގު ކާލި,މަރްޔަމް ޒާއިން ސަޢީދު
+426,Gn Fuvahmulah,Dhadimagu Kaani,Ahmed Nazim,M,AXXX426,ދަޑިމަގު ކާނި,އަޙްމަދު ނާޡިމް
+427,Gn Fuvahmulah,Dhadimagu Kalhirava,Ibrahim Hassan,M,AXXX816,ދަޑިމަގު ކަޅިރަވަ,އިބްރާހީމް ޙަސަން
+428,Gn Fuvahmulah,Dhadimagu Kalhirava,Fathimath Rahza Ibrahim,F,AXXX568,ދަޑިމަގު ކަޅިރަވަ,ފާޠިމަތު ރަހުޒާ އިބްރާހީމް
+429,Gn Fuvahmulah,Dhadimagu Kalhirava,Aminath Rafa Ibrahim,F,AXXX177,ދަޑިމަގު ކަޅިރަވަ,އާމިނަތު ރަފާ އިބްރާހީމް
+430,Gn Fuvahmulah,Dhadimagu Kandhugasdhoshuge,Jameela Mohamed,F,AXXX647,ދަޑިމަގު ކަނދުގަސްދޮށުގެ,ޖަމީލާ މުޙައްމަދު
+431,Gn Fuvahmulah,Dhadimagu Kanfi,Shameema Ali,F,AXXX858,ދަޑިމަގު ކަންފި,ޝަމީމާ ޢަލީ
+432,Gn Fuvahmulah,Dhadimagu Kanfi,Sahula Moosa,F,AXXX127,ދަޑިމަގު ކަންފި,ސަހްލާ މޫސާ
+433,Gn Fuvahmulah,Dhadimagu Kanfi,Fathimath Shaheena,F,AXXX200,ދަޑިމަގު ކަންފި,ފާޠިމަތު ޝަހީނާ
+434,Gn Fuvahmulah,Dhadimagu Kemla,Mohamed Ali,M,AXXX889,ދަޑިމަގު ކެމްލާ,މުޙައްމަދު ޢަލީ
+435,Gn Fuvahmulah,Dhadimagu Keuge,Reemaaz Ahmed,F,AXXX687,ދަޑިމަގު ކެއުގެ,ރީމާޒު އަޙްމަދު
+436,Gn Fuvahmulah,Dhadimagu Keuge,Nabuhan Ahmed,M,AXXX680,ދަޑިމަގު ކެއުގެ,ނަބްހާން އަޙްމަދު
+437,Gn Fuvahmulah,Dhadimagu Koani,Arifa Abdul Majeed,F,AXXX600,ދަޑިމަގު ކޯނި,ޢާރިފާ ޢަބްދުލްމަޖީދު
+438,Gn Fuvahmulah,Dhadimagu Koani,Ramsha Safeel Ali,F,AXXX778,ދަޑިމަގު ކޯނި,ރަމްޝާ ސަފީލު ޢަލީ
+439,Gn Fuvahmulah,Dhadimagu Kokkiri,Aishath Ahmed,F,AXXX786,ދަޑިމަގު ކޮއްކިރި,ޢާއިޝަތު އަޙްމަދު
+440,Gn Fuvahmulah,Dhadimagu Kokkiri,Ahmed Farigh Abdulla,M,AXXX893,ދަޑިމަގު ކޮއްކިރި,އަޙްމަދު ފާރިޣް ޢަބްދުﷲ
+441,Gn Fuvahmulah,Dhadimagu Kokkiri,Fathimath Fariha,F,AXXX801,ދަޑިމަގު ކޮއްކިރި,ފާޠިމަތު ފާރިޙާ
+442,Gn Fuvahmulah,Dhadimagu Kuhlhafilaage,Ahmed Saeed,M,AXXX281,ދަޑިމަގު ކުއްޅަފިލާގެ,އަޙްމަދު ސަޢީދު
+443,Gn Fuvahmulah,Dhadimagu Kuhlhafilaage,Sanfa Hassan,F,AXXX412,ދަޑިމަގު ކުއްޅަފިލާގެ,ސަންފާ ޙަސަން
+444,Gn Fuvahmulah,Dhadimagu Kuhlhafilaage,Waheeda Abdulla,F,AXXX466,ދަޑިމަގު ކުއްޅަފިލާގެ,ވަޙީދާ ޢަބްދުﷲ
+445,Gn Fuvahmulah,Dhadimagu Kuhlhafilaage,Hamdoon Mohamed,M,AXXX572,ދަޑިމަގު ކުއްޅަފިލާގެ,ޙަމްދޫން މުޙައްމަދު
+446,Gn Fuvahmulah,Dhadimagu Kuhlhafilaage,Maryam Rimsha Mohamed,F,AXXX955,ދަޑިމަގު ކުއްޅަފިލާގެ,މަރްޔަމް ރިމްޝާ މުޙައްމަދު
+447,Gn Fuvahmulah,Dhadimagu Kuredhdhooge,Hawwa Hussain Didi,F,AXXX677,ދަޑިމަގު ކުރެއްދޫގެ,ޙައްވާ ޙުސައިންދީދީ
+448,Gn Fuvahmulah,Dhadimagu Kuredhdhooge,Lima Mohamed Nishad,F,AXXX778,ދަޑިމަގު ކުރެއްދޫގެ,ލިމާ މުޙައްމަދު ނިޝާދު
+449,Gn Fuvahmulah,Dhadimagu Kurimagu,Shama Solih,F,AXXX889,ދަޑިމަގު ކުރިމަގު,ޝާމާ ޞާލިޙު
+450,Gn Fuvahmulah,Dhadimagu Laaba,Mohamed Fahmee,M,AXXX255,ދަޑިމަގު ލާބަ,މުޙައްމަދު ފަހުމީ
+451,Gn Fuvahmulah,Dhadimagu Laaba,Asiyath Ibrahim Didi,F,AXXX010,ދަޑިމަގު ލާބަ,އާސިޔަތު އިބްރާހީމްދީދީ
+452,Gn Fuvahmulah,Dhadimagu Laaba,Abdulla Nashid,M,AXXX881,ދަޑިމަގު ލާބަ,ޢަބްދުﷲ ނާޝިދު
+453,Gn Fuvahmulah,Dhadimagu Laaba,Ibrahim Nasiu,M,AXXX171,ދަޑިމަގު ލާބަ,އިބްރާހީމް ނާސިޢު
+454,Gn Fuvahmulah,Dhadimagu Laaba,Fathmath Naufa,F,AXXX038,ދަޑިމަގު ލާބަ,ފާޠިމަތު ނައުފާ
+455,Gn Fuvahmulah,Dhadimagu Laaba,Aminath Navaru,F,AXXX732,ދަޑިމަގު ލާބަ,އާމިނަތު ނަވާރު
+456,Gn Fuvahmulah,Dhadimagu Laasaanee,Mohamed Rashad,M,AXXX458,ދަޑިމަގު ލާސާނީ,މުޙައްމަދު ރަޝާދު
+457,Gn Fuvahmulah,Dhadimagu Laasaanee,Ahmed Rudhain Mifzal,M,AXXX803,ދަޑިމަގު ލާސާނީ,އަޙްމަދު ރުދައިން މިފްޒާލް
+458,Gn Fuvahmulah,Dhadimagu Lainoofaruge,Shareefa Zakariyya,F,AXXX688,ދަޑިމަގު ލައިނޫފަރުގެ,ޝަރީފާ ޒަކަރިއްޔާ
+459,Gn Fuvahmulah,Dhadimagu Lainoofaruge,Thahiru Zakariyya Hussain,M,AXXX509,ދަޑިމަގު ލައިނޫފަރުގެ,ޠާހިރު ޒަކަރިއްޔާ ޙުސައިން
+460,Gn Fuvahmulah,Dhadimagu Lainoofaruge,Fathmath Rafeea Ibrahim Ahmed,F,AXXX294,ދަޑިމަގު ލައިނޫފަރުގެ,ފާޠިމަތު ރަފީޢާ އިބްރާހީމް އަޙްމަދު
+461,Gn Fuvahmulah,Dhadimagu Leeraa,Ali Ahmed Didi,M,AXXX840,ދަޑިމަގު ލީރާ,ޢަލީ އަޙްމަދުދީދީ
+462,Gn Fuvahmulah,Dhadimagu Leeraa,Mohamed Aleef,M,AXXX176,ދަޑިމަގު ލީރާ,މުޙައްމަދު އަލީފް
+463,Gn Fuvahmulah,Dhadimagu Leeraa,Fathimath Zahaa Ali Ahmed Didi,F,AXXX091,ދަޑިމަގު ލީރާ,ފާޠިމަތު ޒަހާ ޢަލީ އަޙްމަދުދީދީ
+464,Gn Fuvahmulah,Dhadimagu Leeraa,Abdulla Areef,M,AXXX092,ދަޑިމަގު ލީރާ,ޢަބްދުﷲ ޢަރީފް
+465,Gn Fuvahmulah,Dhadimagu Leeraa,Ibrahim Ajfaan,M,AXXX749,ދަޑިމަގު ލީރާ,އިބްރާހީމް އަޖްފާން
+466,Gn Fuvahmulah,Dhadimagu Maabulhaage,Ahmed Mohamed Didi,M,AXXX827,ދަޑިމަގު މާބުޅާގެ,އަޙްމަދު މުޙައްމަދުދީދީ
+467,Gn Fuvahmulah,Dhadimagu Maabulhaage,Mariyam Mohamed Didi,F,AXXX650,ދަޑިމަގު މާބުޅާގެ,މަރްޔަމް މުޙައްމަދުދީދީ
+468,Gn Fuvahmulah,Dhadimagu Maabulhaage,Ibrahim Haanee Ahmed,M,AXXX311,ދަޑިމަގު މާބުޅާގެ,އިބްރާހީމް ހާނީ އަޙްމަދު
+469,Gn Fuvahmulah,Dhadimagu Maafaruge,Aishath Nasheeda,F,AXXX443,ދަޑިމަގު މާފަރުގެ,ޢާއިޝަތު ނަޝީދާ
+470,Gn Fuvahmulah,Dhadimagu Maalhuveli,Ibrahim Abdulla,M,AXXX854,ދަޑިމަގު މާޅުވެލި,އިބްރާހީމް ޢަބްދުﷲ
+471,Gn Fuvahmulah,Dhadimagu Maaolhu,Mariyam Shareef,F,AXXX467,ދަޑިމަގު މާއޮޅު,މަރްޔަމް ޝަރީފް
+472,Gn Fuvahmulah,Dhadimagu Maaolhu,Eyfa Moosa Mohamed,F,AXXX029,ދަޑިމަގު މާއޮޅު,އީފާ މޫސާ މުޙައްމަދު
+473,Gn Fuvahmulah,Dhadimagu Maaolhu,Maiha Moosa Mohamed,F,AXXX810,ދަޑިމަގު މާއޮޅު,މައިހާ މޫސާ މުޙައްމަދު
+474,Gn Fuvahmulah,Dhadimagu Maaraadhage,Mohamed Ali,M,AXXX430,ދަޑިމަގު މާރާދަގެ,މުޙައްމަދު ޢަލީ
+475,Gn Fuvahmulah,Dhadimagu Maaraadhage,Khadeeja Ali,F,AXXX873,ދަޑިމަގު މާރާދަގެ,ޚަދީޖާ ޢަލީ
+476,Gn Fuvahmulah,Dhadimagu Maaraadhage,Abdulla Ali,M,AXXX610,ދަޑިމަގު މާރާދަގެ,ޢަބްދުﷲ ޢަލީ
+477,Gn Fuvahmulah,Dhadimagu Maaraadhage,Izwa Ali,F,AXXX051,ދަޑިމަގު މާރާދަގެ,ޢިޒުވާ ޢަލީ
+478,Gn Fuvahmulah,Dhadimagu Maaraadhage,Hussain Ali,M,AXXX052,ދަޑިމަގު މާރާދަގެ,ޙުސައިން ޢަލީ
+479,Gn Fuvahmulah,Dhadimagu Maatheragadu,Moosa Ahmed Didi,M,AXXX404,ދަޑިމަގު މާތެރަގަޑު,މޫސާ އަޙްމަދުދީދީ
+480,Gn Fuvahmulah,Dhadimagu Maatheragadu,Mariyam Mausooma Moosa,F,AXXX822,ދަޑިމަގު މާތެރަގަޑު,މަރްޔަމް މަޢުޞޫމާ މޫސާ
+481,Gn Fuvahmulah,Dhadimagu Maatheragadu,Mohamed Raid Wasif,M,AXXX141,ދަޑިމަގު މާތެރަގަޑު,މުޙައްމަދު ރާއިދު ވާޞިފް
+482,Gn Fuvahmulah,Dhadimagu Maatheragadu,Aminath Riuman Wasif,F,AXXX483,ދަޑިމަގު މާތެރަގަޑު,އާމިނަތު ރިއުމާން ވާޞިފް
+483,Gn Fuvahmulah,Dhadimagu Maavaage,Liuna Hassan Didi,F,AXXX485,ދަޑިމަގު މާވާގެ,ލިއުނާ ޙަސަންދީދީ
+484,Gn Fuvahmulah,Dhadimagu Maavaage,Mariyam Hassan Didi,F,AXXX486,ދަޑިމަގު މާވާގެ,މަރްޔަމް ޙަސަންދީދީ
+485,Gn Fuvahmulah,Dhadimagu Maavaage,Khadeeja Didi,F,AXXX505,ދަޑިމަގު މާވާގެ,ޚަދީޖާދީދީ
+486,Gn Fuvahmulah,Dhadimagu Maavaage,Hassan Didi,M,AXXX507,ދަޑިމަގު މާވާގެ,ޙަސަންދީދީ
+487,Gn Fuvahmulah,Dhadimagu Maavaage,Ibrahim Hassan Didi,M,AXXX105,ދަޑިމަގު މާވާގެ,އިބްރާހީމް ޙަސަންދީދީ
+488,Gn Fuvahmulah,Dhadimagu Maavaage,Nasiha Hassan Didi,F,AXXX714,ދަޑިމަގު މާވާގެ,ނާޞިޙާ ޙަސަންދީދީ
+489,Gn Fuvahmulah,Dhadimagu Maavaage,Ahmed Hassan Didi,M,AXXX253,ދަޑިމަގު މާވާގެ,އަޙްމަދު ޙަސަންދީދީ
+490,Gn Fuvahmulah,Dhadimagu Maazee Villa,Ahmed Abdulla,M,AXXX665,ދަޑިމަގު މާޒީވިލާ,އަޙްމަދު ޢަބްދުﷲ
+491,Gn Fuvahmulah,Dhadimagu Maazee Villa,Abdulla Ali,M,AXXX666,ދަޑިމަގު މާޒީވިލާ,ޢަބްދުﷲ ޢަލީ
+492,Gn Fuvahmulah,Dhadimagu Maazee Villa,Aishath Abdulla,F,AXXX883,ދަޑިމަގު މާޒީވިލާ,ޢާއިޝަތު ޢަބްދުﷲ
+493,Gn Fuvahmulah,Dhadimagu Maazee Villa,Hawwa Didi,F,AXXX888,ދަޑިމަގު މާޒީވިލާ,ޙައްވާދީދީ
+494,Gn Fuvahmulah,Dhadimagu Maazee Villa,Amjad Abdulla,M,AXXX082,ދަޑިމަގު މާޒީވިލާ,އަމްޖަދު ޢަބްދުﷲ
+495,Gn Fuvahmulah,Dhadimagu Maazee Villa,Ali Abdulla,M,AXXX899,ދަޑިމަގު މާޒީވިލާ,ޢަލީ ޢަބްދުﷲ
+496,Gn Fuvahmulah,Dhadimagu Maazee Villa,Hussain Abdulla,M,AXXX901,ދަޑިމަގު މާޒީވިލާ,ޙުސައިން ޢަބްދުﷲ
+497,Gn Fuvahmulah,Dhadimagu Maazee Villa,Aminath Amanath Abdulla,F,AXXX088,ދަޑިމަގު މާޒީވިލާ,އާމިނަތު އަމަނަތު ޢަބްދުﷲ
+498,Gn Fuvahmulah,Dhadimagu Maazee Villa,Mariyam Aala Abdulla,F,AXXX722,ދަޑިމަގު މާޒީވިލާ,މަރްޔަމް އާލާ ޢަބްދުﷲ
+499,Gn Fuvahmulah,Dhadimagu Maazee Villa,Hassan Abdulla,M,AXXX652,ދަޑިމަގު މާޒީވިލާ,ޙަސަން ޢަބްދުﷲ
+500,Gn Fuvahmulah,Dhadimagu Majeedheege,Ahmed Fareed Abdulla,M,AXXX327,ދަޑިމަގު މަޖީދީގެ,އަޙްމަދު ފަރީދު ޢަބްދުﷲ
+501,Gn Fuvahmulah,Dhadimagu Majeedheege,Ilham Jaleel,F,AXXX565,ދަޑިމަގު މަޖީދީގެ,އިލްހާމް ޖަލީލު
+502,Gn Fuvahmulah,Dhadimagu Majeedheege,Seema Abdulla,F,AXXX587,ދަޑިމަގު މަޖީދީގެ,ސީމާ ޢަބްދުﷲ
+503,Gn Fuvahmulah,Dhadimagu Majeedheege,Haneefa Abdulla,F,AXXX187,ދަޑިމަގު މަޖީދީގެ,ޙަނީފާ ޢަބްދުﷲ
+504,Gn Fuvahmulah,Dhadimagu Majeedheege,Hawwa Ibrahim,F,AXXX972,ދަޑިމަގު މަޖީދީގެ,ޙައްވާ އިބްރާހީމް
+505,Gn Fuvahmulah,Dhadimagu Malaagaari,Mariyam Saaidha,F,AXXX083,ދަޑިމަގު މަލާގާރި,މަރްޔަމް ސާޢިދާ
+506,Gn Fuvahmulah,Dhadimagu Malaagaari,Hussain Ihsan,M,AXXX407,ދަޑިމަގު މަލާގާރި,ޙުސައިން އިޙްސާން
+507,Gn Fuvahmulah,Dhadimagu Malagas,Ali Jailam,M,AXXX309,ދަޑިމަގު މަލަގަސް,ޢަލީ ޖައިލަމް
+508,Gn Fuvahmulah,Dhadimagu Malareethige,Aishath Hudha,F,AXXX495,ދަޑިމަގު މަލަރީތިގެ,ޢާއިޝަތު ހުދާ
+509,Gn Fuvahmulah,Dhadimagu Malareethige,Aminath Fareedha,F,AXXX590,ދަޑިމަގު މަލަރީތިގެ,އާމިނަތު ފަރީދާ
+510,Gn Fuvahmulah,Dhadimagu Malareethige,Shadiya Ibrahim,F,AXXX623,ދަޑިމަގު މަލަރީތިގެ,ޝާދިޔާ އިބްރާހީމް
+511,Gn Fuvahmulah,Dhadimagu Malareethige,Mohamed Naseer,M,AXXX663,ދަޑިމަގު މަލަރީތިގެ,މުޙައްމަދު ނަޞީރު
+512,Gn Fuvahmulah,Dhadimagu Malareethige,Ahmed Irfaan,M,AXXX299,ދަޑިމަގު މަލަރީތިގެ,އަޙްމަދު ޢިރުފާން
+513,Gn Fuvahmulah,Dhadimagu Malareethige,Fathimath Maasa Shareef,F,AXXX995,ދަޑިމަގު މަލަރީތިގެ,ފާޠިމަތު މާސާ ޝަރީފް
+514,Gn Fuvahmulah,Dhadimagu Malares,Habeeba Ibrahim,F,AXXX630,ދަޑިމަގު މަލަރެސް,ޙަބީބާ އިބްރާހީމް
+515,Gn Fuvahmulah,Dhadimagu Malares,Shadiya Ibrahim,F,AXXX890,ދަޑިމަގު މަލަރެސް,ޝާދިޔާ އިބްރާހީމް
+516,Gn Fuvahmulah,Dhadimagu Malares,Ibrahim Shihab,M,AXXX571,ދަޑިމަގު މަލަރެސް,އިބްރާހީމް ޝިހާބު
+517,Gn Fuvahmulah,Dhadimagu Malares,Shiyana Ibrahim,F,AXXX373,ދަޑިމަގު މަލަރެސް,ޝިޔާނާ އިބްރާހީމް
+518,Gn Fuvahmulah,Dhadimagu Malares,Shahama Shihab,F,AXXX141,ދަޑިމަގު މަލަރެސް,ޝަހާމާ ޝިހާބު
+519,Gn Fuvahmulah,Dhadimagu Malares,Sheema Shihab,F,AXXX394,ދަޑިމަގު މަލަރެސް,ޝީމާ ޝިހާބު
+520,Gn Fuvahmulah,Dhadimagu Malares,Ahmed Mibsaam,M,AXXX398,ދަޑިމަގު މަލަރެސް,އަޙްމަދު މިބުސާމް
+521,Gn Fuvahmulah,Dhadimagu Malares,Minha Mohamed Firag,F,AXXX116,ދަޑިމަގު މަލަރެސް,މިންހާ މުޙައްމަދު ފިރާޤު
+522,Gn Fuvahmulah,Dhadimagu Malares,Aishath Muna Ibrahim,F,AXXX119,ދަޑިމަގު މަލަރެސް,ޢާއިޝަތު Mުނާ އިބްރާހީމް
+523,Gn Fuvahmulah,Dhadimagu Malhabige,Ali Mohamed,M,AXXX307,ދަޑިމަގު މަޅަބިގެ,ޢަލީ މުޙައްމަދު
+524,Gn Fuvahmulah,Dhadimagu Malhabige,Ibrahim Afrah,M,AXXX325,ދަޑިމަގު މަޅަބިގެ,އިބްރާހީމް އަފްރާޙު
+525,Gn Fuvahmulah,Dhadimagu Malhabige,Ahmed Rameez,M,AXXX556,ދަޑިމަގު މަޅަބިގެ,އަޙްމަދު ރަމީޒް
+526,Gn Fuvahmulah,Dhadimagu Malhabige,Aafaag Ali,M,AXXX876,ދަޑިމަގު މަޅަބިގެ,އާފާޤް ޢަލީ
+527,Gn Fuvahmulah,Dhadimagu Malhabige,Reema Ali Mohamed,F,AXXX880,ދަޑިމަގު މަޅަބިގެ,ރީމާ ޢަލީ މުޙައްމަދު
+528,Gn Fuvahmulah,Dhadimagu Malhabige,Ahuzam Ali Mohamed,M,AXXX990,ދަޑިމަގު މަޅަބިގެ,އަޙުޒަމް ޢަލީ މުޙައްމަދު
+529,Gn Fuvahmulah,Dhadimagu Malikuruvaage,Abdul Gafoor,M,AXXX316,ދަޑިމަގު މަލިކުރުވާގެ,ޢަބްދުލްޣަފޫރު
+530,Gn Fuvahmulah,Dhadimagu Manaamu,Aminath Afa Abdulla,F,AXXX944,ދަޑިމަގު މަނާމު,އާމިނަތު ޢަފާ ޢަބްދުﷲ
+531,Gn Fuvahmulah,Dhadimagu Manaamu,Mohamed Saarim Abdulla,M,AXXX945,ދަޑިމަގު މަނާމު,މުޙައްމަދު ޞާރިމް ޢަބްދުﷲ
+532,Gn Fuvahmulah,Dhadimagu Manaamu,Maryam Maaz Abdulla,F,AXXX932,ދަޑިމަގު މަނާމު,މަރްޔަމް މާޛު ޢަބްދުﷲ
+533,Gn Fuvahmulah,Dhadimagu Manfaa,Mohamed Fahid Abdul Gadhir,M,AXXX110,ދަޑިމަގު މަންފާ,މުޙައްމަދު ފާހިދު ޢަބްދުލްޤާދިރު
+534,Gn Fuvahmulah,Dhadimagu Mathivaru,Saamiya Naseem,F,AXXX550,ދަޑިމަގު މަތިވަރު,ސާމިޔާ ނަސީމް
+535,Gn Fuvahmulah,Dhadimagu Mathivaru,Abdulla Naseem Hassan,M,AXXX551,ދަޑިމަގު މަތިވަރު,ޢަބްދުﷲ ނަސީމް ޙަސަން
+536,Gn Fuvahmulah,Dhadimagu Mathivaru,Saniya Naseem,F,AXXX649,ދަޑިމަގު މަތިވަރު,ޘާނިޔާ ނަސީމް
+537,Gn Fuvahmulah,Dhadimagu Mathivaru,Ahmed Sinah,M,AXXX906,ދަޑިމަގު މަތިވަރު,އަޙްމަދު ސިނާޙު
+538,Gn Fuvahmulah,Dhadimagu Meadows,Ibrahim Shaheem,M,AXXX692,ދަޑިމަގު މެޑޯޒް,އިބްރާހީމް ޝަހީމް
+539,Gn Fuvahmulah,Dhadimagu Meadows,Hassan Riza,M,AXXX945,ދަޑިމަގު މެޑޯޒް,ޙަސަން ރިޟާ
+540,Gn Fuvahmulah,Dhadimagu Meadows,Fathimath Amana,F,AXXX082,ދަޑިމަގު މެޑޯޒް,ފާޠިމަތު އަމާނާ
+541,Gn Fuvahmulah,Dhadimagu Meadows,Aishath Jaushan Mohamed,F,AXXX959,ދަޑިމަގު މެޑޯޒް,ޢާއިޝަތު ޖައުޝަން މުޙައްމަދު
+542,Gn Fuvahmulah,Dhadimagu Meezaan,Ali Imraan,M,AXXX297,ދަޑިމަގު މީޒާން,ޢަލީ ޢިމްރާން
+543,Gn Fuvahmulah,Dhadimagu Meseena,Aishath Ibrahim,F,AXXX696,ދަޑިމަގު މެސީނާ,ޢާއިޝަތު އިބްރާހީމް
+544,Gn Fuvahmulah,Dhadimagu Meyzbaan,Mohamed Firag,M,AXXX406,ދަޑިމަގު މޭޒްބާން,މުޙައްމަދު ފިރާޤު
+545,Gn Fuvahmulah,Dhadimagu Meyzbaan,Hawwa Soodha,F,AXXX252,ދަޑިމަގު މޭޒްބާން,ޙައްވާ ސުޢުދާ
+546,Gn Fuvahmulah,Dhadimagu Meyzbaan,Ali Affaan,M,AXXX581,ދަޑިމަގު މޭޒްބާން,ޢަލީ ޢައްފާން
+547,Gn Fuvahmulah,Dhadimagu Meyzbaan,Ibrahim Firag,M,AXXX583,ދަޑިމަގު މޭޒްބާން,އިބްރާހީމް ފިރާޤު
+548,Gn Fuvahmulah,Dhadimagu Meyzbaan,Khadeeja Suaidha,F,AXXX584,ދަޑިމަގު މޭޒްބާން,ޚަދީޖާ ސުޢައިދާ
+549,Gn Fuvahmulah,Dhadimagu Meyzbaan,Aseela Moosa,F,AXXX884,ދަޑިމަގު މޭޒްބާން,އަސީލާ މޫސާ
+550,Gn Fuvahmulah,Dhadimagu Meyzbaan,Yumna Moosa,F,AXXX075,ދަޑިމަގު މޭޒްބާން,ޔުމްނާ މޫސާ
+551,Gn Fuvahmulah,Dhadimagu Meyzbaan,Mariyam Sharuwath,F,AXXX840,ދަޑިމަގު މޭޒްބާން,މަރްޔަމް ޝަރުވަތު
+552,Gn Fuvahmulah,Dhadimagu Milaafaru,Mohamed Husam,M,AXXX592,ދަޑިމަގު މިލާފަރު,މުޙައްމަދު ހުސާމް
+553,Gn Fuvahmulah,Dhadimagu Mirihimaage,Hussain Nafees,M,AXXX326,ދަޑިމަގު މިރިހިމާގެ,ޙުސައިން ނަފީސް
+554,Gn Fuvahmulah,Dhadimagu Mirihimaage,Aishath Mohamed,F,AXXX593,ދަޑިމަގު މިރިހިމާގެ,ޢާއިޝަތު މުޙައްމަދު
+555,Gn Fuvahmulah,Dhadimagu Mirihimaage,Aminath Sihana Ali,F,AXXX958,ދަޑިމަގު މިރިހިމާގެ,އާމިނަތު ސިހާނާ ޢަލީ
+556,Gn Fuvahmulah,Dhadimagu Mirihimaage,Saam Ali Ahmed,M,AXXX998,ދަޑިމަގު މިރިހިމާގެ,ސާމް ޢަލީ އަޙްމަދު
+557,Gn Fuvahmulah,Dhadimagu Misurugadhakoalhige,Hussain Mohamed,M,AXXX320,ދަޑިމަގު މިސުރުގަދަކޯޅިގެ,ޙުސައިން މުޙައްމަދު
+558,Gn Fuvahmulah,Dhadimagu Misurugadhakoalhige,Hawwa Dhiye,F,AXXX490,ދަޑިމަގު މިސުރުގަދަކޯޅިގެ,ޙައްވާދިޔެ
+559,Gn Fuvahmulah,Dhadimagu Misurugadhakoalhige,Mazin Hussain Mohamed,M,AXXX988,ދަޑިމަގު މިސުރުގަދަކޯޅިގެ,މާޒިން ޙުސައިން މުޙައްމަދު
+560,Gn Fuvahmulah,Dhadimagu Misurugadhakoalhige,Ali Ahsan Hussain,M,AXXX989,ދަޑިމަގު މިސުރުގަދަކޯޅިގެ,ޢަލީ އަޙްސަން ޙުސައިން
+561,Gn Fuvahmulah,Dhadimagu Miyaazu,Fathmath Ahmed,F,AXXX523,ދަޑިމަގު މިޔާޒު,ފާޠިމަތު އަޙްމަދު
+562,Gn Fuvahmulah,Dhadimagu Miyaazu,Aminath Shameem Ibrahim,F,AXXX530,ދަޑިމަގު މިޔާޒު,އާމިނަތު ޝަމީމު އިބްރާހީމް
+563,Gn Fuvahmulah,Dhadimagu Miyaazu,Aishath Shameem,F,AXXX531,ދަޑިމަގު މިޔާޒު,ޢާއިޝަތު ޝަމީމް
+564,Gn Fuvahmulah,Dhadimagu Miyaazu,Abdulla Shameem,M,AXXX284,ދަޑިމަގު މިޔާޒު,ޢަބްދުﷲ ޝަމީމް
+565,Gn Fuvahmulah,Dhadimagu Miyaazu,Ibrahim Shameem,M,AXXX271,ދަޑިމަގު މިޔާޒު,އިބްރާހީމް ޝަމީމް
+566,Gn Fuvahmulah,Dhadimagu Miyaazu,Hussain Shameem Abdulla,M,AXXX910,ދަޑިމަގު މިޔާޒު,ޙުސައިން ޝަމީމް ޢަބްދުﷲ
+567,Gn Fuvahmulah,Dhadimagu Moahi,Mohamed Hassan Didi,M,AXXX105,ދަޑިމަގު މޯހި,މުޙައްމަދު ޙަސަންދީދީ
+568,Gn Fuvahmulah,Dhadimagu Moahi,Ahmed Simadh,M,AXXX823,ދަޑިމަގު މޯހި,އަޙްމަދު ޞިމާދު
+569,Gn Fuvahmulah,Dhadimagu Moahi,Fathimath Sura Mohamed,F,AXXX265,ދަޑިމަގު މޯހި,ފާޠިމަތު ސުރާ މުޙައްމަދު
+570,Gn Fuvahmulah,Dhadimagu Moodhuveli,Hawwa Zahira,F,AXXX041,ދަޑިމަގު މޫދުވެލި,ޙައްވާ ޒާހިރާ
+571,Gn Fuvahmulah,Dhadimagu Moodhuveli,Mohamed Adam,M,AXXX791,ދަޑިމަގު މޫދުވެލި,މުޙައްމަދު އާދަމް
+572,Gn Fuvahmulah,Dhadimagu Moon House,Abdulla Ali Didi,M,AXXX941,ދަޑިމަގު މޫންހައުސް,ޢަބްދުﷲ ޢަލީދީދީ
+573,Gn Fuvahmulah,Dhadimagu Moon House,Dr Mohamed Akram Abdulla,M,AXXX369,ދަޑިމަގު މޫންހައުސް,ޑރ މުޙައްމަދު އަކްރަމް ޢަބްދުﷲ
+574,Gn Fuvahmulah,Dhadimagu Moon Walk,Abdul Hameed Ali,M,AXXX584,ދަޑިމަގު މޫންވޯކް,ޢަބްދުލްޙަމީދު ޢަލީ
+575,Gn Fuvahmulah,Dhadimagu Moon Walk,Mohamed Hathif,M,AXXX210,ދަޑިމަގު މޫންވޯކް,މުޙައްމަދު ހާތިފް
+576,Gn Fuvahmulah,Dhadimagu Moon Walk,Dheena Abdul Hameed,F,AXXX096,ދަޑިމަގު މޫންވޯކް,ދީނާ ޢަބްދުލްޙަމީދު
+577,Gn Fuvahmulah,Dhadimagu Moon Walk,Dheema Abdul Hameed,F,AXXX097,ދަޑިމަގު މޫންވޯކް,ދީމާ ޢަބްދުލްޙަމީދު
+578,Gn Fuvahmulah,Dhadimagu Mubahu Manzil,Ibrahim Ali,M,AXXX850,ދަޑިމަގު މުބާޙުމަންޒިލް,އިބްރާހީމް ޢަލީ
+579,Gn Fuvahmulah,Dhadimagu Mubahu Manzil,Karam Ibrahim Ali,F,AXXX364,ދަޑިމަގު މުބާޙުމަންޒިލް,ކަރަމް އިބްރާހީމް ޢަލީ
+580,Gn Fuvahmulah,Dhadimagu Muli,Mohamed Ibrahim,M,AXXX881,ދަޑިމަގު މުލި,މުޙައްމަދު އިބްރާހީމް
+581,Gn Fuvahmulah,Dhadimagu Muli,Rasheeda Mohamed Sadiq,F,AXXX021,ދަޑިމަގު މުލި,ރަޝީދާ މުޙައްމަދު ޞާދިޤު
+582,Gn Fuvahmulah,Dhadimagu Muli,Aminath Hana Mohamed,F,AXXX263,ދަޑިމަގު މުލި,އާމިނަތު ހަނާ މުޙައްމަދު
+583,Gn Fuvahmulah,Dhadimagu Muli,Ibrahim Areesh,M,AXXX291,ދަޑިމަގު މުލި,އިބްރާހީމް ޢަރީޝް
+584,Gn Fuvahmulah,Dhadimagu Muli,Hussain Sharih,M,AXXX768,ދަޑިމަގު މުލި,ޙުސައިން ޝާރިޙު
+585,Gn Fuvahmulah,Dhadimagu Muniyaa,Sadhin Mohamed Latheef,M,AXXX352,ދަޑިމަގު މުނިޔާ,ސާދިން މުޙައްމަދު ލަޠީފް
+586,Gn Fuvahmulah,Dhadimagu Muraaki,Fathimath Naseema,F,AXXX831,ދަޑިމަގު މުރާކި,ފާޠިމަތު ނަސީމާ
+587,Gn Fuvahmulah,Dhadimagu Muraaki,Ali Ahmed Didi,M,AXXX833,ދަޑިމަގު މުރާކި,ޢަލީ އަޙްމަދުދީދީ
+588,Gn Fuvahmulah,Dhadimagu Muraaki,Aishath Wasifa,F,AXXX955,ދަޑިމަގު މުރާކި,ޢާއިޝަތު ވާޞިފާ
+589,Gn Fuvahmulah,Dhadimagu Murevi,Ahmed Sameer,M,AXXX217,ދަޑިމަގު މުރެވި,އަޙްމަދު ސަމީރު
+590,Gn Fuvahmulah,Dhadimagu Murevi,Aishath Lamya Sameer,F,AXXX020,ދަޑިމަގު މުރެވި,ޢާއިޝަތު ލަމްޔާ ސަމީރު
+591,Gn Fuvahmulah,Dhadimagu Naazunee,Fathimath Nazira,F,AXXX322,ދަޑިމަގު ނާޒްނީ,ފާޠިމަތު ނާޡިރާ
+592,Gn Fuvahmulah,Dhadimagu Naazunee,Mohamed Suaid Saeed,M,AXXX060,ދަޑިމަގު ނާޒްނީ,މުޙައްމަދު ސުޢައިދު ސަޢީދު
+593,Gn Fuvahmulah,Dhadimagu Narugis Villa,Ibrahim Faisal,M,AXXX321,ދަޑިމަގު ނަރުގިސްވިލާ,އިބްރާހީމް ފައިޞަލް
+594,Gn Fuvahmulah,Dhadimagu Narugis Villa,Ahmed Nimal,M,AXXX545,ދަޑިމަގު ނަރުގިސްވިލާ,އަޙްމަދު ނިމާލް
+595,Gn Fuvahmulah,Dhadimagu Narugis Villa,Aishath Mohamed,F,AXXX546,ދަޑިމަގު ނަރުގިސްވިލާ,ޢާއިޝަތު މުޙައްމަދު
+596,Gn Fuvahmulah,Dhadimagu Narugis Villa,Mohamed Ali,M,AXXX760,ދަޑިމަގު ނަރުގިސްވިލާ,މުޙައްމަދު ޢަލީ
+597,Gn Fuvahmulah,Dhadimagu Narugis Villa,Mohamed Shamil,M,AXXX484,ދަޑިމަގު ނަރުގިސްވިލާ,މުޙައްމަދު ޝާމިލް
+598,Gn Fuvahmulah,Dhadimagu Narugis Villa,Hussain Nishan,M,AXXX889,ދަޑިމަގު ނަރުގިސްވިލާ,ޙުސައިން ނިޝާން
+599,Gn Fuvahmulah,Dhadimagu Naseeb,Ibrahim Mueen,M,AXXX622,ދަޑިމަގު ނަޞީބް,އިބްރާހީމް މުޢީން
+600,Gn Fuvahmulah,Dhadimagu Naseeb,Ibrahim Shafiee Ali,M,AXXX133,ދަޑިމަގު ނަޞީބް,އިބްރާހީމް ޝާފިޢީ ޢަލީ
+601,Gn Fuvahmulah,Dhadimagu Nasheyman,Naseema Ali,F,AXXX620,ދަޑިމަގު ނަޝޭމަން,ނަސީމާ ޢަލީ
+602,Gn Fuvahmulah,Dhadimagu Nation,Aminath Haseena,F,AXXX860,ދަޑިމަގު ނޭޝަން,އާމިނަތު ޙަސީނާ
+603,Gn Fuvahmulah,Dhadimagu Nation,Mohamed Abdulla,M,AXXX697,ދަޑިމަގު ނޭޝަން,މުޙައްމަދު ޢަބްދުﷲ
+604,Gn Fuvahmulah,Dhadimagu Nation,Ahmed Naffaz Mohamed,M,AXXX443,ދަޑިމަގު ނޭޝަން,އަޙްމަދު ނައްފާޛް މުޙައްމަދު
+605,Gn Fuvahmulah,Dhadimagu Nation,Aishath Nasha Mohamed,F,AXXX197,ދަޑިމަގު ނޭޝަން,ޢާއިޝަތު ނަޝާ މުޙައްމަދު
+606,Gn Fuvahmulah,Dhadimagu Nedhan,Sanfa Ibrahim,F,AXXX774,ދަޑިމަގު ނެދަން,ސަންފާ އިބްރާހީމް
+607,Gn Fuvahmulah,Dhadimagu Nedhan,Fathimath Naffa Mohamed,F,AXXX196,ދަޑިމަގު ނެދަން,ފާޠިމަތު ނައްފާ މުޙައްމަދު
+608,Gn Fuvahmulah,Dhadimagu Nedhan,Mihuna Abdul Hameed,F,AXXX575,ދަޑިމަގު ނެދަން,މިހުނާ ޢަބްދުލްޙަމީދު
+609,Gn Fuvahmulah,Dhadimagu Neela,Mariyam Nafiza Sadiq,F,AXXX283,ދަޑިމަގު ނީލަ,މަރްޔަމް ނާފިޛާ ޞާދިޤު
+610,Gn Fuvahmulah,Dhadimagu Neela,Mohamed Jaleel,M,AXXX555,ދަޑިމަގު ނީލަ,މުޙައްމަދު ޖަލީލު
+611,Gn Fuvahmulah,Dhadimagu Neela,Ahmed Nabeel,M,AXXX811,ދަޑިމަގު ނީލަ,އަޙްމަދު ނަބީލް
+612,Gn Fuvahmulah,Dhadimagu Neela,Jinan Jaleel,M,AXXX812,ދަޑިމަގު ނީލަ,ޖިނާން ޖަލީލް
+613,Gn Fuvahmulah,Dhadimagu Neela,Mohamed Vishah Ibrahim,M,AXXX122,ދަޑިމަގު ނީލަ,މުޙައްމަދު ވިޝާޙް އިބްރާހީމް
+614,Gn Fuvahmulah,Dhadimagu Neela,Abdulla Ageel,M,AXXX653,ދަޑިމަގު ނީލަ,ޢަބްދުﷲ ޢަޤީލް
+615,Gn Fuvahmulah,Dhadimagu Neela,Nauf Mohamed Jaleel,M,AXXX694,ދަޑިމަގު ނީލަ,ނައުފު މުޙައްމަދު ޖަލީލު
+616,Gn Fuvahmulah,Dhadimagu Neela,Aminath Nabeela Jaleel,F,AXXX261,ދަޑިމަގު ނީލަ,އާމިނަތު ނަބީލާ ޖަލީލު
+617,Gn Fuvahmulah,Dhadimagu Neela,Abdulla Rasheed,M,AXXX333,ދަޑިމަގު ނީލަ,ޢަބްދުﷲ ރަޝީދު
+618,Gn Fuvahmulah,Dhadimagu Neelge,Hussain Adam,M,AXXX608,ދަޑިމަގު ނީލްގެ,ޙުސައިން އާދަމް
+619,Gn Fuvahmulah,Dhadimagu Neelge,Ibrahim Ahmed,M,AXXX726,ދަޑިމަގު ނީލްގެ,އިބްރާހީމް އަޙްމަދު
+620,Gn Fuvahmulah,Dhadimagu Neelge,Adam Abdul Rahman,M,AXXX341,ދަޑިމަގު ނީލްގެ,އާދަމް ޢަބްދުއްރަޙްމާން
+621,Gn Fuvahmulah,Dhadimagu Neelge,Ali Adam,M,AXXX071,ދަޑިމަގު ނީލްގެ,ޢަލީ އާދަމް
+622,Gn Fuvahmulah,Dhadimagu Neelge,Fathimath Luma Hussain,F,AXXX975,ދަޑިމަގު ނީލްގެ,ފާޠިމަތު ލުމާ ޙުސައިން
+623,Gn Fuvahmulah,Dhadimagu Neen,Aminath Abdul Qadir,F,AXXX780,ދަޑިމަގު ނީން,އާމިނަތު ޢަބްދުލްޤާދިރު
+624,Gn Fuvahmulah,Dhadimagu Neen,Mohamed Athif,M,AXXX174,ދަޑިމަގު ނީން,މުޙައްމަދު ޢާޠިފް
+625,Gn Fuvahmulah,Dhadimagu Neen,Dhaha Ahmed Waseem,F,AXXX764,ދަޑިމަގު ނީން,ދަހާ އަޙްމަދު ވަސީމް
+626,Gn Fuvahmulah,Dhadimagu Nerulhu,Areej Ahmed,F,AXXX622,ދަޑިމަގު ނެރުޅު,ޢަރީޖް އަޙްމަދު
+627,Gn Fuvahmulah,Dhadimagu Nerulhu,Fathimath Ibrahim,F,AXXX837,ދަޑިމަގު ނެރުޅު,ފާޠިމަތު އިބްރާހީމް
+628,Gn Fuvahmulah,Dhadimagu Nerulhu,Mohamed Thariq Ahmed,M,AXXX884,ދަޑިމަގު ނެރުޅު,މުޙައްމަދު ޠާރިޤް އަޙްމަދު
+629,Gn Fuvahmulah,Dhadimagu Nerulhu,Ahmed Mohamed Didi,M,AXXX064,ދަޑިމަގު ނެރުޅު,އަޙްމަދު މުޙައްމަދުދީދީ
+630,Gn Fuvahmulah,Dhadimagu Nerulhu,Abeerath Ahmed,F,AXXX231,ދަޑިމަގު ނެރުޅު,ޢަބީރަތު އަޙްމަދު
+631,Gn Fuvahmulah,Dhadimagu Nerulhu,Humood Ahmed,M,AXXX104,ދަޑިމަގު ނެރުޅު,ޙުމޫދު އަޙްމަދު
+632,Gn Fuvahmulah,Dhadimagu Nerulhu,Yaees Ahmed,M,AXXX106,ދަޑިމަގު ނެރުޅު,ޔަޢީސް އަޙްމަދު
+633,Gn Fuvahmulah,Dhadimagu Nerulhu,Rimah Ahmed,M,AXXX108,ދަޑިމަގު ނެރުޅު,ރިމާޙު އަޙްމަދު
+634,Gn Fuvahmulah,Dhadimagu Nerulhu,Suha Hussain Ali,F,AXXX761,ދަޑިމަގު ނެރުޅު,ސުހާ ޙުސައިން ޢަލީ
+635,Gn Fuvahmulah,Dhadimagu New Light,Muneer Hassan,M,AXXX435,ދަޑިމަގު ނިއުލައިޓް,މުނީރު ޙަސަން
+636,Gn Fuvahmulah,Dhadimagu New Light,Ahmed Misbah Muneer,M,AXXX746,ދަޑިމަގު ނިއުލައިޓް,އަޙްމަދު މިޞްބާޙު މުނީރު
+637,Gn Fuvahmulah,Dhadimagu New Light,Hawwa Anifa Muneer,F,AXXX916,ދަޑިމަގު ނިއުލައިޓް,ޙައްވާ އާނިފާ މުނީރު
+638,Gn Fuvahmulah,Dhadimagu New Light,Mariyam Zumra Muneer,F,AXXX964,ދަޑިމަގު ނިއުލައިޓް,މަރްޔަމް ޒުމްރާ މުނީރު
+639,Gn Fuvahmulah,Dhadimagu New Light,Aminath Zahura Muneer,F,AXXX193,ދަޑިމަގު ނިއުލައިޓް,އާމިނަތު ޒަހުރާ މުނީރު
+640,Gn Fuvahmulah,Dhadimagu Nice,Khalid Abdulla Ali,M,AXXX733,ދަޑިމަގު ނައިސް,ޚާލިދު ޢަބްދުﷲ ޢަލީ
+641,Gn Fuvahmulah,Dhadimagu Nihaali,Shafiya Abdul Kareem,F,AXXX518,ދަޑިމަގު ނިހާލި,ޝާފިޔާ ޢަބްދުލްކަރީމް
+642,Gn Fuvahmulah,Dhadimagu Nihaali,Aminath Shifa,F,AXXX987,ދަޑިމަގު ނިހާލި,އާމިނަތު ޝިފާ
+643,Gn Fuvahmulah,Dhadimagu Nihaali,Mariyam Shuhudha,F,AXXX001,ދަޑިމަގު ނިހާލި,މަރްޔަމް ޝުހުދާ
+644,Gn Fuvahmulah,Dhadimagu Niru,Shaheen Mohamed,F,AXXX417,ދަޑިމަގު ނިރު,ޝާހީން މުޙައްމަދު
+645,Gn Fuvahmulah,Dhadimagu Niru,Hassan Saeed,M,AXXX621,ދަޑިމަގު ނިރު,ޙަސަން ސަޢީދު
+646,Gn Fuvahmulah,Dhadimagu Nisham,Fathimath Nisha,F,AXXX492,ދަޑިމަގު ނިޝަމް,ފާޠިމަތު ނިޝާ
+647,Gn Fuvahmulah,Dhadimagu Niyaama,Mohamed Siddeeq Abdulla,M,AXXX869,ދަޑިމަގު ނިޔާމަ,މުޙައްމަދު ޞިއްދީޤު ޢަބްދުﷲ
+648,Gn Fuvahmulah,Dhadimagu Noabahaaru,Mohamed Zuhuree,M,AXXX697,ދަޑިމަގު ނޯބަހާރު,މުޙައްމަދު ޒުހުރީ
+649,Gn Fuvahmulah,Dhadimagu Nooali,Ameena Hussain,F,AXXX749,ދަޑިމަގު ނޫއަލި,އަމީނާ ޙުސައިން
+650,Gn Fuvahmulah,Dhadimagu Nooali,Mohamed Faruhad,M,AXXX750,ދަޑިމަގު ނޫއަލި,މުޙައްމަދު ފަރުޙާދު
+651,Gn Fuvahmulah,Dhadimagu Nooali,Ahmed Maseeh,M,AXXX168,ދަޑިމަގު ނޫއަލި,އަޙްމަދު މަސީޙު
+652,Gn Fuvahmulah,Dhadimagu Nooali,Fathimath Niha,F,AXXX274,ދަޑިމަގު ނޫއަލި,ފާޠިމަތު ނިހާ
+653,Gn Fuvahmulah,Dhadimagu Nooali,Mariyam Nazula,F,AXXX078,ދަޑިމަގު ނޫއަލި,މަރްޔަމް ނަޒްލާ
+654,Gn Fuvahmulah,Dhadimagu Nooali,Aminath Ashaa,F,AXXX925,ދަޑިމަގު ނޫއަލި,އާމިނަތު އަޝާ
+655,Gn Fuvahmulah,Dhadimagu Nooali,Aishath Afraha,F,AXXX688,ދަޑިމަގު ނޫއަލި,ޢާއިޝަތު އަފްރާޙާ
+656,Gn Fuvahmulah,Dhadimagu Noohiri,Mohamed Ahmed Manik,M,AXXX439,ދަޑިމަގު ނޫހިރި,މުޙައްމަދު އަޙްމަދުމަނިކު
+657,Gn Fuvahmulah,Dhadimagu Noohiri,Najudha Mohamed,F,AXXX283,ދަޑިމަގު ނޫހިރި,ނަޖުދާ މުޙައްމަދު
+658,Gn Fuvahmulah,Dhadimagu Noomaraage,Nahida Ahmed Solih,F,AXXX423,ދަޑިމަގު ނޫމަރާގެ,ނާހިދާ އަޙްމަދު ޞާލިޙް
+659,Gn Fuvahmulah,Dhadimagu Noomaraage,Aishath Abdullah,F,AXXX454,ދަޑިމަގު ނޫމަރާގެ,ޢާއިޝަތު ޢަބްދުﷲ
+660,Gn Fuvahmulah,Dhadimagu Noothari,Aishath Abdulla Didi,F,AXXX830,ދަޑިމަގު ނޫތަރި,ޢާއިޝަތު ޢަބްދުﷲދީދީ
+661,Gn Fuvahmulah,Dhadimagu Noothari,Abdulla Humaid,M,AXXX688,ދަޑިމަގު ނޫތަރި,ޢަބްދުﷲ ޙުމައިދު
+662,Gn Fuvahmulah,Dhadimagu Ocean,Ali Mufeed,M,AXXX377,ދަޑިމަގު އޯޝަން,ޢަލީ މުފީދު
+663,Gn Fuvahmulah,Dhadimagu Ocean,Suma Ali Mufeed,F,AXXX006,ދަޑިމަގު އޯޝަން,ސުމާ ޢަލީ މުފީދު
+664,Gn Fuvahmulah,Dhadimagu Ofuveli,Abdulla Mohamed,M,AXXX882,ދަޑިމަގު އޮފުވެލި,ޢަބްދުﷲ މުޙައްމަދު
+665,Gn Fuvahmulah,Dhadimagu Ofuveli,Ahmed Ameen,M,AXXX445,ދަޑިމަގު އޮފުވެލި,އަޙްމަދު ޢަމީން
+666,Gn Fuvahmulah,Dhadimagu Orchidmaage,Sheeza Ibrahim,F,AXXX379,ދަޑިމަގު އޯކިޑުމާގެ,ޝީޒާ އިބްރާހީމް
+667,Gn Fuvahmulah,Dhadimagu Orchidmaage,Fathimath Nafha Zahid,F,AXXX498,ދަޑިމަގު އޯކިޑުމާގެ,ފާޠިމަތު ނަފްޙާ ޒާހިދު
+668,Gn Fuvahmulah,Dhadimagu Orchidmaage,Jana Hussain Shakir,F,AXXX937,ދަޑިމަގު އޯކިޑުމާގެ,ޖަނާ ޙުސައިން ޝާކިރު
+669,Gn Fuvahmulah,Dhadimagu Orchidmaage,Luba Hussain Shakir,F,AXXX088,ދަޑިމަގު އޯކިޑުމާގެ,ލުބާ ޙުސައިން ޝާކިރު
+670,Gn Fuvahmulah,Dhadimagu Parisge,Zulaikha Ahmed,F,AXXX719,ދަޑިމަގު ޕެރިސްގެ,ޒުލައިޚާ އަޙްމަދު
+671,Gn Fuvahmulah,Dhadimagu Parisge,Abdul Gaadhir,M,AXXX723,ދަޑިމަގު ޕެރިސްގެ,ޢަބްދުލްޤާދިރު
+672,Gn Fuvahmulah,Dhadimagu Parisge,Ahmed Yazeel,M,AXXX726,ދަޑިމަގު ޕެރިސްގެ,އަޙްމަދު ޔަޒީލު
+673,Gn Fuvahmulah,Dhadimagu Parisge,Aminath Uzaina Abdul Gadhir,F,AXXX972,ދަޑިމަގު ޕެރިސްގެ,އާމިނަތު އުޛައިނާ ޢަބްދުލްޤާދިރު
+674,Gn Fuvahmulah,Dhadimagu Parisge,Ali Nuaim,M,AXXX974,ދަޑިމަގު ޕެރިސްގެ,ޢަލީ ނުޢައިމް
+675,Gn Fuvahmulah,Dhadimagu Plaza,Abdul Qadir,M,AXXX582,ދަޑިމަގު ޕްލާޒާ,ޢަބްދުލްޤާދިރު
+676,Gn Fuvahmulah,Dhadimagu Plaza,Fathmath Abdulla,F,AXXX769,ދަޑިމަގު ޕްލާޒާ,ފާޠިމަތު ޢަބްދުﷲ
+677,Gn Fuvahmulah,Dhadimagu Plaza,Mariyam Abdul Qadir,F,AXXX770,ދަޑިމަގު ޕްލާޒާ,މަރްޔަމް ޢަބްދުލްޤާދިރު
+678,Gn Fuvahmulah,Dhadimagu Plaza,Aishath Abdul Gadir,F,AXXX771,ދަޑިމަގު ޕްލާޒާ,ޢާއިޝަތު ޢަބްދުލްޤާދިރު
+679,Gn Fuvahmulah,Dhadimagu Plaza,Raula Abdul Gadir,F,AXXX260,ދަޑިމަގު ޕްލާޒާ,ރައުޟާ ޢަބްދުލްޤާދިރު
+680,Gn Fuvahmulah,Dhadimagu Plaza,Alya Qais Abdul Qaadir,F,AXXX022,ދަޑިމަގު ޕްލާޒާ,ޢަލްޔާ ޤައިސް ޢަބްދުލްޤާދިރު
+681,Gn Fuvahmulah,Dhadimagu Plaza,Manal Mohamed Ali,F,AXXX567,ދަޑިމަގު ޕްލާޒާ,މަނާލް މުޙައްމަދު ޢަލީ
+682,Gn Fuvahmulah,Dhadimagu Raiyfusge,Mariyam Nuzufa,F,AXXX647,ދަޑިމަގު ރަތްފުސްގެ,މަރްޔަމް ނުޒުފާ
+683,Gn Fuvahmulah,Dhadimagu Raiyfusge,Zifuna Ahmed,F,AXXX649,ދަޑިމަގު ރަތްފުސްގެ,ޒިފުނާ އަޙްމަދު
+684,Gn Fuvahmulah,Dhadimagu Raiyvilaa,Fathmath Ali Didi,F,AXXX537,ދަޑިމަގު ރަތްވިލާ,ފާޠިމަތު ޢަލީދީދީ
+685,Gn Fuvahmulah,Dhadimagu Raiyvilaa,Hamdha Ibrahim,F,AXXX270,ދަޑިމަގު ރަތްވިލާ,ޙަމްދާ އިބްރާހީމް
+686,Gn Fuvahmulah,Dhadimagu Raiyvilaa,Ibrahim Shayaan Shahig,M,AXXX691,ދަޑިމަގު ރަތްވިލާ,އިބްރާހީމް ޝަޔާން ޝާހިޤު
+687,Gn Fuvahmulah,Dhadimagu Raizal,Abdulla Ahmed,M,AXXX464,ދަޑިމަގު ރައިޒަލް,ޢަބްދުﷲ އަޙްމަދު
+688,Gn Fuvahmulah,Dhadimagu Raizal,Ahmed Faishan Abdulla,M,AXXX651,ދަޑިމަގު ރައިޒަލް,އަޙްމަދު ފައިޝަން ޢަބްދުﷲ
+689,Gn Fuvahmulah,Dhadimagu Ranauraage,Ibrahim Saeed Hussain,M,AXXX392,ދަޑިމަގު ރަނައުރާގެ,އިބްރާހީމް ސަޢީދު ޙުސައިން
+690,Gn Fuvahmulah,Dhadimagu Ranauraage,Malik Saeed,M,AXXX878,ދަޑިމަގު ރަނައުރާގެ,މާލިކު ސަޢީދު
+691,Gn Fuvahmulah,Dhadimagu Ranauraage,Yaameen Saeed,M,AXXX376,ދަޑިމަގު ރަނައުރާގެ,ޔާމީން ސަޢީދު
+692,Gn Fuvahmulah,Dhadimagu Ranauraage,Ameen Saeed,M,AXXX377,ދަޑިމަގު ރަނައުރާގެ,އަމީން ސަޢީދު
+693,Gn Fuvahmulah,Dhadimagu Ranauraamaage,Fathimath Shakeela,F,AXXX397,ދަޑިމަގު ރަނައުރާމާގެ,ފާޠިމަތު ޝަކީލާ
+694,Gn Fuvahmulah,Dhadimagu Ranauraamaage,Mohamed Saeed,M,AXXX777,ދަޑިމަގު ރަނައުރާމާގެ,މުޙައްމަދު ސަޢީދު
+695,Gn Fuvahmulah,Dhadimagu Ranboli,Ali Hussain Didi,M,AXXX968,ދަޑިމަގު ރަންބޮލި,ޢަލީ ޙުސައިންދީދީ
+696,Gn Fuvahmulah,Dhadimagu Ranboli,Aminath Raifa Ali,F,AXXX959,ދަޑިމަގު ރަންބޮލި,އާމިނަތު ރައިފާ ޢަލީ
+697,Gn Fuvahmulah,Dhadimagu Ranboli,Fathimath Raina Ali,F,AXXX960,ދަޑިމަގު ރަންބޮލި,ފާޠިމަތު ރައިނާ ޢަލީ
+698,Gn Fuvahmulah,Dhadimagu Ranbusthaanuge,Hassan Ahmed,M,AXXX778,ދަޑިމަގު ރަންބުސްތާނުގެ,ޙަސަން އަޙްމަދު
+699,Gn Fuvahmulah,Dhadimagu Ranhadhuvaruge,Hussain Moosa Mohamed,M,AXXX279,ދަޑިމަގު ރަންހަދުވަރުގެ,ޙުސައިން މޫސާ މުޙައްމަދު
+700,Gn Fuvahmulah,Dhadimagu Ranhadhuvaruge,Afsal Hussain Didi,M,AXXX135,ދަޑިމަގު ރަންހަދުވަރުގެ,އަފްޟަލް ޙުސައިންދީދީ
+701,Gn Fuvahmulah,Dhadimagu Ranhadhuvaruge,Aishath Ibrahim Hassan,F,AXXX136,ދަޑިމަގު ރަންހަދުވަރުގެ,ޢާއިޝަތު އިބްރާހީމް ޙަސަން
+702,Gn Fuvahmulah,Dhadimagu Ranhadhuvaruge,Fauziyya Mohamed,F,AXXX485,ދަޑިމަގު ރަންހަދުވަރުގެ,ފައުޒިއްޔާ މުޙައްމަދު
+703,Gn Fuvahmulah,Dhadimagu Rasfari,Mohamed Saneeh Saeed,M,AXXX000,ދަޑިމަގު ރަސްފަރި,މުޙައްމަދު ސަނީޙް ސަޢީދު
+704,Gn Fuvahmulah,Dhadimagu Rasrani,Ali Mohamed Didi,M,AXXX175,ދަޑިމަގު ރަސްރަނި,ޢަލީ މުޙައްމަދުދީދީ
+705,Gn Fuvahmulah,Dhadimagu Red Rose,Nafeesa Mohamed,F,AXXX668,ދަޑިމަގު ރެޑްރޯސް,ނަފީސާ މުޙައްމަދު
+706,Gn Fuvahmulah,Dhadimagu Red Rose,Abdulla Mohamed,M,AXXX891,ދަޑިމަގު ރެޑްރޯސް,ޢަބްދުﷲ މުޙައްމަދު
+707,Gn Fuvahmulah,Dhadimagu Red Rose,Mohamed Nazeef,M,AXXX371,ދަޑިމަގު ރެޑްރޯސް,މުޙައްމަދު ނަޡީފް
+708,Gn Fuvahmulah,Dhadimagu Red Rose,Nabaha Abdulla,F,AXXX385,ދަޑިމަގު ރެޑްރޯސް,ނަބާޙާ ޢަބްދުﷲ
+709,Gn Fuvahmulah,Dhadimagu Red Rose,Aishath Naashee Abdulla,F,AXXX504,ދަޑިމަގު ރެޑްރޯސް,ޢާއިޝަތު ނާޝީ ޢަބްދުﷲ
+710,Gn Fuvahmulah,Dhadimagu Redhan,Aminath Saeed,F,AXXX664,ދަޑިމަގު ރެދަން,އާމިނަތު ސަޢީދު
+711,Gn Fuvahmulah,Dhadimagu Redhan,Hussain Ahmed,M,AXXX706,ދަޑިމަގު ރެދަން,ޙުސައިން އަޙްމަދު
+712,Gn Fuvahmulah,Dhadimagu Redhan,Aishath Zunaam Hussain,F,AXXX108,ދަޑިމަގު ރެދަން,ޢާއިޝަތު ޒުނާމް ޙުސައިން
+713,Gn Fuvahmulah,Dhadimagu Reward,Aminath Zulfa Ahmed,F,AXXX278,ދަޑިމަގު ރިވޯޑް,އާމިނަތު ޒުލްފާ އަޙްމަދު
+714,Gn Fuvahmulah,Dhadimagu Rihithari,Aminath Shaheeda,F,AXXX624,ދަޑިމަގު ރިހިތަރި,އާމިނަތު ޝަހީދާ
+715,Gn Fuvahmulah,Dhadimagu Rihithari,Fathimath Nuzfa Ibrahim,F,AXXX293,ދަޑިމަގު ރިހިތަރި,ފާޠިމަތު ނުޒުފާ އިބްރާހީމް
+716,Gn Fuvahmulah,Dhadimagu Rihithari,Hawwa Ula Ibrahim,F,AXXX168,ދަޑިމަގު ރިހިތަރި,ޙައްވާ ޢުލާ އިބްރާހީމް
+717,Gn Fuvahmulah,Dhadimagu Rihithari,Aminath Mishka Shujau,F,AXXX286,ދަޑިމަގު ރިހިތަރި,އާމިނަތު މިޝްކާ ޝުޖާޢު
+718,Gn Fuvahmulah,Dhadimagu Root,Ibrahim Hassan Ali,M,AXXX642,ދަޑިމަގު ރޫޓް,އިބްރާހީމް ޙަސަން ޢަލީ
+719,Gn Fuvahmulah,Dhadimagu Root,Aminath Minna,F,AXXX095,ދަޑިމަގު ރޫޓް,އާމިނަތު މިންނާ
+720,Gn Fuvahmulah,Dhadimagu Root,Aishath Insha Ibrahim,F,AXXX769,ދަޑިމަގު ރޫޓް,ޢާއިޝަތު އިންޝާ އިބްރާހީމް
+721,Gn Fuvahmulah,Dhadimagu Rose Villa,Ahmed Didi,M,AXXX459,ދަޑިމަގު ރޯޒުވިލާ,އަޙްމަދުދީދީ
+722,Gn Fuvahmulah,Dhadimagu Saadhan,Aminath Saeeda,F,AXXX359,ދަޑިމަގު ސާދަން,އާމިނަތު ސަޢީދާ
+723,Gn Fuvahmulah,Dhadimagu Saadhan,Abdulla Saeed,M,AXXX452,ދަޑިމަގު ސާދަން,ޢަބްދުﷲ ސަޢީދު
+724,Gn Fuvahmulah,Dhadimagu Saadhan,Aishath Mohamed,F,AXXX923,ދަޑިމަގު ސާދަން,ޢާއިޝަތު މުޙައްމަދު
+725,Gn Fuvahmulah,Dhadimagu Saadhan,Hussain Saeed,M,AXXX536,ދަޑިމަގު ސާދަން,ޙުސައިން ސަޢީދު
+726,Gn Fuvahmulah,Dhadimagu Saamireege,Rukhusana Ali,F,AXXX516,ދަޑިމަގު ސާމިރީގެ,ރުޚުސާނާ ޢަލީ
+727,Gn Fuvahmulah,Dhadimagu Saamireege,Sanfa Hussain Didi,F,AXXX472,ދަޑިމަގު ސާމިރީގެ,ސަންފާ ޙުސައިންދީދީ
+728,Gn Fuvahmulah,Dhadimagu Saamireege,Hussain Ali Didi,M,AXXX328,ދަޑިމަގު ސާމިރީގެ,ޙުސައިން ޢަލީދީދީ
+729,Gn Fuvahmulah,Dhadimagu Saatange,Fathimath Abdul Azeez,F,AXXX361,ދަޑިމަގު ސާޓަންގެ,ފާޠިމަތު ޢަބްދުލްޢަޒީޒް
+730,Gn Fuvahmulah,Dhadimagu Saatange,Sakeena Ali,F,AXXX599,ދަޑިމަގު ސާޓަންގެ,ސަކީނާ ޢަލީ
+731,Gn Fuvahmulah,Dhadimagu Saathee,Ali Moosa,M,AXXX982,ދަޑިމަގު ސާތީ,ޢަލީ މޫސާ
+732,Gn Fuvahmulah,Dhadimagu Sanctum,Abdulla Rafah Mohamed,M,AXXX055,ދަޑިމަގު ސެންކްޓަމް,ޢަބްދުﷲ ރަފާހު މުޙައްމަދު
+733,Gn Fuvahmulah,Dhadimagu Sanctum,Ahmed Raif Mohamed,M,AXXX057,ދަޑިމަގު ސެންކްޓަމް,އަޙްމަދު ރާއިފް މުޙައްމަދު
+734,Gn Fuvahmulah,Dhadimagu Sarumaage,Ibrahim Rashid,M,AXXX271,ދަޑިމަގު ސަރުމާގެ,އިބްރާހީމް ރާޝިދު
+735,Gn Fuvahmulah,Dhadimagu Sarumaage,Fauziyya Ali,F,AXXX460,ދަޑިމަގު ސަރުމާގެ,ފައުޒިއްޔާ ޢަލީ
+736,Gn Fuvahmulah,Dhadimagu Sarumaage,Mohamed Irneen Ahmed,M,AXXX184,ދަޑިމަގު ސަރުމާގެ,މުޙައްމަދު އިރްނީން އަޙްމަދު
+737,Gn Fuvahmulah,Dhadimagu Sarumaage,Fathimath Rayaa Zuhair,F,AXXX521,ދަޑިމަގު ސަރުމާގެ,ފާޠިމަތު ރަޔާ ޒުހައިރު
+738,Gn Fuvahmulah,Dhadimagu Sea Weed,Fathimath Ahmed,F,AXXX581,ދަޑިމަގު ސީވީޑް,ފާޠިމަތު އަޙްމަދު
+739,Gn Fuvahmulah,Dhadimagu Sea Weed,Abdul Sattar Moosa,M,AXXX793,ދަޑިމަގު ސީވީޑް,ޢަބްދުއްސައްތާރު މޫސާ
+740,Gn Fuvahmulah,Dhadimagu Sea Weed,Mohamed Areen,M,AXXX203,ދަޑިމަގު ސީވީޑް,މުޙައްމަދު ޢަރީން
+741,Gn Fuvahmulah,Dhadimagu Sea Weed,Aminath Areena,F,AXXX206,ދަޑިމަގު ސީވީޑް,އާމިނަތު ޢަރީނާ
+742,Gn Fuvahmulah,Dhadimagu Sea Weed,Sinau Abdul Sattar Moosa,M,AXXX207,ދަޑިމަގު ސީވީޑް,ޞިނާޢު ޢަބްދުއްސައްތާރު މޫސާ
+743,Gn Fuvahmulah,Dhadimagu Sea Weed,Mariyam Su udha Abdul Satthaar,F,AXXX209,ދަޑިމަގު ސީވީޑް,މަރްޔަމް ސުޢުދާ ޢަބްދުއްސައްތާރު
+744,Gn Fuvahmulah,Dhadimagu Sea Weed,Aishath Noora Abdul Sattar,F,AXXX094,ދަޑިމަގު ސީވީޑް,ޢާއިޝަތު ނޫރާ ޢަަބްދުއްސައްތާރު
+745,Gn Fuvahmulah,Dhadimagu Seastar,Ali Zahir Mohamed,M,AXXX557,ދަޑިމަގު ސީސްޓާރ,ޢަލީ ޒާހިރު މުޙައްމަދު
+746,Gn Fuvahmulah,Dhadimagu Seastar,Zaina Ali Zahir,F,AXXX549,ދަޑިމަގު ސީސްޓާރ,ޒައިނާ ޢަލީ ޒާހިރު
+747,Gn Fuvahmulah,Dhadimagu Seenia Villa,Abdulla Simaau,M,AXXX615,ދަޑިމަގު ސީނިއާވިލާ,ޢަބްދުﷲ ސިމާޢު
+748,Gn Fuvahmulah,Dhadimagu Seenia Villa,Hassan Sifah,M,AXXX648,ދަޑިމަގު ސީނިއާވިލާ,ޙަސަން ސިފާޙު
+749,Gn Fuvahmulah,Dhadimagu Seenia Villa,Ahmed Razee Mohamed,M,AXXX726,ދަޑިމަގު ސީނިއާވިލާ,އަޙްމަދު ރާޟީ މުޙައްމަދު
+750,Gn Fuvahmulah,Dhadimagu Shaadhee Villa,Mohamed Shathir,M,AXXX645,ދަޑިމަގު ޝާދީވިލާ,މުޙައްމަދު ޝާޠިރު
+751,Gn Fuvahmulah,Dhadimagu Shaadhee Villa,Ibrahim Ahsan,M,AXXX699,ދަޑިމަގު ޝާދީވިލާ,އިބްރާހީމް އަޙްސަން
+752,Gn Fuvahmulah,Dhadimagu Shaadhee Villa,Fathimath Azuha Shathir,F,AXXX388,ދަޑިމަގު ޝާދީވިލާ,ފާޠިމަތު އަޒުހާ ޝާޠިރު
+753,Gn Fuvahmulah,Dhadimagu Shiny,Aishath Shameema,F,AXXX066,ދަޑިމަގު ޝައިނީ,ޢާއިޝަތު ޝަމީމާ
+754,Gn Fuvahmulah,Dhadimagu Shiny,Aminath Samaaha,F,AXXX232,ދަޑިމަގު ޝައިނީ,އާމިނަތު ސަމާޙާ
+755,Gn Fuvahmulah,Dhadimagu Shiny,Ali Afsal Ahmed,M,AXXX003,ދަޑިމަގު ޝައިނީ,ޢަލީ އަފްޞަލް އަޙްމަދު
+756,Gn Fuvahmulah,Dhadimagu Shiny,Fathimath Dheena Ahmed,F,AXXX465,ދަޑިމަގު ޝައިނީ,ފާޠިމަތު ދީނާ އަޙްމަދު
+757,Gn Fuvahmulah,Dhadimagu Sithaaraa,Ali Abdul Rahman,M,AXXX445,ދަޑިމަގު ސިތާރާ,ޢަލީ ޢަބްދުއްރަޙްމާން
+758,Gn Fuvahmulah,Dhadimagu Sithaaraa,Aminath Asra Ali,F,AXXX472,ދަޑިމަގު ސިތާރާ,އާމިނަތު އަސްރާ ޢަލީ
+759,Gn Fuvahmulah,Dhadimagu Sithaaraa,Fathimath Mohamed,F,AXXX474,ދަޑިމަގު ސިތާރާ,ފާޠިމަތު މުޙައްމަދު
+760,Gn Fuvahmulah,Dhadimagu Sithaaraa,Nafiu Ali,M,AXXX671,ދަޑިމަގު ސިތާރާ,ނާފިޢު ޢަލީ
+761,Gn Fuvahmulah,Dhadimagu Sithaaraa,Adheela Ali,F,AXXX672,ދަޑިމަގު ސިތާރާ,ޢަދީލާ ޢަލީ
+762,Gn Fuvahmulah,Dhadimagu Snow,Nishana Ahmed,F,AXXX369,ދަޑިމަގު ސްނޯ,ނިޝާނާ އަޙްމަދު
+763,Gn Fuvahmulah,Dhadimagu Snow,Naeema Abdullah,F,AXXX570,ދަޑިމަގު ސްނޯ,ނަޢީމާ ޢަބްދުﷲ
+764,Gn Fuvahmulah,Dhadimagu Snow,Khadeeja Ibrahim Didi,F,AXXX616,ދަޑިމަގު ސްނޯ,ޚަދީޖާ އިބްރާހީމް ދީދީ
+765,Gn Fuvahmulah,Dhadimagu Snow,Wisam Ahmed,M,AXXX487,ދަޑިމަގު ސްނޯ,ވިސާމް އަޙްމަދު
+766,Gn Fuvahmulah,Dhadimagu Snow,Visal Ahmed,M,AXXX261,ދަޑިމަގު ސްނޯ,ވިސާލު އަޙްމަދު
+767,Gn Fuvahmulah,Dhadimagu Snow,Mariyam Ahmed,F,AXXX358,ދަޑިމަގު ސްނޯ,މަރްޔަމް އަޙްމަދު
+768,Gn Fuvahmulah,Dhadimagu Snow,Aishath Dhiye,F,AXXX359,ދަޑިމަގު ސްނޯ,ޢާޢިޝަތުދިޔެ
+769,Gn Fuvahmulah,Dhadimagu Snow,Wiam Ahmed,M,AXXX367,ދަޑިމަގު ސްނޯ,ވިޢާމް އަޙްމަދު
+770,Gn Fuvahmulah,Dhadimagu Snow,Mohamed Nabaah Khalid,M,AXXX368,ދަޑިމަގު ސްނޯ,މުޙައްމަދު ނަބާހު ޚާލިދު
+771,Gn Fuvahmulah,Dhadimagu Snow,Mohamed Wifag Ahmed,M,AXXX370,ދަޑިމަގު ސްނޯ,މުޙައްމަދު ވިފާޤު އަޙްމަދު
+772,Gn Fuvahmulah,Dhadimagu Snow,Fathimath Neesha Ahmed,F,AXXX264,ދަޑިމަގު ސްނޯ,ފާޠިމަތު ނީޝާ އަޙްމަދު
+773,Gn Fuvahmulah,Dhadimagu Soama,Saamath Abdul Kareem,F,AXXX422,ދަޑިމަގު ސޯމާ,ސާމަތު ޢަބްދުލްކަރީމް
+774,Gn Fuvahmulah,Dhadimagu Soama,Jumana Ahmed,F,AXXX522,ދަޑިމަގު ސޯމާ,ޖުމާނާ އަޙްމަދު
+775,Gn Fuvahmulah,Dhadimagu Star Me,Mohamed Hassan,M,AXXX621,ދަޑިމަގު ސްޓާމީ,މުޙައްމަދު ޙަސަން
+776,Gn Fuvahmulah,Dhadimagu Star Me,Thahira Ibrahim Didi,F,AXXX776,ދަޑިމަގު ސްޓާމީ,ޠާހިރާ އިބްރާހީމްދީދީ
+777,Gn Fuvahmulah,Dhadimagu Star Me,Ahmed Afzal,M,AXXX223,ދަޑިމަގު ސްޓާމީ,އަޙްމަދު އަފްޟަލް
+778,Gn Fuvahmulah,Dhadimagu Star Me,Aneef Mohamed,M,AXXX252,ދަޑިމަގު ސްޓާމީ,އަނީފް މުޙައްމަދު
+779,Gn Fuvahmulah,Dhadimagu Star Me,Hassan Samih Mohamed,M,AXXX256,ދަޑިމަގު ސްޓާމީ,ޙަސަން ސާމިޙް މުޙައްމަދު
+780,Gn Fuvahmulah,Dhadimagu Star Me,Aminath Youha Naseer,F,AXXX142,ދަޑިމަގު ސްޓާމީ,އާމިނަތު ޔޫޙާ ނަޞީރު
+781,Gn Fuvahmulah,Dhadimagu Star Me,Fathimath Anaal Mohamed,F,AXXX977,ދަޑިމަގު ސްޓާމީ,ފާޠިމަތު އަނާލް މުޙައްމަދު
+782,Gn Fuvahmulah,Dhadimagu Sun Set,Ali Mahir,M,AXXX870,ދަޑިމަގު ސަންސެޓް,ޢަލީ މާހިރު
+783,Gn Fuvahmulah,Dhadimagu Sun Shine,Fathimath Ali,F,AXXX620,ދަޑިމަގު ސަންޝައިން,ފާޠިމަތު ޢަލީ
+784,Gn Fuvahmulah,Dhadimagu Thoathaage,Ahmed Adam,M,AXXX674,ދަޑިމަގު ތޯތާގެ,އަޙްމަދު އާދަމް
+785,Gn Fuvahmulah,Dhadimagu Thoathaage,Ibrahim Saeed,M,AXXX201,ދަޑިމަގު ތޯތާގެ,އިބްރާހީމް ސަޢީދު
+786,Gn Fuvahmulah,Dhadimagu Thurukeege,Mausoom Mohamed Hussain,M,AXXX426,ދަޑިމަގު ތުރުކީގެ,މަޢުޞޫމް މުޙައްމަދު ޙުސައިން
+787,Gn Fuvahmulah,Dhadimagu Udha,Fathimath Hussain Didi,F,AXXX626,ދަޑިމަގު އުދަ,ފާޠިމަތު ޙުސައިންދީދީ
+788,Gn Fuvahmulah,Dhadimagu Udha,Ahmed Saeed,M,AXXX865,ދަޑިމަގު އުދަ,އަޙްމަދު ސަޢީދު
+789,Gn Fuvahmulah,Dhadimagu Udha,Mariyam Sazuna,F,AXXX003,ދަޑިމަގު އުދަ,މަރްޔަމް ސަޒުނާ
+790,Gn Fuvahmulah,Dhadimagu Udhares,Hussain Ahmed Didi,M,AXXX672,ދަޑިމަގު އުދަރެސް,ޙުސައިން އަޙްމަދުދީދީ
+791,Gn Fuvahmulah,Dhadimagu Udhares,Mariyam Ali Didi,F,AXXX877,ދަޑިމަގު އުދަރެސް,މަރްޔަމް ޢަލީދީދީ
+792,Gn Fuvahmulah,Dhadimagu Udhares,Mohamed Shujau,M,AXXX880,ދަޑިމަގު އުދަރެސް,މުޙައްމަދު ޝުޖާޢު
+793,Gn Fuvahmulah,Dhadimagu Ujaalaage,Ismail Shafeeu,M,AXXX502,ދަޑިމަގު އުޖާލާގެ,އިސްމާޢީލް ޝަފީޢު
+794,Gn Fuvahmulah,Dhadimagu Ujaalaage,Aishath Didi,F,AXXX156,ދަޑިމަގު އުޖާލާގެ,ޢާއިޝަތުދީދީ
+795,Gn Fuvahmulah,Dhadimagu Ujaalaage,Mohamed Didi,M,AXXX801,ދަޑިމަގު އުޖާލާގެ,މުޙައްމަދުދީދީ
+796,Gn Fuvahmulah,Dhadimagu Ulfathu,Fathimath Ahmed Didi,F,AXXX546,ދަޑިމަގު އުލްފަތު,ފާޠިމަތު އަޙްމަދުދީދީ
+797,Gn Fuvahmulah,Dhadimagu Uthuruge,Aishath Moosa Didi,F,AXXX414,ދަޑިމަގު އުތުރުގެ,ޢާއިޝަތު މޫސާދީދީ
+798,Gn Fuvahmulah,Dhadimagu Uthuruge,Mutheeath Ali Didi,F,AXXX465,ދަޑިމަގު އުތުރުގެ,މުޠީޢަތު ޢަލީދީދީ
+799,Gn Fuvahmulah,Dhadimagu Uthuruge,Mohamed Ali Didi,M,AXXX470,ދަޑިމަގު އުތުރުގެ,މުޙައްމަދު ޢަލީދީދީ
+800,Gn Fuvahmulah,Dhadimagu Uthuruge,Ali Mohamed,M,AXXX648,ދަޑިމަގު އުތުރުގެ,ޢަލީ މުޙައްމަދު
+801,Gn Fuvahmulah,Dhadimagu Uthuruge,Eynaas Ali,F,AXXX898,ދަޑިމަގު އުތުރުގެ,އީނާސް ޢަލީ
+802,Gn Fuvahmulah,Dhadimagu Uthuruge,Almas Ibrahim Mufeed,F,AXXX958,ދަޑިމަގު އުތުރުގެ,އަލްމާސް އިބްރާހީމް މުފީދު
+803,Gn Fuvahmulah,Dhadimagu Vaanaa,Ahmed Rafeeq,M,AXXX480,ދަޑިމަގު ވާނާ,އަޙްމަދު ރަފީޤު
+804,Gn Fuvahmulah,Dhadimagu Vaanaa,Fathimath Naseera,F,AXXX553,ދަޑިމަގު ވާނާ,ފާޠިމަތު ނަޞީރާ
+805,Gn Fuvahmulah,Dhadimagu Vaanaa,Sumna Ahmed Rafeeq,F,AXXX027,ދަޑިމަގު ވާނާ,ސުމްނާ އަޙްމަދު ރަފީޤް
+806,Gn Fuvahmulah,Dhadimagu Vaarey Villa,Mohamed Samy,M,AXXX350,ދަޑިމަގު ވާރޭވިލާ,މުޙައްމަދު ސާމީ
+807,Gn Fuvahmulah,Dhadimagu Vaarey Villa,Ismail Areef,M,AXXX481,ދަޑިމަގު ވާރޭވިލާ,އިސްމާޢީލް ޢަރީފް
+808,Gn Fuvahmulah,Dhadimagu Vaarey Villa,Abdulla Naseem,M,AXXX036,ދަޑިމަގު ވާރޭވިލާ,ޢަބްދުﷲ ނަސީމް
+809,Gn Fuvahmulah,Dhadimagu Vaige,Ahmed Muslim,M,AXXX687,ދަޑިމަގު ވައިގެ,އަޙްމަދު މުސްލިމް
+810,Gn Fuvahmulah,Dhadimagu Vaige,Muhsin Mohamed,M,AXXX690,ދަޑިމަގު ވައިގެ,މުޙްސިން މުޙައްމަދު
+811,Gn Fuvahmulah,Dhadimagu Vaimatheege,Mohamed Fikree,M,AXXX273,ދަޑިމަގު ވައިމަތީގެ,މުޙައްމަދު ފިކުރީ
+812,Gn Fuvahmulah,Dhadimagu Vaimatheege,Ibrahim Joodh Ahmed,M,AXXX083,ދަޑިމަގު ވައިމަތީގެ,އިބްރާހީމް ޖޫދު އަޙްމަދު
+813,Gn Fuvahmulah,Dhadimagu Valige,Madheeha Mohamed,F,AXXX374,ދަޑިމަގު ވަލިގެ,މަދީޙާ މުޙައްމަދު
+814,Gn Fuvahmulah,Dhadimagu Valige,Hawwa Suduna,F,AXXX627,ދަޑިމަގު ވަލިގެ,ޙައްވާ ސުދުނާ
+815,Gn Fuvahmulah,Dhadimagu Valige,Khadeeja Mohamed,F,AXXX815,ދަޑިމަގު ވަލިގެ,ޚަދީޖާ މުޙައްމަދު
+816,Gn Fuvahmulah,Dhadimagu Valige,Mohamed Thakhkhaanu,M,AXXX817,ދަޑިމަގު ވަލިގެ,މުޙައްމަދުތައްޚާނު
+817,Gn Fuvahmulah,Dhadimagu Valige,Aminath Fareedha,F,AXXX895,ދަޑިމަގު ވަލިގެ,އާމިނަތު ފަރީދާ
+818,Gn Fuvahmulah,Dhadimagu Valige,Mariyam Mohamed,F,AXXX896,ދަޑިމަގު ވަލިގެ,މަރްޔަމް މުޙައްމަދު
+819,Gn Fuvahmulah,Dhadimagu Valige,Ibrahim Mohamed,M,AXXX511,ދަޑިމަގު ވަލިގެ,އިބްރާހީމް މުޙައްމަދު
+820,Gn Fuvahmulah,Dhadimagu Varudheege,Aishath Muneera,F,AXXX698,ދަޑިމަގު ވަރުދީގެ,ޢާއިޝަތު މުނީރާ
+821,Gn Fuvahmulah,Dhadimagu Varudheege,Ibrahim Didi,M,AXXX700,ދަޑިމަގު ވަރުދީގެ,އިބްރާހީމްދީދީ
+822,Gn Fuvahmulah,Dhadimagu Varuvaa,Aminath Mohamed Didi,F,AXXX737,ދަޑިމަގު ވަރުވާ,އާމިނަތު މުޙައްމަދުދީދީ
+823,Gn Fuvahmulah,Dhadimagu Varuvaa,Aishath Ahna Ali,F,AXXX011,ދަޑިމަގު ވަރުވާ,ޢާއިޝަތު އަޙްނާ ޢަލީ
+824,Gn Fuvahmulah,Dhadimagu Vashaniege,Mohamed Mafaaz Nizam,M,AXXX952,ދަޑިމަގު ވަށަނިއެގެ,މުޙައްމަދު މަފާޛު ނިޡާމް
+825,Gn Fuvahmulah,Dhadimagu Velithundi,Aminath Waheeda,F,AXXX898,ދަޑިމަގު ވެލިތުނޑި,އާމިނަތު ވަޙީދާ
+826,Gn Fuvahmulah,Dhadimagu Velithundi,Salwa Ali,F,AXXX074,ދަޑިމަގު ވެލިތުނޑި,ސަލްވާ ޢަލީ
+827,Gn Fuvahmulah,Dhadimagu Velithundi,Salwaan Ali,M,AXXX063,ދަޑިމަގު ވެލިތުނޑި,ސަލްވާން ޢަލީ
+828,Gn Fuvahmulah,Dhadimagu Villa De Sosun,Fathmath Mufeeda,F,AXXX527,ދަޑިމަގު ވިލާޑިސޯސަން,ފާޠިމަތު މުފީދާ
+829,Gn Fuvahmulah,Dhadimagu Villa De Sosun,Aminath Anisa,F,AXXX743,ދަޑިމަގު ވިލާޑިސޯސަން,އާމިނަތު އާނިސާ
+830,Gn Fuvahmulah,Dhadimagu Villa De Sosun,Ahmed Mohamed Didi,M,AXXX944,ދަޑިމަގު ވިލާޑިސޯސަން,އަޙްމަދު މުޙައްމަދުދީދީ
+831,Gn Fuvahmulah,Dhadimagu Vinafehige,Ahmed Kaloa,M,AXXX643,ދަޑިމަގު ވިނަފެހިގެ,އަޙްމަދުކަލޯ
+832,Gn Fuvahmulah,Dhadimagu Vinafehige,Khadeeja Ibrahim,F,AXXX645,ދަޑިމަގު ވިނަފެހިގެ,ޚަދީޖާ އިބްރާހީމް
+833,Gn Fuvahmulah,Dhadimagu Vinafehige,Ibrahim Ahmed Hussain,M,AXXX678,ދަޑިމަގު ވިނަފެހިގެ,އިބްރާހީމް އަޙްމަދު ޙުސައިން
+834,Gn Fuvahmulah,Dhadimagu Vinafehige,Hussain Ahmed Hussain,M,AXXX818,ދަޑިމަގު ވިނަފެހިގެ,ޙުސައިން އަޙްމަދު ޙުސައިން
+835,Gn Fuvahmulah,Dhadimagu Vinafehige,Ahmed Zimaam Ibrahim,M,AXXX363,ދަޑިމަގު ވިނަފެހިގެ,އަޙްމަދު ޛިމާމް އިބްރާހީމް
+836,Gn Fuvahmulah,Dhadimagu Vinafehige,Aminath Imtha Hussain,F,AXXX828,ދަޑިމަގު ވިނަފެހިގެ,އާމިނަތު އިމްތާ ޙުސައިން
+837,Gn Fuvahmulah,Dhadimagu Vinama,Samiha Hussain,F,AXXX887,ދަޑިމަގު ވިނަމާ,ސާމިޙާ ޙުސައިން
+838,Gn Fuvahmulah,Dhadimagu Vinama,Hussain Mahil Ahmed,M,AXXX071,ދަޑިމަގު ވިނަމާ,ޙުސައިން މާހިލް އަޙްމަދު
+839,Gn Fuvahmulah,Dhadimagu Yaagoothuge,Abdulla Wajeeh Ibrahim,M,AXXX983,ދަޑިމަގު ޔާގޫތުގެ,ޢަބްދުﷲ ވަޖީހު އިބްރާހީމް
+840,Gn Fuvahmulah,Dhadimagu Zaaviaa,Abdulla Nazeef,M,AXXX276,ދަޑިމަގު ޒާވިއާ,ޢަބްދުﷲ ނަޡީފު
+841,Gn Fuvahmulah,Dhadimagu Zaaviaa,Ibrahim Naahil Ahmed,M,AXXX717,ދަޑިމަގު ޒާވިއާ,އިބްރާހީމް ނާހިލް އަޙްމަދު
+842,Gn Fuvahmulah,Dhadimagu Zeek,Aminath Sana,F,AXXX811,ދަޑިމަގު ޒީކް,އާމިނަތު ސަނާ
+843,Gn Fuvahmulah,Dhadimagu Zeek,Umar Hayaath,M,AXXX545,ދަޑިމަގު ޒީކް,ޢުމަރު ޙަޔާތު
+844,Gn Fuvahmulah,Dhadimagu Zeek,Fathimath Leem Umar Easa,F,AXXX595,ދަޑިމަގު ޒީކް,ފާޠިމަތު ލީމް ޢުމަރު ޢީސާ
+845,Gn Fuvahmulah,Dhadimagu Zenaa,Ibrahim Leevan Asif,M,AXXX060,ދަޑިމަގު ޒެނާ,އިބްރާހީމް ލީވާން ޢާޞިފް
+846,Gn Fuvahmulah,Dhadimagu Zilaal,Aishath Nima,F,AXXX748,ދަޑިމަގު ޒިލާލް,ޢާއިޝަތު ނިމާ
+847,Gn Fuvahmulah,Dhadimagu Zilaal,Hussain Shareef,M,AXXX958,ދަޑިމަގު ޒިލާލް,ޙުސައިން ޝަރީފް
+848,Gn Fuvahmulah,Dhadimagu Zuhura Manzil,Zuhura Mufeed,F,AXXX616,ދަޑިމަގު ޒުހުރާމަންޒިލް,ޒުހުރާ މުފީދު
+849,Gn Fuvahmulah,Dhadimagu Zuhura Manzil,Mohamed Shujau,M,AXXX897,ދަޑިމަގު ޒުހުރާމަންޒިލް,މުޙައްމަދު ޝުޖާޢު
+850,Gn Fuvahmulah,Dhadimagu Zuhura Manzil,Ahmed Sabah,M,AXXX930,ދަޑިމަގު ޒުހުރާމަންޒިލް,އަޙްމަދު ޞަބާޙް
+851,Gn Fuvahmulah,Dhadimagu Zurich Villa,Ibrahim Mohamed Didi,M,AXXX522,ދަޑިމަގު ޒިޔްރިކުވިލާ,އިބްރާހީމް މުޙައްމަދުދީދީ
+852,Gn Fuvahmulah,Dhadimagu Zurich Villa,Ali Mohamed Didi,M,AXXX532,ދަޑިމަގު ޒިޔްރިކުވިލާ,ޢަލީ މުޙައްމަދުދީދީ
+853,Gn Fuvahmulah,Dhadimagu Zurich Villa,Ahmed Mohamed Didi,M,AXXX926,ދަޑިމަގު ޒިޔްރިކުވިލާ,އަޙްމަދު މުޙައްމަދުދީދީ
+854,HA Dhidhdhoo,Seeneeasurumaage,Moosa Latheef,M,AXXX896,ސީނީޢަޞުރުމާގެ,މޫސާ ލަޠީފް
+855,HDh Hanimaadhoo,Lobby,Mausooma Samee,F,AXXX152,ލޮބީ,މަޢުޞޫމާ ސާމީ
+856,HDh Hirimaradhoo,Gaskara,Fathimath Amira,F,AXXX057,ގަސްކަރަ,ފާޠިމަތު ޢާމިރާ
+857,HDh Nolhivaran,Nafaa,Aminath Mohamed,F,AXXX446,ނަފާ,އާމިނަތު މުޙައްމަދު
+858,K Gaafaru,Hudhuvilla,Aminath Reem,F,AXXX073,ހުދުވިލާ,އާމިނަތު ރީމް
+859,K Guraidhoo,Endherimaage,Fathmath Zidna,F,AXXX043,އެންދެރިމާގެ,ފާޠިމަތު ޒިދުނާ
+860,K Huraa,Happy Night,Mohamed Nazeef,M,AXXX464,ހެPީނައިޓް,މުޙައްމަދު ނަޡީފް
+861,L Maamendhoo,Lavenda,Abdul Hameed Ali,M,AXXX300,ލަވެންޑަރ,ޢަބްދުލްޙަމީދު ޢަލީ
+862,Lh Hinnavaru,Boduhiyaage,Hawwa Rasheedha,F,AXXX409,ބޮޑުހިޔާގެ,ޙައްވާ ރަޝީދާ
+863,Lh Naifaru,Yamha,Mohamed Musthageem,M,AXXX405,ޔަމްޙާ,މުޙައްމަދު މުސްތަޤީމް
+864,M Raiymandhoo,Blue Light,Adhila Jaufar,F,AXXX106,ބްލޫލައިޓް,ޢާދިލާ ޖަޢުފަރު
+865,M Raiymandhoo,Blue Light,Asifa Jaufar,F,AXXX107,ބްލޫލައިޓް,އާސިފާ ޖަޢުފަރު
+866,Male ,Dhaftharu No RS 14565,Saeeda Ali Didi,F,AXXX524,ދަފްތަރު ނަންބަރު ރސ 56541,ސަޢީދާ ޢަލީދީދީ
+867,Male ,Dhaftharu No RS 8676,Shumna Shah,F,AXXX208,ދަފްތަރު ނަންބަރު ރސ 6768,ޝުމްނާ ޝާހް
+868,Male ,G Sweet Ireenaa,Mohamed Irufan,M,AXXX887,ގ ސްވީޓްއިރީނާ,މުޙައްމަދު ޢިރުފާން
+869,Male ,H Moominaa Hiyaa,Ibrahim Yamin Ali,M,AXXX852,ހ މޫމިނާ ހިޔާ,އިބްރާހީމް ޔާމީން ޢަލީ
+870,Male ,M Haveereege,Ali Nasif,M,AXXX722,މ ހަވީރީގެ,ޢަލީ ނާޞިފު
+871,Male ,M Haveereege,Ismail Nasif,M,AXXX552,މ ހަވީރީގެ,އިސްމާޢީލް ނާޞިފް
+872,Male ,M Hikikashimaage,Fathimath Zaina Shahid,F,AXXX442,މ ހިކިކަށިމާގެ,ފާޠިމަތު ޒައިނާ ޝާހިދު
+873,Male ,M Neenaa,Hassan Riyaz,M,AXXX904,މ ނީނާ,ޙަސަން ރިޔާޟް
+874,S Feydhoo,Falhoamaage,Ali Alson,M,AXXX353,ފަޅޯމާގެ,ޢަލީ އަލްސަން
+875,S Hithadhoo,Beach Side,Mohamed Azwar,M,AXXX177,ބީޗްސައިޑް,މުޙައްމަދު އަޒުވަރު
+876,S Hithadhoo,Holhiraalhuge,Fathmath Nazma,F,AXXX776,ހޮޅިރާޅުގެ,ފާޠިމަތު ނަޒުމާ
+877,S Hithadhoo,Marry Cabin,Aminath Shiyama,F,AXXX149,މެރީކެބިން,އާމިނަތު ޝިޔާމާ
+878,S Hithadhoo,Raiybageechaage,Shifna Saeed,F,AXXX090,ރަތްބަގީޗާގެ,ޝިފްނާ ސަޢީދު
+879,Th Omadhoo,Fiyaathoshi Villa,Aishath Sama,F,AXXX426,ފިޔާތޮށިވިލާ,ޢާއިޝަތު ސަމާ
+880,Th Thimarafushi,Aakolige,Zaidulla Mohamed,M,AXXX946,އާކޮލިގެ,ޒައިދުﷲ މުޙައްމަދު
+881,Th Thimarafushi,Javaahiru Vaadhee,Hussain Sammah,M,AXXX188,ޖަވާހިރުވާދީ,ޙުސައިން ސައްމާޙް

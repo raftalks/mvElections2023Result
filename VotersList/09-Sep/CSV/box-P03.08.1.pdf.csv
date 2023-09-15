@@ -1,0 +1,512 @@
+#,Island,House Name,Name,Sex,National ID,Address_DV,Name_DV
+1,AA Rasdhoo,Raiybageechaage,Saadha Ibrahim,F,AXXX668,ރަތްބަގީޗާގެ,ސާދާ އިބްރާހީމް
+2,GA Gemanafushi,Aasmaan,Najuma Mohamed,F,AXXX786,އާސްމާން,ނަޖުމާ މުޙައްމަދު
+3,GA Gemanafushi,Aasmaan,Aishath Nifasha Usman,F,AXXX141,އާސްމާން,ޢާއިޝަތު ނިފާޝާ ޢުޘްމާން
+4,GA Gemanafushi,Aasmaan,Mariyam Niaasha Usman,F,AXXX142,އާސްމާން,މަރްޔަމް ނިއާޝާ ޢުޘްމާން
+5,GA Gemanafushi,Aasmaan,Usman Hussain,M,AXXX272,އާސްމާން,ޢުޘްމާން ޙުސައިން
+6,GA Gemanafushi,Aasmaan,Fathimath Niusha Usman,F,AXXX828,އާސްމާން,ފާޠިމަތު ނިޢުޝާ ޢުޘްމާން
+7,GA Gemanafushi,Alimasge,Ahmed Hanoon Fahumee,M,AXXX297,އަލިމަސްގެ,އަޙްމަދު ހަނޫން ފަހުމީ
+8,GA Gemanafushi,Alinoofaru,Ibrahim Rasheed,M,AXXX282,އަލިނޫފަރު,އިބްރާހީމް ރަޝީދު
+9,GA Gemanafushi,Alinoofaru,Khadheeja Hussain,F,AXXX140,އަލިނޫފަރު,ޚަދީޖާ ޙުސައިން
+10,GA Gemanafushi,Alinoofaru,Aishath Nadhiya,F,AXXX679,އަލިނޫފަރު,ޢާއިޝަތު ނާދިޔާ
+11,GA Gemanafushi,Alinoofaru,Abudul Muththalib,M,AXXX680,އަލިނޫފަރު,ޢަބްދުލްމުއްޠަލިބު
+12,GA Gemanafushi,Alinoofaru,Mariyam Sadhura,F,AXXX681,އަލިނޫފަރު,މަރްޔަމް ސަދުރާ
+13,GA Gemanafushi,Alinoofaru,Ali Muhaimin,M,AXXX682,އަލިނޫފަރު,ޢަލީ މުހައިމިން
+14,GA Gemanafushi,Alinoofaru,Ahmed Rawah,M,AXXX582,އަލިނޫފަރު,އަޙްމަދު ރަވާޙު
+15,GA Gemanafushi,Alinooru,Hussain Saleem,M,AXXX872,އަލިނޫރު,ޙުސައިން ސަލީމް
+16,GA Gemanafushi,Anona,Aishath Nazima Nasir,F,AXXX862,އަނޯނާ,ޢާއިޝަތު ނާޡިމާ ނާޞިރު
+17,GA Gemanafushi,Anona,Ajuwad Mohamed,M,AXXX733,އަނޯނާ,އަޖުވަދު މުޙައްމަދު
+18,GA Gemanafushi,Anona,Hawwa Zubaida,F,AXXX492,އަނޯނާ,ޙައްވާ ޒުބައިދާ
+19,GA Gemanafushi,Anona,Yamany Uzair Habeeb,F,AXXX380,އަނޯނާ,ޔަމާނީ ޢުޒައިރު ޙަބީބް
+20,GA Gemanafushi,Anona,Mohamed Yooshau Uzair,M,AXXX576,އަނޯނާ,މުޙައްމަދު ޔޫޝަޢު އުޒައިރު
+21,GA Gemanafushi,Anona,Yashfau Uzair Habeeb,M,AXXX272,އަނޯނާ,ޔަޝްފައު ޢުޒައިރު ޙަބީބް
+22,GA Gemanafushi,Asia,Mohamed Didi,M,AXXX801,އޭޝިޔާ,މުޙައްމަދުދީދީ
+23,GA Gemanafushi,Asia,Arifa Abdul Kareem,F,AXXX732,އޭޝިޔާ,ޢާރިފާ ޢަބްދުލްކަރީމް
+24,GA Gemanafushi,Asia,Zainab Mohamed,F,AXXX765,އޭޝިޔާ,ޒައިނަބު މުޙައްމަދު
+25,GA Gemanafushi,Asia,Zahra Mohamed,F,AXXX766,އޭޝިޔާ,ޒަހުރާ މުޙައްމަދު
+26,GA Gemanafushi,Asseyri,Mohamed Nizaam,M,AXXX343,އައްސޭރި,މުޙައްމަދު ނިޡާމް
+27,GA Gemanafushi,Asseyri,Ismail Muizzu Nizam,M,AXXX338,އައްސޭރި,އިސްމާޢީލް މުއިއްޒު ނިޒާމް
+28,GA Gemanafushi,Badiyaage,Muhammad Saddam,M,AXXX144,ބަޑިޔާގެ,މުޙައްމަދު ޞައްދާމް
+29,GA Gemanafushi,Badiyaage,Saila Ahmed,F,AXXX366,ބަޑިޔާގެ,ސައިލާ އަޙްމަދު
+30,GA Gemanafushi,Bageechaage,Fathimath Rishmee,F,AXXX585,ބަގީޗާގެ,ފާޠިމަތު ރިޝްމީ
+31,GA Gemanafushi,Bageechaage,Aminath Riyaza,F,AXXX586,ބަގީޗާގެ,އާމިނަތު ރިޔާޒާ
+32,GA Gemanafushi,Bageechaage,Hussain Faneez,M,AXXX803,ބަގީޗާގެ,ޙުސައިން ފަނީޒު
+33,GA Gemanafushi,Bahaaruge,Ibrahim Didi,M,AXXX441,ބަހާރުގެ,އިބްރާހީމްދީދީ
+34,GA Gemanafushi,Bahaaruge,Hussain Ibrahim,M,AXXX513,ބަހާރުގެ,ޙުސައިން އިބްރާހީމް
+35,GA Gemanafushi,Bahaaruge,Fathimath Manike,F,AXXX516,ބަހާރުގެ,ފާޠިމަތުމަނިކެ
+36,GA Gemanafushi,Bahaaruge,Hassan Didi,M,AXXX577,ބަހާރުގެ,ޙަސަންދީދީ
+37,GA Gemanafushi,Banafusaage,Sidheeq Ahmed,M,AXXX784,ބަަނަފުސާގެ,ޞިއްދީޤު އަޙްމަދު
+38,GA Gemanafushi,Banafusaage,Hassan Shujau,M,AXXX475,ބަަނަފުސާގެ,ޙަސަން ޝުޖާޢު
+39,GA Gemanafushi,Banafusaage,Sobeeha Mariyam,F,AXXX550,ބަަނަފުސާގެ,ޞަބީޙާ މަރްޔަމް
+40,GA Gemanafushi,Banafusaage,Adheeb Ahmed,M,AXXX378,ބަަނަފުސާގެ,އަދީބު އަޙްމަދު
+41,GA Gemanafushi,Banafusaage,Ahmed Manik,M,AXXX236,ބަަނަފުސާގެ,އަޙްމަދުމަނިކު
+42,GA Gemanafushi,Beach Rest,Fathimath Hussain,F,AXXX486,ބީޗްރެސްޓް,ފާޠިމަތު ޙުސައިން
+43,GA Gemanafushi,Beach Villa,Mohamed Saeed,M,AXXX682,ބީޗްވިލާ,މުޙައްމަދު ސަޢީދު
+44,GA Gemanafushi,Beach Villa,Sanfa Didi,F,AXXX685,ބީޗްވިލާ,ސަންފާދީދީ
+45,GA Gemanafushi,Beach Villa,Ahmed Nazmeen,M,AXXX749,ބީޗްވިލާ,އަޙްމަދު ނަޛްމީން
+46,GA Gemanafushi,Beach Villa,Ismail Yaameen,M,AXXX751,ބީޗްވިލާ,އިސްމާޢީލް ޔާމީން
+47,GA Gemanafushi,Beach Villa,Abdulla Yaseen,M,AXXX273,ބީޗްވިލާ,ޢަބްދުﷲ ޔާސީން
+48,GA Gemanafushi,Beach Villa,Usaimeen Saeed,M,AXXX274,ބީޗްވިލާ,އުސައިމީނު ސަޢީދު
+49,GA Gemanafushi,Beach Villa,Fathimath Shuhaima Saeed,F,AXXX276,ބީޗްވިލާ,ފާޠިމަތު ޝުހައިމާ ސަޢީދު
+50,GA Gemanafushi,Bilaaluge,Aminath Manike,F,AXXX235,ބިލާލުގެ,އާމިނަތުމަނިކެ
+51,GA Gemanafushi,Bilaaluge,Ahmed Nabeel,M,AXXX547,ބިލާލުގެ,އަޙްމަދު ނަބީލު
+52,GA Gemanafushi,Bilaaluge,Mohamed Naufal,M,AXXX944,ބިލާލުގެ,މުޙައްމަދު ނަޢުފަލް
+53,GA Gemanafushi,Blue Diamond,Ahmed Rafeeq,M,AXXX665,ބުލޫޑައިމަންޑް,އަޙްމަދު ރަފީޤު
+54,GA Gemanafushi,Blue Diamond,Asiyath Abdulla,F,AXXX666,ބުލޫޑައިމަންޑް,އާސިޔަތު ޢަބްދުﷲ
+55,GA Gemanafushi,Blue Diamond,Abdulla Muzillu,M,AXXX668,ބުލޫޑައިމަންޑް,ޢަބްދުﷲ މުޒިއްލު
+56,GA Gemanafushi,Blue Diamond,Mohamed Jailam Rafeeg,M,AXXX435,ބުލޫޑައިމަންޑް,މުޙައްމަދު ޖައިލަމް ރަފީޤު
+57,GA Gemanafushi,Blue Night,Azeeza Ali,F,AXXX514,ބުލޫނައިޓް,ޢަޒީޒާ ޢަލީ
+58,GA Gemanafushi,Blue Night,Shazeema Maahir,F,AXXX533,ބުލޫނައިޓް,ޝަޒީމާ މާހިރު
+59,GA Gemanafushi,Blue Night,Aishath Arooma Mahir,F,AXXX534,ބުލޫނައިޓް,ޢާއިޝަތު އަރޫމާ މާހިރު
+60,GA Gemanafushi,Blue Night,Fathimath Lubuna Mahir,F,AXXX308,ބުލޫނައިޓް,ފާޠިމަތު ލުބުނާ މާހިރު
+61,GA Gemanafushi,Bonthi,Ali Didi,M,AXXX964,ބޮންތި,ޢަލީދީދީ
+62,GA Gemanafushi,Bonthi,Siyana Ali,F,AXXX560,ބޮންތި,ސިޔާނާ ޢަލީ
+63,GA Gemanafushi,Bonthi,Ismail Shahudh Ali,M,AXXX596,ބޮންތި,އިސްމާޢީލް ޝަހުދު ޢަލީ
+64,GA Gemanafushi,Bonthi,Hassan Ausam Ali,M,AXXX299,ބޮންތި,ޙަސަން އައުސަމް ޢަލީ
+65,GA Gemanafushi,Bonthi,Mufeeda Ahmed,F,AXXX910,ބޮންތި,މުފީދާ އަޙްމަދު
+66,GA Gemanafushi,Canopy,Mohamed Naushad,M,AXXX445,ކެނޮPީ,މުޙައްމަދު ނަޢުޝާދު
+67,GA Gemanafushi,Chaandhaneege,Hameela Hassan,F,AXXX422,ޗާންދަނީގެ,ޙަމީލާ ޙަސަން
+68,GA Gemanafushi,Chaandhaneege,Aminath Wadheefa,F,AXXX424,ޗާންދަނީގެ,އާމިނަތު ވަދީފާ
+69,GA Gemanafushi,Daburugge,Mohamed Anees,M,AXXX646,ދަބުރުއްގެ,މުޙައްމަދު އަނީސް
+70,GA Gemanafushi,Daburugge,Musthafa Ahmed,M,AXXX476,ދަބުރުއްގެ,މުޞްޠަފާ އަޙްމަދު
+71,GA Gemanafushi,Dhah soora,Ismail Naseer,M,AXXX511,ދައްސޫރަ,އިސްމާޢީލް ނަޞީރު
+72,GA Gemanafushi,Dhah soora,Abdul Mugadhim,M,AXXX348,ދައްސޫރަ,ޢަބްދުލްމުޤައްދިމު
+73,GA Gemanafushi,Dhah soora,Mariyam Nuzuha,F,AXXX481,ދައްސޫރަ,މަރްޔަމް ނުޛުޙާ
+74,GA Gemanafushi,Dhah soora,Aishath Mizna Naseer,F,AXXX305,ދައްސޫރަ,ޢާއިޝަތު މިޛްނާ ނަޞީރު
+75,GA Gemanafushi,Dhandumatheege,Abdulla Najeeb,M,AXXX191,ދަނޑުމަތީގެ,ޢަބްދުﷲ ނަޖީބު
+76,GA Gemanafushi,Dhandumatheege,Fathimath Salmana,F,AXXX828,ދަނޑުމަތީގެ,ފާޠިމަތު ސަލްމާނާ
+77,GA Gemanafushi,Dhandumatheege,Aminath Didi,F,AXXX182,ދަނޑުމަތީގެ,އާމިނަތުދީދީ
+78,GA Gemanafushi,Dhandumatheege,Ummiyya Najeeb,F,AXXX183,ދަނޑުމަތީގެ,އުއްމިއްޔާ ނަޖީބު
+79,GA Gemanafushi,Dhandumatheege,Ramza Najeeb,F,AXXX184,ދަނޑުމަތީގެ,ރަމްޒާ ނަޖީބު
+80,GA Gemanafushi,Dhauha,Ibrahim Shiaaf Moosa,M,AXXX812,ދަޢުޙާ,އިބްރާހީމް ޝިޢާފް މޫސާ
+81,GA Gemanafushi,Dhekonuge,Fathimath Shifaza,F,AXXX482,ދެކޮނުގެ,ފާޠިމަތު ޝިފާޒާ
+82,GA Gemanafushi,Dhekonuge,Mariyam Badhoora,F,AXXX485,ދެކޮނުގެ,މަރްޔަމް ބަދޫރާ
+83,GA Gemanafushi,Dhekonuge,Farzana Rashad,F,AXXX277,ދެކޮނުގެ,ފަރުޒާނާ ރަޝާދު
+84,GA Gemanafushi,Dhekonuge,Firdhaus Rashad,M,AXXX279,ދެކޮނުގެ,ފިރުދައުސް ރަޝާދު
+85,GA Gemanafushi,Dheriya,Izzath Hussain,F,AXXX448,ދެރިޔާ,ޢިއްޒަތު ޙުސައިން
+86,GA Gemanafushi,Dheriya,Mohamed Maniku,M,AXXX488,ދެރިޔާ,މުޙައްމަދުމަނިކު
+87,GA Gemanafushi,Dheriya,Aishath Moonisa Mohamed,F,AXXX608,ދެރިޔާ,ޢާއިޝަތު މޫނިސާ މުޙައްމަދު
+88,GA Gemanafushi,Dheriya,Ahmed Midhuhath Mohamed,M,AXXX052,ދެރިޔާ,އަޙްމަދު މިދުޙަތު މުޙައްމަދު
+89,GA Gemanafushi,Dhilbahaaruge,Abdulla Mohamed,M,AXXX614,ދިލްބަހާރުގެ,ޢަބްދުﷲ މުޙައްމަދު
+90,GA Gemanafushi,Dhilbahaaruge,Saleema Ibrahim,F,AXXX615,ދިލްބަހާރުގެ,ސަލީމާ އިބްރާހީމް
+91,GA Gemanafushi,Dhilbahaaruge,Mohamed Athif,M,AXXX616,ދިލްބަހާރުގެ,މުޙައްމަދު ޢާޠިފް
+92,GA Gemanafushi,Dhilbahaaruge,Ahusanu Abdulla,M,AXXX617,ދިލްބަހާރުގެ,އަޙްސަނު ޢަބްދުﷲ
+93,GA Gemanafushi,Dhilbahaaruge,Ali Aflaah Abdulla,M,AXXX610,ދިލްބަހާރުގެ,ޢަލީ އަފްލާޙް ޢަބްދުﷲ
+94,GA Gemanafushi,Dhilbahaaruge,Ageeda Abdulla,F,AXXX611,ދިލްބަހާރުގެ,އަޤީދާ ޢަބްދުﷲ
+95,GA Gemanafushi,Dhilbahaaruge,Ahmed Afsal,M,AXXX018,ދިލްބަހާރުގެ,އަޙްމަދު އަފްޞަލް
+96,GA Gemanafushi,Dhilbahaaruge,Mariyam Ameeza,F,AXXX019,ދިލްބަހާރުގެ,މަރްޔަމް އަމީޒާ
+97,GA Gemanafushi,Dhilbahaaruge,Adhuham Abudhulla,M,AXXX021,ދިލްބަހާރުގެ,އަދުހަމު ޢަބްދުﷲ
+98,GA Gemanafushi,Dhonbageechaage,Salih Abdul Hakeem,M,AXXX979,ދޮންބަގީޗާގެ,ޞާލިޙް ޢަބްދުލްޙަކީމް
+99,GA Gemanafushi,Dhonbageechaage,Fathimath Manike,F,AXXX980,ދޮންބަގީޗާގެ,ފާޠިމަތު މަނިކެ
+100,GA Gemanafushi,Dhonbageechaage,Abdul Gadeer,M,AXXX609,ދޮންބަގީޗާގެ,ޢަބްދުލްޤަދީރު
+101,GA Gemanafushi,Dhonbageechaage,Mariyam Adeela,F,AXXX084,ދޮންބަގީޗާގެ,މަރްޔަމް އަދީލާ
+102,GA Gemanafushi,Dhonbageechaage,Jiya Salih,F,AXXX059,ދޮންބަގީޗާގެ,ޖިޔާ ޞާލިޙް
+103,GA Gemanafushi,Dhonbageechaage,Amaanullah,M,AXXX065,ދޮންބަގީޗާގެ,އަމާނުﷲ
+104,GA Gemanafushi,Dhonbageechaage,Ali Shaaz Habeeb,M,AXXX127,ދޮންބަގީޗާގެ,ޢަލީ ޝާޒު ހަބީބު
+105,GA Gemanafushi,Dhonveli,Ismail Shafeeg,M,AXXX667,ދޮންވެލި,އިސްމާޢީލް ޝަފީޤް
+106,GA Gemanafushi,Dhonveli,Saarath Nooree,F,AXXX836,ދޮންވެލި,ސާރަތު ނޫރީ
+107,GA Gemanafushi,Dhonveli,Fathimath Shifna Shafeeg,F,AXXX289,ދޮންވެލި,ފާޠިމަތު ޝިފްނާ ޝަފީޤު
+108,GA Gemanafushi,Dhuni,Ahmed Saeed,M,AXXX155,ދުނި,އަޙްމަދު ސަޢީދު
+109,GA Gemanafushi,Ethumaage,Adam Hussain,M,AXXX681,އެތުމާގެ,އާދަމް ޙުސައިން
+110,GA Gemanafushi,Ethumaage,Ramla Abdulla,F,AXXX564,އެތުމާގެ,ރަމްލާ ޢަބްދުﷲ
+111,GA Gemanafushi,Ethumaage,Sawaadh Adam,M,AXXX567,އެތުމާގެ,ސަވާދު އާދަމް
+112,GA Gemanafushi,Ever Last,Fathimath Anjoona,F,AXXX502,އެވަރލާސްޓް,ފާޠިމަތު އަންޖޫނާ
+113,GA Gemanafushi,Ever Last,Abdulla Didi,M,AXXX533,އެވަރލާސްޓް,ޢަބްދުﷲ ދީދީ
+114,GA Gemanafushi,Ever Last,Mariyam Saadha,F,AXXX597,އެވަރލާސްޓް,މަރްޔަމް ސަޢާދާ
+115,GA Gemanafushi,Ever Last,Abdul Ghanee,M,AXXX521,އެވަރލާސްޓް,ޢަބްދުލްޣަނީ
+116,GA Gemanafushi,Fadunuvaage,Mohamed Suhaib,M,AXXX183,ފަޑުނުވާގެ,މުޙައްމަދު ސުހައިބް
+117,GA Gemanafushi,Fadunuvaage,Aminath Sajhath,F,AXXX400,ފަޑުނުވާގެ,އާމިނަތު ސަޖުހަތު
+118,GA Gemanafushi,Fadunuvaage,Hussain Samah,M,AXXX402,ފަޑުނުވާގެ,ޙުސައިން ސަމާޙް
+119,GA Gemanafushi,Fadunuvaage,Mariyam Zahira,F,AXXX201,ފަޑުނުވާގެ,މަރްޔަމް ޒާހިރާ
+120,GA Gemanafushi,Fadunuvaage,Aishath Sajna,F,AXXX634,ފަޑުނުވާގެ,ޢާއިޝަތު ސަޖުނާ
+121,GA Gemanafushi,Fadunuvaage,Fathimath Saajiha,F,AXXX841,ފަޑުނުވާގެ,ފާޠިމަތު ސާޖިހާ
+122,GA Gemanafushi,Fanriyaa,Abdulla Naeem,M,AXXX819,ފަންރިޔާ,ޢަބްދުﷲ ނަޢީމް
+123,GA Gemanafushi,Fanriyaa,Haneefa Hussain,F,AXXX509,ފަންރިޔާ,ޙަނީފާ ޙުސައިން
+124,GA Gemanafushi,Fanriyaa,Mariyam Raafiath Naeem,F,AXXX523,ފަންރިޔާ,މަރްޔަމް ރާފިޢަތު ނަޢީމް
+125,GA Gemanafushi,Fanriyaa,Mohamed Noorulla,M,AXXX706,ފަންރިޔާ,މުޙައްމަދު ނޫރުﷲ
+126,GA Gemanafushi,Farindhaage,Aishath Didi,F,AXXX466,ފަރިންދާގެ,ޢާއިޝަތުދީދީ
+127,GA Gemanafushi,Farudhaage,Ahmed Jawad,M,AXXX469,ފަރުދާގެ,އަޙްމަދު ޖަވާދު
+128,GA Gemanafushi,Fehige,Hussain Manik,M,AXXX443,ފެހިގެ,ޙުސައިންމަނިކު
+129,GA Gemanafushi,Fehige,Aminath Hussain,F,AXXX471,ފެހިގެ,އާމިނަތު ޙުސައިން
+130,GA Gemanafushi,Fehige,Azeeza Hussain,F,AXXX473,ފެހިގެ,ޢަޒީޒާ ޙުސައިން
+131,GA Gemanafushi,Fehige,Mariyam Zeenath,F,AXXX606,ފެހިގެ,މަރްޔަމް ޒީނަތު
+132,GA Gemanafushi,Fehige,Mariyam Zulfa,F,AXXX607,ފެހިގެ,މަރްޔަމް ޒުލްފާ
+133,GA Gemanafushi,Fehivina,Ibrahim Didi,M,AXXX088,ފެހިވިނަ,އިބްރާހީމްދީދީ
+134,GA Gemanafushi,Fehivina,Fathimath Hilala,F,AXXX269,ފެހިވިނަ,ފާޠިމަތު ހިލާލާ
+135,GA Gemanafushi,Fehivina,Mohamed Mussaffir,M,AXXX608,ފެހިވިނަ,މުޙައްމަދު މުސައްފިރު
+136,GA Gemanafushi,Fehivina,Fathimath Aguna,F,AXXX068,ފެހިވިނަ,ފާޠިމަތު އަޤުނާ
+137,GA Gemanafushi,Fenfiyaazuge,Safoora Ali,F,AXXX100,ފެންފިޔާޒުގެ,ޞަފޫރާ ޢަލީ
+138,GA Gemanafushi,Fenfiyaazuge,Mohamed Shan Shahid,M,AXXX371,ފެންފިޔާޒުގެ,މުޙައްމަދު ޝާން ޝާހިދު
+139,GA Gemanafushi,Finihiyaage,Ashraf Moosa,M,AXXX228,ފިނިހިޔާގެ,އަޝްރަފް މޫސާ
+140,GA Gemanafushi,Finihiyaage,Moosa Hussain,M,AXXX484,ފިނިހިޔާގެ,މޫސާ ޙުސައިން
+141,GA Gemanafushi,Finihiyaage,Shamsunnahaara,F,AXXX103,ފިނިހިޔާގެ,ޝަމްސުއްނަހާރާ
+142,GA Gemanafushi,Finihiyaage,Fathimath Moosa,F,AXXX425,ފިނިހިޔާގެ,ފާޠިމަތު މޫސާ
+143,GA Gemanafushi,Finihiyaage,Ahmed Hamdhoon,M,AXXX730,ފިނިހިޔާގެ,އަޙްމަދު ޙަމްދޫން
+144,GA Gemanafushi,Finihiyaage,Aishath Rifha Moosa,F,AXXX719,ފިނިހިޔާގެ,ޢާއިޝަތު ރިފްޙާ މޫސާ
+145,GA Gemanafushi,Finihiyaage,Shamreena Moosa,F,AXXX648,ފިނިހިޔާގެ,ޝަމްރީނާ މޫސާ
+146,GA Gemanafushi,Finihiyaage,Raoof Moosa,M,AXXX649,ފިނިހިޔާގެ,ރައޫފް މޫސާ
+147,GA Gemanafushi,Finihiyaage,Ahmed Musharraf Ashraf Moosa,M,AXXX303,ފިނިހިޔާގެ,އަޙްމަދު މުޝައްރަފް އަޝްރަފް މޫސާ
+148,GA Gemanafushi,Fiyaathoshige,Ahmed Zameer,M,AXXX534,ފިޔާތޮށިގެ,އަޙްމަދު ޟަމީރު
+149,GA Gemanafushi,Fiyaathoshige,Aminath Manike,F,AXXX537,ފިޔާތޮށިގެ,އާމިނަތުމަނިކެ
+150,GA Gemanafushi,Fiyoareege,Ahmed Mahir,M,AXXX697,ފިޔޯރީގެ,އަޙްމަދު މާހިރު
+151,GA Gemanafushi,Fiyoareege,Mohamed Yasir,M,AXXX701,ފިޔޯރީގެ,މުޙައްމަދު ޔާސިރު
+152,GA Gemanafushi,Fiyoareege,Ibrahim Haris,M,AXXX702,ފިޔޯރީގެ,އިބްރާހީމް ޙާރިސް
+153,GA Gemanafushi,Fiyoareege,Fathimath Hussain,F,AXXX756,ފިޔޯރީގެ,ފާޠިމަތު ޙުސައިން
+154,GA Gemanafushi,Fiyoareege,Abdulla Mahid,M,AXXX758,ފިޔޯރީގެ,ޢަބްދުﷲ Mާހިދު
+155,GA Gemanafushi,Fiyoareege,Ali Mihaad,M,AXXX606,ފިޔޯރީގެ,ޢަލީ މިހާދު
+156,GA Gemanafushi,Floras,Ibrahim Rasheed,M,AXXX886,ފްލޯރާސް,އިބްރާހީމް ރަޝީދު
+157,GA Gemanafushi,Floras,Fathimath Thasleema,F,AXXX571,ފްލޯރާސް,ފާޠިމަތު ތަސްލީމާ
+158,GA Gemanafushi,Floras,Ahmed Thasheen,M,AXXX574,ފްލޯރާސް,އަޙްމަދު ތަސްހީން
+159,GA Gemanafushi,Floras,Aishath Didi,F,AXXX898,ފްލޯރާސް,ޢާއިޝަތުދީދީ
+160,GA Gemanafushi,Floras,Ali Dhaaim,M,AXXX293,ފްލޯރާސް,ޢަލީ ދާއިމް
+161,GA Gemanafushi,Fulooniyaage,Mohamed Firag,M,AXXX710,ފުލޫނިޔާގެ,މުޙައްމަދު ފިރާޤު
+162,GA Gemanafushi,Funa,Ali Ahmed,M,AXXX090,ފުނަ,ޢަލީ އަޙްމަދު
+163,GA Gemanafushi,Funa,Shaneeza Ibrahim,F,AXXX697,ފުނަ,ޝަނީޛާ އިބްރާހީމް
+164,GA Gemanafushi,Funa,Ahmed Izmeel Ali,M,AXXX018,ފުނަ,އަޙްމަދު އިޒްމީލް ޢަލީ
+165,GA Gemanafushi,Gemana,Aishath Shaheeda,F,AXXX433,ގެމަނަ,ޢާއިޝަތު ޝަހީދާ
+166,GA Gemanafushi,Gemana,Mohamed Shiyam,M,AXXX209,ގެމަނަ,މުޙައްމަދު ޝިޔާމް
+167,GA Gemanafushi,Gemana,Ahmed Roohulla Shiyam,M,AXXX517,ގެމަނަ,އަޙްމަދު ރޫޙުﷲ ޝިޔާމް
+168,GA Gemanafushi,Gemana,Aishath Maashaa Shiyam,F,AXXX518,ގެމަނަ,ޢާއިޝަތު މާޝާ ޝިޔާމް
+169,GA Gemanafushi,Gulaabeege,Mohamed Shah,M,AXXX581,ގުލާބީގެ,މުޙައްމަދު ޝާހް
+170,GA Gemanafushi,Gulaabeege,Ahmed Shanim,M,AXXX558,ގުލާބީގެ,އަޙްމަދު ޝާނިމް
+171,GA Gemanafushi,Gulaabeege,Shirumeen,F,AXXX989,ގުލާބީގެ,ޝިރުމީން
+172,GA Gemanafushi,Guldhasthaa,Saudhulla Ali,M,AXXX881,ގުލްދަސްތާ,ސަޢުދުﷲ ޢަލީ
+173,GA Gemanafushi,Guldhasthaa,Aishath Zuhaira,F,AXXX630,ގުލްދަސްތާ,ޢާއިޝަތު ޒުހައިރާ
+174,GA Gemanafushi,Guldhasthaa,Safwathullah,M,AXXX631,ގުލްދަސްތާ,ޞަފްވަތުﷲ
+175,GA Gemanafushi,Guldhasthaa,Mariyam Saba Saud,F,AXXX307,ގުލްދަސްތާ,ސަޢުދު ސަބާ މަރްޔަމް
+176,GA Gemanafushi,Gulfaamuge,Sanfa Mohamed,F,AXXX437,ގުލްފާމުގެ,ސަންފާ މުޙައްމަދު
+177,GA Gemanafushi,Gulfaamuge,Ahmed Jihad,M,AXXX539,ގުލްފާމުގެ,އަޙްމަދު ޖިހާދު
+178,GA Gemanafushi,Gumreege,Abdul Rahman,M,AXXX718,ގުމްރީގެ,ޢަބްދުއްރަޙްމާން
+179,GA Gemanafushi,Gumreege,Yaugoob Abdul Rahman,M,AXXX687,ގުމްރީގެ,ޔަޢުޤޫބު ޢަބްދުއްރަޙްމާން
+180,GA Gemanafushi,Gumreege,Younus Abdul Rahman,M,AXXX933,ގުމްރީގެ,ޔޫނުސް ޢަބްދުއްރަޙްމާން
+181,GA Gemanafushi,Hafsa Manzil,Fathimath Hafsa,F,AXXX388,ހަފްސާމަންޒިލް,ފާޠިމަތު ޙަފްޞާ
+182,GA Gemanafushi,Hafsa Manzil,Ali Nadir,M,AXXX426,ހަފްސާމަންޒިލް,ޢަލީ ނާދިރު
+183,GA Gemanafushi,Hafsa Manzil,Abdulla Nadir,M,AXXX721,ހަފްސާމަންޒިލް,ޢަބްދުﷲ ނާދިރު
+184,GA Gemanafushi,Hafsa Manzil,Ahmed Nadhir,M,AXXX254,ހަފްސާމަންޒިލް,އަޙްމަދު ނާދިރު
+185,GA Gemanafushi,Handhuvareege,Sanfa Manike,F,AXXX440,ހަނދުވަރީގެ,ސަންޕާމަނިކެ
+186,GA Gemanafushi,Handhuvareege,Hussain Shahubad,M,AXXX441,ހަނދުވަރީގެ,ޙުސައިން ޝަހުބާދު
+187,GA Gemanafushi,Handhuvareege,Haamid Hussain,M,AXXX484,ހަނދުވަރީގެ,ޙާމިދު ޙުސައިން
+188,GA Gemanafushi,Handhuvareege,Mariyam Shuneeza,F,AXXX729,ހަނދުވަރީގެ,މަރްޔަމް ޝުނީޛާ
+189,GA Gemanafushi,Handhuvareege,Abdulla Mujeeb,M,AXXX379,ހަނދުވަރީގެ,ޢަބްދުﷲ މުޖީބް
+190,GA Gemanafushi,Handhuvareege,Ali Haseeb,M,AXXX573,ހަނދުވަރީގެ,ޢަލީ ހަސީބު
+191,GA Gemanafushi,Harumaluge,Mohamed Shaamin,M,AXXX559,ހަރުމަލުގެ,މުޙައްމަދު ޝާމިން
+192,GA Gemanafushi,Harumaluge,Shaafeena Ali Didi,F,AXXX281,ހަރުމަލުގެ,ޝާފީނާ ޢަލީދީދީ
+193,GA Gemanafushi,Harumaluge,Fathimath Didi,F,AXXX830,ހަރުމަލުގެ,ފާޠިމަތުދީދީ
+194,GA Gemanafushi,Harumaluge,Aminath Rasheedha,F,AXXX833,ހަރުމަލުގެ,އާމިނަތު ރަޝީދާ
+195,GA Gemanafushi,Harumaluge,Safrath Shafa,F,AXXX835,ހަރުމަލުގެ,ޞަފުރަތު ޝަފާ
+196,GA Gemanafushi,Harumaluge,Shimal Ali,M,AXXX839,ހަރުމަލުގެ,ޝިމާލް ޢަލީ
+197,GA Gemanafushi,Harumaluge,Nasrunnaeem,M,AXXX842,ހަރުމަލުގެ,ނަޞްރުއްނަޢީމް
+198,GA Gemanafushi,Harumaluge,Hawwa Athufa,F,AXXX843,ހަރުމަލުގެ,ޙައްވާ ޢަޠުފާ
+199,GA Gemanafushi,Harumaluge,Nazeer Ali,M,AXXX844,ހަރުމަލުގެ,ނަޒީރު ޢަލީ
+200,GA Gemanafushi,Harumaluge,Mariyam Shaahynaa,F,AXXX994,ހަރުމަލުގެ,މަރްޔަމް ޝާހީނާ
+201,GA Gemanafushi,Hasthee,Aminath Shafeega,F,AXXX526,ޙަސްތީ,އާމިނަތު ޝަފީޤާ
+202,GA Gemanafushi,Hasthee,Abdulla Mufeed,M,AXXX535,ޙަސްތީ,ޢަބްދުﷲ މުފީދު
+203,GA Gemanafushi,Hasthee,Ahmed Yooman,M,AXXX548,ޙަސްތީ,އަޙްމަދު ޔޫމަން
+204,GA Gemanafushi,Hasthee,Aishath Azuha,F,AXXX805,ޙަސްތީ,ޢާއިޝަތު އަޛުހާ
+205,GA Gemanafushi,Hasthee,Fathimath Suha,F,AXXX807,ޙަސްތީ,ފާޠިމަތު ސުހާ
+206,GA Gemanafushi,Hasthee,Mariyam Sausan,F,AXXX808,ޙަސްތީ,މަރްޔަމް ސައުސަން
+207,GA Gemanafushi,Hasthee,Aminath Hind Mufeed,F,AXXX469,ޙަސްތީ,އާމިނަތު ހިންދު މުފީދު
+208,GA Gemanafushi,Haveeree Asseyri,Ibrahim Nashid,M,AXXX139,ހަވީރީއައްސޭރި,އިބްރާހީމް ނާޝިދު
+209,GA Gemanafushi,Haveeree Asseyri,Mohamed Rashad,M,AXXX079,ހަވީރީއައްސޭރި,މުޙައްމަދު ރަޝާދު
+210,GA Gemanafushi,Haveeree Asseyri,Mariyam Zahir,F,AXXX687,ހަވީރީއައްސޭރި,މަރްޔަމް ޒާހިރު
+211,GA Gemanafushi,Haveeree Asseyri,Hussain Mubarik,M,AXXX705,ހަވީރީއައްސޭރި,ޙުސައިން މުބާރިކް
+212,GA Gemanafushi,Haveeree Asseyri,Kausara Rashad,F,AXXX708,ހަވީރީއައްސޭރި,ކައުސަރާ ރަޝާދު
+213,GA Gemanafushi,Heenaadeege,Mohamed Niyaaz,M,AXXX070,ހީނާޑީގެ,މުޙައްމަދު ނިޔާޒް
+214,GA Gemanafushi,Heenaadeege,Ali Mohamed,M,AXXX113,ހީނާޑީގެ,ޢަލީ މުޙައްމަދު
+215,GA Gemanafushi,Heenaadeege,Hussain Manik,M,AXXX852,ހީނާޑީގެ,ޙުސައިންމަނިކު
+216,GA Gemanafushi,Heenaadeege,Hassan Maniku,M,AXXX512,ހީނާޑީގެ,ޙަސަންމަނިކު
+217,GA Gemanafushi,Heenaamaage,Fathimath Ismail,F,AXXX619,ހީނާމާގެ,ފާޠިމަތު އިސްމާޢީލް
+218,GA Gemanafushi,Honey Moon,Ibrahim Manik,M,AXXX456,ހަނީމޫން,އިބްރާހީމްމަނިކު
+219,GA Gemanafushi,Honey Moon,Ahmed Khalaf,M,AXXX502,ހަނީމޫން,އަޙްމަދު ޚަލަފް
+220,GA Gemanafushi,Honey Moon,Hassan Khaashiu,M,AXXX509,ހަނީމޫން,ޙަސަން ޚާޝިޢު
+221,GA Gemanafushi,Husnooge,Sameer Ahmed,M,AXXX908,ހުސްނޫގެ,ސަމީރު އަޙްމަދު
+222,GA Gemanafushi,Husnooge,Ahmed Hussain Mohamed,M,AXXX548,ހުސްނޫގެ,އަޙްމަދު ޙުސައިން މުޙައްމަދު
+223,GA Gemanafushi,Husnooge,Mariyam Shina Hussain,F,AXXX597,ހުސްނޫގެ,މަރްޔަމް ޝިނާ ޙުސައިން
+224,GA Gemanafushi,Husnooge,Mohamed Mudhdhassir,M,AXXX938,ހުސްނޫގެ,މުޙައްމަދު މުއްދަައްސިރު
+225,GA Gemanafushi,Huvadhumaage,Ahmed Solih,M,AXXX566,ހުވަދުމާގެ,އަޙްމަދު ޞާލިޙް
+226,GA Gemanafushi,Huvadhumaage,Khadheeja Ali,F,AXXX578,ހުވަދުމާގެ,ޚަދީޖާ ޢަލީ
+227,GA Gemanafushi,Huvadhumaage,Hussain Solih,M,AXXX579,ހުވަދުމާގެ,ޙުސައިން ޞާލިޙް
+228,GA Gemanafushi,Huvadhumaage,Fathimath Majidha,F,AXXX581,ހުވަދުމާގެ,ފާޠިމަތު މާޖިދާ
+229,GA Gemanafushi,Huvadhumaage,Mariya Hussain,F,AXXX028,ހުވަދުމާގެ,މާރިޔާ ޙުސައިން
+230,GA Gemanafushi,Huvadhumaage,Majdha Salih,F,AXXX029,ހުވަދުމާގެ,މަޖުދާ ޞާލިޙް
+231,GA Gemanafushi,Ihsaas,Ahmed Zahir,M,AXXX334,އިހްސާސް,އަޙްމަދު ޒާހިިރު
+232,GA Gemanafushi,Irudheymaage,Mohamed Rashad,M,AXXX737,އިރުދޭމާގެ,މުޙައްމަދު ރަޝާދު
+233,GA Gemanafushi,Irudheymaage,Khadheeja Ali,F,AXXX499,އިރުދޭމާގެ,ޚަދީޖާ ޢަލީ
+234,GA Gemanafushi,Irudheymaage,Niusham Ismail,F,AXXX436,އިރުދޭމާގެ,ނިއުޝަމް އިސްމާޢީލް
+235,GA Gemanafushi,Irufuheyge,Aminath Manike,F,AXXX527,އިރުފުހޭގެ,އާމިނަތުމަނިކެ
+236,GA Gemanafushi,Irufuheyge,Ahmed Hushaam Hassan,M,AXXX557,އިރުފުހޭގެ,އަޙްމަދު ހުޝާމް ޙަސަން
+237,GA Gemanafushi,Irufuheyge,Hussain Fathuhulla Hassan,M,AXXX290,އިރުފުހޭގެ,ޙުސައިން ފަތުޙުﷲ ޙަސަން
+238,GA Gemanafushi,Irumatheege,Ahmed Ibrahim,M,AXXX181,އިރުމަތީގެ,އަޙްމަދު އިބްރާހީމް
+239,GA Gemanafushi,Irumatheege,Fathimath Ibrahim,F,AXXX747,އިރުމަތީގެ,ފާޠިމަތު އިބްރާހީމް
+240,GA Gemanafushi,Irumatheege,Khadheeja Ibrahim,F,AXXX748,އިރުމަތީގެ,ޚަދީޖާ އިބްރާހީމް
+241,GA Gemanafushi,Itha,Ahmed Ali,M,AXXX546,އިތާ,އަޙްމަދު ޢަލީ
+242,GA Gemanafushi,Janavareege,Ahmed Mohamed,M,AXXX467,ޖަނަވަރީގެ,އަޙްމަދު މުޙައްމަދު
+243,GA Gemanafushi,Janavareege,Jameela Abdulla,F,AXXX408,ޖަނަވަރީގެ,ޖަމީލާ ޢަބްދުﷲ
+244,GA Gemanafushi,Janavareege,Mohamed Zuhoor,M,AXXX153,ޖަނަވަރީގެ,މުޙައްމަދު ޡުހޫރު
+245,GA Gemanafushi,Janavareege,Ali Akhthar,M,AXXX711,ޖަނަވަރީގެ,ޢަލީ އަޚްތަރު
+246,GA Gemanafushi,Janavareege,Aminath Shazeena,F,AXXX322,ޖަނަވަރީގެ,އާމިނަތު ޝަޒީނާ
+247,GA Gemanafushi,Janavareege,Aishath Ahmed,F,AXXX666,ޖަނަވަރީގެ,ޢާއިޝަތު އަޙްމަދު
+248,GA Gemanafushi,Janavareege,Fathimath Nathaasha,F,AXXX668,ޖަނަވަރީގެ,ފާޠިމަތު ނަތާޝާ
+249,GA Gemanafushi,Janavareege,Juma Ahmed,F,AXXX205,ޖަނަވަރީގެ,ޖުމާ އަޙްމަދު
+250,GA Gemanafushi,Janavareege,Iyaz Ahmed,M,AXXX604,ޖަނަވަރީގެ,އިޔާޒު އަޙްމަދު
+251,GA Gemanafushi,Janbumaage,Aishath Didi,F,AXXX545,ޖަންބުމާގެ,ޢާއިޝަތުދީދީ
+252,GA Gemanafushi,Javaahirumaage,Zahir Mohamed,M,AXXX868,ޖަވާހިރުމާގެ,ޒާހިރު މުޙައްމަދު
+253,GA Gemanafushi,Javaahirumaage,Ali Zahir,M,AXXX082,ޖަވާހިރުމާގެ,ޢަލީ ޒާހިރު
+254,GA Gemanafushi,Javaahirumaage,Hassan Zahir,M,AXXX634,ޖަވާހިރުމާގެ,ޙަސަން ޒާހިރު
+255,GA Gemanafushi,Javaahirumaage,Adam Zahir,M,AXXX561,ޖަވާހިރުމާގެ,އާދަމް ޒާހިރު
+256,GA Gemanafushi,Javaahirumaage,Aminath Zahir,F,AXXX566,ޖަވާހިރުމާގެ,އާމިނަތު ޒާހިރު
+257,GA Gemanafushi,Kaamineege,Ali Moosa,M,AXXX256,ކާމިނީގެ,ޢަލީ މޫސާ
+258,GA Gemanafushi,Kaamineege,Mariyam Ahmed,F,AXXX861,ކާމިނީގެ,މަރްޔަމް އަޙްމަދު
+259,GA Gemanafushi,Kaanimaa,Gasim Maniku,M,AXXX689,ކާނިމާ,ޤާސިމްމަނިކު
+260,GA Gemanafushi,Kaanimaa,Fathimath Nizama,F,AXXX720,ކާނިމާ,ފާޠިމަތު ނިޒާމާ
+261,GA Gemanafushi,Kaanimaa,Aishath Shuzee,F,AXXX621,ކާނިމާ,ޢާއިޝަތު ޝުޒީ
+262,GA Gemanafushi,Kaanimaa,Sulthan Gasim,M,AXXX623,ކާނިމާ,ސުލްޠާން ޤާސިމް
+263,GA Gemanafushi,Kaanimaa,Shahuzaa Gaasim,F,AXXX627,ކާނިމާ,ޝަހުޒާ ޤާސިމް
+264,GA Gemanafushi,Kaanimaa,Mariyam Sharoona,F,AXXX083,ކާނިމާ,މަރްޔަމް ޝަރޫނާ
+265,GA Gemanafushi,Kaanimaa,Shazufaa,F,AXXX656,ކާނިމާ,ޝަޒުފާ
+266,GA Gemanafushi,Kaanimaa,Khadheejath Ifusha,F,AXXX673,ކާނިމާ,ޚަދީޖަތު އިފުޝާ
+267,GA Gemanafushi,Kadhumaage,Abdul Kareem,M,AXXX804,ކަދުމާގެ,ޢަބްދުލްކަރީމް
+268,GA Gemanafushi,Kadhumaage,Haleema Ahmed,F,AXXX993,ކަދުމާގެ,ޙަލީމާ އަޙްމަދު
+269,GA Gemanafushi,Kadhumaage,Mohamed Rasheed,M,AXXX762,ކަދުމާގެ,މުޙައްމަދު ރަޝީދު
+270,GA Gemanafushi,Kahanbuthila,Rashad Adam,M,AXXX584,ކަހަނބުތިލަ,ރަޝާދު އާދަމް
+271,GA Gemanafushi,Kahanbuthila,Mariyam Iradha Rashad,F,AXXX991,ކަހަނބުތިލަ,މަރްޔަމް އިރާދާ ރަޝާދު
+272,GA Gemanafushi,Kahanbuthila,Algaaf Rashaad,M,AXXX296,ކަހަނބުތިލަ,އަލްޤާފް ރަޝާދު
+273,GA Gemanafushi,Kahanbuthila,Althaaf Rashaad,M,AXXX811,ކަހަނބުތިލަ,އަލްޠާފް ރަޝާދު
+274,GA Gemanafushi,Kalhirava,Mohamed Madheeh,M,AXXX434,ކަޅިރަވަ,މުޙައްމަދު މަދީޙު
+275,GA Gemanafushi,Kalhirava,Amsoodha Ahmed,F,AXXX668,ކަޅިރަވަ,އަމްޞޫދާ އަޙްމަދު
+276,GA Gemanafushi,Kalhirava,Aishath Raya Madeeh,F,AXXX375,ކަޅިރަވަ,ޢާއިޝަތު ރާޔާ މަދީޙް
+277,GA Gemanafushi,Kalhirava,Mohamed Arusham Hussain,M,AXXX675,ކަޅިރަވަ,މުޙައްމަދު އަރުޝަމް ޙުސައިން
+278,GA Gemanafushi,Kalhirava,Fathimath Luha,F,AXXX738,ކަޅިރަވަ,ފާޠިމަތު ޟުހާ
+279,GA Gemanafushi,Kedholhumaage,Ibrahim Fareeh,M,AXXX707,ކެދޮޅުމާގެ,އިބްރާހީމް ފަރީޙް
+280,GA Gemanafushi,Kedholhumaage,Khadheeja Hassan,F,AXXX747,ކެދޮޅުމާގެ,ޚަދީޖާ ޙަސަން
+281,GA Gemanafushi,Kedholhumaage,Fathmath Neevan Ali,F,AXXX298,ކެދޮޅުމާގެ,ފާޠިމަތު ނީވަން ޢަލީ
+282,GA Gemanafushi,Kenereege,Muneera Abdul Hakeem,F,AXXX173,ކެނެރީގެ,މުނީރާ ޢަބްދުލްޙަކީމު
+283,GA Gemanafushi,Kenereege,Ghazzaan Abdul Latheef,M,AXXX661,ކެނެރީގެ,ޣައްޒާން ޢަބްދުއްލަޠީފް
+284,GA Gemanafushi,Kenereege,Mohamed Abdul Latheef,M,AXXX038,ކެނެރީގެ,މުޙައްމަދު ޢަބްދުއްލަޠީފް
+285,GA Gemanafushi,Kenereege,Ameena Abdul Raheem,F,AXXX011,ކެނެރީގެ,އަމީނާ ޢަބްދުއްރަހީމް
+286,GA Gemanafushi,Kenereege,Afusaana Latheef,F,AXXX013,ކެނެރީގެ,އަފުސާނާ ލަޠީފް
+287,GA Gemanafushi,Kenereege,Hassan Nooraddheen,M,AXXX310,ކެނެރީގެ,ޙަސަން ނޫރައްދީން
+288,GA Gemanafushi,Kudhimaage,Nizar Mohamed Ahmed,M,AXXX984,ކުދިމާގެ,ނިޒާރު މުޙައްމަދު އަޙްމަދު
+289,GA Gemanafushi,Kudhimaage,Nafeesa Adam Ahmed Manik,F,AXXX985,ކުދިމާގެ,ނަފީސާ އާދަމް އަޙްމަދުމަނިކު
+290,GA Gemanafushi,Leel,Abdulla Kaleem,M,AXXX685,ލީލް,ޢަބްދުﷲ ކަލީމް
+291,GA Gemanafushi,Leel,Shizuna Hussain,F,AXXX752,ލީލް,ޝިޛުނާ ޙުސައިން
+292,GA Gemanafushi,Lonuveli,Aishath Saadima,F,AXXX603,ލޮނުވެލި,ޢާއިޝަތު ޞާދިމާ
+293,GA Gemanafushi,Lonuveli,Mohamed Sadig,M,AXXX624,ލޮނުވެލި,މުޙައްމަދު ޞާދިޤް
+294,GA Gemanafushi,Lonuveli,Ali Muzaffar,M,AXXX618,ލޮނުވެލި,ޢަލީ މުޒައްފަރު
+295,GA Gemanafushi,Lonuveli,Fathimath Muna,F,AXXX070,ލޮނުވެލި,ފާޠިމަތު Mުނާ
+296,GA Gemanafushi,Love Nest,Juwairiyya Ahmed,F,AXXX982,ލަވްނެސްޓް,ޖުވައިރިއްޔާ އަޙްމަދު
+297,GA Gemanafushi,Love Nest,Ahmed Shareef,M,AXXX340,ލަވްނެސްޓް,އަޙްމަދު ޝަރީފް
+298,GA Gemanafushi,Love Nest,Jaadhullah Rasheed,M,AXXX147,ލަވްނެސްޓް,ޖާދުﷲ ރަޝީދު
+299,GA Gemanafushi,Love Nest,Thoha Shareef,M,AXXX941,ލަވްނެސްޓް,ޠާހާ ޝަރީފް
+300,GA Gemanafushi,Maafolheyge,Ali Hussain,M,AXXX118,މާފޮޅޭގެ,ޢަލީ ޙުސައިން
+301,GA Gemanafushi,Maafolheyge,Aminath Hassan,F,AXXX568,މާފޮޅޭގެ,އާމިނަތު ޙަސަން
+302,GA Gemanafushi,Maafolheyge,Hassan Hussain,M,AXXX569,މާފޮޅޭގެ,ޙަސަން ޙުސައިން
+303,GA Gemanafushi,Maafolheyge,Mohamed Unaish Ali,M,AXXX254,މާފޮޅޭގެ,މުޙައްމަދު އުނައިޝް ޢަލީ
+304,GA Gemanafushi,Maahiya,Ahmed Mujuthaba,M,AXXX487,މާހިޔާ,އަޙްމަދު މުޖުތަބާ
+305,GA Gemanafushi,Maahiya,Fathimath Nazira,F,AXXX458,މާހިޔާ,ފާޠިމަތު ނާޡިރާ
+306,GA Gemanafushi,Maahiya,Aishath Mana Ahmed,F,AXXX399,މާހިޔާ,ޢާއިޝަތު މާނާ އަޙްމަދު
+307,GA Gemanafushi,Maahiya,Mohamed Maniu,M,AXXX271,މާހިޔާ,މުޙައްމަދު މާނިޢު
+308,GA Gemanafushi,Manzil,Shamiya Ali,F,AXXX181,މަންޒިލް,ޝާމިޔާ ޢަލީ
+309,GA Gemanafushi,Manzil,Mohamed Ibrahim,M,AXXX260,މަންޒިލް,މުޙައްމަދު އިބްރާހީމް
+310,GA Gemanafushi,Manzil,Ahmed Sinah Mohamed,M,AXXX527,މަންޒިލް,އަޙްމަދު ސިނާހް މުޙައްމަދު
+311,GA Gemanafushi,Manzil,Fathimath Saahaa Mohamed,F,AXXX277,މަންޒިލް,ފާޠިމަތު ސާޙާ މުޙައްމަދު
+312,GA Gemanafushi,Mehel,Fathimath Madheeha,F,AXXX828,މެހެލް,ފާޠިމަތު މަދީޙާ
+313,GA Gemanafushi,Miskidhdhoshuge,Ahmed Shareef,M,AXXX249,މިސްކިތްދޮށުގެ,އަޙްމަދު ޝަރީފު
+314,GA Gemanafushi,Miskidhdhoshuge,Mariyam Fazuna,F,AXXX591,މިސްކިތްދޮށުގެ,މަރްޔަމް ފަޛުނާ
+315,GA Gemanafushi,Miskidhdhoshuge,Aminath Didi,F,AXXX592,މިސްކިތްދޮށުގެ,އާމިނަތުދީދީ
+316,GA Gemanafushi,Miskidhdhoshuge,Ali Usaamath,M,AXXX604,މިސްކިތްދޮށުގެ,ޢަލީ އުޞާމަތު
+317,GA Gemanafushi,Miskidhdhoshuge,Aksham Abdul Gadhir,M,AXXX608,މިސްކިތްދޮށުގެ,އަކްޝަމް ޢަބްދުލްޤާދިރު
+318,GA Gemanafushi,Miskidhdhoshuge,Fathimath Fazula,F,AXXX003,މިސްކިތްދޮށުގެ,ފާޠިމަތު ފަޟުލާ
+319,GA Gemanafushi,Miskidhdhoshuge,Faiza Abdul Gadhir,F,AXXX292,މިސްކިތްދޮށުގެ,ފާއިޒާ ޢަބްދުލްޤާދިރު
+320,GA Gemanafushi,Mugurige,Ahmed Ismail,M,AXXX582,މުގުރިގެ,އަޙްމަދު އިސްމާޢީލް
+321,GA Gemanafushi,Mugurige,Fathimath Didi,F,AXXX583,މުގުރިގެ,ފާޠިމަތުދީދީ
+322,GA Gemanafushi,Mujumaraage,Ahmed Habeeb,M,AXXX454,މުޖުމަރާގެ,އަޙްމަދު ޙަބީބް
+323,GA Gemanafushi,Muraka,Ibrahim Hussain,M,AXXX567,މުރަކަ,އިބްރާހީމް ޙުސައިން
+324,GA Gemanafushi,Muraka,Asiyath Ahmed Didi,F,AXXX366,މުރަކަ,އާސިޔަތު އަޙްމަދުދީދީ
+325,GA Gemanafushi,Muraka,Ahmed Muhiyyu Ibrahim,M,AXXX311,މުރަކަ,އަޙްމަދު މުހިއްޔު އިބްރާހީމް
+326,GA Gemanafushi,Mushtharee Hiyaa,Aminath Mausooma,F,AXXX717,މުޝްތަރީހިޔާ,އާމިނަތު މަޢުޞޫމާ
+327,GA Gemanafushi,Naasa,Haseena Hussain,F,AXXX419,ނާސާ,ޙަސީނާ ޙުސައިން
+328,GA Gemanafushi,Naasa,Ahmed Layan Ibrahim,M,AXXX356,ނާސާ,އަޙްމަދު ލަޔާން އިބްރާހީމް
+329,GA Gemanafushi,Naasa,Fathimath Laila,F,AXXX357,ނާސާ,ފާޠިމަތު ލައިލާ
+330,GA Gemanafushi,Najuvaahiyaa,Aishath Najuvaa Abdul Latheef,F,AXXX035,ނަޖުވާހިޔާ,ޢައިޝަތު ނަޖުވާ ޢަބްދުއްލަޠީފް
+331,GA Gemanafushi,Naseemee Villa,Ali Maniku,M,AXXX698,ނަސީމީވިލާ,ޢަލީމަނިކު
+332,GA Gemanafushi,Naseemee Villa,Naseema Ali,F,AXXX457,ނަސީމީވިލާ,ނަސީމާ ޢަލީ
+333,GA Gemanafushi,Naseemee Villa,Mariyam Inasha,F,AXXX819,ނަސީމީވިލާ,މަރްޔަމް ޢިނާޝާ
+334,GA Gemanafushi,Naseemee Villa,Aminath Eemana,F,AXXX821,ނަސީމީވިލާ,އާމިނަތު އީމާނާ
+335,GA Gemanafushi,Naseemee Villa,Hawwa Thaufeega,F,AXXX822,ނަސީމީވިލާ,ޙައްވާ ތައުފީޤާ
+336,GA Gemanafushi,Naseemee Villa,Ahmed Suoodh,M,AXXX341,ނަސީމީވިލާ,އަޙްމަދު ސުޢޫދު
+337,GA Gemanafushi,Naseemee Villa,Mohamed Shius,M,AXXX342,ނަސީމީވިލާ,މުޙައްމަދު ޝިއުސު
+338,GA Gemanafushi,Neel Villa,Aminath Nabaahath Mohamed,F,AXXX438,ނީލްވިލާ,އާމިނަތު ނަބާޙަތު މުޙައްމަދު
+339,GA Gemanafushi,Neel Villa,Adham Naahilu Mohamed,M,AXXX321,ނީލްވިލާ,އާދަމް ނާހިލު މުޙައްމަދު
+340,GA Gemanafushi,Neeloafaru,Fathimath Saeeda,F,AXXX432,ނީލޯފަރު,ފާޠިމަތު ސަޢީދާ
+341,GA Gemanafushi,Neeloafaru,Zoona Zubair,F,AXXX480,ނީލޯފަރު,ޒޫނާ ޒުބައިރު
+342,GA Gemanafushi,Neeloafaru,Ahmed Zubair,M,AXXX481,ނީލޯފަރު,އަޙްމަދު ޒުބައިރު
+343,GA Gemanafushi,Neeloafaru,Zihana Zubair,F,AXXX589,ނީލޯފަރު,ޒިހާނާ ޒުބައިރު
+344,GA Gemanafushi,New Flower,Ahmed Zareer,M,AXXX110,ނިއުފްލާވަރ,އަޙްމަދު ޒަރީރު
+345,GA Gemanafushi,New Life,Mohamed Hashim,M,AXXX237,ނިއުލައިފް,މުޙައްމަދު ހާޝިމް
+346,GA Gemanafushi,New Life,Azumath Abdullah,F,AXXX521,ނިއުލައިފް,ޢަޒުމަތު ޢަބްދުﷲ
+347,GA Gemanafushi,New Life,Mariyam Amana Hashim,F,AXXX539,ނިއުލައިފް,މަރްޔަމް އަމާނާ ހާޝިމް
+348,GA Gemanafushi,New Life,Aishath Ameeha Hashim,F,AXXX540,ނިއުލައިފް,ޢާއިޝަތު އަމީހާ ހާޝިމް
+349,GA Gemanafushi,New Life,Fathimath Ahla Hashim,F,AXXX571,ނިއުލައިފް,ފާޠިމަތު އަޙްލާ ހާޝިމް
+350,GA Gemanafushi,Nice,Ali Salih,M,AXXX183,ނައިސް,ޢަލީ ޞާލިޙް
+351,GA Gemanafushi,Nice,Mausoodha Ali,F,AXXX853,ނައިސް,މައުސޫދާ ޢަލީ
+352,GA Gemanafushi,Nice,Aishath Rayya Ali,F,AXXX551,ނައިސް,ޢާއިޝަތު ރައްޔާ ޢަލީ
+353,GA Gemanafushi,Nooruhsabaah,Ihusaan Saleem,M,AXXX394,ނޫރުއްޞަބާޙް,އިޙްސާން ސަލީމް
+354,GA Gemanafushi,Nooruhsabaah,Razeena Saleem,F,AXXX620,ނޫރުއްޞަބާޙް,ރަޒީނާ ސަލީމް
+355,GA Gemanafushi,Ocean,Ibrahim Sharfaz,M,AXXX439,އޯޝަން,އިބްރާހީމް ޝަރުފާޒު
+356,GA Gemanafushi,Ocean,Shamsunnisa,F,AXXX840,އޯޝަން,ޝަމްސުއްނިސާ
+357,GA Gemanafushi,Orchid Villa ge,Abdulla Hussain,M,AXXX061,އޯކިޑުވިލާގެ,ޢަބްދުﷲ ޙުސައިން
+358,GA Gemanafushi,Orchid Villa ge,Azmeena Abdulla,F,AXXX518,އޯކިޑުވިލާގެ,ޢަޒުމީނާ ޢަބްދުﷲ
+359,GA Gemanafushi,Orchid Villa ge,Khadheeja Mahamood,F,AXXX519,އޯކިޑުވިލާގެ,ޚަދީޖާ މަޙްމޫދު
+360,GA Gemanafushi,Orchidmaage,Ahmed Ibrahim,M,AXXX802,އޯކިޑުމާގެ,އަޙްމަދު އިބްރާހީމް
+361,GA Gemanafushi,Orchidmaage,Ibrahim Fareed Ahmed,M,AXXX811,އޯކިޑުމާގެ,އިބްރާހީމް ފަރީދު އަޙްމަދު
+362,GA Gemanafushi,Orchidmaage,Hussain Mauroof,M,AXXX717,އޯކިޑުމާގެ,ޙުސައިން މަޢުރޫފް
+363,GA Gemanafushi,Orchidmaage,Ishag Ahmed,M,AXXX459,އޯކިޑުމާގެ,އިސްޙާޤް އަޙްމަދު
+364,GA Gemanafushi,Orchidmaage,Ismail Izhan,M,AXXX478,އޯކިޑުމާގެ,އިސްމާޢީލް އިޛުޙާން
+365,GA Gemanafushi,Orchidmaage,Fathimath Manike,F,AXXX417,އޯކިޑުމާގެ,ފާޠިމަތުމަނިކެ
+366,GA Gemanafushi,Orchidmaage,Fathimath Nashfa,F,AXXX396,އޯކިޑުމާގެ,ފާޠިމަތު ނަޝްފާ
+367,GA Gemanafushi,Paradise,Shaira Ahmed,F,AXXX626,ޕެރަޑައިސް,ޝާއިރާ އަޙްމަދު
+368,GA Gemanafushi,Paradise,Mohamed Didi,M,AXXX484,ޕެރަޑައިސް,މުޙައްމަދުދީދީ
+369,GA Gemanafushi,Paradise,Aishath Meesam Mohamed,F,AXXX286,ޕެރަޑައިސް,ޢާއިޝަތު މީސަމް މުޙައްމަދު
+370,GA Gemanafushi,Rankokaage,Shahid Hussain,M,AXXX917,ރަންކޮކާގެ,ޝާހިދު ޙުސައިން
+371,GA Gemanafushi,Rankokaage,Shimla Hussain,F,AXXX803,ރަންކޮކާގެ,ޝިމްލާ ޙުސައިން
+372,GA Gemanafushi,Rankokaage,Nadheef Mohamed,M,AXXX418,ރަންކޮކާގެ,ނަދީފް މުޙައްމަދު
+373,GA Gemanafushi,Rankokaage,Zareena Hassan,F,AXXX474,ރަންކޮކާގެ,ޒަރީނާ ޙަސަން
+374,GA Gemanafushi,Rankokaage,Mariyam Meena,F,AXXX723,ރަންކޮކާގެ,މަރްޔަމް މީނާ
+375,GA Gemanafushi,Rankokaage,Maina Hassan,F,AXXX827,ރަންކޮކާގެ,މައިނާ ޙަސަން
+376,GA Gemanafushi,Ranveli,Fathimath Latheefa,F,AXXX588,ރަންވެލި,ފާޠިމަތު ލަޠީފާ
+377,GA Gemanafushi,Ranveli,Aseelullahi Raashid,M,AXXX368,ރަންވެލި,އަސީލުﷲ ރާޝިދު
+378,GA Gemanafushi,Ranveli,Aishath Anoora Rashid,F,AXXX569,ރަންވެލި,ޢާއިޝަތު އަނޫރާ ރާޝިދު
+379,GA Gemanafushi,Red Bird,Hawwa Manike,F,AXXX563,ރެޑްބާޑް,ޙައްވާމަނިކެ
+380,GA Gemanafushi,Red Bird,Mohamed Usman,M,AXXX564,ރެޑްބާޑް,މުޙައްމަދު ޢުޘްމާން
+381,GA Gemanafushi,Red Bird,Fathimath Samiyyath,F,AXXX505,ރެޑްބާޑް,ފާޠިމަތު ސަމިއްޔަތު
+382,GA Gemanafushi,Red Bird,Shimhaaz Mohamed,M,AXXX507,ރެޑްބާޑް,ޝިމްހާޒް މުޙައްމަދު
+383,GA Gemanafushi,Red Bird,Ibrahim Shamhaz,M,AXXX512,ރެޑްބާޑް,އިބްރާހީމް ޝަމްހާޒު
+384,GA Gemanafushi,Red Bird,Ahmed Sameeh,M,AXXX658,ރެޑްބާޑް,އަޙްމަދު ސަމީޙް
+385,GA Gemanafushi,Red Bird,Fathimath Shaiha,F,AXXX983,ރެޑްބާޑް,ފާޠިމަތު ޝައިހާ
+386,GA Gemanafushi,Red Bird,Ali Shaveez,M,AXXX824,ރެޑްބާޑް,ޢަލީ ޝަވީޒު
+387,GA Gemanafushi,Roashanee Manzil,khadheeja Manike,F,AXXX967,ރޯޝަނީމަންޒީލް,ޚަދީޖާމަނިކެ
+388,GA Gemanafushi,Rudhdhoshuge,Zaid Hussain,M,AXXX841,ރުއްދޮށުގެ,ޒައިދު ޙުސައިން
+389,GA Gemanafushi,Rudhdhoshuge,Ali Maniku,M,AXXX191,ރުއްދޮށުގެ,ޢަލީމަނިކު
+390,GA Gemanafushi,Rukkuri,Aboobakuru Jaufaru,M,AXXX568,ރުއްކުރި,އަބޫބަކުރު ޖަޢުފަރު
+391,GA Gemanafushi,Rukkuri,Hawwa Faan,F,AXXX461,ރުއްކުރި,ޙައްވާފާނު
+392,GA Gemanafushi,Safiyya Manzil,Waheedha Abdul Kareem,F,AXXX577,ސަފިއްޔާމަންޒިލް,ވަޙީދާ ޢަބްދުލްކަރީމް
+393,GA Gemanafushi,Safiyya Manzil,Mariyam Didi,F,AXXX578,ސަފިއްޔާމަންޒިލް,މަރްޔަމްދީދީ
+394,GA Gemanafushi,Saiboanige,Mohamed Fareeh,M,AXXX034,ސައިބޯނިގެ,މުޙައްމަދު ފަރީޙް
+395,GA Gemanafushi,Saiboanige,Fathimath Hassan,F,AXXX589,ސައިބޯނިގެ,ފާޠިމަތު ޙަސަން
+396,GA Gemanafushi,Sandaleege,Shareefa Mahmood,F,AXXX442,ސަންދަލީގެ,ޝަރީފާ މަޙްމޫދު
+397,GA Gemanafushi,Sandaleege,Hawwa Raihaana,F,AXXX414,ސަންދަލީގެ,ޙައްވާ ރައިހާނާ
+398,GA Gemanafushi,Sangu,Ahmed Sabhan Rasheed,M,AXXX019,ސަންގު,އަޙްމަދު ޞަބުހާނު ރަޝީދު
+399,GA Gemanafushi,Saveyra,Aishath Zunaira,F,AXXX430,ސަވޭރާ,ޢާއިޝަތު ޒުނައިރާ
+400,GA Gemanafushi,Saveyra,Mariyam Afa,F,AXXX364,ސަވޭރާ,މަރްޔަމް އަފާ
+401,GA Gemanafushi,Saveyra,Ibrahim Ameer Mohamed,M,AXXX365,ސަވޭރާ,އިބްރާހީމް އަމީރު މުޙައްމަދު
+402,GA Gemanafushi,Saveyra,Abdulla Muaddu,M,AXXX531,ސަވޭރާ,ޢަބްދުﷲ މުޢައްދު
+403,GA Gemanafushi,Saveyra,Adham Areesh,M,AXXX266,ސަވޭރާ,އާދަމް އަރީޝް
+404,GA Gemanafushi,Shabunam,Abdulla Usman,M,AXXX229,ޝަބުނަމް,ޢަބްދުﷲ ޢުޘްމާން
+405,GA Gemanafushi,Shabunam,Fathimath Didi,F,AXXX487,ޝަބުނަމް,ފާޠިމަތުދީދީ
+406,GA Gemanafushi,Shabunam,Aishath Basmaa,F,AXXX481,ޝަބުނަމް,ޢާއިޝަތު ބަސްމާ
+407,GA Gemanafushi,Shaheena Manzil,Ali Muddheen,M,AXXX016,ޝަހީނާ މަންޒިލް,ޢަލީ މުއްދީން
+408,GA Gemanafushi,Shaheena Manzil,Aminath Shaheema,F,AXXX648,ޝަހީނާ މަންޒިލް,އާމިނަތު ޝަހީމާ
+409,GA Gemanafushi,Shaheena Manzil,Safhaan Ali,M,AXXX321,ޝަހީނާ މަންޒިލް,ޞަފްޙާން ޢަލީ
+410,GA Gemanafushi,Shehenaazu Villa,Mariyam Manike,F,AXXX983,ޝެހެނާޒުވިލާ,މަރްޔަމްމަނިކެ
+411,GA Gemanafushi,Shehenaazu Villa,Abdulla Mufeed,M,AXXX501,ޝެހެނާޒުވިލާ,ޢަބްދުﷲ މުފީދު
+412,GA Gemanafushi,Shehenaazu Villa,Aboobakur Shaneez,M,AXXX625,ޝެހެނާޒުވިލާ,އަބޫބަކުރު ޝަނީޛް
+413,GA Gemanafushi,Snow White,Hassan Jamsheed,M,AXXX435,ސްނޯވައިޓް,ޙަސަން ޖަމްޝީދު
+414,GA Gemanafushi,Snow White,Aishath Zidhuna,F,AXXX529,ސްނޯވައިޓް,ޢާއިޝަތު ޒިދުނާ
+415,GA Gemanafushi,Snow White,Aminath Jamna Jamsheed,F,AXXX854,ސްނޯވައިޓް,އާމިނަތު ޖަމްނާ ޖަމްޝީދު
+416,GA Gemanafushi,Sosun Vilaa,Ibrahim Rasheed,M,AXXX996,ސޯސަންވިލާ,އިބްރާހީމް ރަޝީދު
+417,GA Gemanafushi,Sosun Vilaa,Aishath Didi,F,AXXX490,ސޯސަންވިލާ,ޢާއިޝަތުދީދީ
+418,GA Gemanafushi,Sosun Vilaa,Ahmed Muaz,M,AXXX491,ސޯސަންވިލާ,އަޙްމަދު މުޢާޛު
+419,GA Gemanafushi,Sosun Vilaa,Ali Mahushood Ibrahim,M,AXXX431,ސޯސަންވިލާ,ޢަލީ މަހުޝޫދު އިބްރާހީމް
+420,GA Gemanafushi,Sosun Vilaa,Mohamed Maaiz Ibrahim,M,AXXX432,ސޯސަންވިލާ,މުޙައްމަދު މާއިޒް އިބްރާހީމް
+421,GA Gemanafushi,Sosun Vilaa,Zaahiya Ibrahim,F,AXXX303,ސޯސަންވިލާ,ޒާހިޔާ އިބްރާހީމް
+422,GA Gemanafushi,Sosun Vilaa,Zahiyya Ibrahim,F,AXXX304,ސޯސަންވިލާ,ޒަހިއްޔާ އިބްރާހީމް
+423,GA Gemanafushi,Sosun Vilaa,Mariyam Zaheena Ibrahim,F,AXXX389,ސޯސަންވިލާ,މަރްޔަމް ޒަހީނާ އިބްރާހީމް
+424,GA Gemanafushi,Sport Light,Mohamed Solih,M,AXXX034,ސްޕޯޓްލައިޓް,މުޙައްމަދު ޞާލިޙް
+425,GA Gemanafushi,Sport Light,Aishath Saniya,F,AXXX531,ސްޕޯޓްލައިޓް,ޢާއިޝަތު ސާނިޔާ
+426,GA Gemanafushi,Sport Light,Mariyam Hannath Mohamed,F,AXXX565,ސްޕޯޓްލައިޓް,މަރްޔަމް ހަންނަތު މުޙައްމަދު
+427,GA Gemanafushi,Suny Beem,Ali Najeeb,M,AXXX748,ސަނީބީމް,ޢަލީ ނަޖީބު
+428,GA Gemanafushi,Suny Beem,Thaalibu Ali,M,AXXX651,ސަނީބީމް,ޠާލިބު ޢަލީ
+429,GA Gemanafushi,Suny Beem,Fathimath Usman,F,AXXX816,ސަނީބީމް,ފާޠިމަތު ޢުޘްމާނު
+430,GA Gemanafushi,Suny Beem,Thaarif Ali,M,AXXX743,ސަނީބީމް,ޠާރިފު ޢަލީ
+431,GA Gemanafushi,Surayya Manzil,Surayya Adam,F,AXXX675,ސުރައްޔާމަންޒިލް,ޘުރައްޔާ އާދަމް
+432,GA Gemanafushi,Taaj,Sharafunnisa,F,AXXX841,ތާޖު,ޝަރަފުއްނިސާ
+433,GA Gemanafushi,Taaj,Abdulla Shiyan,M,AXXX225,ތާޖު,ޢަބްދުﷲ ޝިޔާނު
+434,GA Gemanafushi,Two My Friends,Khadeeja Hussain,F,AXXX534,ޓޫމައިފުރެންޑްސް,ޚަދީޖާ ޙުސައިން
+435,GA Gemanafushi,Two My Friends,Adnan Hassan,M,AXXX536,ޓޫމައިފުރެންޑްސް,ޢަދުނާން ޙަސަން
+436,GA Gemanafushi,Two My Friends,Mohamed Shaheed,M,AXXX647,ޓޫމައިފުރެންޑްސް,މުޙައްމަދު ޝަހީދު
+437,GA Gemanafushi,Two My Friends,Aishath Naila,F,AXXX039,ޓޫމައިފުރެންޑްސް,ޢާއިޝަތު ނާއިލާ
+438,GA Gemanafushi,Two My Friends,Fathimath Sama,F,AXXX657,ޓޫމައިފުރެންޑްސް,ފާޠިމަތު ސަމާ
+439,GA Gemanafushi,Uni,Fathimath Shimreen,F,AXXX438,އުނި,ފާޠިމަތު ޝިމްރީނު
+440,GA Gemanafushi,Uni,Ahmed Manik,M,AXXX475,އުނި,އަޙްމަދުމަނިކު
+441,GA Gemanafushi,Uni,Mohamed Shamal Ahmed,M,AXXX268,އުނި,މުޙައްމަދު ޝަމާލް އަޙްމަދު
+442,GA Gemanafushi,Unique,Ahmed Imran,M,AXXX719,ޔުނިކް,އަޙްމަދު ޢިމްރާން
+443,GA Gemanafushi,Unique,Fathimath Fazuna,F,AXXX731,ޔުނިކް,ފާޠިމަތު ފަޒުނާ
+444,GA Gemanafushi,Vaadheege,Ibrahim Hussain,M,AXXX182,ވާދީގެ,އިބްރާހީމް ޙުސައިން
+445,GA Gemanafushi,Vaadheege,Ahmed Ibrahim,M,AXXX695,ވާދީގެ,އަޙްމަދު އިބްރާހީމް
+446,GA Gemanafushi,Vaadheege,Shinam Ibrahim,M,AXXX698,ވާދީގެ,ޝިނާމް އިބްރާހީމް
+447,GA Gemanafushi,Vaadheege,Reesha Ibrahim,F,AXXX694,ވާދީގެ,ރީޝާ އިބްރާހީމް
+448,GA Gemanafushi,Vaadheege,Aishath Musthafa,F,AXXX558,ވާދީގެ,ޢާއިޝަތު މުޞްޠަފާ
+449,GA Gemanafushi,Vaadheege,Reehan Ibrahim,M,AXXX560,ވާދީގެ,ރީޙާން އިބްރާހީމް
+450,GA Gemanafushi,Vaadheege,Mariyam Eenash Ibrahim,F,AXXX322,ވާދީގެ,މަރްޔަމް އީނާޝް އިބްރާހީމް
+451,GA Gemanafushi,Valuthereyge,Aishath Abbasa,F,AXXX650,ވަލުތެރޭގެ,ޢާއިޝަތު ޢައްބާސާ
+452,GA Gemanafushi,Valuthereyge,Aminath Nashreena,F,AXXX651,ވަލުތެރޭގެ,އާމިނަތު ނަޝްރީނާ
+453,GA Gemanafushi,Valuthereyge,Luguman Haleem,M,AXXX654,ވަލުތެރޭގެ,ލުޤުމާން ޙަލީމް
+454,GA Gemanafushi,Valuthereyge,Thooba Ahmed,F,AXXX637,ވަލުތެރޭގެ,ތޫބާ އަޙްމަދު
+455,GA Gemanafushi,Valuthereyge,Ali Hoodh,M,AXXX639,ވަލުތެރޭގެ,ޢަލީ ހޫދު
+456,GA Gemanafushi,Valuthereyge,Ikhuvaana Ahmed,F,AXXX642,ވަލުތެރޭގެ,އިޚުވާނާ އަޙްމަދު
+457,GA Gemanafushi,Valuthereyge,Looth Ibrahim,M,AXXX645,ވަލުތެރޭގެ,ލޫޠު އިބްރާހީމް
+458,GA Gemanafushi,Valuthereyge,Ahmed Rageeb,M,AXXX133,ވަލުތެރޭގެ,އަޙްމަދު ރަޤީބު
+459,GA Gemanafushi,Valuthereyge,Sanfa Didi,F,AXXX134,ވަލުތެރޭގެ,ސަންފާދީދީ
+460,GA Gemanafushi,Valuthereyge,Fathimath Rahma,F,AXXX136,ވަލުތެރޭގެ,ފާޠިމަތު ރަޙްމާ
+461,GA Gemanafushi,Valuthereyge,Moosa Majeedh,M,AXXX159,ވަލުތެރޭގެ,މޫސާ މަޖީދު
+462,GA Gemanafushi,Valuthereyge,Afiya Ahmed,F,AXXX164,ވަލުތެރޭގެ,ޢާފިޔާ އަޙްމަދު
+463,GA Gemanafushi,Valuthereyge,Mohamed Mahin Ali,M,AXXX736,ވަލުތެރޭގެ,މުޙައްމަދު މާހިން ޢަލީ
+464,GA Gemanafushi,Venis,Mohamed Haneef,M,AXXX405,ވެނިސް,މުޙައްމަދު ޙަނީފު
+465,GA Gemanafushi,Venis,Ali Hayyan Haneef,M,AXXX352,ވެނިސް,ޢަލީ ހައްޔާން ހަނީފް
+466,GA Gemanafushi,Venis,Misbaah Haneef,M,AXXX381,ވެނިސް,މިޞްބާޙް ޙަނީފް
+467,GA Gemanafushi,Venis,Fathimath Hana Haneef,F,AXXX497,ވެނިސް,ފާޠިމަތު ހަނާ ޙަނީފް
+468,GA Gemanafushi,Venis,Aishath Afeefa,F,AXXX132,ވެނިސް,ޢާއިޝަތު ޢަފީފާ
+469,GA Gemanafushi,Venis,Aminath Halaa Haneef,F,AXXX282,ވެނިސް,އާމިނަތު ހަލާ ޙަނީފް
+470,GA Gemanafushi,Venus Villa,Ismail Saudulla,M,AXXX681,ވީނަސްވިލާ,އިސްމާޢީލް ސަޢުދުﷲ
+471,GA Gemanafushi,Venus Villa,Khadeeja Zahir,F,AXXX670,ވީނަސްވިލާ,ޚަދީޖާ ޒާހިރު
+472,GA Gemanafushi,Venus Villa,Abdulla Didi,M,AXXX671,ވީނަސްވިލާ,ޢަބްދުﷲދީދީ
+473,GA Gemanafushi,Venus Villa,Fathimath Leena,F,AXXX830,ވީނަސްވިލާ,ފާޠިމަތު ލީނާ
+474,GA Gemanafushi,Venus Villa,Hassan Najah,M,AXXX431,ވީނަސްވިލާ,ޙަސަން ނަޖާޙު
+475,GA Gemanafushi,Venus Villa,Ibrahim Ma azullah,M,AXXX434,ވީނަސްވިލާ,އިބްރާހީމް މަޢާޛުﷲ
+476,GA Gemanafushi,Welcome,Mariyam Habeeba,F,AXXX525,ވެލްކަމް,މަރްޔަމް ޙަބީބާ
+477,GA Gemanafushi,Welcome,Hussain Shaig,M,AXXX321,ވެލްކަމް,ޙުސައިން ޝާއިޤު
+478,GA Gemanafushi,Wind Star,Adam Ziyaad,M,AXXX945,ވިންޑްސްޓަރ,އާދަމް ޒިޔާދު
+479,GA Gemanafushi,Wind Star,Mariyam Jeeza,F,AXXX532,ވިންޑްސްޓަރ,މަރްޔަމް ޖީޒާ
+480,GA Gemanafushi,Yaadhu,Hassan Manik,M,AXXX455,ޔާދު,ޙަސަންމަނިކު
+481,GA Gemanafushi,Yaadhu,Khadheeja Ahmed,F,AXXX649,ޔާދު,ޚަދީޖާ އަޙްމަދު
+482,GA Gemanafushi,Yaadhu,Mohamed Ayyoob,M,AXXX640,ޔާދު,މުޙައްމަދު އައްޔޫބް
+483,GA Gemanafushi,Yaadhu,Falhulullah Hassan,M,AXXX162,ޔާދު,ފަޟުލުﷲ ޙަސަން
+484,GA Gemanafushi,Yaadhu,Raulha Hassan,F,AXXX165,ޔާދު,ރައުޟާ ޙަސަން
+485,GA Gemanafushi,Yellow Diamond,Mohamed Salah,M,AXXX807,ޔެލޯޑައިމަންޑް,މުޙައްމަދު ޞަލާޙު
+486,GA Gemanafushi,Yellow Diamond,Mariyam Shabana,F,AXXX470,ޔެލޯޑައިމަންޑް,މަރްޔަމް ޝަބާނާ
+487,GA Gemanafushi,Yellow Diamond,Mohamed Ansaf Salaah,M,AXXX008,ޔެލޯޑައިމަންޑް,މުޙައްމަދު އަންޞަފު ޞަލާޙު
+488,GA Kanduhulhudhoo,Tharividhaage,Ali Moosa,M,AXXX589,ތަރިވިދާގެ,ޢަލީ މޫސާ
+489,GA Maamendhoo,Aaraam,Shabaab Ali,M,AXXX007,އާރާމް,ޝަބާބް ޢަލީ
+490,GA Nilandhoo,Dheedhaaruge,Shareefa Ali,F,AXXX100,ދީދާރުގެ,ޝަރީފާ ޢަލީ
+491,GA Vilingili,Yamyamge,Shaneeza Zuhree,F,AXXX777,ޔަމްޔަމްގެ,ޝަނީޒާ ޒުހުރީ
+492,GDh Fiyoaree,Maagasdhoshuge,Nahshadha Zahir,F,AXXX346,މާގަސްދޮށުގެ,ނަހްޝާދާ ޒާހިރު
+493,GDh Gadhdhoo,Handhuvaree Asseyri,Fathimath Jameel,F,AXXX503,ހަނދުވަރީއައްސޭރި,ފާޠިމަތު ޖަމީލް
+494,GDh Gadhdhoo,Saimaage,Mariyam Ameeza,F,AXXX714,ސައިމާގެ,މަރްޔަމް އަމީޒާ
+495,GDh Vaadhoo,Dhadikosheege,Aminath Ali Didi,F,AXXX580,ދަޑިކޮށީގެ,އާމިނަތު ޢަލީދީދީ
+496,Gn Fuvahmulah,Funaadu Dream,Nasiha Ahmed,F,AXXX358,ފުނާޑު ޑްރީމް,ނާޞިޙާ އަޙްމަދު
+497,Gn Fuvahmulah,Hoadhadu Kaamuraga Maage,Nahla Waheed,F,AXXX671,ހޯދަޑު ކާމުރަގަމާގެ,ނަހްލާ ވަޙީދު
+498,Gn Fuvahmulah,Maadhadu Mahilanbumaage,Zainab Abdulla,F,AXXX112,މާދަޑު މަހިލަނބުމާގެ,ޒައިނަބު ޢަބްދުﷲ
+499,HA Hoarafushi,Rosemarry,Saina Mohamed,F,AXXX142,ރޯޒްމެރީ,ސާއިނާ މުޙައްމަދު
+500,L Gan,Mathimaradhoo Dhondhuburige,Ramla Aboobakuru,F,AXXX407,މަތިމަރަދޫ ދޮންދުބުރިގެ,ރަމްލާ އަބޫބަކުރު
+501,L Gan,Mathimaradhoo Dhunfini,Fathimath Rasheedha,F,AXXX548,މަތިމަރަދޫ ދުންފިނި,ފާޠިމަތު ރަޝީދާ
+502,L Isdhoo,Hivvaruge,Fathimath Naseema,F,AXXX379,ހިތްވަރުގެ,ފާޠިމަތު ނަސީމާ
+503,L Isdhoo,Hivvaruge,Aishath Nihaayaa Abdulla,F,AXXX418,ހިތްވަރުގެ,ޢާއިޝަތު ނިހާޔާ ޢަބްދުﷲ
+504,Male ,Dhaftharu No RS 12933,Sanfa Manike,F,AXXX645,ދަފްތަރު ނަންބަރު ރސ 33921,ސަންޕާމަނިކެ
+505,Male ,Dhaftharu No RS 2483,Abdulla Saeed,M,AXXX226,ދަފްތަރު ނަންބަރު ރސ 3842,ޢަބްދުﷲ ސަޢީދު
+506,Male ,M Kamram,Aishath Afaf Mohamed,F,AXXX836,މ ކާމްރާމް,ޢާއިޝަތު ޢަފާފް މުޙައްމަދު
+507,N Magoodhoo,Jahaamugurige,Ibrahim Naeem,M,AXXX052,ޖަހާމުގުރިގެ,އިބްރާހީމް ނަޢީމް
+508,N Velidhoo,Kaamineege,Fathimath Azmeena,F,AXXX511,ކާMިނީގެ,ފާޠިމަތު އަޒުމީނާ
+509,R Dhuvaafaru,Copyge,Ahmed Munsif,M,AXXX879,ކޮޕީގެ,އަޙްމަދު މުންޞިފް
+510,R Maduvvari,Lunboamaage,Mariyam Sameeha,F,AXXX918,ލުނބޯމާގެ,މަރްޔަމް ސަމީޙާ
+511,S Hithadhoo,Nooali,Mohamed Nafiz,M,AXXX346,ނޫއަލި,މުޙައްމަދު ނާފިޛު
