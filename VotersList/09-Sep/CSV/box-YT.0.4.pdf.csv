@@ -1,0 +1,442 @@
+#,Island,House Name,Name,Sex,National ID,Address_DV,Name_DV
+1,N Fodhdhoo,Bahaaruge,Fathmath Layaan Mohamed,F,AXXX911,ބަހާރުގެ,ފާޠިމަތު ލަޔާން މުޙައްމަދު
+2,N Fodhdhoo,Endherimaage,Fathimath Azmeera,F,AXXX365,އެންދެރިމާގެ,ފާތިމަތު އަޛްމީރާ
+3,N Fodhdhoo,Faahi,Hussain Habeeb,M,AXXX880,ފާހި,ޙުސައިން ޙަބީބް
+4,N Fodhdhoo,Faahi,Mohamed Thahseen Hussain,M,AXXX340,ފާހި,މުޙައްމަދު ތަހްސީން ޙުސައިން
+5,N Fodhdhoo,Faahi,Aminath Thuhufa Hussain,F,AXXX562,ފާހި,އާމިނަތު ތުޙުފާ ޙުސައިން
+6,N Fodhdhoo,Maafahi,Mohamed Risaal Rasheed,M,AXXX950,މާފަހި,މުޙައްމަދު ރިސާލް ރަޝީދު
+7,N Fodhdhoo,Saahil,Ibrahim Simal,M,AXXX749,ސާހިލް,އިބްރާހީމް ސިމާލް
+8,N Fodhdhoo,Saahil,Aishath Shahula,F,AXXX122,ސާހިލް,ޢާއިޝަތު ޝަހުލާ
+9,N Fodhdhoo,Saahil,Ali Nabeel,M,AXXX143,ސާހިލް,ޢަލީ ނަބީލް
+10,N Fodhdhoo,Saahil,Fathimath Saaidha,F,AXXX145,ސާހިލް,ފާޠިމަތު ސާއިދާ
+11,N Fodhdhoo,Saahil,Hussain Zajil Ahmed,M,AXXX146,ސާހިލް,ޙުސައިން ޛާޖިލް އަޙްމަދު
+12,N Fodhdhoo,Thoathaage,Fathimath Nasha,F,AXXX388,ތޯތާގެ,ފާޠިމަތު ނަޝާ
+13,N Fodhdhoo,Thoathaage,Mariyam Nisha,F,AXXX823,ތޯތާގެ,މަރްޔަމް ނިޝާ
+14,N Fodhdhoo,Vaijeheyge,Sameera Abdul Hakeem,F,AXXX406,ވައިޖެހޭގެ,ސަމީރާ ޢަބްދުލްޙަކީމް
+15,N Henbadhoo,Bulbulaage,Zulfa Aboobakuru,F,AXXX092,ބުލްބުލާގެ,ޒުލްފާ އަބޫބަކުރު
+16,N Henbadhoo,Fehimaage,Abdul Latheef Yahya,M,AXXX966,ފެހިމާގެ,ޢަބްދުއްލަޠީފް ޔަޙްޔާ
+17,N Henbadhoo,Hithaffinivaage,Zeena Aboobakuru,F,AXXX192,ހިތަށްފިނިވާގެ,ޒީނާ އަބޫބަކުރު
+18,N Henbadhoo,Kaneeruge,Mariyam Shaufa,F,AXXX365,ކަނީރުގެ,މަރްޔަމް ޝަޢުފާ
+19,N Henbadhoo,Kaneeruge,Mohamed Ibrahim,M,AXXX924,ކަނީރުގެ,މުޙައްމަދު އިބްރާހީމް
+20,N Henbadhoo,Kaneeruge,Ahmed Rayyan,M,AXXX478,ކަނީރުގެ,އަޙްމަދު ރައްޔާން
+21,N Henbadhoo,Kenereege Aage,Hafsa Mohamed,F,AXXX402,ކެނެރީގެއާގެ,ޙަފްޞާ މުޙައްމަދު
+22,N Henbadhoo,Kenereege Aage,Hawwa Hussain,F,AXXX653,ކެނެރީގެއާގެ,ޙައްވާ ޙުސައިން
+23,N Henbadhoo,Kenereege Aage,Mariyam Hussain,F,AXXX657,ކެނެރީގެއާގެ,މަރްޔަމް ޙުސައިން
+24,N Henbadhoo,Kenereege Aage,Latheefa Hussain,F,AXXX666,ކެނެރީގެއާގެ,ލަޠީފާ ޙުސައިން
+25,N Henbadhoo,Moonimaage,Sanfa Aboobakuru,F,AXXX275,މޫނިމާގެ,ސަންފާ އަބޫބަކުރު
+26,N Henbadhoo,Nooraaneemaage,Hussain Ali,M,AXXX362,ނޫރާނީމާގެ,ޙުސައިން ޢަލީ
+27,N Holhudhoo,Abuhareege,Fathimath Aziya,F,AXXX657,އަބުހަރީގެ,ފާޠިމަތު ޢާޒިޔާ
+28,N Holhudhoo,Abuhareege,Hussain Hifaaz,M,AXXX824,އަބުހަރީގެ,ޙުސައިން ޙިފާޡު
+29,N Holhudhoo,Alivaage,Ameena Ali Manik,F,AXXX773,އަލިވާގެ,އަމީނާ ޢަލީ މަނިކު
+30,N Holhudhoo,Anbugasdhoshuge,Khadeeja Moosa,F,AXXX371,އަނބުގަސްދޮށުގެ,ޚަދީޖާ މޫސާ
+31,N Holhudhoo,Anbugasdhoshuge,Mohamed Ikleel,M,AXXX802,އަނބުގަސްދޮށުގެ,މުޙައްމަދު އިކުލީލް
+32,N Holhudhoo,Anbugasdhoshuge,Mariyam Hizama,F,AXXX651,އަނބުގަސްދޮށުގެ,މަރްޔަމް ޙިޒާމާ
+33,N Holhudhoo,Arafaathu,Aishath Leeza,F,AXXX074,ޢަރަފާތު,ޢާއިޝަތު ލީޒާ
+34,N Holhudhoo,Asareege,Samaaha Rashad,F,AXXX033,އަސަރީގެ,ސަމާޙާ ރަޝާދު
+35,N Holhudhoo,Baansaage,Abdul Sattar Ali,M,AXXX973,ބާންސާގެ,ޢަބްދުއްސައްތާރު ޢަލީ
+36,N Holhudhoo,Baansaage,Adam Faisal,M,AXXX572,ބާންސާގެ,އާދަމް ފައިޞަލް
+37,N Holhudhoo,Baansaage,Fathimath Eenaas,F,AXXX619,ބާންސާގެ,ފާޠިމަތު އީނާސް
+38,N Holhudhoo,Banafusaage,Amjad Ali,M,AXXX882,ބަނަފުސާގެ,އަމްޖަދު ޢަލީ
+39,N Holhudhoo,Banafusaage,Ali Ahnaf Amjadh,M,AXXX712,ބަނަފުސާގެ,ޢަލީ އަޙްނަފް އަމްޖަދު
+40,N Holhudhoo,Boduvalhudhoshuge,Mariyam Thaufeeqa,F,AXXX120,ބޮޑުވަޅުދޮށުގެ,މަރްޔަމް ތައުފީޤާ
+41,N Holhudhoo,Boduvalhudhoshuge,Adam Hussain,M,AXXX848,ބޮޑުވަޅުދޮށުގެ,އާދަމް ޙުސައިން
+42,N Holhudhoo,Boduvalhudhoshuge,Fathmath Hussain,F,AXXX854,ބޮޑުވަޅުދޮށުގެ,ފާޠިމަތު ޙުސައިން
+43,N Holhudhoo,Boduvalhudhoshuge,Inayath Adam,F,AXXX857,ބޮޑުވަޅުދޮށުގެ,ޢިނާޔަތު އާދަމް
+44,N Holhudhoo,Bulaasamge,Ali Sayyah Saeed,M,AXXX519,ބުލާސަމްގެ,ޢަލީ ސައްޔާޙު ސަޢީދު
+45,N Holhudhoo,Carrot,Ali Shathir,M,AXXX779,ކެރެޓް,ޢަލީ ޝާޠިރު
+46,N Holhudhoo,Dhoasthaanaa,Aishath Shifneeza,F,AXXX373,ދޯސްތާނާ,ޢާއިޝަތު ޝިފްނީޒާ
+47,N Holhudhoo,Dhoasthaanaa,Raaya Ahmed Shareef,F,AXXX528,ދޯސްތާނާ,ރާޔާ އަޙްމަދު ޝަރީފު
+48,N Holhudhoo,Fenfiyaazuge,Ibrahim Zahulan,M,AXXX507,ފެންފިޔާޒުގެ,އިބްރާހީމް ޒަޙްލާން
+49,N Holhudhoo,Finivaage,Adhisa Mohamed,F,AXXX102,ފިނިވާގެ,ޢާދިސާ މުޙައްމަދު
+50,N Holhudhoo,Finivaage,Hussain Asim,M,AXXX431,ފިނިވާގެ,ޙުސައިން ޢާޞިމް
+51,N Holhudhoo,Fiyanoomaage,Aishath Shahy,F,AXXX194,ފިޔަނޫމާގެ,ޢާއިޝަތު ޝާހީ
+52,N Holhudhoo,Fiyanoomaage,Aishath Afaa,F,AXXX531,ފިޔަނޫމާގެ,ޢާއިޝަތު އަފާ
+53,N Holhudhoo,Golden Star,Abdul Rahman Haisam,M,AXXX589,ގޯލްޑަންސްޓާރ,ޢަބްދުއްރަޙްމާން ހައިސަމް
+54,N Holhudhoo,Golden Star,Ali Zuhoor,M,AXXX598,ގޯލްޑަންސްޓާރ,ޢަލީ ޡުހޫރު
+55,N Holhudhoo,Gulbakaage,Ali Rasheed,M,AXXX463,ގުލްބަކާގެ,ޢަލީ ރަޝީދު
+56,N Holhudhoo,Gulbakaage,Ahmed Nasir,M,AXXX465,ގުލްބަކާގެ,އަޙްމަދު ނާޞިރު
+57,N Holhudhoo,Guleynoorange,Ahmed Sinan,M,AXXX142,ގުލޭނޫރަންގެ,އަޙްމަދު ސިނާން
+58,N Holhudhoo,Hasthee,Hussain Zuhair,M,AXXX580,ހަސްތީ,ޙުސައިން ޒުހައިރު
+59,N Holhudhoo,Hazaarumaage,Khadeeja Shahuma,F,AXXX660,ހަޒާރުމާގެ,ޚަދީޖާ ޝަހުމާ
+60,N Holhudhoo,Hazaarumaage,Mohamed Maadhih,M,AXXX436,ހަޒާރުމާގެ,މުޙައްމަދު މާދިޙް
+61,N Holhudhoo,Hiyyfaseyhage,Moosa Jameel,M,AXXX293,ހިތްފަސޭހަގެ,މޫސާ ޖަމީލު
+62,N Holhudhoo,Hudhuveli,Mohamed Naseer Hussain,M,AXXX166,ހުދުވެލި,މުޙައްމަދު ނަޞީރު ޙުސައިން
+63,N Holhudhoo,Hudhuveli,Ibrahim Naseer,M,AXXX502,ހުދުވެލި,އިބްރާހީމް ނަޞީރު
+64,N Holhudhoo,Ihraamge,Mariyam Mohamed,F,AXXX654,އިޙްރާމްގެ,މަރްޔަމް މުޙައްމަދު
+65,N Holhudhoo,Iramaage,Latheefa Mohamed,F,AXXX520,އިރަމާގެ,ލަޠީފާ މުޙައްމަދު
+66,N Holhudhoo,Iramaage,Adam Ibrahim Manik,M,AXXX593,އިރަމާގެ,އާދަމް އިބްރާހީމްމަނިކު
+67,N Holhudhoo,Iramaage,Fathimath Sajuva Zuhuree,F,AXXX382,އިރަމާގެ,ފާޠިމަތު ސަޖުވާ ޒުހުރީ
+68,N Holhudhoo,Irumatheege,Mohamed Aboobakur,M,AXXX893,އިރުމަތީގެ,މުޙައްމަދު އަބޫބަކުރު
+69,N Holhudhoo,Irumatheege,Mohamed Zain,M,AXXX811,އިރުމަތީގެ,މުޙައްމަދު ޒައިން
+70,N Holhudhoo,Kaneerumaage,Aishath Aboobakuru,F,AXXX287,ކަނީރުމާގެ,ޢާއިޝަތު އަބޫބަކުރު
+71,N Holhudhoo,Kosheege,Ibrahim Rasheed,M,AXXX948,ކޮށީގެ,އިބްރާހީމް ރަޝީދު
+72,N Holhudhoo,Kosheege,Aminath Sabeena,F,AXXX769,ކޮށީގެ,އާމިނަތު ސަބީނާ
+73,N Holhudhoo,Kurikeelage,Ahmed Munawwar,M,AXXX501,ކުރިކީލަގެ,އަޙްމަދު މުނައްވަރު
+74,N Holhudhoo,M Baage,Aishath Shizleen,F,AXXX279,M ބާގެ,ޢާއިޝަތު ޝިޒްލީން
+75,N Holhudhoo,Maaranga,Razana Moosa Manik,F,AXXX776,މާރަނގަ,ރަޒާނާ މޫސާމަނިކު
+76,N Holhudhoo,Maaridha,Abdulla Adam,M,AXXX380,މާރިދަ,ޢަބްދުﷲ އާދަމް
+77,N Holhudhoo,Maaridha,Ajula Abdulla,F,AXXX425,މާރިދަ,އަޖްލާ ޢަބްދުﷲ
+78,N Holhudhoo,Maluthereyge,Mohamed Husnee,M,AXXX913,މަލުތެރޭގެ,މުޙައްމަދު ޙުސްނީ
+79,N Holhudhoo,Memosaa Villa,Aishath Shifza,F,AXXX795,މެމޯސާވިލާ,ޢާއިޝަތު ޝިފްޒާ
+80,N Holhudhoo,Memosaa Villa,Mariyam Shizna,F,AXXX254,މެމޯސާވިލާ,މަރްޔަމް ޝިޒްނާ
+81,N Holhudhoo,Milan,Ahmed Ignaz,M,AXXX081,މިލާން,އަޙްމަދު އިޤުނާޒް
+82,N Holhudhoo,Milan,Hiba Igbal,F,AXXX086,މިލާން,ހިބާ އިޤުބާލް
+83,N Holhudhoo,Minaa,Abdulla Ali,M,AXXX805,މިނާ,ޢަބްދުﷲ ޢަލީ
+84,N Holhudhoo,Nelum,Mariyam Flavia,F,AXXX650,ނެލުމް,މަރްޔަމް ފުލާވިޔާ
+85,N Holhudhoo,Orchid Villa,Mohamed Hassan,M,AXXX580,އޯކިޑްވިލާ,މުޙައްމަދު ޙަސަން
+86,N Holhudhoo,Orchid Villa,Mariyam Shathira,F,AXXX982,އޯކިޑްވިލާ,މަރްޔަމް ޝާޠިރާ
+87,N Holhudhoo,Randheleege,Mohamed Ziyau,M,AXXX113,ރަންދެލީގެ,މުޙައްމަދު ޟިޔާއު
+88,N Holhudhoo,Rankokaage,Aishath Shaniya,F,AXXX429,ރަންކޮކާގެ,ޢާއިޝަތު ޝާނިޔާ
+89,N Holhudhoo,Ray Light,Hussain Hassan Manik,M,AXXX716,ރޭލައިޓް,ޙުސައިން ޙަސަންމަނިކު
+90,N Holhudhoo,Ray Light,Habeeba Mohamed,F,AXXX270,ރޭލައިޓް,ޙަބީބާ މުޙައްމަދު
+91,N Holhudhoo,Ray Light,Mariyam Hudha Hussain,F,AXXX322,ރޭލައިޓް,މަރްޔަމް ހުދާ ޙުސައިން
+92,N Holhudhoo,Red House,Abbas Hussain,M,AXXX717,ރެޑްހައުސް,ޢައްބާސް ޙުސައިން
+93,N Holhudhoo,Reysham,Ali Aruham,M,AXXX830,ރޭޝަމް,ޢަލީ އަރުހަމް
+94,N Holhudhoo,Reysham,Shadiya Ibrahim,F,AXXX531,ރޭޝަމް,ޝާދިޔާ އިބްރާހީމް
+95,N Holhudhoo,Robin Villa,Fathimath Hussain,F,AXXX577,ރޮބިންވިލާ,ފާޠިމަތު ޙުސައިން
+96,N Holhudhoo,Rose Mead,Fathimath Sakha,F,AXXX699,ރޯޒްމީޑް,ފާޠިމަތު ސަޚާ
+97,N Holhudhoo,Rose Mead,Mariyam Jinaan,F,AXXX656,ރޯޒްމީޑް,މަރްޔަމް ޖިނާން
+98,N Holhudhoo,Rose Mead,Mariyam Janaa,F,AXXX711,ރޯޒްމީޑް,މަރްޔަމް ޖަނާ
+99,N Holhudhoo,Saadhiyaa Villa,Mariyam Bathsa,F,AXXX532,ސާދިޔާވިލާ,މަރްޔަމް ބަތުސާ
+100,N Holhudhoo,Saajan,Ahmed Alim,M,AXXX051,ސާޖަން,އަޙްމަދު ޢާލިމް
+101,N Holhudhoo,Saimaage,Nasma Abdulla,F,AXXX321,ސައިމާގެ,ނަސްމާ ޢަބްދުﷲ
+102,N Holhudhoo,Sandhuravi,Aminath Liusha,F,AXXX391,ސަނދުރަވި,އާމިނަތު ލިއުޝާ
+103,N Holhudhoo,Semrock,Ibrahim Mohamed,M,AXXX676,ސެމްރޮކް,އިބްރާހީމް މުޙައްމަދު
+104,N Holhudhoo,Semrock,Adam Mohamed,M,AXXX677,ސެމްރޮކް,އާދަމް މުޙައްމަދު
+105,N Holhudhoo,Senior,Aishath Moosa,F,AXXX959,ސީނިއަރ,ޢާއިޝަތު މޫސާ
+106,N Holhudhoo,Shabnam,Mohamed Shiyam,M,AXXX680,ޝަބްނަމް,މުޙައްމަދު ޝިޔާމް
+107,N Holhudhoo,Simlaa,Abdulla Thaufeeq,M,AXXX597,ސިމްލާ,ޢަބްދުﷲ ތައުފީޤު
+108,N Holhudhoo,Sithaaraage,Rabia Mohamed,F,AXXX572,ސިތާރާގެ,ރާބިޢާ މުޙައްމަދު
+109,N Holhudhoo,Sithaaraage,Khadheeja Ahmed,F,AXXX424,ސިތާރާގެ,ޚަދީޖާ އަޙްމަދު
+110,N Holhudhoo,Sithaaraage,Aminath Shamila,F,AXXX426,ސިތާރާގެ,އާމިނަތު ޝާމިލާ
+111,N Holhudhoo,Sithaaraage,Ibrahim Shuraih,M,AXXX427,ސިތާރާގެ,ޢިބްރާހީމް ޝުރައިޙު
+112,N Holhudhoo,Southern Beach,Abdul Shakoor Abdul Gadir,M,AXXX168,ސަދަންބީޗް,ޢަބްދުއްޝަކޫރު ޢަބްދުލް ޤާދިރު
+113,N Holhudhoo,Southern Beach,Fathimath Moonisa,F,AXXX709,ސަދަންބީޗް,ފާޠިމަތު މޫނިސާ
+114,N Holhudhoo,Southern Beach,Mohamed Kaleem,M,AXXX710,ސަދަންބީޗް,މުޙައްމަދު ކަލީމް
+115,N Holhudhoo,Southern Beach,Aishath Jazlee,F,AXXX761,ސަދަންބީޗް,ޢާއިޝަތު ޖަޒްލީ
+116,N Holhudhoo,Southern Beach,Ali Sameel,M,AXXX762,ސަދަންބީޗް,ޢަލީ ސަމީލު
+117,N Holhudhoo,Sun Light,Thomeenath Abdul Hameed,F,AXXX694,ސަންލައިޓް,ޠަމީނަތު ޢަބްދުލްޙަމީދު
+118,N Holhudhoo,Valathereyge,Ahmed Rasheed,M,AXXX804,ވަލަތެރޭގެ,އަޙްމަދު ރަޝީދު
+119,N Holhudhoo,Vishaan,Ali Shifag,M,AXXX142,ވިޝާން,ޢަލީ ޝިފާޤް
+120,N Holhudhoo,Zamaaneege,Ibrahim Mufasiru,M,AXXX652,ޒަމާނީގެ,އިބްރާހިމް މުފައްސިރު
+121,N Holhudhoo,Zidhunaavilaa,Abdhulla Faaiz,M,AXXX510,ޒިދުނާވިލާ,ޢަބްދުﷲ ފާއިޒް
+122,N Kendhikulhudhoo,Kendhikolhu Amaaz,Aishath Nadheema,F,AXXX436,ކެނދިކޮޅު އަމާޒް,ޢާއިޝަތު ނަދީމާ
+123,N Kendhikulhudhoo,Kendhikolhu Amaaz,Hawwa Dheena,F,AXXX149,ކެނދިކޮޅު އަމާޒް,ޙައްވާ ދީނާ
+124,N Kendhikulhudhoo,Kendhikolhu Amaaz,Mariyam Yumna,F,AXXX277,ކެނދިކޮޅު އަމާޒް,މަރްޔަމް ޔުމްނާ
+125,N Kendhikulhudhoo,Kendhikolhu Amaaz,Aminath Lumma,F,AXXX278,ކެނދިކޮޅު އަމާޒް,އާމިނަތު ލުއްމާ
+126,N Kendhikulhudhoo,Kendhikolhu Amaaz,Main Rameez,F,AXXX593,ކެނދިކޮޅު އަމާޒް,Mާއިން ރަމީޒު
+127,N Kendhikulhudhoo,Kendhikolhu Chabeyleege,Aminath Rayyan,F,AXXX744,ކެނދިކޮޅު ޗަބޭލީގެ,އާމިނަތު ރައްޔާން
+128,N Kendhikulhudhoo,Kendhikolhu Dhabufashuige,Ahmed Rasheed,M,AXXX922,ކެނދިކޮޅު ދަބުފަށުއިގެ,އަޙްމަދު ރަޝީދު
+129,N Kendhikulhudhoo,Kendhikolhu Fathaha,Mohamed Fareesh,M,AXXX157,ކެނދިކޮޅު ފަތަޙަ,މުޙައްމަދު ފަރީޝް
+130,N Kendhikulhudhoo,Kendhikolhu Fehivilaage,Raeefa Shameem,F,AXXX056,ކެނދިކޮޅު ފެހިވިލާގެ,ރައީފާ ޝަމީމު
+131,N Kendhikulhudhoo,Kendhikolhu Kudhiraiymaage,Abdul Rasheed,M,AXXX564,ކެނދިކޮޅު ކުދިރަތްމާގެ,ޢަބްދުއްރަޝީދު
+132,N Kendhikulhudhoo,Kendhikolhu Kudhiraiymaage,Fathimath Saffaana,F,AXXX491,ކެނދިކޮޅު ކުދިރަތްމާގެ,ފާޠިމަތު ސައްފާނާ
+133,N Kendhikulhudhoo,Kendhikolhu Minaa,Abdulla Ikram,M,AXXX601,ކެނދިކޮޅު މިނާ,ޢަބްދުﷲ އިކްރާމް
+134,N Kendhikulhudhoo,Kendhikolhu Minaa,Ibrahim Anaaf,M,AXXX442,ކެނދިކޮޅު މިނާ,އިބްރާހީމް އަނާފް
+135,N Kendhikulhudhoo,Kendhikolhu Nishaan,Rasheedha Aboobakuru,F,AXXX161,ކެނދިކޮޅު ނިޝާން,ރަޝީދާ އަބޫބަކުރު
+136,N Kendhikulhudhoo,Kendhikolhu Nishaan,Fathimath Uhudha,F,AXXX167,ކެނދިކޮޅު ނިޝާން,ފާޠިމަތު ޢުހުދާ
+137,N Kendhikulhudhoo,Kendhikolhu Rose Mead,Mariyam Ruhusa,F,AXXX529,ކެނދިކޮޅު ރޯޒްމީޑް,މަރްޔަމް ރުޙުސާ
+138,N Kendhikulhudhoo,Kendhikolhu Rose Villa,Mariyam Saniyya,F,AXXX487,ކެނދިކޮޅު ރޯޒްވިލާ,މަރްޔަމް ސަނިއްޔާ
+139,N Kendhikulhudhoo,Kendhikolhu Rose Villa,Fathimath Saviyya,F,AXXX211,ކެނދިކޮޅު ރޯޒްވިލާ,ފާޠިމަތު ސަވިއްޔާ
+140,N Kendhikulhudhoo,Kendhikolhu Rose Villa,Wafiyya Shameem,F,AXXX474,ކެނދިކޮޅު ރޯޒްވިލާ,ވަފިއްޔާ ޝަމީމު
+141,N Kendhikulhudhoo,Kendhikolhu Rose Villa,Abdulla Aiman,M,AXXX481,ކެނދިކޮޅު ރޯޒްވިލާ,ޢަބްދުﷲ އައިމަން
+142,N Kendhikulhudhoo,Kendhikolhu Rose Villa,Naish Mohamed Shahid,M,AXXX936,ކެނދިކޮޅު ރޯޒްވިލާ,ނާއިޝް މުޙައްމަދު ޝާހިދު
+143,N Kendhikulhudhoo,Kendhikolhu West Wind,Hawwa Adam,F,AXXX305,ކެނދިކޮޅު ވެސްޓްވިންޑް,ޙައްވާ އާދަމް
+144,N Kendhikulhudhoo,Kendhikolhu West Wind,Shifana Adam,F,AXXX306,ކެނދިކޮޅު ވެސްޓްވިންޑް,ޝިފާނާ އާދަމް
+145,N Kendhikulhudhoo,Kendhikolhu Zameen,Aishath Nadha,F,AXXX467,ކެނދިކޮޅު ޒަމީން,ޢާއިޝަތު ނަދާ
+146,N Kendhikulhudhoo,Kulhudhoo Dhilshaadhuge,Abdulla Hassan Aboobakur,M,AXXX153,ކުޅުދޫ ދިލްޝާދުގެ,ޢަބްދުﷲ ޙަސަން އަބޫބަކުރު
+147,N Kendhikulhudhoo,Kulhudhoo Dhilshaadhuge,Hussain Afzan,M,AXXX436,ކުޅުދޫ ދިލްޝާދުގެ,ޙުސައިން އަފްޒާނު
+148,N Kendhikulhudhoo,Kulhudhoo Faagathi,Hawwa Adam,F,AXXX907,ކުޅުދޫ ފާގަތި,ޙައްވާ އާދަމް
+149,N Kendhikulhudhoo,Kulhudhoo Faagathi,Ali Rizaan,M,AXXX915,ކުޅުދޫ ފާގަތި,ޢަލީ ރިޟާން
+150,N Kendhikulhudhoo,Kulhudhoo Falhoamaa Aage,Mariyam Rizna,F,AXXX073,ކުޅުދޫ ފަޅޯމާއާގެ,މަރްޔަމް ރިޒްނާ
+151,N Kendhikulhudhoo,Kulhudhoo Hiyaavahi,Hussain Simau,M,AXXX368,ކުޅުދޫ ހިޔާވަހި,ޙުސައިން ސިމާޢު
+152,N Kendhikulhudhoo,Kulhudhoo Hiyaavahi,Ali Siyau,M,AXXX369,ކުޅުދޫ ހިޔާވަހި,ޢަލީ ސިޔާޢު
+153,N Kendhikulhudhoo,Kulhudhoo Kashmeeruge,Hassan Zareer,M,AXXX805,ކުޅުދޫ ކަޝްމީރުގެ,ޙަސަން ޒަރީރު
+154,N Kendhikulhudhoo,Kulhudhoo Kulhlhavah Aage,Fareesha,F,AXXX295,ކުޅުދޫ ކުއްޅަވައްއާގެ,ފަރީޝާ
+155,N Kendhikulhudhoo,Kulhudhoo Kulhlhavah Aage,Hawwa Ali,F,AXXX740,ކުޅުދޫ ކުއްޅަވައްއާގެ,ޙައްވާ ޢަލީ
+156,N Kendhikulhudhoo,Kulhudhoo Kulhlhavah Aage,Hassan Gasim,M,AXXX000,ކުޅުދޫ ކުއްޅަވައްއާގެ,ޙަސަން ޤާސިމް
+157,N Kendhikulhudhoo,Kulhudhoo Kulhlhavah Aage,Abdulla Azmeer,M,AXXX054,ކުޅުދޫ ކުއްޅަވައްއާގެ,ޢަބްދުﷲ ޢަޒްމީރު
+158,N Kendhikulhudhoo,Kulhudhoo Kulhlhavah Aage,Aidha Hassan,F,AXXX600,ކުޅުދޫ ކުއްޅަވައްއާގެ,ޢާއިދާ ޙަސަން
+159,N Kendhikulhudhoo,Kulhudhoo Kulhlhavahge,Shimla Waheed,F,AXXX382,ކުޅުދޫ ކުއްޅަވައްގެ,ޝިމްލާ ވަޙީދު
+160,N Kendhikulhudhoo,Kulhudhoo Morning Light,Ahmed Shifaz,M,AXXX190,ކުޅުދޫ މޯނިންގލައިޓް,އަޙްމަދު ޝިފާޒު
+161,N Kendhikulhudhoo,Kulhudhoo Nivaadu,Ali Mohamed,M,AXXX480,ކުޅުދޫ ނިވާޑް,ޢަލީ މުޙައްމަދު
+162,N Kendhikulhudhoo,Kulhudhoo Nookokaage,Ahmed Ibrahim,M,AXXX233,ކުޅުދޫ ނޫކޮކާގެ,އަޙްމަދު އިބްރާހީމް
+163,N Kendhikulhudhoo,Kulhudhoo White House,Sameera Mohamed,F,AXXX609,ކުޅުދޫ ވައިޓްހައުސް,ސަމީރާ މުޙައްމަދު
+164,N Kendhikulhudhoo,Kulhudhoo White House,Ibrahim Saalim,M,AXXX616,ކުޅުދޫ ވައިޓްހައުސް,އިބްރާހީމް ސާލިމް
+165,N Kudafari,Anbaree,Aishath Shazna,F,AXXX859,ޢަންބަރީ,ޢާއިޝަތު ޝަޒްނާ
+166,N Kudafari,Asrafeege,Mohamed Zuhuree Ali,M,AXXX307,އަސްރަފީގެ,މުޙައްމަދު ޒުހުރީ ޢަލީ
+167,N Kudafari,Asrafeege,Fathmath Zahanath Zuhury,F,AXXX315,އަސްރަފީގެ,ފާޠިމަތު ޒަހާނަތު ޒުހުރީ
+168,N Kudafari,Asseyri,Aswadh Mohamed,M,AXXX169,އައްސޭރި,އަސްވަދު މުޙައްމަދު
+169,N Kudafari,Chaandhanee villa,Athika Abdul Hameed,F,AXXX904,ޗާންދަނީވިލާ,ޢާތިކާ ޢަބްދުލްޙަމީދު
+170,N Kudafari,Daisy House,Zaina Abdulla Riza,F,AXXX498,ޑޭޒީހައުސް,ޒައިނާ ޢަބްދުﷲ ރިޟާ
+171,N Kudafari,Daisy House,Zeenath Abdhulla Riza,F,AXXX499,ޑޭޒީހައުސް,ޒީނަތު ޢަބްދުﷲ ރިޟާ
+172,N Kudafari,Daisy House,Mohamed Ziyan,M,AXXX952,ޑޭޒީހައުސް,މުޙައްމަދު ޒިޔާން
+173,N Kudafari,Decoraa,Guraisha Ali Saleem,F,AXXX350,ޑެކޯރާ,ޤުރައިޝާ ޢަލީ ސަލީމް
+174,N Kudafari,Gahaa,Ummu Kulsoom Mohamed,F,AXXX534,ގަހާ,އުއްމުކުލްޘޫމް މުޙައްމަދު
+175,N Kudafari,Ithaa,Mariyam Shazeena,F,AXXX366,އިތާ,މަރިޔަމް ޝަޒީނާ
+176,N Kudafari,Ithaa,Mohamed Mifrah Abdul Salam,M,AXXX156,އިތާ,މުޙައްމަދު މިފްރާޙު ޢަބްދުއްސަލާމް
+177,N Kudafari,Kureima,Ibrahim Akhthar,M,AXXX517,ކުރެއިމާ,އިބްރާހީމް އަޚްތަރު
+178,N Kudafari,Kurikeelage,Ahmed Waleed,M,AXXX203,ކުރިކީލަގެ,އަޙްމަދު ވަލީދު
+179,N Kudafari,Maaolhu,Azleefa Adam,F,AXXX566,މާއޮޅު,ޢަޒްލީފާ އާދަމް
+180,N Kudafari,Mathivaru,Aroosha Ali,F,AXXX819,މަތިވަރު,ޢަރޫޝާ ޢަލީ
+181,N Kudafari,Reynige,Ahmeema Abdul Raheem,F,AXXX187,ރޭނިގެ,އަހުމީމާ ޢަބްދުއްރަޙީމް
+182,N Kudafari,Reynige,Zuhudha Abdul Raheem,F,AXXX349,ރޭނިގެ,ޒުހުދާ ޢަބްދުއްރަޙީމް
+183,N Kudafari,Reynige,Sakeena Gasim,F,AXXX970,ރޭނިގެ,ސަކީނާ ޤާސިމް
+184,N Kudafari,Reynige,Aisha Ashraf,F,AXXX830,ރޭނިގެ,އައިޝާ އަޝްރަފު
+185,N Kudafari,Rose Mead,Furuqan Hussain Sobri,M,AXXX965,ރޯޒްމީޑު,ފުރުޤާން ޙުސައިން ޞަބްރީ
+186,N Kudafari,Sandhuravi,Shabin Mohamed,M,AXXX735,ސަނދުރަވި,ޝާބިން މުޙައްމަދު
+187,N Kudafari,Vaadhee,Muslima Mohamed,F,AXXX894,ވާދީ,މުސްލިމާ މުޙައްމަދު
+188,N Kudafari,Vaadhee,Aishath Lamha Hussain Rameez,F,AXXX407,ވާދީ,ޢާއިޝަތު ލަމްޙާ ޙުސައިން ރަމީޒު
+189,N Kudafari,Venus,Thahumeena Ibrahim,F,AXXX927,ވީނަސް,ތަހުމީނާ އިބްރާހީމް
+190,N Kudafari,Venus,Aishath Thasaama,F,AXXX709,ވީނަސް,ޢާއިޝަތު ތަސާމާ
+191,N Landhoo,Alhivilaage,Aminath Agleema,F,AXXX282,އަޅިވިލާގެ,އާމިނަތު އަޤުލީމާ
+192,N Landhoo,Alimasge,Imad Aboobakuru,M,AXXX652,އަލިމަސްގެ,ޢިމާދު އަބޫބަކުރު
+193,N Landhoo,Arutha,Ahmed Ash ham Aboobakuru,M,AXXX414,އަރުތަ,އަޙްމަދު އަޝްހަމް އަބޫބަކުރު
+194,N Landhoo,Chichandaage,Hassan Mohamed,M,AXXX588,ޗިޗަންޑާގެ,ޙަސަން މުޙައްމަދު
+195,N Landhoo,Chichandaage,Ahmed Suhaan,M,AXXX041,ޗިޗަންޑާގެ,އަޙްމަދު ސުހާން
+196,N Landhoo,Chichandaage,Mohamed Husaam Hassan,M,AXXX044,ޗިޗަންޑާގެ,މުޙައްމަދު ހުސާމް ޙަސަން
+197,N Landhoo,Chichandaage,Ali Sihaan Hassan,M,AXXX046,ޗިޗަންޑާގެ,ޢަލީ ސިހާން ޙަސަން
+198,N Landhoo,Endherimaage,Rizna Yoosuf,F,AXXX299,އެންދެރިމާގެ,ރިޒުނާ ޔޫސުފް
+199,N Landhoo,Fresh,Mohamed Hussain,M,AXXX500,ފްރެޝް,މުޙައްމަދު ޙުސައިން
+200,N Landhoo,Fresh,Saruma Mohamed,F,AXXX637,ފްރެޝް,ސަރުމާ މުޙައްމަދު
+201,N Landhoo,Fresh,Aminath Samma,F,AXXX644,ފްރެޝް,އާމިނަތު ސައްމާ
+202,N Landhoo,Habarumaage,Huzaima Ahmed,F,AXXX181,ހަބަރުމާގެ,ޙުޒައިމާ އަޙްމަދު
+203,N Landhoo,Heenaamaage,Ahsan Aboobakuru,M,AXXX362,ހީނާމާގެ,އަހްސަނު އަބޫބަކުރު
+204,N Landhoo,Karankaa Light,Mohamed Izhaam,M,AXXX993,ކަރަންކާލައިޓް,މުޙައްމަދު އިޒްހާމް
+205,N Landhoo,Karankaa Light,Moosa Hafeez,M,AXXX995,ކަރަންކާލައިޓް,މޫސާ ޙަފީޡު
+206,N Landhoo,Karankaa Light,Fathimath Guraisha,F,AXXX996,ކަރަންކާލައިޓް,ފާޠިމަތު ޤުރައިޝާ
+207,N Landhoo,Karankaa Light,Mariyam Aroosha,F,AXXX998,ކަރަންކާލައިޓް,މަރްޔަމް ޢަރޫޝާ
+208,N Landhoo,Karankaa Light,Zuhra Yoosuf,F,AXXX485,ކަރަންކާލައިޓް,ޒުހުރާ ޔޫސުފް
+209,N Landhoo,Kasmeeru,Abdulla Yoosuf,M,AXXX941,ކަސްމީރު,ޢަބްދުﷲ ޔޫސުފު
+210,N Landhoo,Loakashi,Saadha Saeed,F,AXXX970,ލޯކަށި,ސަޢާދާ ސަޢީދު
+211,N Landhoo,Loakashi,Hussain Rifath,M,AXXX974,ލޯކަށި,ޙުސައިން ރިފްޢަތު
+212,N Landhoo,Maahaa,Ibrahim Fawwaz,M,AXXX389,މާހާ,އިބްރާހީމް ފައްވާޒު
+213,N Landhoo,Maahaa,Mariyam Fainaaz,F,AXXX390,މާހާ,މަރްޔަމް ފައިނާޒު
+214,N Landhoo,Mirihimaage,Abdulla Areef,M,AXXX111,މިރިހިމާގެ,ޢަބުދުﷲ ޢަރީފް
+215,N Landhoo,Nishaan,Hawwa Ali,F,AXXX665,ނިޝާން,ޙައްވާ ޢަލީ
+216,N Landhoo,Nishaan,Mariyam Fazeena,F,AXXX666,ނިޝާން,މަރްޔަމް ފަޒީނާ
+217,N Landhoo,Nishaan,Aishath Fazleena,F,AXXX667,ނިޝާން,ޢާއިޝަތު ފަޟްލީނާ
+218,N Landhoo,Riyaalu,Abdulla Reehan,M,AXXX762,ރިޔާލު,ޢަބްދުﷲ ރީހާނު
+219,N Landhoo,Suvaasaage,Aminath Naadhima,F,AXXX263,ސުވާސާގެ,އާމިނަތު ނާދިމާ
+220,N Lhohi,Azaadhu,Aneel Abdul Jaleel,M,AXXX969,އާޒާދު,އަނީލް ޢަބްދުލްޖަލީލު
+221,N Lhohi,Fazaa,Ahmed Ali,M,AXXX058,ފަޒާ,އަޙްމަދު ޢަލީ
+222,N Lhohi,Janbuge,Abdul Majeed Ibrahim,M,AXXX089,ޖަންބުގެ,ޢަބްދުލްMަޖީދު އިބްރާހީމް
+223,N Lhohi,Janbumaage,Fathimath Shirmeena,F,AXXX209,ޖަންބުމާގެ,ފާޠިމަތު ޝިރުމީނާ
+224,N Lhohi,Janbumaage,Aminath Sadhuna,F,AXXX215,ޖަންބުމާގެ,އާމިނަތު ސާދުނާ
+225,N Lhohi,Kaneerumaage,Hussain Riyaz,M,AXXX389,ކަނީރުމާގެ,ޙުސައިން ރިޔާޟް
+226,N Lhohi,Rankokaage,Aishath Aasha,F,AXXX129,ރަންކޮކާގެ,ޢާއިޝަތު އާޝާ
+227,N Lhohi,Saahil,Fathimath Ilhama,F,AXXX288,ސާހިލް,ފާޠިމަތު އިލްހާމާ
+228,N Lhohi,Simlaa House,Hawwa Mohamed,F,AXXX697,ސިމްލާހައުސް,ޙައްވާ މުޙައްމަދު
+229,N Lhohi,Vinares,Aishath Mohamed,F,AXXX156,ވިނަރެސް,ޢާއިޝަތު މުޙަންމަދު
+230,N Maafaru,Aailaa Vehi,Waseela Ali,F,AXXX203,ޢާއިލާވެހި,ވަސީލާ ޢަލީ
+231,N Maafaru,Alanaasige,Naila Ali,F,AXXX588,އަލަނާސިގެ,ނާއިލާ ޢަލީ
+232,N Maafaru,Eetujehige,Ismail Arif,M,AXXX276,އީޓުޖެހިގެ,އިސްމާއިލް ޢާރިފް
+233,N Maafaru,Falhomaage,Mausooma Mohamed,F,AXXX393,ފަޅޯމާގެ,މަޢުޞޫމާ މުޙައްމަދު
+234,N Maafaru,Fasmeeru,Aminath Shaffana Mohamed,F,AXXX718,ފަސްމީރު,އާމިނަތު ޝައްފާނާ މުޙައްމަދު
+235,N Maafaru,Fesco,Ibadha Adam,F,AXXX268,ފެސްކޯ,ޢިބާދާ އާދަމް
+236,N Maafaru,Finivaage,Afzal Ibrahim,M,AXXX023,ފިނިވާގެ,އަފުޒަލް އިބްރާހީމް
+237,N Maafaru,Fizaa Night,Ameena Mohamed,F,AXXX087,ފިޒާނައިޓް,އަމީނާ މުޙައްމަދު
+238,N Maafaru,Hirudhumaage,Ahusan Mohamed,M,AXXX334,ހިރުދުމާގެ,އަޙްސަނު މުޙައްމަދު
+239,N Maafaru,Jeymuge,Madheeha Ali,F,AXXX340,ޖޭމުގެ,މަދީޙާ ޢަލީ
+240,N Maafaru,Kafage,Sana Mohamed,F,AXXX571,ކަފަގެ,ޘަނާ މުޙައްމަދު
+241,N Maafaru,Kendhivaru,Nazaha Moosa,F,AXXX641,ކެނދިވަރު,ނަޒާޙާ މޫސާ
+242,N Maafaru,Kothari Villa,Ali Mausoom,M,AXXX347,ކޮތަރިވިލާ,ޢަލީ މަޢުޞޫމް
+243,N Maafaru,Menorial,Adam Ali,M,AXXX487,މެނޯރިއަލް,އާދަމް ޢަލީ
+244,N Maafaru,Naaz,Aminath Jauza,F,AXXX944,ނާޒް,އާމިނަތު ޖައުޒާ
+245,N Maafaru,Naaz,Ibrahim Abdulla,M,AXXX896,ނާޒް,އިބްރާހީމް ޢަބްދުﷲ
+246,N Maafaru,Naaz,Siththi,F,AXXX897,ނާޒް,ސިއްތިި
+247,N Maafaru,Shaadhee Villa,Aminath Jana Jaufar,F,AXXX655,ޝާދީވިލާ,އާމިނަތު ޖަނާ ޖަޢުފަރު
+248,N Maafaru,Shaadhee Villa,Aishath Hasna Jaufar,F,AXXX458,ޝާދީވިލާ,ޢާއިޝަތު ހަސްނާ ޖަޢުފަރު
+249,N Maafaru,Sheereenu Manzil,Fathimath Seereena,F,AXXX324,ޝީރީނުމަންޒިލް,ފާޠިމަތު ސީރީނާ
+250,N Maafaru,Thadiraiymaage,Fathimath Zakariyya,F,AXXX708,ތަޑިރަތްމާގެ,ފާޠިމަތު ޒަކަރިއްޔާ
+251,N Maafaru,Ujaalaage,Shahudha Mohamed,F,AXXX937,އުޖާލާގެ,ޝަހުދާ މުޙައްމަދު
+252,N Maafaru,Valuge,Aminath Hassan,F,AXXX924,ވަލުގެ,އާމިނަތު ޙަސަން
+253,N Maafaru,Valuge,Fathimath Luha,F,AXXX278,ވަލުގެ,ފާޠިމަތު ޟުޙާ
+254,N Maafaru,Valuge,Ibrahim Sham,M,AXXX279,ވަލުގެ,އިބްރާހީމް ޝާމް
+255,N Maafaru,Vidhuvaruge,Haseena Ali,F,AXXX973,ވިދުވަރުގެ,ޙަސީނާ ޢަލީ
+256,N Maafaru,Vidhuvaruge,Abdul Aleem Ibrahim,M,AXXX980,ވިދުވަރުގެ,ޢަބްދުލްޢަލީމް އިބްރާހީމް
+257,N Maalhendhoo,Athamaage,Gasim Hassan,M,AXXX409,އަތަމާގެ,ޤާސިމް ޙަސަން
+258,N Maalhendhoo,Fehivilaa,Hassan Easa,M,AXXX706,ފެހިވިލާ,ޙަސަން ޢީސާ
+259,N Maalhendhoo,Fehivina,Mohamed Samah,M,AXXX398,ފެހިވިނަ,މުޙައްމަދު ސަމާޙު
+260,N Maalhendhoo,Fehivina,Sameeh Hussain,M,AXXX399,ފެހިވިނަ,ސަމީޙު ޙުސައިން
+261,N Maalhendhoo,Fehivina,Shammaan Hussain,M,AXXX400,ފެހިވިނަ,ޝައްމާން ޙުސައިން
+262,N Maalhendhoo,Fehivina,Vishaah Hussain,M,AXXX810,ފެހިވިނަ,ވިޝާޙް ޙުސައިން
+263,N Maalhendhoo,Garden Flowers,Ali Mahmood,M,AXXX741,ގާރޑަންފުލާވާސް,ޢަލީ Mަޙްމޫދު
+264,N Maalhendhoo,Kunnaaruge,Aminath Sifaza,F,AXXX689,ކުންނާރުގެ,އާމިނަތު ސިފާޒާ
+265,N Maalhendhoo,Maavina,Naazulee Ibrahim,F,AXXX275,މާވިނަ,ނާޒުލީ އިބްރާހީމް
+266,N Maalhendhoo,Milky Way,Aminath Adam,F,AXXX619,މިލްކީވޭ,އާމިނަތު އާދަމް
+267,N Maalhendhoo,Orchidmaage,Affan Ibrahim Rasheed,M,AXXX271,އޯކިޑްމާގެ,ޢައްފާން އިބްރާހީމް ރަޝީދު
+268,N Maalhendhoo,Ranthudu,Fathimath Easa,F,AXXX253,ރަންތުޑު,ފާޠިމަތު ޢީސާ
+269,N Maalhendhoo,Rose Villa,Aishath Yoosuf,F,AXXX063,ރޯޒުވިލާ,ޢާއިޝަތު ޔޫސުފް
+270,N Maalhendhoo,Star Light,Ahmed Lufsaan,M,AXXX665,ސްޓާރލައިޓް,އަޙްމަދު ލުފްސާން
+271,N Maalhendhoo,Star Light,Riman Abdulla Saeed,M,AXXX666,ސްޓާރލައިޓް,ރިމާން އަބްދުﷲ ސަޢީދް
+272,N Magoodhoo,Dhireyraha,Ahmed Maahidh,M,AXXX547,ދިރޭރަހަ,އަޙްމަދު މާޙިދު
+273,N Magoodhoo,Fehivilaage,Fathmath Zuhura,F,AXXX438,ފެހިވިލާގެ,ފާޠިމަތު ޒުހުރާ
+274,N Magoodhoo,Gulfaamge,Mohamed Hafiz,M,AXXX449,ގުލްފާމްގެ,މުޙައްމަދު ޙާފިޡް
+275,N Magoodhoo,Gulfaamge,Ahmed Hafeez,M,AXXX450,ގުލްފާމްގެ,އަޙްމަދު ޙަފީޡު
+276,N Magoodhoo,Gulfaamge,Fathimath Nazuha Abdulla,F,AXXX452,ގުލްފާމްގެ,ފާޠިމަތު ނަޒުހާ ޢަބްދުﷲ
+277,N Magoodhoo,Haveereenaazu,Ahmed Saleem,M,AXXX068,ހަވީރީނާޒު,އަޙްމަދު ސަލީމް
+278,N Magoodhoo,Haveereenaazu,Samoon Saleem,M,AXXX568,ހަވީރީނާޒު,ސަމްޢޫން ސަލީމް
+279,N Magoodhoo,Haveereenaazu,Shamha Saleem,F,AXXX907,ހަވީރީނާޒު,ޝަމްހާ ސަލީމް
+280,N Magoodhoo,Haveereenaazu,Shamla Saleem,F,AXXX708,ހަވީރީނާޒު,ޝަމްލާ ސަލީމް
+281,N Magoodhoo,Kasmeeru,Fathimath Ibrahim,F,AXXX576,ކަސްމީރު,ފާޠިމަތު އިބްރާހީމް
+282,N Magoodhoo,Kasmeeru,Aminath Anoosha,F,AXXX579,ކަސްމީރު,އާމިނަތު އަނޫޝާ
+283,N Magoodhoo,Lucky Star,Muneera Hassan,F,AXXX425,ލަކީސްޓާރ,މުނީރާ ޙަސަން
+284,N Magoodhoo,Vinares,Ahmed Nabeel,M,AXXX565,ވިނަރެސް,އަޙްމަދު ނަބީލް
+285,N Manadhoo,Aila,Abdulla Aboobakuru,M,AXXX820,އައިލަ,ޢަބްދުﷲ އަބޫބަކުރު
+286,N Manadhoo,Alamaage,Ahmed Asif Haroon Adam,M,AXXX942,އަލަމާގެ,އަޙްމަދު ޢާޞިފް ހާރޫން އާދަމް
+287,N Manadhoo,Beach Villa,Aishath Shazna,F,AXXX996,ބީޗްވިލާ,ޢާއިޝަތު ޝަޒްނާ
+288,N Manadhoo,Bijileege,Fathimath Naznee,F,AXXX623,ބިޖިލީގެ,ފާޠިމަތު ނާޒްނީ
+289,N Manadhoo,Cheynuge,Aminath Rukhsana Moosa,F,AXXX931,ޗޭނުގެ,އާމިނަތު ރުޚުސާނާ މޫސާ
+290,N Manadhoo,Cheynuge,Maazin Moosa Khaleel,M,AXXX139,ޗޭނުގެ,މާޒިން މޫސާ ޚަލީލް
+291,N Manadhoo,Dhirun,Aishath Milhana,F,AXXX453,ދިރުން,ޢާއިޝަތު މިލްހާނާ
+292,N Manadhoo,Dhirun,Mizna Rasheed,F,AXXX461,ދިރުން,މިޒްނާ ރަޝީދު
+293,N Manadhoo,Dhonannaaruge,Mohamed Emaan,M,AXXX612,ދޮންއަންނާރުގެ,މުޙައްމަދު އީމާން
+294,N Manadhoo,Dhonannaaruge,Mohamedh Akram,M,AXXX151,ދޮންއަންނާރުގެ,މުޙައްމަދު އަކްރަމް
+295,N Manadhoo,Dhonannaaruge,Aishath Aroosha,F,AXXX646,ދޮންއަންނާރުގެ,ޢާއިޝަތު ޢަރޫޝާ
+296,N Manadhoo,Dhoores,Mohamed Saif,M,AXXX492,ދޫރެސް,މުޙައްމަދު ސައިފް
+297,N Manadhoo,Fazaa,Abdulla Naushad,M,AXXX796,ފަޒާ,ޢަބްދުﷲ ނައުޝާދު
+298,N Manadhoo,Foavahi,Aishath Ashna Ibrahim,F,AXXX672,ފޯވަހި,ޢާއިޝަތު އަޝްނާ އިބްރާހީމް
+299,N Manadhoo,Foavahi,Ahmed Asbaah,M,AXXX795,ފޯވަހި,އަޙްމަދު އަސްބާޙު
+300,N Manadhoo,Gahaa,Abdul Razzag Aboobakur,M,AXXX752,ގަހާ,ޢަބްދުއްރައްޒާޤު އަބޫބަކުރު
+301,N Manadhoo,Gahaa,Mariyam Abdul Raheem,F,AXXX979,ގަހާ,މަރްޔަމް ޢަބްދުއްރަޙީMް
+302,N Manadhoo,Gaskara,Abdulla Moosa,M,AXXX159,ގަސްކަރަ,ޢަބްދުﷲ މޫސާ
+303,N Manadhoo,Gaskara,Husnee Mubarik,M,AXXX418,ގަސްކަރަ,ޙުސްނީ މުބާރިކް
+304,N Manadhoo,Gaskara,Mariyam Yumna,F,AXXX271,ގަސްކަރަ,މަރްޔަމް ޔުމްނާ
+305,N Manadhoo,Gaskara,Aminath Moosa,F,AXXX273,ގަސްކަރަ,އާމިނަތު މޫސާ
+306,N Manadhoo,Gulalaage,Aishath Jenifer,F,AXXX328,ގުލްއަލާގެ,ޢާއިޝަތު ޖެނިފާ
+307,N Manadhoo,Gulbakaage,Mohamed Nizar Adam,M,AXXX424,ގުލްބަކާގެ,މުޙައްމަދު ނިޒާރު އާދަމް
+308,N Manadhoo,Gulbakaage,Zuhudha Adam,F,AXXX620,ގުލްބަކާގެ,ޒުހުދާ އާދަމް
+309,N Manadhoo,Honey Season,Aminath Asifa Abdulla,F,AXXX223,ހަނީސީޒަން,އާމިނަތު ޢާޞިފާ ޢަބްދުﷲ
+310,N Manadhoo,Honey Season,Mariyam Sara Shafeeu,F,AXXX317,ހަނީސީޒަން,މަރްޔަމް ޘަރާ ޝަފީޢު
+311,N Manadhoo,Honey Season,Fathmath Iba Shafeeu,F,AXXX326,ހަނީސީޒަން,ފާޠިމަތު އިބާ ޝަފީޢު
+312,N Manadhoo,Husnuheenaage,Nahidhaa Ibrahim,F,AXXX164,ހުސްނުހީނާގެ,ނާހިދާ އިބްރާހީމް
+313,N Manadhoo,Jauzaa,Abdul Wasiu Abdulla,M,AXXX680,ޖައުޒާ,ޢަބްދުލްވާސިޢު ޢަބްދުﷲ
+314,N Manadhoo,Kibigasdhoshuge,Nazeema Ibrahim,F,AXXX440,ކިބިގަސްދޮށުގެ,ނަޡީމާ އިބްރާހީމް
+315,N Manadhoo,Kunnamala,Abdulla Shafeeu,M,AXXX642,ކުންނަމަލަ,ޢަބްދުﷲ ޝަފީޢު
+316,N Manadhoo,Kunnamala,Ismail Athif,M,AXXX753,ކުންނަމަލަ,އިސްމާޢީލް ޢާޠިފް
+317,N Manadhoo,Lainoofaruge,Ismail Abdul Sattar,M,AXXX519,ލައިނޫފަރުގެ,އިސްމާޢީލް ޢަބްދުއްސައްތާރު
+318,N Manadhoo,Lainoofaruge,Ibrahim Habeeb,M,AXXX137,ލައިނޫފަރުގެ,އިބްރާހީމް ޙަބީބު
+319,N Manadhoo,Lainoofaruge,Aminath Nishana,F,AXXX227,ލައިނޫފަރުގެ,އާމިނަތު ނިޝާނާ
+320,N Manadhoo,Lainoofaruge,Mariyam Nashath,F,AXXX231,ލައިނޫފަރުގެ,މަރްޔަމް ނަޝާތު
+321,N Manadhoo,Landhooge,Yoosuf Nafeel,M,AXXX038,ލަންދޫގެ,ޔޫސުފް ނަފީލް
+322,N Manadhoo,Maavina,Ali Siyam,M,AXXX948,މާވިނަ,ޢަލީ ސިޔާމް
+323,N Manadhoo,Maavina,Ibrahim Saleem,M,AXXX975,މާވިނަ,އިބްރާހީމް ސަލީމް
+324,N Manadhoo,Magulas,Mohamed Shaheed,M,AXXX032,މަގުލަސް,މުޙައްމަދު ޝަހީދު
+325,N Manadhoo,Magumatheege,Moonisa Abdul Rahman,F,AXXX932,މަގުމަތީގެ,މޫނިސާ ޢަބްދުއްރަޙްމާނު
+326,N Manadhoo,Meenaz,Ali Ramzee,M,AXXX781,މީނާޒް,ޢަލީ ރަމްޒީ
+327,N Manadhoo,Muraka,Malaha Hassan,F,AXXX026,މުރަކަ,މަލާހާ ޙަސަން
+328,N Manadhoo,Opera,Khalid Ahmed,M,AXXX753,އޮޕެރާ,ޚާލިދު އަޙްމަދު
+329,N Manadhoo,Opera,Nabuhaan Khalidh,M,AXXX428,އޮޕެރާ,ނަބްހާން ޚާލިދު
+330,N Manadhoo,Otaagoa,Mariyam Khathma,F,AXXX203,އޮޓާގޯ,މަރްޔަމް ޚަތުމާ
+331,N Manadhoo,Otaagoa,Badhoora Abdulla,F,AXXX204,އޮޓާގޯ,ބަދޫރާ ޢަބްދުﷲ
+332,N Manadhoo,Otaagoa,Abdulla Dhumaaj,M,AXXX612,އޮޓާގޯ,ޢަބްދުﷲ ދުމާޖު
+333,N Manadhoo,Parisge,Ahmed Niyaz,M,AXXX016,ޕެރިސްގެ,އަޙްމަދު ނިޔާޒް
+334,N Manadhoo,Rabeeuge,Fathimath Shafa,F,AXXX967,ރަބީޢުގެ,ފާޠިމަތު ޝަފާ
+335,N Manadhoo,Rankokaage,Ali Hussain,M,AXXX778,ރަންކޮކާގެ,ޢަލީ ޙުސައިން
+336,N Manadhoo,Reehussabaa,Mohamed Haroon,M,AXXX768,ރީޙުއްޞަބާ,މުޙައްމަދު ހާރޫން
+337,N Manadhoo,Reehussabaa,Zuhura Haroon,F,AXXX700,ރީޙުއްޞަބާ,ޒުހުރާ ހާރޫން
+338,N Manadhoo,Reehussabaa,Juwairiyya Haroon,F,AXXX266,ރީޙުއްޞަބާ,ޖުވައިރިއްޔާ ހާރޫން
+339,N Manadhoo,Reehussabaa,Hassan Hishan Mohamed,M,AXXX178,ރީޙުއްޞަބާ,ޙަސަން ޙިޝާން މުޙައްމަދު
+340,N Manadhoo,Reehussabaa,Ahmed Iyaad,M,AXXX431,ރީޙުއްޞަބާ,އަޙްމަދު އިޔާދު
+341,N Manadhoo,Reehussabaa,Ali Vishak,M,AXXX467,ރީޙުއްޞަބާ,ޢަލީ ވިޝާކު
+342,N Manadhoo,Seesange,Athif Abdull Jaleel,M,AXXX169,ސީސަންގެ,ޢާޠިފް ޢަބްދުލްޖަލީލް
+343,N Manadhoo,Shaahee,Mariyam Saany,F,AXXX037,ޝާހީ,މަރްޔަމް ސާނީ
+344,N Manadhoo,Sosunge,Hussain Zareer Mohamed,M,AXXX867,ސޯސަންގެ,ޙުސައިން ޒަރީރު މުޙައްމަދު
+345,N Manadhoo,Sosunge,Hassan Zareer Mohamed,M,AXXX881,ސޯސަންގެ,ޙަސަން ޒަރީރު މުޙައްމަދު
+346,N Manadhoo,Udhares,Ahmed Ashfau,M,AXXX133,އުދަރެސް,އަޙްމަދު އަޝްފާއު
+347,N Manadhoo,Veshi,Shuaib Abdul Kareem,M,AXXX460,ވެށި,ޝުޢައިބު ޢަބްދުލްކަރީމް
+348,N Manadhoo,Veshi,Hussain Samah,M,AXXX485,ވެށި,ޙުސައިން ސަމާޙު
+349,N Manadhoo,White Rose,Shiyama Abdul Gafoor,F,AXXX968,ވައިޓްރޯސް,ޝިޔާމާ ޢަބްދުލްޣަފޫރު
+350,N Manadhoo,White Rose,Hawwa Zakariyya,F,AXXX253,ވައިޓްރޯސް,ޙައްވާ ޒަކަރިއްޔާ
+351,N Manadhoo,White Rose,Ahmed Shibam,M,AXXX297,ވައިޓްރޯސް,އަޙްމަދު ޝިބާމް
+352,N Miladhoo,Aazaadhuge,Aishath Rafdha Abdul Rauf,F,AXXX816,އަޒާދުގެ,ޢާއިޝަތު ރަފްދާ ޢަބްދުއްރައޫފު
+353,N Miladhoo,Dhilbahaaruge,Habeeba Hassan,F,AXXX788,ދިލްބަހާރުގެ,ޙަބީބާ ޙަސަން
+354,N Miladhoo,Dhilbahaaruge,Aishath Rishfa,F,AXXX437,ދިލްބަހާރުގެ,ޢާއިޝަތު ރިޝްފާ
+355,N Miladhoo,Dhilbahaaruge,Maryam Rauna,F,AXXX439,ދިލްބަހާރުގެ,މަރްޔަމް ރައުނާ
+356,N Miladhoo,Dhilshaadhu Villa,Hafsa Moosa,F,AXXX897,ދިލްޝާދުވިލާ,ޙަފްޞާ މޫސާ
+357,N Miladhoo,Fari Blue,Moosa Maahir Ibrahim,M,AXXX821,ފަރިބްލޫ,މޫސާ މާހިރު އިބްރާހީމް
+358,N Miladhoo,Farumaa,Juwairiyaa Hussain,F,AXXX662,ފަރުމާ,ޖުވައިރިޔާ ޙުސައިން
+359,N Miladhoo,Funamaavilaa,Sameera Moosa,F,AXXX209,ފުނަމާވިލާ,ސަމީރާ މޫސާ
+360,N Miladhoo,Funamaavilaa,Ummu Haanee Hussain,F,AXXX210,ފުނަމާވިލާ,އުއްމުހާނީ ޙުސައިން
+361,N Miladhoo,Funamaavilaa,Ahmed Aiman Hussain,M,AXXX697,ފުނަމާވިލާ,އަޙްމަދު އައިމަން ޙުސައިން
+362,N Miladhoo,Kenereege,Latheefa Mohamed,F,AXXX130,ކެނެރީގެ,ލަޠީފާ މުޙައްމަދު
+363,N Miladhoo,Lilymaage,Aishath Samaaha Yoosuf,F,AXXX157,ލިލީމާގެ,ޢާއިޝަތު ސަމާޙާ ޔޫސުފް
+364,N Miladhoo,Musthareege,Hassan Sofraaz,M,AXXX597,މުސްތަރީގެ,ޙަސަން ޞަފްރާޒް
+365,N Miladhoo,Saveyra,Mohamed Rasheed Hassan,M,AXXX351,ސަވޭރާ,މުޙައްމަދު ރަޝީދު ޙަސަން
+366,N Miladhoo,Venusge,Abdulla Sinan,M,AXXX391,ވީނަސްގެ,ޢަބްދުﷲ ސިނާން
+367,N Velidhoo,Alihaa,Aishath Juwaidha,F,AXXX843,އަލިހާ,ޢާއިޝަތު ޖުވައިދާ
+368,N Velidhoo,Andhaleebuge,Abdulla Mohamed,M,AXXX164,އަންދަލީބުގެ,ޢަބްދުﷲ މުޙައްމަދު
+369,N Velidhoo,Avikokaage,Siuna Adam,F,AXXX692,އަވިކޮކާގެ,ސިއުނާ އާދަމް
+370,N Velidhoo,Beach Heaven,Janaan Musthafa,M,AXXX240,ބީޗްހެވަން,ޖަނާން މުޞްޠަފާ
+371,N Velidhoo,Beach Heaven,Aminath Mohamed Fulhu,F,AXXX602,ބީޗްހެވަން,އާމިނަތު މުޙައްމަދުފުޅު
+372,N Velidhoo,Beach Heaven,Fairooza Musthafa,F,AXXX636,ބީޗްހެވަން,ފައިރޫޒާ މުޞްޠަފާ
+373,N Velidhoo,Beach Heaven,Juman Musthafa,M,AXXX234,ބީޗްހެވަން,ޖުމާން މުސްޠަފާ
+374,N Velidhoo,Bineemaage,Mohamed Abdul Latheef,M,AXXX181,ބިނީމާގެ,މުޙައްމަދު ޢަބްދުއްލަތީފް
+375,N Velidhoo,Bineemaage,Adam Naushad,M,AXXX158,ބިނީމާގެ,އާދަމް ނަޢުޝާދު
+376,N Velidhoo,Blue House,Ibrahim Hassan,M,AXXX184,ބްލޫހައުސް,އިބްރާހީމް ޙަސަން
+377,N Velidhoo,Blue Rest,Abdulla Fathih Ahmed,M,AXXX448,ބްލޫރެސްޓް,ޢަބްދުﷲ ފާތިޙް އަޙްމަދު
+378,N Velidhoo,Coconut Villa,Abdulla Mohamed Fulhu,M,AXXX685,ކޮކްނެޓްވިލާ,ޢަބްދުﷲ މުޙައްމަދުފުޅު
+379,N Velidhoo,Coconut Villa,Fathimath Gasim,F,AXXX590,ކޮކްނެޓްވިލާ,ފާޠިމަތު ޤާސިމް
+380,N Velidhoo,Coconut Villa,Haleema Mohamed Fulhu,F,AXXX622,ކޮކްނެޓްވިލާ,ޙަލީމާ މުޙައްމަދުފުޅު
+381,N Velidhoo,Daisymaage,Mohamed Fazloon,M,AXXX347,ޑޭޒީމާގެ,މުޙައްމަދު ފަޟްލޫން
+382,N Velidhoo,Day Light,Hawwa Easa,F,AXXX158,ޑޭލައިޓް,ޙައްވާ ޢީސާ
+383,N Velidhoo,Day Light,Ahmed Sahaf Ibrahim,M,AXXX833,ޑޭލައިޓް,އަޙްމަދު ސަޙާފް އިބްރާހީމް
+384,N Velidhoo,Dhaftharu No 07,Ali Shahid,M,AXXX660,ދަފްތަރު ނަންބަރު 70,ޢަލީ ޝާހިދު
+385,N Velidhoo,Dheyliyaage,Ibrahim Moosa Fulhu,M,AXXX030,ދޭލިޔާގެ,އިބްރާހީމް މޫސާފުޅު
+386,N Velidhoo,Dhiggaamaage,Fathimath Naafia Mohamed,F,AXXX951,ދިއްގާMާގެ,ފާޠިމަތު ނާފިޢާ މުޙައްމަދު
+387,N Velidhoo,Dhivehige,Khadheeja Adam,F,AXXX716,ދިވެހިގެ,ޚަދީޖާ އާދަމް
+388,N Velidhoo,Diamond Villa,Shareefa Hassan,F,AXXX035,ޑައެމަންޑްވިލާ,ޝަރީފާ ޙަސަން
+389,N Velidhoo,Eggamuge,Mariyam Nasha Nizar,F,AXXX365,އެއްގަމުގެ,މަރްޔަމް ނަޝާ ނިޒާރު
+390,N Velidhoo,Ever Blue,Shameema Abdul Kareem Hussain,F,AXXX357,އެވަރބްލޫ,ޝަމީމާ ޢަބްދުލްކަރީމް ޙުސައިން
+391,N Velidhoo,Fareesaa Manzil,Firasa Aboobakuru,F,AXXX306,ފަރީސާމަންޒިލް,ފިރާސާ އަބޫބަކުރު
+392,N Velidhoo,Fashuvimaage,Ibrahim Gasim,M,AXXX453,ފަށުވިމާގެ,އިބްރާހީމް ޤާސިމް
+393,N Velidhoo,Fashuvimaage,Mohamed Suaadhu,M,AXXX461,ފަށުވިމާގެ,މުޙައްމަދު ސުޢާދު
+394,N Velidhoo,Finivaage,Aishath Abdul Rahman,F,AXXX617,ފިނިވާގެ,ޢާއިޝަތު ޢަބްދުއްރަޙްމާނު
+395,N Velidhoo,Gahaa,Mariyam Ibrahim,F,AXXX879,ގަހާ,މަރްޔަމް އިބްރާހީމް
+396,N Velidhoo,Gahaa,Ahmed Numan,M,AXXX882,ގަހާ,އަޙްމަދު ނުޢުމާން
+397,N Velidhoo,Gaskara,Khadheeja Abdul Rahman,F,AXXX900,ގަސްކަރަ,ޚަދީޖާ ޢަބްދުއްރަޙްމާން
+398,N Velidhoo,Goabulige,Ali Mohamed,M,AXXX934,ގޯބުލިގެ,ޢަލީ މުޙައްމަދު
+399,N Velidhoo,Happy Garden,Aminath Saaima,F,AXXX777,ހެޕީގާރޑްން,އާމިނަތު ސާއިމާ
+400,N Velidhoo,Home Life,Adam Ahmed Naseem,M,AXXX810,ހޯމްލައިފް,އާދަމް އަޙްމަދު ނަސީމް
+401,N Velidhoo,Janbumaage,Thahiyya Ali,F,AXXX080,ޖަންބުމާގެ,ތަޙިއްޔާ ޢަލީ
+402,N Velidhoo,Janbumaage,Malsa Mujuthaba,F,AXXX667,ޖަންބުމާގެ,މަލްސާ މުޖުތަބާ
+403,N Velidhoo,Kaamineege,Aminath Masha Hassan,F,AXXX759,ކާMިނީގެ,އާމިނަތު މާޝާ ޙަސަން
+404,N Velidhoo,Kethi,Ibrahim Nabeel Ali,M,AXXX654,ކެތި,އިބްރާހީމް ނަބީލް ޢަލީ
+405,N Velidhoo,Loarallaage,Aishath Leeza,F,AXXX154,ލޯރައްލާގެ,ޢާއިޝަތު ލީޒާ
+406,N Velidhoo,Lucky Heavan,Mohamed Naail,M,AXXX686,ލަކީހެވަން,މުޙައްމަދު ނާއިލް
+407,N Velidhoo,Manzaruge,Hassaan Hassan Manik,M,AXXX022,މަންޒަރުގެ,ޙައްސާނު ޙަސަންމަނިކު
+408,N Velidhoo,Mella,Mohamed Shuailam Nasheed,M,AXXX890,މެއްލަ,މުޙައްމަދު ޝުއައިލަމް ނަޝީދު
+409,N Velidhoo,Miskiydhoshuge,Ihsana Hussain Fulhu,F,AXXX429,މިސްކިތްދޮށުގެ,އިޙްސާނާ ޙުސައިން ފުޅު
+410,N Velidhoo,Miskiydhoshuge,Fathimath Eema Ali,F,AXXX279,މިސްކިތްދޮށުގެ,ފާޠިމަތު އީމާ ޢަލީ
+411,N Velidhoo,Muniyaa Villa,Aminath Mehureen,F,AXXX292,މުނިޔާވިލާ,އާމިނަތު މެހުރީން
+412,N Velidhoo,Muniyaa Villa,Moomina Abdul Azeez,F,AXXX293,މުނިޔާވިލާ,މޫމިނާ ޢަބްދުލްޢަޒީޒު
+413,N Velidhoo,Musaafaa,Anisa Adam,F,AXXX811,މުސާފާ,އާނިސާ އާދަމް
+414,N Velidhoo,Nishaan,Mariyam Hassan Fulhu,F,AXXX075,ނިޝާން,މަރްޔަމް ޙަސަންފުޅު
+415,N Velidhoo,Nishaan,Aminath Husnee,F,AXXX884,ނިޝާން,އާމިނަތު ޙުސްނީ
+416,N Velidhoo,Nishaan,Aishath Narumeen,F,AXXX767,ނިޝާން,ޢާއިޝަތު ނަރްމީން
+417,N Velidhoo,Nishaan,Mohamed Hushaam,M,AXXX768,ނިޝާން,މުޙައްމަދު ހުޝާމް
+418,N Velidhoo,Niyaama,Hassan Ali,M,AXXX507,ނިޔާމަ,ޙަސަން ޢަލީ
+419,N Velidhoo,Olhugiri,Ali Moosa,M,AXXX060,އޮޅުގިރި,ޢަލީ މޫސާ
+420,N Velidhoo,Olhugiri,Nazim Ali,M,AXXX126,އޮޅުގިރި,ނާޡިމް ޢަލީ
+421,N Velidhoo,Palm Lodge,Abdulla Shaan Ibrahim,M,AXXX919,Pާމްލޮޖް,ޢަބްދުﷲ ޝާން އިބްރާހީމް
+422,N Velidhoo,Rabee Eege,Aishath Shifa,F,AXXX916,ރަބީއީގެ,ޢާއިޝަތު ޝިފާ
+423,N Velidhoo,Radium ge,Ibrahim Nasheed,M,AXXX104,ރެޑިޔަމްގެ,އިބްރާހީމް ނަޝީދު
+424,N Velidhoo,Reylight,Aishath Nafha,F,AXXX318,ރޭލައިޓް,ޢާއިޝަތު ނަފްޙާ
+425,N Velidhoo,Rukkuri,Ahmed Mirushaam,M,AXXX439,ރުއްކުރި,އަޙްމަދު މިރުޝާމް
+426,N Velidhoo,Sabdhelige,Adam Abdulla Shafeeg,M,AXXX836,ސަބްދެލިގެ,އާދަމް ޢަބްދުﷲ ޝަފީޤް
+427,N Velidhoo,Sadhubarakaage,Ahmed Hamid,M,AXXX697,ސަދުބަރަކާގެ,އަޙްމަދު ޙާމިދު
+428,N Velidhoo,Seesange,Fazna Ibrahim,F,AXXX563,ސީސަންގެ,ފަޒްނާ އިބްރާހީމް
+429,N Velidhoo,Shaahee,Ahmed Ali Fulhu,M,AXXX298,ޝާހީ,އަޙްމަދު ޢަލީފުޅު
+430,N Velidhoo,Shaahil,Tholhath Mohamed Fulhu,M,AXXX355,ޝާހިލް,ޠަލްޙަތު މުޙައްމަދުފުޅު
+431,N Velidhoo,Shabnameege,Afaa Amir,F,AXXX478,ޝަބްނަމީގެ,ޢަފާ ޢާމިރު
+432,N Velidhoo,Shady Side,Aishath Shifana,F,AXXX147,ޝޭޑީސައިޑް,ޢާއިޝަތު ޝިފާނާ
+433,N Velidhoo,Sunny Dale,Abdulla Hamdoon,M,AXXX339,ސަނީޑޭލް,ޢަބްދުﷲ ޙަމްދޫނު
+434,N Velidhoo,Thadiraiymaage,Mohamed Hijaaz,M,AXXX708,ތަޑިރަތްމާގެ,މުޙައްމަދު ޙިޖާޒް
+435,N Velidhoo,Thadiraiymaage,Ahmed Jiyaadh,M,AXXX870,ތަޑިރަތްމާގެ,އަޙްމަދު ޖިޔާދު
+436,N Velidhoo,Thoathaa,Thahumeena Ali,F,AXXX359,ތޯތާ,ތަހުމީނާ ޢަލީ
+437,N Velidhoo,Thoathaa,Ahmed Ali,M,AXXX087,ތޯތާ,އަޙްމަދު ޢަލީ
+438,N Velidhoo,Thoathaa,Aishath Nazleena,F,AXXX720,ތޯތާ,ޢާއިޝަތު ނަޒްލީނާ
+439,N Velidhoo,Thoathaa,Nihaana Ali,F,AXXX722,ތޯތާ,ނިހާނާ ޢަލީ
+440,N Velidhoo,Vaadhee,Zahida Ali,F,AXXX999,ވާދީ,ޒާހިދާ ޢަލީ
+441,N Velidhoo,Violet Villa,Adam Rifau,M,AXXX891,ވައިލެޓްވިލާ,އާދަމް ރިފާޢު

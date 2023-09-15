@@ -1,10 +1,15 @@
-from tabula import read_pdf
-import pandas as pd
-import os
-import glob
+from tabula import convert_into
+from PyPDF2 import PdfReader, PdfWriter
+from tempfile import NamedTemporaryFile
 from tqdm import tqdm
+import os
 import csv
+import re
 
+# regex to collapse whitespaces
+whitespace_re = re.compile(r'\W+')
+
+# CSV export header fields
 fields = ["#", "Island", "House Name", "Name", "Sex", "National ID", "Address_DV", "Name_DV"]
 
 # a mapping of ascii character to the unicode integer value
@@ -40,65 +45,79 @@ def ascii_to_utf8(text: str, reverse=False):
     return spam
 
 
-def process_pdf(input_file, output_file):
-    ls = read_pdf(
-        input_file,
-        guess=False, pages='all',
-        multiple_tables=True,
-        lattice=True, pandas_options={'header': None},
-        silent=True
-    )
+def read_pdf_rows(input_path):
+    """
+    Generator, Parses PDF using tabula
+    and spits out rows for processing
+    :param input_path:
+    :return: generator
+    """
 
-    df = pd.DataFrame()
+    # Generate temporary PDF, removing the first two and last pages
+    # makes it easier for tabula to make sense of things
+    infile = PdfReader(input_path)
+    outfile = PdfWriter()
+    for page_num in range(2, len(infile.pages) - 1):
+        outfile.addPage(infile.pages[page_num])
 
-    for frame in ls:
-        frame = frame.dropna(axis=1, how='all')
-        frame = frame.replace('\\s+', ' ', regex=True)
-        df = df._append(frame, ignore_index=True)
+    with NamedTemporaryFile("wb") as f:
+        outfile.write(f)
+        f.flush()
 
-    df.to_csv(output_file, index=False, header=False)
+        with NamedTemporaryFile("w+", encoding="utf-8") as csv_f:
+            convert_into(f.name, csv_f.name, guess=False, lattice=True, pages="all", silent=True)
+            csv_reader = csv.reader(csv_f, delimiter=",", )
+            next(csv_reader)
+
+            # iterate through the csv, strip out empty spaces
+            # and collapse whitespace
+            for row in csv_reader:
+                yield [whitespace_re.sub(' ', col) for col in row if col]
+
+
+def process_pdf(infile, outfile):
+    """
+    Processes a single pdf
+    :param infile: input path
+    :param outfile: output path
+    :return: bool, success
+    """
+    errors = [infile, ]
+
+    with open(outfile, "w") as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerow(fields)
+
+        for row in filter(lambda x: len(x) != 1, read_pdf_rows(infile)):
+            # test for row sanity
+            if len(row) != 8:
+                errors.append("Invalid row count encountered")
+                errors.append(str(row))
+                continue
+
+            row[6] = ascii_to_utf8(row[6], True)
+            row[7] = ascii_to_utf8(row[7], True)
+
+            writer.writerow(row)
+
+    return "::".join(errors)
 
 
 def process_pdf_dir(pdf_path="./PDF", csv_path="./CSV"):
-    # Glob for .pdf in pdf_path
-    files = [f for f in os.listdir(pdf_path) if (f.endswith(".pdf"))]
-
+    # Create CSV Dir in case it doesn't exist
     if not os.path.exists(csv_path):
         os.mkdir(csv_path)
 
-    for f in tqdm(files):
-        process_pdf(os.path.join(pdf_path, f), os.path.join(csv_path, f"{f}.csv"))
+    # Glob for .pdf in pdf_path, generate tuples (for input, output)
+    files = [(os.path.join(pdf_path, f), os.path.join(csv_path, f"{f}.csv"))
+             for f in os.listdir(pdf_path) if (f.endswith(".pdf"))]
 
+    process_report = []
+    for i in tqdm(files):
+        process_report.append(process_pdf(*i))
 
-# def cleancsv():
-#     print("Sanitizing and combining csvs")
-#     files = glob.glob("./csv/*.csv")
-#     df = pd.DataFrame(columns=["File"].extend(fields))
-#
-#     rows = []
-#     for csv_file in tqdm(files):
-#
-#         with open(csv_file, 'r') as f:
-#             reader = csv.DictReader(f, fieldnames=fields)
-#             for row in reader:
-#                 # sanity check
-#                 if len(row.keys()) != 8:
-#                     print(f"error in {csv_file}")
-#
-#                 # skip if dirty header
-#                 if "#" in row.values():
-#                     continue
-#
-#                 # thaanafy the weird fields
-#                 for n in ["csercDea", "cnwn"]:
-#                     row[n] = ascii_to_utf8(row[n][::-1])
-#
-#                 row["File"] = f.name.replace(".csv", "").replace(".pdf", "").replace("./csv/", "")
-#
-#                 rows.append(row)
-#
-#     df = df.append(rows, ignore_index=True)
-#     df.to_csv("sanitized_output.csv", index=False)
+    with open("extraction_report.log", "w") as f:
+        f.write("\n".join(process_report))
 
 
 if __name__ == "__main__":
