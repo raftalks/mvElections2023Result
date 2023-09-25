@@ -1,6 +1,7 @@
 from tabula import convert_into
 from PyPDF2 import PdfReader, PdfWriter
 from tempfile import NamedTemporaryFile
+import pandas as pd
 from tqdm import tqdm
 import os
 import csv
@@ -119,6 +120,26 @@ def process_pdf_dir(pdf_path="./PDF", csv_path="./CSV"):
     with open("extraction_report.log", "w") as f:
         f.write("\n".join(process_report))
 
+def combine_csvs(input_dir, output_path):
+    """
+    Combines all csv's found in a path
+    :param input_dir: input directory for csv
+    :param output_path: output file name
+    :return: none
+    """
+    dframes = []
+    for f in os.listdir(input_dir):
+        if not f.endswith(".csv"):
+            continue
+
+        frame = pd.read_csv(os.path.join(input_dir, f))
+        dframes.append(frame)
+
+    pdc = pd.concat(dframes, ignore_index=True)
+    pdc.to_csv(output_path, index=False)
+    print("combined rows: ", len(pdc))
+
 
 if __name__ == "__main__":
+    # combine_csvs("./CSV", "combined.csv")
     process_pdf_dir("./PDF", "./CSV")
