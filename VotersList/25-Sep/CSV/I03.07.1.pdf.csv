@@ -1,0 +1,458 @@
+#,Island,House Name,Name,Sex,National ID,Address_DV,Name_DV
+1,ADh Dhangethi,Everest,Aminath Shifa Abdul Hadhee,F,AXXX671,އެވަރެސްޓް,އާމިނަތު ޝިފާ ޢަބްދުލްހާދީ
+2,ADh Dhangethi,Mureedhuge,Abdulla Fairooz,M,AXXX059,މުރީދުގެ,ޢަބްދުﷲ ފައިރޫޒު
+3,ADh Dhangethi,Summit,Ameen Ahmed,M,AXXX188,ސަމިޓް,އަމީން އަޙްމަދު
+4,ADh Dhidhdhoo,Baadhey Saba,Mohamed Ziya,M,AXXX189,ބާދޭޞަބާ,މުޙައްމަދު ޟިޔާ
+5,ADh Dhidhdhoo,Handhaan,Saarath Yoosuf,F,AXXX176,ހަނދާން,ސާރަތު ޔޫސުފް
+6,ADh Dhidhdhoo,Nooreege,Samila Yoosuf,F,AXXX024,ނޫރީގެ,ސާމިލާ ޔޫސުފް
+7,ADh Dhigurah,Aasimaa Manzil,Aboobakuru Ali,M,AXXX063,އާސިމާމަންޒިލް,އަބޫބަކުރު ޢަލީ
+8,ADh Dhigurah,Aasimaa Manzil,Asima Aboobakuru,F,AXXX342,އާސިމާމަންޒިލް,ޢާޞިމާ އަބޫބަކުރު
+9,ADh Dhigurah,Aasimaa Manzil,Aishath Aboobakuru,F,AXXX965,އާސިމާމަންޒިލް,ޢާއިޝަތު އަބޫބަކުރު
+10,ADh Dhigurah,Aasimaa Manzil,Aroosha Aboobakuru,F,AXXX966,އާސިމާމަންޒިލް,ޢަރޫޝާ އަބޫބަކުރު
+11,ADh Dhigurah,Aasimaa Manzil,Rafhaan Niyaz,M,AXXX390,އާސިމާމަންޒިލް,ރަފްޙާން ނިޔާޒު
+12,ADh Dhigurah,Abuharee Manzil,Ahmed Adam,M,AXXX309,އަބުހަރީމަންޒިލް,އަޙްމަދު އާދަމް
+13,ADh Dhigurah,Abuharee Manzil,Azuhary Ahmed,F,AXXX953,އަބުހަރީމަންޒިލް,އަޒުހަރީ އަޙްމަދު
+14,ADh Dhigurah,Abuharee Manzil,Hussain Zaheen,M,AXXX954,އަބުހަރީމަންޒިލް,ޙުސައިން ޒަހީން
+15,ADh Dhigurah,Abuharee Manzil,Afrah Maumoon,F,AXXX955,އަބުހަރީމަންޒިލް,އަފްރާޙް މައުމޫން
+16,ADh Dhigurah,Aligaa,Abdul Gadir Ali,M,AXXX402,އަލިގާ,ޢަބްދުލްޤާދިރު ޢަލީ
+17,ADh Dhigurah,Aligaa,Abdulla Samoon,M,AXXX287,އަލިގާ,ޢަބްދުﷲ ސަމްޢޫން
+18,ADh Dhigurah,Ameeraa Manzil,Mariyam Aboobakuru,F,AXXX320,އަމީރާމަންޒިލް,މަރްޔަމް އަބޫބަކުރު
+19,ADh Dhigurah,Ameeraa Manzil,Aishath Ameera,F,AXXX760,އަމީރާމަންޒިލް,ޢާއިޝަތު އަމީރާ
+20,ADh Dhigurah,Ameeraa Manzil,Amanee Ahmed Amir,F,AXXX915,އަމީރާމަންޒިލް,އަމާނީ އަޙްމަދު ޢާމިރު
+21,ADh Dhigurah,Ameeraa Manzil,Fathimath Salva,F,AXXX999,އަމީރާމަންޒިލް,ފާޠިމަތު ސަލްވާ
+22,ADh Dhigurah,Asareege,Hafsa Easa,F,AXXX255,އަސަރީގެ,ޙަފްޞާ ޢީސާ
+23,ADh Dhigurah,Asareege,Ibrahim Asif,M,AXXX256,އަސަރީގެ,އިބްރާހީމް ޢާޞިފް
+24,ADh Dhigurah,Asareege,Wisam Ahmed,M,AXXX366,އަސަރީގެ,ވިސާމް އަޙްމަދު
+25,ADh Dhigurah,Asareege,Adam Ahmed,M,AXXX910,އަސަރީގެ,އާދަމް އަޙްމަދު
+26,ADh Dhigurah,Asseyri,Abdul Azeez Salih,M,AXXX317,އައްސޭރި,ޢަބްދުލްޢަޒީޒް ޞާލިޙް
+27,ADh Dhigurah,Asurumaage,Maimoona Easa,F,AXXX710,ޢަސުރުމާގެ,މައިމޫނާ ޢީސާ
+28,ADh Dhigurah,Asurumaage,Haleema Easa,F,AXXX920,ޢަސުރުމާގެ,ޙަލީމާ ޢީސާ
+29,ADh Dhigurah,Athamaage,Saduna Ismail,F,AXXX485,އަތަމާގެ,ސާދުނާ އިސްމާޢީލް
+30,ADh Dhigurah,Athamaage,Fathimath Raulaa,F,AXXX777,އަތަމާގެ,ފާޠިމަތު ރައުލާ
+31,ADh Dhigurah,Athamaage,Ahmed Raaif,M,AXXX437,އަތަމާގެ,އަޙްމަދު ރާއިފް
+32,ADh Dhigurah,Athireege,Ibrahim Hassan,M,AXXX407,އަތިރީގެ,އިބްރާހީމް ޙަސަން
+33,ADh Dhigurah,Athireege,Samweel Ibrahim,M,AXXX775,އަތިރީގެ,ސަމްވީލް އިބްރާހީމް
+34,ADh Dhigurah,Athireege,Salma Ibrahim,F,AXXX982,އަތިރީގެ,ސަލްމާ އިބްރާހީމް
+35,ADh Dhigurah,Bahaareege,Fareesha Easa,F,AXXX292,ބަހާރީގެ,ފަރީޝާ ޢީސާ
+36,ADh Dhigurah,Bahaareege,Nafeesa Jaufar,F,AXXX293,ބަހާރީގެ,ނަފީސާ ޖަޢުފަރު
+37,ADh Dhigurah,Bahaareege,Mohamed Jaufar,M,AXXX789,ބަހާރީގެ,މުޙައްމަދު ޖަޢުފަރު
+38,ADh Dhigurah,Bahaareege,Aaisha Binthi Mauroof,F,AXXX899,ބަހާރީގެ,ޢާއިޝާ ބިންތި މަޢުރޫފް
+39,ADh Dhigurah,Baharuge,Shirmeen Salih,F,AXXX231,ބަހާރުގެ,ޝިރްމީން ޞާލިޙް
+40,ADh Dhigurah,Banafsaage,Ahmed Aboobakuru,M,AXXX348,ބަނަފްސާގެ,އަޙްމަދު އަބޫބަކުރު
+41,ADh Dhigurah,Banafsaage,Hassan Areef,M,AXXX708,ބަނަފްސާގެ,ޙަސަން ޢަރީފް
+42,ADh Dhigurah,Banafsaage,Mohamed Maumoon,M,AXXX427,ބަނަފްސާގެ,މުޙައްމަދު މައުމޫން
+43,ADh Dhigurah,Beach Fres,Ibrahim Naseer,M,AXXX335,ބީޗްފްރެސް,އިބްރާހީމް ނަޞީރު
+44,ADh Dhigurah,Beach Fres,Ramiza Hassan,F,AXXX383,ބީޗްފްރެސް,ރާމިޒާ ޙަސަން
+45,ADh Dhigurah,Beach Fres,Fathimath Samha,F,AXXX922,ބީޗްފްރެސް,ފާޠިމަތު ސަމްޙާ
+46,ADh Dhigurah,Beach Fres,Aishath Suzuleena,F,AXXX030,ބީޗްފްރެސް,ޢާއިޝަތު ސުޒުލީނާ
+47,ADh Dhigurah,Beach Rest,Salih Easa,M,AXXX318,ބީޗްރެސްޓް,ޞާލިޙް ޢީސާ
+48,ADh Dhigurah,Beach Rest,Shazna Salih,F,AXXX017,ބީޗްރެސްޓް,ޝަޒްނާ ޞާލިޙް
+49,ADh Dhigurah,Bilehge,Aminath Yoosuf,F,AXXX111,ބިލެއްގެ,އާމިނަތު ޔޫސުފު
+50,ADh Dhigurah,Bilehge,Mariyam Ahmed,F,AXXX247,ބިލެއްގެ,މަރްޔަމް އަޙްމަދު
+51,ADh Dhigurah,Bilehge,Aishath Nadha,F,AXXX803,ބިލެއްގެ,ޢާއިޝަތު ނަދާ
+52,ADh Dhigurah,Blue Heaven,Ibrahim Zubair,M,AXXX812,ބްލޫހެވަން,އިބްރާހީމް ޒުބައިރު
+53,ADh Dhigurah,Blue Heaven,Rajuwan Ibrahim,M,AXXX889,ބްލޫހެވަން,ރަޖުވާން އިބްރާހީމް
+54,ADh Dhigurah,Blue Heaven,Ali Riswaan,M,AXXX041,ބްލޫހެވަން,ޢަލީ ރިސްވާން
+55,ADh Dhigurah,Blue Meed,Aminath Adam,F,AXXX286,ބުލޫމީޑު,އާމިނަތު އާދަމް
+56,ADh Dhigurah,Blue Rest,Abdul Raheem Moosa,M,AXXX323,ބްލޫރެސްޓް,ޢަބްދުއްރަޙީމް މޫސާ
+57,ADh Dhigurah,Blue Rest,Muzunaa Hassan,F,AXXX594,ބްލޫރެސްޓް,މުޒުނާ ޙަސަން
+58,ADh Dhigurah,Blue Rest,Huzam Abduraheem,M,AXXX595,ބްލޫރެސްޓް,ހުޒާމް ޢަބްދުއްރަޙީމް
+59,ADh Dhigurah,Boduge,Mohamed Zahir,M,AXXX221,ބޮޑުގެ,މުޙައްމަދު ޒާހިިރު
+60,ADh Dhigurah,Boduge,Mariyam Hussain,F,AXXX337,ބޮޑުގެ,މަރްޔަމް ޙުސައިން
+61,ADh Dhigurah,Boduge,Mariyam Yashfa,F,AXXX238,ބޮޑުގެ,މަރްޔަމް ޔަޝްފާ
+62,ADh Dhigurah,Burevimaage,Rugiyya Hassan,F,AXXX236,ބުރެވިމާގެ,ރުޤިއްޔާ ޙަސަން
+63,ADh Dhigurah,Burevimaage,Abdul Muhsin Ali,M,AXXX334,ބުރެވިމާގެ,ޢަބްދުލްމުޙްސިން ޢަލީ
+64,ADh Dhigurah,Burevimaage,Mueed Abdul Muhusin,M,AXXX652,ބުރެވިމާގެ,މުޢީދު ޢަބްދުލްމުޙްސިން
+65,ADh Dhigurah,Burevimaage,Mohamed Muaviyath,M,AXXX030,ބުރެވިމާގެ,މުޙައްމަދު މުއާވިޔަތު
+66,ADh Dhigurah,Burevimaage,Abdul Muhaimin Abdul Muhsin,M,AXXX031,ބުރެވިމާގެ,ޢަބްދުލްމުހައިމިނު ޢަބްދުލްމުޙްސިނު
+67,ADh Dhigurah,Chaandhu,Fathuhulla Ibrahim,M,AXXX466,ޗާންދު,ފަތުޙުﷲ އިބްރާހީމް
+68,ADh Dhigurah,Chanbeyleege,Aminath Shimla,F,AXXX210,ޗަބޭލީގެ,އާމިނަތު ޝިމްލާ
+69,ADh Dhigurah,Chanbeyleege,Azma Abdulla,F,AXXX213,ޗަބޭލީގެ,ޢަޒުމާ ޢަބްދުﷲ
+70,ADh Dhigurah,Chanbeyleege,Hareera Ismail,F,AXXX261,ޗަބޭލީގެ,ޙަރީރާ އިސްމާޢީލް
+71,ADh Dhigurah,Chanbeyleege,Anvaree Abdulla,F,AXXX336,ޗަބޭލީގެ,އަންވަރީ ޢަބްދުﷲ
+72,ADh Dhigurah,Chanbeyleege,Ahmed Abdulla,M,AXXX764,ޗަބޭލީގެ,އަޙްމަދު ޢަބްދުﷲ
+73,ADh Dhigurah,Chanbeyleege,Athifa Abdulla,F,AXXX265,ޗަބޭލީގެ,ޢާޠިފާ ޢަބްދުﷲ
+74,ADh Dhigurah,Daisymaage,Ibrahim Adam,M,AXXX228,ޑޭޒީމާގެ,އިބްރާހީމް އާދަމް
+75,ADh Dhigurah,Daisymaage,Maldha Ibrahim,F,AXXX787,ޑޭޒީމާގެ,މަލްދާ އިބްރާހީމް
+76,ADh Dhigurah,Dheyliyaage,Mariyam Hassan,F,AXXX386,ދޭލިޔާގެ,މަރްޔަމް ޙަސަން
+77,ADh Dhigurah,Dhilaasaage,Hussain Rifau,M,AXXX304,ދިލާސާގެ,ޙުސައިން ރިފާޢު
+78,ADh Dhigurah,Dhilaasaage,Aminath Sheeza,F,AXXX308,ދިލާސާގެ,އާމިނަތު ޝީޒާ
+79,ADh Dhigurah,Dolphin,Hassan Ali,M,AXXX721,ޑޮލްފިން,ޙަސަން ޢަލީ
+80,ADh Dhigurah,Eggamuge,Aminath Samiya,F,AXXX207,އެއްގަމުގެ,އާމިނަތު ސާމިޔާ
+81,ADh Dhigurah,Eggamuge,Ahmed Niyaz,M,AXXX343,އެއްގަމުގެ,އަޙްމަދު ނިޔާޒް
+82,ADh Dhigurah,Eggamuge,Ahmed Mohamed,M,AXXX755,އެއްގަމުގެ,އަޙްމަދު މުޙައްމަދު
+83,ADh Dhigurah,Eggamuge,Aishath Shafa,F,AXXX689,އެއްގަމުގެ,ޢާއިޝަތު ޝަފާ
+84,ADh Dhigurah,Eggamuge,Mohamed Raihaan,M,AXXX693,އެއްގަމުގެ,މުޙައްމަދު ރައިޙާން
+85,ADh Dhigurah,Fazaa,Ahmed Hassan,M,AXXX180,ފަޒާ,އަޙްމަދު ޙަސަން
+86,ADh Dhigurah,Feeroazge,Mohamed Ziyad,M,AXXX199,ފީރޯޒްގެ,މުޙައްމަދު ޒިޔާދު
+87,ADh Dhigurah,Feeroazge,Hawwa Ahmed,F,AXXX241,ފީރޯޒްގެ,ޙައްވާ އަޙްމަދު
+88,ADh Dhigurah,Feeroazge,Ali Fahmee,M,AXXX265,ފީރޯޒްގެ,ޢަލީ ފަހުމީ
+89,ADh Dhigurah,Feeroazge,Ibrahim Khaleel,M,AXXX971,ފީރޯޒްގެ,އިބްރާހީމް ޚަލީލް
+90,ADh Dhigurah,Feeroazge,Raiyan Mohamed,M,AXXX188,ފީރޯޒްގެ,ރައްޔާން މުޙައްމަދު
+91,ADh Dhigurah,Fehi Villa,Mohamed Riyaz,M,AXXX131,ފެހިވިލާ,މުޙައްމަދު ރިޔާޟް
+92,ADh Dhigurah,Fehi Villa,Adam Yoosuf,M,AXXX242,ފެހިވިލާ,އާދަމް ޔޫސުފް
+93,ADh Dhigurah,Fehi Villa,Gasim Aboobakuru,M,AXXX681,ފެހިވިލާ,ޤާސިމް އަބޫބަކުރު
+94,ADh Dhigurah,Fehi Villa,Nail Riyaz,M,AXXX912,ފެހިވިލާ,ނާއިލް ރިޔާޟް
+95,ADh Dhigurah,Fenfiyaazge,Ahmed Shaheem,M,AXXX287,ފެންފިޔާޒްގެ,އަޙްމަދު ޝަހީމް
+96,ADh Dhigurah,Fenfiyaazge,Maryam Sadhiya,F,AXXX289,ފެންފިޔާޒްގެ,މަރްޔަމް ސާދިޔާ
+97,ADh Dhigurah,Fenfiyaazge,Mohamed Usman,M,AXXX296,ފެންފިޔާޒްގެ,މުޙައްމަދު ޢުޘްމާން
+98,ADh Dhigurah,Fenfiyaazge,Abdulla Usman,M,AXXX104,ފެންފިޔާޒްގެ,ޢަބްދުﷲ ޢުޘްމާން
+99,ADh Dhigurah,Fenfiyaazge,Asma Usman,F,AXXX917,ފެންފިޔާޒްގެ,އަސްމާ ޢުޘްމާން
+100,ADh Dhigurah,Fini unimaage,Hareera Yoosuf,F,AXXX252,ފިނިއުނިމާގެ,ޙަރީރާ ޔޫސުފް
+101,ADh Dhigurah,Finifenmaage,Mariyam Shazna Rasheed,F,AXXX770,ފިނިފެންމާގެ,މަރްޔަމް ޝަޒްނާ ރަޝީދު
+102,ADh Dhigurah,Finifenmaage,Ahmed Faiz Rasheed,M,AXXX777,ފިނިފެންމާގެ,އަޙްމަދު ފާއިޒް ރަޝީދު
+103,ADh Dhigurah,Finifenmaage,Samaah Faiz,M,AXXX198,ފިނިފެންމާގެ,ސަމާޙު ފާއިޒް
+104,ADh Dhigurah,Finihiyaage,Arif Ali,M,AXXX197,ފިނިހިޔާގެ,ޢާރިފް ޢަލީ
+105,ADh Dhigurah,Finihiyaage,Abdul Rasheed Ali,M,AXXX528,ފިނިހިޔާގެ,ޢަބްދުއްރަޝީދު ޢަލީ
+106,ADh Dhigurah,Finihiyaage,Azim Ali,M,AXXX039,ފިނިހިޔާގެ,ޢާޒިމް ޢަލީ
+107,ADh Dhigurah,Finivaage,Mariyam Ibrahim,F,AXXX262,ފިނިވާގެ,މަރްޔަމް އިބްރާހީމް
+108,ADh Dhigurah,Finivaage,Hawwa Ibrahim,F,AXXX369,ފިނިވާގެ,ޙައްވާ އިބްރާހީމް
+109,ADh Dhigurah,Finivaage,Shahidha Ibrahim,F,AXXX370,ފިނިވާގެ,ޝާހިދާ އިބްރާހީމް
+110,ADh Dhigurah,Finivaage,Suwaidha Ibrahim,F,AXXX372,ފިނިވާގެ,ސުވައިދާ އިބްރާހީމް
+111,ADh Dhigurah,Funamaage,Mohamed Hassan,M,AXXX377,ފުނަމާގެ,މުޙައްމަދު ޙަސަން
+112,ADh Dhigurah,Funamaage,Aishath Niuma Hassan,F,AXXX378,ފުނަމާގެ,ޢާއިޝަތު ނިޢުމާ ޙަސަން
+113,ADh Dhigurah,Funamaage,Sifza Hassan,F,AXXX379,ފުނަމާގެ,ސިފުޒާ ޙަސަން
+114,ADh Dhigurah,Funamaage,Hassan Ibrahim,M,AXXX309,ފުނަމާގެ,ޙަސަން އިބްރާހީމް
+115,ADh Dhigurah,Funamaage,Fathimath Azfa,F,AXXX781,ފުނަމާގެ,ފާޠިމަތު އަޒްފާ
+116,ADh Dhigurah,Funamaage,Suha Mohamed,F,AXXX891,ފުނަމާގެ,ސުޙާ މުޙައްމަދު
+117,ADh Dhigurah,Funamaage,Ibrahim Hassan,M,AXXX848,ފުނަމާގެ,އިބްރާހީމް ޙަސަން
+118,ADh Dhigurah,Funamaage,Noora Habeeb,F,AXXX711,ފުނަމާގެ,ނޫރާ ޙަބީބް
+119,ADh Dhigurah,Garden Villa,Hassan Thiham,M,AXXX597,ގާޑެންވިލާ,ޙަސަން ތިހާމް
+120,ADh Dhigurah,Gaskara,Hassan Yahuya,M,AXXX225,ގަސްކަރަ,ޙަސަން ޔަޙްޔާ
+121,ADh Dhigurah,Gaskara,Ahusan Hassan,M,AXXX917,ގަސްކަރަ,އަޙުސަން ޙަސަން
+122,ADh Dhigurah,Hamzath Hiyaa,Abdul Gafoor Vimal,M,AXXX979,ހަމްޒަތުހިޔާ,ޢަަބްދުލްޣަފޫރު ވިމާލް
+123,ADh Dhigurah,Hamzath Hiyaa,Mariyam Jaufaru,F,AXXX980,ހަމްޒަތުހިޔާ,މަރްޔަމް ޖަޢުފަރު
+124,ADh Dhigurah,Hamzath Hiyaa,Mohamed Yoonus,M,AXXX911,ހަމްޒަތުހިޔާ,މުޙައްމަދު ޔޫނުސް
+125,ADh Dhigurah,Happy Night,Ibrahim Hassan,M,AXXX314,ހެޕީނައިޓް,އިބްރާހީމް ޙަސަން
+126,ADh Dhigurah,Happy Night,Aminath Ofeelia,F,AXXX718,ހެޕީނައިޓް,އާމިނަތު އޮފީލިޔާ
+127,ADh Dhigurah,Happy Night,Aishath Fiureen,F,AXXX992,ހެޕީނައިޓް,އާއިޝަތު ފިއުރީން
+128,ADh Dhigurah,Happy Night,Adam Ihusaan,M,AXXX993,ހެޕީނައިޓް,އާދަމް އިޙްޝާން
+129,ADh Dhigurah,Happy Rose,Faruhana Gasim,F,AXXX290,ހެPީރޯސް,ފަރުހާނާ ޤާސިމް
+130,ADh Dhigurah,Happy Rose,Samir Gasim,M,AXXX390,ހެPީރޯސް,ސާމިރު ޤާސިމް
+131,ADh Dhigurah,Happy Rose,Gasim Ahmed,M,AXXX762,ހެPީރޯސް,ޤާސިމް އަޙްމަދު
+132,ADh Dhigurah,Happy Rose,Faruhad Gasim,M,AXXX813,ހެPީރޯސް,ފަރުހާދު ޤާސިމް
+133,ADh Dhigurah,Happy Rose,Shehenaz Gasim,F,AXXX829,ހެPީރޯސް,ޝެހެނާޒް ޤާސިމް
+134,ADh Dhigurah,Happy Rose,Usamath Gasim,M,AXXX941,ހެPީރޯސް,އުސާމަތު ޤާސިމް
+135,ADh Dhigurah,Happy Rose,Mohamed Shami,M,AXXX942,ހެPީރޯސް,މުޙައްމަދު ޝާމީ
+136,ADh Dhigurah,Happy Rose,Mohamed Zaidhan,M,AXXX662,ހެPީރޯސް,މުޙައްމަދު ޒައިދާން
+137,ADh Dhigurah,Haveeree Naz,Khadeeja Adam,F,AXXX321,ހަވީރީ ނާޒް,ޚަދީޖާ އާދަމް
+138,ADh Dhigurah,Haviththa,Samla Ismail,F,AXXX244,ހަވިއްތަ,ސަމްލާ އިސްމާޢީލް
+139,ADh Dhigurah,Haviththa,Abdul Bari Mohamed,M,AXXX279,ހަވިއްތަ,ޢަބްދުލްބާރީ މުޙައްމަދު
+140,ADh Dhigurah,Haviththa,Ahmed Imad,M,AXXX021,ހަވިއްތަ,އަޙްމަދު ޢިމާދު
+141,ADh Dhigurah,Haviththa,Shafa Abdul Baaree,F,AXXX023,ހަވިއްތަ,ޝަފާ ޢަބްދުލްބާރީ
+142,ADh Dhigurah,Haviththa,Shifa Abdul Baaree,F,AXXX025,ހަވިއްތަ,ޝިފާ ޢަބްދުލްބާރީ
+143,ADh Dhigurah,Heenaamaage,Aishath Jaufar,F,AXXX212,ހީނާމާގެ,ޢާއިޝަތު ޖަޢުފަރު
+144,ADh Dhigurah,Heenaamaage,Hassan Mauroof,M,AXXX411,ހީނާމާގެ,ޙަސަން މަޢުރޫފް
+145,ADh Dhigurah,Heenaamaage,Nathasha Jaufar,F,AXXX675,ހީނާމާގެ,ނަތާޝާ ޖަޢުފަރު
+146,ADh Dhigurah,Heenaamaage,Fathimath Madheeha,F,AXXX680,ހީނާމާގެ,ފާޠިމަތު މަދީހާ
+147,ADh Dhigurah,Hiyaavahi,Ismail Hassan,M,AXXX919,ހިޔާވަހި,އިސްމާޢީލް ޙަސަން
+148,ADh Dhigurah,Husnuheenaage,Adam Hassan,M,AXXX273,ހުސްނުހީނާގެ,އާދަމް ޙަސަން
+149,ADh Dhigurah,Husnuheenaage,Nuzuhath Abdul Hannan,F,AXXX275,ހުސްނުހީނާގެ,ނުޒުޙަތު ޢަބްދުލްޙަންނާން
+150,ADh Dhigurah,Husnuheenaage,Hawwa Ali,F,AXXX276,ހުސްނުހީނާގެ,ޙައްވާ ޢަލީ
+151,ADh Dhigurah,Husnuheenaage,Abdul Hannan Hassan,M,AXXX331,ހުސްނުހީނާގެ,ޢަބްދުލްޙަންނާން ޙަސަން
+152,ADh Dhigurah,Husnuheenaage,Nasfa Hassan,F,AXXX380,ހުސްނުހީނާގެ,ނަސްފާ ޙަސަން
+153,ADh Dhigurah,Husnuheenaage,Agisa Hassan,F,AXXX382,ހުސްނުހީނާގެ,ޢާޤިޞާ ޙަސަން
+154,ADh Dhigurah,Husnuheenaage,Hussain Rasheed,M,AXXX384,ހުސްނުހީނާގެ,ޙުސައިން ރަޝީދު
+155,ADh Dhigurah,Iramaage,Ahmed Salih,M,AXXX079,އިރަމާގެ,އަޙްމަދު ޞާލިޙް
+156,ADh Dhigurah,Iramaage,Sharma Salih,F,AXXX214,އިރަމާގެ,ޝަރުމާ ޞާލިޙު
+157,ADh Dhigurah,Iramaage,Khadeeja Ibrahim,F,AXXX758,އިރަމާގެ,ޚަދީޖާ އިބްރާހީމް
+158,ADh Dhigurah,Iramaage,Noor Bin Mohamed Ziyadh,M,AXXX767,އިރަމާގެ,ނޫރް ބިން މުޙައްމަދު ޒިޔާދު
+159,ADh Dhigurah,Iramaage,Abdul Muththalib Solih,M,AXXX711,އިރަމާގެ,ޢަބްދުލްމުއްޠަލިބު ޞާލިޙު
+160,ADh Dhigurah,Iramaage,Fathmath Fazna,F,AXXX713,އިރަމާގެ,ފާޠިމަތު ފަޒްނާ
+161,ADh Dhigurah,Irumatheege,Shafiyath Gasim,F,AXXX277,އިރުމަތީގެ,ޝާފިޔަތު ޤާސިމް
+162,ADh Dhigurah,Irumatheege,Khadeeja Gasim Ali,F,AXXX278,އިރުމަތީގެ,ޚަދީޖާ ޤާސިމް ޢަލީ
+163,ADh Dhigurah,Irumatheege,Gasim Ali,M,AXXX284,އިރުމަތީގެ,ޤާސިމް ޢަލީ
+164,ADh Dhigurah,Irumatheege,Seema Gasim,F,AXXX381,އިރުމަތީގެ,ސީމާ ޤާސިމް
+165,ADh Dhigurah,Irumatheege,Rugiyya Ali,F,AXXX714,އިރުމަތީގެ,ރުޤިއްޔާ ޢަލީ
+166,ADh Dhigurah,Irumatheege,Mohamed Gasim,M,AXXX900,އިރުމަތީގެ,މުޙައްމަދު ޤާސިމް
+167,ADh Dhigurah,Irumatheege,Ahmed Qasim,M,AXXX901,އިރުމަތީގެ,އަޙްމަދު ޤާސިމް
+168,ADh Dhigurah,Irumatheege,Ali Akram,M,AXXX902,އިރުމަތީގެ,ޢަލީ އަކުރަމް
+169,ADh Dhigurah,Junbumaage,Aishath Moosa,F,AXXX031,ޖަންބުމާގެ,ޢާއިޝަތު މޫސާ
+170,ADh Dhigurah,Junbumaage,Aminath Moosa,F,AXXX237,ޖަންބުމާގެ,އާމިނަތު މޫސާ
+171,ADh Dhigurah,Junbumaage,Nazim Abdul Raheem,M,AXXX036,ޖަންބުމާގެ,ނާޡިމް ޢަބްދުއްރަޙީމް
+172,ADh Dhigurah,Junbumaage,Fathimath Nazima,F,AXXX038,ޖަންބުމާގެ,ފާޠިމަތު ނާޡިމާ
+173,ADh Dhigurah,Junbumaage,Hudha Abdul Raheem,F,AXXX045,ޖަންބުމާގެ,ހުދާ ޢަބްދުއްރަޙީމް
+174,ADh Dhigurah,Kaamineege,Adam Solih,M,AXXX333,ކާމިނީގެ,އާދަމް ޞާލިޙް
+175,ADh Dhigurah,Kaneeru Vilaa,Raheema Yahya,F,AXXX211,ކަނީރުވިލާ,ރަޙީމާ ޔަޙްޔާ
+176,ADh Dhigurah,Kaneeru Vilaa,Maryam Yahya,F,AXXX217,ކަނީރުވިލާ,މަރްޔަމް ޔަޙްޔާ
+177,ADh Dhigurah,Karismaa,Hawwa Abdul Kareem,F,AXXX257,ކަރިސްމާ,ޙައްވާ ޢަބްދުލްކަރީމް
+178,ADh Dhigurah,Karismaa,Ismail Risheef,M,AXXX367,ކަރިސްމާ,އިސްމާޢީލް ރިޝީފު
+179,ADh Dhigurah,Karismaa,Mohamed Hassan,M,AXXX722,ކަރިސްމާ,މުޙައްމަދު ޙަސަން
+180,ADh Dhigurah,Karismaa,Aishath Rifga,F,AXXX963,ކަރިސްމާ,ޢާއިޝަތު ރިފްޤާ
+181,ADh Dhigurah,Karismaa,Samoon Mohamed,M,AXXX964,ކަރިސްމާ,ސަމްޢޫން މުޙައްމަދު
+182,ADh Dhigurah,Karismaa,Ahmed Reehan,M,AXXX200,ކަރިސްމާ,އަޙްމަދު ރީޙާން
+183,ADh Dhigurah,Kenereege,Ali Adam,M,AXXX194,ކެނެރީގެ,ޢަލީ އާދަމް
+184,ADh Dhigurah,Kulhibalaage,Abdul Raheem Mohamed,M,AXXX117,ކުޅިބަލާގެ,ޢަބްދުއްރަޙީމް މުޙައްމަދު
+185,ADh Dhigurah,Kulhibalaage,Mazin Abdul Raheem,M,AXXX786,ކުޅިބަލާގެ,މާޒިން ޢަބްދުއްރަޙީމް
+186,ADh Dhigurah,Kulhibalaage,Aminath Maleeha Abdul Raheem,F,AXXX243,ކުޅިބަލާގެ,އާމިނަތު މަލީޙާ ޢަބްދުއްރަޙީމް
+187,ADh Dhigurah,Kulhibalaage,Abdul Ghanee Abdul Raheem,M,AXXX244,ކުޅިބަލާގެ,ޢަބްދުލްޣަނީ ޢަބްދުއްރަޙީމް
+188,ADh Dhigurah,Light night,Mohamed Easa,M,AXXX407,ލައިޓްނައިޓް,މުޙައްމަދު ޢީސާ
+189,ADh Dhigurah,Lilymaage,Arusham Abdul Hannan,M,AXXX645,ލިލީމާގެ,އަރުޝަމް ޢަބްދުލްޙަންނާނު
+190,ADh Dhigurah,Lilymaage,Mohamed Shirukhaan,M,AXXX973,ލިލީމާގެ,މުޙައްމަދު ޝިރުޚާން
+191,ADh Dhigurah,Lilymaage,Firushan Abdul Hannan,M,AXXX975,ލިލީމާގެ,ފިރުޝާން ޢަބްދުލްޙަންނާން
+192,ADh Dhigurah,Lilymaage,Ali Ziyaan,M,AXXX976,ލިލީމާގެ,ޢަލީ ޒިޔާން
+193,ADh Dhigurah,Lilymaage,Ahmed Maisan,M,AXXX400,ލިލީމާގެ,އަޙްމަދު މައިސަން
+194,ADh Dhigurah,Maafolheyge,Zuhura Ibrahim,F,AXXX297,މާފޮޅޭގެ,ޒުހުރާ އިބްރާހީމް
+195,ADh Dhigurah,Maafolheyge,Mohamed Siyam,M,AXXX405,މާފޮޅޭގެ,މުޙައްމަދު ސިޔާމް
+196,ADh Dhigurah,Maafolheyge,Aishath Azra,F,AXXX717,މާފޮޅޭގެ,ޢާއިޝަތު ޢަޛްރާ
+197,ADh Dhigurah,Maafolheyge,Abdulla Usman,M,AXXX184,މާފޮޅޭގެ,ޢަބްދުﷲ ޢުޘްމާން
+198,ADh Dhigurah,Maafolheyge,Ibrahim Usman,M,AXXX724,މާފޮޅޭގެ,އިބްރާހީމް ޢުޘްމާނު
+199,ADh Dhigurah,Magumatheege,Jameela Nooh,F,AXXX493,މަގުމަތީގެ,ޖަމީލާ ނޫޙް
+200,ADh Dhigurah,Magumatheege,Maish Ahmed,M,AXXX798,މަގުމަތީގެ,މާއިޝް އަޙްމަދު
+201,ADh Dhigurah,Magumatheege,Inaya Hassan,F,AXXX800,މަގުމަތީގެ,ޢިނާޔާ ޙަސަން
+202,ADh Dhigurah,Magumatheege,Fathimath Zeena,F,AXXX400,މަގުމަތީގެ,ފާޠިމަތު ޒީނާ
+203,ADh Dhigurah,Magumatheege,Jailam Hassan,M,AXXX406,މަގުމަތީގެ,ޖައިލަމް ޙަސަން
+204,ADh Dhigurah,Maheboobaa,Ibrahim Adam,M,AXXX597,Mަހެބޫބާ,އިބްރާހީމް އާދަމް
+205,ADh Dhigurah,Malaaz,Nasheedha Nooh,F,AXXX200,މަލާޒް,ނަޝީދާ ނޫޙް
+206,ADh Dhigurah,Malas,Reesha Ahmed Sifaaz,F,AXXX480,މަލަސް,ރީޝާ އަޙްމަދު ސިފާޒް
+207,ADh Dhigurah,Manas,Sulaiman Ahmed,M,AXXX245,މަނަސް,ސުލައިމާން އަޙްމަދު
+208,ADh Dhigurah,Manas,Mohamed Sulaiman,M,AXXX690,މަނަސް,މުޙައްމަދު ސުލައިމާނު
+209,ADh Dhigurah,Manas,Ibrahim Firushan,M,AXXX730,މަނަސް,އިބްރާހީމް ފިރުޝާން
+210,ADh Dhigurah,Manzil Ufaa,Abdul Gayyoom Aboobakuru,M,AXXX235,މަންޒިލްއުފާ,ޢަބްދުލްޤައްޔޫމް އަބޫބަކުރު
+211,ADh Dhigurah,Manzil Ufaa,Ahmed Mahil,M,AXXX514,މަންޒިލްއުފާ,އަޙްމަދު މާހިލް
+212,ADh Dhigurah,Marvellous,Ali Sobah,M,AXXX590,މާވެލަސް,ޢަލީ ޞަބާޙް
+213,ADh Dhigurah,Marvellous,Aminath Maeesha,F,AXXX000,މާވެލަސް,އާމިނަތު މަޢީޝާ
+214,ADh Dhigurah,Marvellous,Maais Ali Sobah,M,AXXX679,މާވެލަސް,މާއިސް ޢަލީ ޞަބާޙް
+215,ADh Dhigurah,Mary Garden,Fathimath Shaufa,F,AXXX902,މެރީގާރޑްން,ފާޠިމަތު ޝައުފާ
+216,ADh Dhigurah,Matharesmaa Vilaa,Abdul Matheen Adam,M,AXXX294,މަތަރެސްމާވިލާ,ޢަބްދުލްމަތީނު އާދަމް
+217,ADh Dhigurah,Matharesmaa Vilaa,Aishath Amjana,F,AXXX392,މަތަރެސްމާވިލާ,ޢާއިޝަތު އަމްޖާނާ
+218,ADh Dhigurah,Matharesmaa Vilaa,Husna Ibrahim,F,AXXX719,މަތަރެސްމާވިލާ,ޙުސްނާ އިބްރާހީމް
+219,ADh Dhigurah,Meenaaz,Ibrahim Ali,M,AXXX300,މީނާޒް,އިބްރާހީމް ޢަލީ
+220,ADh Dhigurah,Meenaaz,Dhunya Ali,F,AXXX216,މީނާޒް,ދުންޔާ ޢަލީ
+221,ADh Dhigurah,Mercury House,Ibrahim Adam,M,AXXX404,މާކަރީހައުސް,އިބްރާހީމް އާދަމް
+222,ADh Dhigurah,Moonimaage,Waseema Adam,F,AXXX224,މޫނިމާގެ,ވަސީމާ އާދަމް
+223,ADh Dhigurah,Moonimaage,Saarath Adam,F,AXXX225,މޫނިމާގެ,ސާރަތު އާދަމް
+224,ADh Dhigurah,Moonimaage,Ali Shujau,M,AXXX803,މޫނިމާގެ,ޢަލީ ޝުޖާޢު
+225,ADh Dhigurah,Moonimaage,Shahuma Mohamed,F,AXXX772,މޫނިމާގެ,ޝަހުމާ މުޙައްމަދު
+226,ADh Dhigurah,Moonimaage,Ahmed Yaameen,M,AXXX977,މޫނިމާގެ,އަޙްމަދު ޔާމީން
+227,ADh Dhigurah,Moonimaage,Saamee Mohamed,M,AXXX979,މޫނިމާގެ,ސާމީ މުޙައްމަދު
+228,ADh Dhigurah,Moosun Villa,Aminath Adam,F,AXXX295,މޫސުންވިލާ,އާމިނަތު އާދަމް
+229,ADh Dhigurah,Moosun Villa,Imran Adam,M,AXXX776,މޫސުންވިލާ,ޢިމްރާން އާދަމް
+230,ADh Dhigurah,Moosun Villa,Khadeeja Moosa,F,AXXX037,މޫސުންވިލާ,ޚަދީޖާ މޫސާ
+231,ADh Dhigurah,Moosun Villa,Aishath Adam,F,AXXX874,މޫސުންވިލާ,ޢާއިޝަތު އާދަމް
+232,ADh Dhigurah,Moosun Villa,Hawwa Anoosha,F,AXXX893,މޫސުންވިލާ,ޙައްވާ އަނޫޝާ
+233,ADh Dhigurah,Moosun Villa,Mariyam Azuha,F,AXXX809,މޫސުންވިލާ,މަރްޔަމް އަޒްހާ
+234,ADh Dhigurah,Naares,Ahmed Yoosuf,M,AXXX349,ނާރެސް,އަޙްމަދު ޔޫސުފް
+235,ADh Dhigurah,Naares,Zaeema Ahmed,F,AXXX912,ނާރެސް,ޒަޢީމާ އަޙްމަދު
+236,ADh Dhigurah,Naares,Noorussalaam Ahmed,M,AXXX251,ނާރެސް,ނޫރުއްސަލާމް އަޙްމަދު
+237,ADh Dhigurah,Naseemee Villa,Ali Shameem,M,AXXX010,ނަސީމީވިލާ,ޢަލީ ޝަމީމް
+238,ADh Dhigurah,Naseemee Villa,Shaheema Mohamed,F,AXXX338,ނަސީމީވިލާ,ޝަހީމާ މުޙައްމަދު
+239,ADh Dhigurah,Naseemee Villa,Hawwa Easa,F,AXXX387,ނަސީމީވިލާ,ޙައްވާ ޢީސާ
+240,ADh Dhigurah,Naseemee Villa,Shazly Mohamed,F,AXXX937,ނަސީމީވިލާ,ޝާޒްލީ މުޙައްމަދު
+241,ADh Dhigurah,Naseemee Villa,Haisam Hameed,M,AXXX788,ނަސީމީވިލާ,ޙައިސަމް ޙަމީދު
+242,ADh Dhigurah,Naseemee Villa,Hamdhoon Abdul Hameed,M,AXXX269,ނަސީމީވިލާ,ޙަމްދޫނު ޢަބްދުލްޙަމީދު
+243,ADh Dhigurah,Naseemee Villa,Rayan Ahmed Sifaz,M,AXXX074,ނަސީމީވިލާ,ރަޔަން އަޙްމަދު ސިފާޒް
+244,ADh Dhigurah,New Radiant,Sanfa Adam,F,AXXX315,ނިއުރޭޑިއަންޓް,ސަންފާ އާދަމް
+245,ADh Dhigurah,New Radiant,Abdulla Aboobakuru,M,AXXX401,ނިއުރޭޑިއަންޓް,ޢަބްދުﷲ އަބޫބަކުރު
+246,ADh Dhigurah,Night Rose,Abdul Hameed Mohamed,M,AXXX765,ނައިޓްރޯސް,ޢަބްދުލްޙަމީދު މުޙައްމަދު
+247,ADh Dhigurah,Night Rose,Abdul Majeed Mohamed,M,AXXX282,ނައިޓްރޯސް,ޢަބްދުލްމަޖީދު މުޙައްމަދު
+248,ADh Dhigurah,Night Rose,Aminath Yoosuf,F,AXXX326,ނައިޓްރޯސް,އާމިނަތު ޔޫސުފް
+249,ADh Dhigurah,Night Rose,Ahmed Nadeem,M,AXXX341,ނައިޓްރޯސް,އަޙްމަދު ނަދީމް
+250,ADh Dhigurah,Nishan,Mohamed Shamoon,M,AXXX984,ނިޝާން,މުޙައްމަދު ޝަމްޢޫން
+251,ADh Dhigurah,Noomaage,Zulfa Easa,F,AXXX999,ނޫމާގެ,ޒުލްފާ ޢީސާ
+252,ADh Dhigurah,Noomaage,Fareeda Easa,F,AXXX253,ނޫމާގެ,ފަރީދާ ޢީސާ
+253,ADh Dhigurah,Noomaraage,Abdul Raheem Adam,M,AXXX238,ނޫމަރާގެ,ޢަބްދުއްރަޙީމް އާދަމް
+254,ADh Dhigurah,Noomaraage,Abdulla Adam,M,AXXX763,ނޫމަރާގެ,ޢަބްދުﷲ އާދަމް
+255,ADh Dhigurah,Noomaraage,Mohamed Adam,M,AXXX664,ނޫމަރާގެ,މުޙައްމަދު އާދަމް
+256,ADh Dhigurah,Nooraanee Villa,Ahmed Adam,M,AXXX757,ނޫރާނީވިލާ,އަޙްމަދު އާދަމް
+257,ADh Dhigurah,Nooree Fehi,Sharmeela Adam,F,AXXX269,ނޫރީފެހި,ޝަރުމީލާ އާދަމް
+258,ADh Dhigurah,Nooree Fehi,Mariyam Adam,F,AXXX374,ނޫރީފެހި,މަރްޔަމް އާދަމް
+259,ADh Dhigurah,Nooree Fehi,Adam Ali,M,AXXX013,ނޫރީފެހި,އާދަމް ޢަލީ
+260,ADh Dhigurah,Nooree Fehi,Ahmed Nizam,M,AXXX174,ނޫރީފެހި,އަޙްމަދު ނިޡާމް
+261,ADh Dhigurah,Nooree Fehi,Nazima Mohamed,F,AXXX106,ނޫރީފެހި,ނާޡިމާ މުޙައްމަދު
+262,ADh Dhigurah,Nooree Fehi,Mohamed Shirukhan,M,AXXX906,ނޫރީފެހި,މުޙައްމަދު ޝިރުޚާން
+263,ADh Dhigurah,Nooree Fehi,Aishath Najudha,F,AXXX907,ނޫރީފެހި,ޢާއިޝަތު ނަޖުދާ
+264,ADh Dhigurah,Nooree Fehi,Hawwa Faihaa,F,AXXX222,ނޫރީފެހި,ޙައްވާ ފައިހާ
+265,ADh Dhigurah,Noovilaa,Hussain Fayaz,M,AXXX240,ނޫވިލާ,ޙުސައިން ފަޔާޟް
+266,ADh Dhigurah,Noovilaa,Ameena Mohamed,F,AXXX232,ނޫވިލާ,އަމީނާ މުޙައްމަދު
+267,ADh Dhigurah,Noovilaa,Shaaheena Mohamed,F,AXXX373,ނޫވިލާ,ޝާހީނާ މުޙައްމަދު
+268,ADh Dhigurah,Noovilaa,Mareena Moosa,F,AXXX766,ނޫވިލާ,މަރީނާ މޫސާ
+269,ADh Dhigurah,Noovilaa,Ahmed Ameen,M,AXXX724,ނޫވިލާ,އަޙްމަދު އަމީން
+270,ADh Dhigurah,Noovilaa,Fauzan Fayaz,M,AXXX792,ނޫވިލާ,ފައުޒާން ފަޔާޟް
+271,ADh Dhigurah,Noovilaa,Fathimath Faiha Fayaz,F,AXXX111,ނޫވިލާ,ފާޠިމަތު ފައިޙާ ފަޔާޟް
+272,ADh Dhigurah,Ocean Lead,Mohamed Niyaz,M,AXXX292,އޯޝަންލީޑް,މުޙައްމަދު ނިޔާޒް
+273,ADh Dhigurah,Ocean Villa,Ibrahim Adam,M,AXXX841,އޯޝަންވިލާ,އިބްރާހީމް އާދަމް
+274,ADh Dhigurah,Ocean Villa,Fathimath Azza,F,AXXX183,އޯޝަންވިލާ,ފާޠިމަތު ޢައްޒާ
+275,ADh Dhigurah,Paris,Mausooma Adam,F,AXXX403,ޕެރިސް,މަޢުޞޫމާ އާދަމް
+276,ADh Dhigurah,Paris,Mariyam Nashaath,F,AXXX911,ޕެރިސް,މަރްޔަމް ނަޝާޠު
+277,ADh Dhigurah,Paris,Liusa Adam,F,AXXX988,ޕެރިސް,ލިޔުސާ އާދަމް
+278,ADh Dhigurah,Paris,Aishath Shiuna,F,AXXX989,ޕެރިސް,ޢާއިޝަތު ޝިއުނާ
+279,ADh Dhigurah,Penzeemaage,Ibrahim Mohamed,M,AXXX064,ޕެންޒީމާގެ,އިބްރާހީމް މުޙައްމަދު
+280,ADh Dhigurah,Penzeemaage,Ahmed Ibrahim,M,AXXX529,ޕެންޒީމާގެ,އަޙްމަދު އިބްރާހީމް
+281,ADh Dhigurah,Penzeemaage,Nasrulla Ibrahim,M,AXXX316,ޕެންޒީމާގެ,ނަޞްރުﷲ އިބްރާހީމް
+282,ADh Dhigurah,Penzeemaage,Imaad Ibrahim,M,AXXX319,ޕެންޒީމާގެ,ޢިމާދު އިބްރާހީމް
+283,ADh Dhigurah,Portside,Mohamed Eaman,M,AXXX224,Pޯރޓްސައިޑް,މުޙައްމަދު އީމާނު
+284,ADh Dhigurah,Portside,Suneetha Ismail,F,AXXX651,Pޯރޓްސައިޑް,ސުނީތާ އިސްމާޢީލް
+285,ADh Dhigurah,Rabeeemanzil,Mohamed Zain,M,AXXX910,ރަބީޢީމަންޒިލް,މުޙައްމަދު ޒައިން
+286,ADh Dhigurah,Rankokaage,Mariyam Yoosuf,F,AXXX216,ރަންކޮކާގެ,މަރްޔަމް ޔޫސުފް
+287,ADh Dhigurah,Rankokaage,Abdul Kareem Yoosuf,M,AXXX218,ރަންކޮކާގެ,ޢަބްދުލްކަރީމް ޔޫސުފް
+288,ADh Dhigurah,Rankokaage,Aishath Reemaz Abdul Kareem,F,AXXX475,ރަންކޮކާގެ,ޢާއިޝަތު ރީމާޒް ޢަބްދުލްކަރީމް
+289,ADh Dhigurah,Rasheeda Manzil,Fathimath Azeemaa,F,AXXX905,ރަޝީދާމަންޒިލް,ފާޠިމަތު ޢަޒީމާ
+290,ADh Dhigurah,Ravverige,Ummuhanee Ibrahim,F,AXXX226,ރަށްވެރިގެ,އުއްމުހާނީ އިބްރާހީމް
+291,ADh Dhigurah,Ravverige,Aishath Suhana,F,AXXX227,ރަށްވެރިގެ,ޢާއިޝަތު ސުހާނާ
+292,ADh Dhigurah,Ravverige,Shareefa Ibrahim,F,AXXX712,ރަށްވެރިގެ,ޝަރީފާ އިބްރާހީމް
+293,ADh Dhigurah,Ravverige,Najah Nadheem,M,AXXX770,ރަށްވެރިގެ,ނަޖާޙް ނަދީމް
+294,ADh Dhigurah,Ravverige,Mohamed Ibrahim,M,AXXX969,ރަށްވެރިގެ,މުޙައްމަދު އިބްރާހީމް
+295,ADh Dhigurah,Red Villa,Niyama Ibrahim,F,AXXX206,ރެޑްވިލާ,ނިޔާމާ އިބްރާހީމް
+296,ADh Dhigurah,Red Villa,Sheereen Ibrahim,F,AXXX340,ރެޑްވިލާ,ޝީރީން އިބްރާހީމް
+297,ADh Dhigurah,Red Villa,Mohamed Ibrahim,M,AXXX225,ރެޑްވިލާ,މުޙައްމަދު އިބްރާހީމް
+298,ADh Dhigurah,Red Villa,Maariya Ibrahim,F,AXXX225,ރެޑްވިލާ,މާރިޔާ އިބްރާހީމް
+299,ADh Dhigurah,Red Villa,Ahmed Arees,M,AXXX229,ރެޑްވިލާ,އަޙްމަދު ޢަރީސް
+300,ADh Dhigurah,Red Villa,Yaeesh Areef,M,AXXX582,ރެޑްވިލާ,ޔައީޝް ޢަރީފް
+301,ADh Dhigurah,Reyvilla,Arifa Ali,F,AXXX233,ރޭވިލާ,ޢާރިފާ ޢަލީ
+302,ADh Dhigurah,Reyvilla,Ahmed Ali,M,AXXX707,ރޭވިލާ,އަޙްމަދު ޢަލީ
+303,ADh Dhigurah,Roashaneege,Mohamed Hussain,M,AXXX390,ރޯޝަނީގެ,މުޙައްމަދު ޙުސައިން
+304,ADh Dhigurah,Roashaneege,Aishath Hussain,F,AXXX329,ރޯޝަނީގެ,ޢާއިޝަތު ޙުސައިން
+305,ADh Dhigurah,Roashaneege,Ahmed Hussain,M,AXXX801,ރޯޝަނީގެ,އަޙްމަދު ޙުސައިން
+306,ADh Dhigurah,Roashaneege,Aminath Hussain,F,AXXX099,ރޯޝަނީގެ,އާމިނަތު ޙުސައިން
+307,ADh Dhigurah,Roashaneege,Aishath Reema,F,AXXX035,ރޯޝަނީގެ,ޢާއިޝަތު ރީމާ
+308,ADh Dhigurah,Roazaree villa,Hussain Ali,M,AXXX944,ރޯޒަރީވިލާ,ޙުސައިން ޢަލީ
+309,ADh Dhigurah,Rose Lead,Ahmed Nizar,M,AXXX251,ރޯޒްލީޑް,އަޙްމަދު ނިޒާރު
+310,ADh Dhigurah,Rose Lead,Asiya Nizar,F,AXXX327,ރޯޒްލީޑް,އާސިޔާ ނިޒާރު
+311,ADh Dhigurah,Rose Lead,Firaq Nizar,M,AXXX756,ރޯޒްލީޑް,ފިރާޤު ނިޒާރު
+312,ADh Dhigurah,Rose Lead,Mohamed Nizar,M,AXXX241,ރޯޒްލީޑް,މުޙައްމަދު ނިޒާރު
+313,ADh Dhigurah,Rose Lead,Fathimath Lamha,F,AXXX046,ރޯޒްލީޑް,ފާޠިމަތު ލަމްޙާ
+314,ADh Dhigurah,Royals,Ismail Ahmed,M,AXXX302,ރޯޔަލްސް,އިސްމާޢީލް އަޙްމަދު
+315,ADh Dhigurah,Royals,Aneesa Easa,F,AXXX715,ރޯޔަލްސް,އަނީސާ ޢީސާ
+316,ADh Dhigurah,Royals,Afa Ismail,F,AXXX923,ރޯޔަލްސް,ޢަފާ އިސްމާޢީލް
+317,ADh Dhigurah,Royals,Mohamed Ismail,M,AXXX321,ރޯޔަލްސް,މުޙައްމަދު އިސްމާޢީލް
+318,ADh Dhigurah,Saadhee Vila,Seeniya Adam,F,AXXX306,ސާދީވިލާ,ސީނިޔާ އާދަމް
+319,ADh Dhigurah,Saadhee Vila,Ilhaz Adam,M,AXXX307,ސާދީވިލާ,އިލްހާޛު އާދަމް
+320,ADh Dhigurah,Saadhee Vila,Wafiyya Adam,F,AXXX325,ސާދީވިލާ,ވަފިއްޔާ އާދަމް
+321,ADh Dhigurah,Saadhee Vila,Mohamed Muaz,M,AXXX406,ސާދީވިލާ,މުޙައްމަދު މުޢާޛު
+322,ADh Dhigurah,Saadhee Vila,Mujuthaba Adam,M,AXXX262,ސާދީވިލާ,މުޖުތަބާ އާދަމް
+323,ADh Dhigurah,Saadhee Vila,Zareena Zakariyya,F,AXXX239,ސާދީވިލާ,ޒަރީނާ ޒަކަރިއްޔާ
+324,ADh Dhigurah,Saadhee Vila,Adam Mohamed,M,AXXX242,ސާދީވިލާ,އާދަމް މުޙައްމަދު
+325,ADh Dhigurah,Saadhee Vila,Ilhama Adam,F,AXXX551,ސާދީވިލާ,އިލްހާމާ އާދަމް
+326,ADh Dhigurah,Saadhee Vila,Naufal Mujuthaba,M,AXXX461,ސާދީވިލާ,ނައުފަލް މުޖުތަބާ
+327,ADh Dhigurah,Sabaanaa Manzil,Ibrahim Mohamed,M,AXXX667,ސަބާނާމަންޒިލް,އިބްރާހީމް މުޙައްމަދު
+328,ADh Dhigurah,Sabaanaa Manzil,Adam Raswaan,M,AXXX983,ސަބާނާމަންޒިލް,އާދަމް ރަސްވާން
+329,ADh Dhigurah,Sadhdhaam Villa,Hawwa Easa,F,AXXX288,ޞައްދާމްވިލާ,ޙައްވާ ޢީސާ
+330,ADh Dhigurah,Sady Beach,Khalid Eysa,M,AXXX056,ސޭޑީބީޗް,ޚާލިދު ޢީސާ
+331,ADh Dhigurah,Sady Corner,Ahmed Mushthaq,M,AXXX305,ސޭޑީކޯނަރ,އަޙްމަދު މުޝްތާޤު
+332,ADh Dhigurah,Saimaage,Fathimath Ibrahim,F,AXXX324,ސައިމާގެ,ފާޠިމަތު އިބްރާހީމް
+333,ADh Dhigurah,Saimaage,Aishath Rifa,F,AXXX885,ސައިމާގެ,ޢާއިޝަތު ރިފާ
+334,ADh Dhigurah,Saimaage,Mariyam Ibrahim,F,AXXX060,ސައިމާގެ,މަރްޔަމް އިބްރާހީމް
+335,ADh Dhigurah,Sehenaaz,Aboobakur Moosa,M,AXXX324,ސެހެނާޒް,އަބޫބަކުރު މޫސާ
+336,ADh Dhigurah,Sehenaaz,Rishan Aboobakur,M,AXXX397,ސެހެނާޒް,ރިޝާން އަބޫބަކުރު
+337,ADh Dhigurah,Shabaab,Azlifa Ibrahim,F,AXXX408,ޝަބާބް,އަޒްލިފާ އިބްރާހީމް
+338,ADh Dhigurah,Shabaab,Aiman Abdul Rasheed,M,AXXX790,ޝަބާބް,އައިމަން ޢަބްދުއްރަޝީދު
+339,ADh Dhigurah,Shabaab,Irufaan Abdul Majeed,M,AXXX273,ޝަބާބް,އިރުފާން ޢަބްދުލްމަޖީދު
+340,ADh Dhigurah,Shabunameege,Naseema Ibrahim,F,AXXX192,ޝަބުނަމީގެ,ނަސީމާ އިބްރާހީމް
+341,ADh Dhigurah,Shabunameege,Ahmed Rameez,M,AXXX345,ޝަބުނަމީގެ,އަޙްމަދު ރަމީޒު
+342,ADh Dhigurah,Shyrose,Mazeen Abdul Majeed,M,AXXX760,ޝައިރޯސް,މަޒީން ޢަބްދުލްމަޖީދު
+343,ADh Dhigurah,Shyrose,Jumaan Abdul Majeed,M,AXXX572,ޝައިރޯސް,ޖުމާން ޢަބްދުލްމަޖީދު
+344,ADh Dhigurah,Silver Cloud,Musthafa Zakariyya,M,AXXX223,ސިލްވަރކްލައުޑް,މުޞްޠަފާ ޒަކަރިއްޔާ
+345,ADh Dhigurah,Starlet Villa,Anwar Mohamed,M,AXXX209,ސްޓާލެޓްވިލާ,އަންވަރު މުޙައްމަދު
+346,ADh Dhigurah,Thimaaveshi,Sana Ahmed Mohamed,F,AXXX764,ތިމާވެށި,ސަނާ އަޙްމަދު މުޙައްމަދު
+347,ADh Dhigurah,Three Rose,Afsal Adam,M,AXXX291,ތްރީރޯސް,އަފްޞަލް އާދަމް
+348,ADh Dhigurah,Three Rose,Adam Mohamed,M,AXXX339,ތްރީރޯސް,އާދަމް މުޙައްމަދު
+349,ADh Dhigurah,Three Rose,Faisal Adam,M,AXXX391,ތްރީރޯސް,ފައިޞަލް އާދަމް
+350,ADh Dhigurah,Vaarey Villa,Ibrahim Mahmood,M,AXXX304,ވާރޭވިލާ,އިބްރާހީމް Mަޙްމޫދު
+351,ADh Dhigurah,Vaarey Villa,Hawwa Ibrahim,F,AXXX398,ވާރޭވިލާ,ޙައްވާ އިބްރާހީމް
+352,ADh Dhigurah,Vaijeheyge,Ashraf Zakariyya,M,AXXX230,ވައިޖެހޭގެ,އަޝްރަފް ޒަކަރިއްޔާ
+353,ADh Dhigurah,Vaijeheyge,Abdulla Ali,M,AXXX824,ވައިޖެހޭގެ,ޢަބްދުﷲ ޢަލީ
+354,ADh Dhigurah,Vaijeheyge,Malaka Musthafa,F,AXXX785,ވައިޖެހޭގެ,މަލަކާ މުޞްޠަފާ
+355,ADh Dhigurah,Valencia,Ibrahim Abdul Kareem,M,AXXX260,ވެލެންސިއާ,އިބްރާހީމް ޢަބްދުލްކަރީމް
+356,ADh Dhigurah,Valencia,Mohamed Abdul Kareem,M,AXXX268,ވެލެންސިއާ,މުޙައްމަދު ޢަބްދުލްކަރީމް
+357,ADh Dhigurah,Valencia,Abdul Kareem Hassan,M,AXXX981,ވެލެންސިއާ,ޢަބްދުލްކަރީމް ޙަސަން
+358,ADh Dhigurah,Valencia,Fathimath Abdul Kareem,F,AXXX208,ވެލެންސިއާ,ފާޠިމަތު ޢަބްދުލްކަރީމް
+359,ADh Dhigurah,Valencia,Aishath Abdul Kareem,F,AXXX020,ވެލެންސިއާ,ޢާއިޝަތު ޢަބްދުލްކަރީމް
+360,ADh Dhigurah,Venus Villa,Solih Yoosuf,M,AXXX347,ވީނަސްވިލާ,ޞާލިޙް ޔޫސުފް
+361,ADh Dhigurah,Venus Villa,Fathimath Salih Yoosuf,F,AXXX578,ވީނަސްވިލާ,ފާޠިމަތު ޞާލިޙް ޔޫސުފް
+362,ADh Dhigurah,Venus Villa,Fathmath Rauha,F,AXXX440,ވީނަސްވިލާ,ފާޠިމަތު ރައުޙާ
+363,ADh Dhigurah,Venus Villa,Mohamed Salih,M,AXXX845,ވީނަސްވިލާ,މުޙައްމަދު ޞާލިޙް
+364,ADh Dhigurah,Venus Villa,Ali Nasru,M,AXXX987,ވީނަސްވިލާ,ޢަލީ ނަޞްރު
+365,ADh Dhigurah,Victory Villa,Fathimath Sama,F,AXXX280,ވިކްޓަރީވިލާ,ފާޠިމަތު ސަމާ
+366,ADh Dhigurah,Victory Villa,Mohamed Nafiu,M,AXXX970,ވިކްޓަރީވިލާ,މުޙައްމަދު ނާފިޢު
+367,ADh Dhigurah,Victory Villa,Ibrahim Sinan,M,AXXX908,ވިކްޓަރީވިލާ,އިބްރާހީމް ސިނާން
+368,ADh Dhigurah,Victory Villa,Mohamed Sizaan,M,AXXX909,ވިކްޓަރީވިލާ,މުޙައްމަދު ސިޒާން
+369,ADh Dhigurah,Victory Villa,Aminath Shaushan,F,AXXX910,ވިކްޓަރީވިލާ,އާމިނަތު ޝައުޝަން
+370,ADh Dhigurah,Victory Villa,Aishath Sahaa Naseer,F,AXXX546,ވިކްޓަރީވިލާ,ޢާއިޝަތު ސަޙާ ނަޞީރު
+371,ADh Dhigurah,Vilares,Abdul Hafeez Solih,M,AXXX299,ވިލަރެސް,ޢަބްދުލްޙަފީޡު ޞާލިޙު
+372,ADh Dhigurah,Vilares,Ali Shaheen,M,AXXX711,ވިލަރެސް,ޢަލީ ޝާހީނު
+373,ADh Dhigurah,Violet Villa,Usman Adam,M,AXXX229,ވައިލެޓްވިލާ,ޢުޘްމާން އާދަމް
+374,ADh Dhigurah,Violet Villa,Adheel Ali,M,AXXX181,ވައިލެޓްވިލާ,ޢަދީލް ޢަލީ
+375,ADh Dhigurah,White Rose,Aishath Fazeela,F,AXXX270,ވައިޓްރޯސް,ޢާއިޝަތު ފަޟީލާ
+376,ADh Dhigurah,White Rose,Nafeesa Abdul Raheem,F,AXXX271,ވައިޓްރޯސް,ނަފީސާ ޢަބްދުއްރަޙީމް
+377,ADh Dhigurah,White Rose,Abdul Raheem Ibrahim,M,AXXX272,ވައިޓްރޯސް,ޢަބްދުއްރަޙީމް އިބްރާހީމް
+378,ADh Dhigurah,White Rose,Shahid Abdul Raheem,M,AXXX281,ވައިޓްރޯސް,ޝާހިދު ޢަބްދުއްރަޙީމް
+379,ADh Dhigurah,White Rose,Hawwa Ali,F,AXXX322,ވައިޓްރޯސް,ޙައްވާ ޢަލީ
+380,ADh Dhigurah,White Rose,Ibrahim Abdul Raheem,M,AXXX523,ވައިޓްރޯސް,އިބްރާހީމް ޢަބްދުއްރަޙީމް
+381,ADh Dhigurah,White Rose,Fathimath Zaain,F,AXXX860,ވައިޓްރޯސް,ފާޠިމަތު ޛާއިން
+382,ADh Dhigurah,White Rose,Mariyam Lofwath,F,AXXX531,ވައިޓްރޯސް,މަރްޔަމް ޟަފްވަތު
+383,ADh Dhigurah,White Rose,Mohamed Abdul Raheem,M,AXXX912,ވައިޓްރޯސް,މުޙައްމަދު ޢަބްދުއްރަޙީމް
+384,ADh Dhigurah,White Villa,Shamira Ali,F,AXXX872,ވައިޓްވިލާ,ޝާމިރާ ޢަލީ
+385,ADh Dhigurah,White Villa,Nashreena Mohamed,F,AXXX196,ވައިޓްވިލާ,ނަޝްރީނާ މުޙައްމަދު
+386,ADh Dhigurah,White Villa,Aishath Hussain,F,AXXX249,ވައިޓްވިލާ,ޢާއިޝަތު ޙުސައިން
+387,ADh Dhigurah,White Villa,Aishath Mohamed Easa,F,AXXX260,ވައިޓްވިލާ,ޢާއިޝަތު މުޙައްމަދު ޢީސާ
+388,ADh Dhigurah,White Villa,Ahmed Siyam,M,AXXX265,ވައިޓްވިލާ,އަޙްމަދު ސިޔާމު
+389,ADh Dhigurah,White Villa,Fathimath Shiyama,F,AXXX266,ވައިޓްވިލާ,ފާޠިމަތު ޝިޔާމާ
+390,ADh Dhigurah,Zamaan,Ali Sanoon,M,AXXX302,ޒަމާން,ޢަލީ ސަނޫން
+391,ADh Dhigurah,Zamaan,Aishath Aboobakru,F,AXXX303,ޒަމާން,ޢާއިޝަތު އަބޫބަކުރު
+392,ADh Dhigurah,Zamaan,Aminath Shafeega,F,AXXX973,ޒަމާން,އާމިނަތު ޝަފީޤާ
+393,ADh Dhigurah,Zamaan,Sakeel Ismail,M,AXXX736,ޒަމާން,ސަކީލް އިސްމާޢީލް
+394,ADh Dhigurah,Zamaanee Ufaa,Ahmed Zameer,M,AXXX034,ޒަމާނީއުފާ,އަޙްމަދު ޒަމީރު
+395,ADh Dhigurah,Zamaanee Ufaa,Ali Nasru,M,AXXX018,ޒަމާނީއުފާ,ޢަލީ ނަޞްރު
+396,ADh Dhigurah,Zamaanee Ufaa,Aisath Nahfa,F,AXXX921,ޒަމާނީއުފާ,ޢާއިޝަތު ނަހްފާ
+397,ADh Dhigurah,Zamaaneekula,Ali Nashid,M,AXXX963,ޒަމާނީކުލަ,ޢަލީ ނާޝިދު
+398,ADh Dhigurah,Zamaaneekula,Naushad Mohamed,M,AXXX299,ޒަމާނީކުލަ,ނައުޝާދު މުޙައްމަދު
+399,ADh Dhigurah,Zamaaneekula,Ahmed Amir,M,AXXX341,ޒަމާނީކުލަ,އަޙްމަދު ޢާމިރު
+400,ADh Dhigurah,Zamaaneekula,Eeman Amir,M,AXXX905,ޒަމާނީކުލަ,އީމާން ޢާމިރު
+401,ADh Dhigurah,Zamaaneekula,Arushad Mohamed,M,AXXX969,ޒަމާނީކުލަ,އަރުޝަދު މުޙައްމަދު
+402,ADh Kunburudhoo,Asrafee Villa,Ibrahim Muneez,M,AXXX780,އަސްރަފީވިލާ,އިބްރާހީމް މުނީޒު
+403,ADh Kunburudhoo,Mathivaru,Adham Shavin Mohamed,M,AXXX661,މަތިވަރު,އާދަމް ޝާވިން މުޙައްމަދު
+404,ADh Maamigili,Rivethi,Ahmed Ishan,M,AXXX593,ރިވެތި,އަޙްމަދު އިޝާން
+405,ADh Mahibadhoo,Haveeree Naaz,Adam Mahir,M,AXXX147,ހަވީރީނާޒް,އާދަމް މާހިރު
+406,ADh Mahibadhoo,Irumatheege,Izzath Abdul Baree,M,AXXX491,އިރުމަތީގެ,ޢިއްޒަތު ޢަބްދުލްބާރީ
+407,ADh Mahibadhoo,Kenereege,Abdulla Rasheed,M,AXXX229,ކެނެރީގެ,ޢަބްދުﷲ ރަޝީދު
+408,ADh Mandhoo,Daisy Villa,Sadna Abdul Rahman,F,AXXX684,ޑޭޒީވިލާ,ސާދުނާ ޢަބްދުއްރަޙްމާން
+409,ADh Mandhoo,Faza,Aishath Fazeena,F,AXXX294,ފަޒާ,ޢާއިޝަތު ފަޒީނާ
+410,ADh Mandhoo,Naseemee Villa,Ibrahim Nizam,M,AXXX173,ނަސީމީވިލާ,އިބްރާހީމް ނިޒާމް
+411,ADh Mandhoo,Zamaanee Villa,Ahmed Sahil,M,AXXX045,ޒަމާނީވިލާ,އަޙްމަދު ސާހިލް
+412,B Hithaadhoo,Uraha,Thooba Ahmed,F,AXXX749,އުރަހަ,ޠޫބާ އަޙްމަދު
+413,B Thulhaadhoo,Laajahaage,Ahmed Thasleem,M,AXXX636,ލާޖަހާގެ,އަޙްމަދު ތަސްލީމް
+414,F Bilehdhoo,Fehifarudhaage,Fathimath Sazadha,F,AXXX527,ފެހިފަރުދާގެ,ފާޠިމަތު ސަޒާދާ
+415,F Feeali,Niyaazaa Rose,Mariyam Thasleema,F,AXXX183,ނިޔާޒާރޯޒް,މަރްޔަމް ތަސްލީމާ
+416,GDh Madaveli,Raaspareege,Aminath Namraa,F,AXXX587,ރާސްޕަރީގެ,އާމިނަތު ނަމްރާ
+417,GDh Rathafandhoo,Green House,Shazra Shaheem,F,AXXX189,ގްރީންހައުސް,ޝަޒުރާ ޝަހީމް
+418,GDh Thinadhoo,Areesh,Mohamed Shaheed,M,AXXX965,އަރީޝް,މުޙައްމަދު ޝަހީދު
+419,GDh Thinadhoo,Bihuge,Amjad Waheed,M,AXXX208,ބިހުގެ,އަމްޖަދު ވަޙީދު
+420,GDh Thinadhoo,Sunny Dale,Aishath Geezaa,F,AXXX632,ސަނީޑޭލް,ޢާއިޝަތު ގީޒާ
+421,HA Kelaa,Fehiasseyri,Mariyam Yumna,F,AXXX470,ފެހިއައްސޭރި,މަރްޔަމް ޔުމްނާ
+422,HDh Finey,Naaz Villa,Mohamed Hassan,M,AXXX732,ނާޒްވިލާ,މުޙައްމަދު ޙަސަން
+423,HDh Neykurendhoo,Irumatheege,Jameela Saeedh,F,AXXX633,އިރުމަތީގެ,ޖަމީލާ ސަޢީދު
+424,HDh Neykurendhoo,Irumatheege,Aishath Azulifa,F,AXXX636,އިރުމަތީގެ,ޢާއިޝަތު އަޒުލިފާ
+425,K Dhiffushi,Bileiymaage,Mariyam Ulfa,F,AXXX156,ބިލެތްމާގެ,މަރްޔަމް އުލްފާ
+426,K Gaafaru,Sweet Meet,Shima Jameel,F,AXXX214,ސްވީޓްމީޓް,ޝިމާ ޖަމީލް
+427,K Gulhi,West House,Abdulla Inaz,M,AXXX446,ވެސްޓުހައުސް,ޢަބްދުﷲ ޢިނާޒު
+428,K Huraa,Sudhaa Bahaaru,Aishath Shahuda,F,AXXX157,ސުދާބަހާރު,ޢާއިޝަތު ޝަހުދާ
+429,K Kaashidhoo,Hudhu Villa,Hawwa Shaziya,F,AXXX361,ހުދުވިލާ,ޙައްވާ ޝާޒިޔާ
+430,L Gan,Thundi Hazaarumaage,Aminath Vazna Hassan,F,AXXX355,ތުނޑި ހަޒާރުމާގެ,އާމިނަތު ވަޒްނާ ޙަސަން
+431,L Maamendhoo,Irumatheege,Mohamed Aswad,M,AXXX118,އިރުމަތީގެ,މުޙައްމަދު އަސްވަދު
+432,Lh Hinnavaru,Dheyliyaage,Rugiyya Mohamed,F,AXXX573,ދޭލިޔާގެ,ރުޤިއްޔާ މުޙައްމަދު
+433,Lh Hinnavaru,Green Weed,Fathimath Zuhudha,F,AXXX313,ގްރީންވީޑް,ފާޠިމަތު ޒުހުދާ
+434,Lh Naifaru,Randhoadhi,Leen Ahmed,F,AXXX250,ރަންދޯދި,ލީން އަޙްމަދު
+435,M Kolhufushi,Iruali,Ahmed Azim Ali,M,AXXX971,އިރުއަލި,އަޙްމަދު ޢާޒިމް ޢަލީ
+436,Male ,Dhaftharu No RS 6711,Fazeela Mohamed,F,AXXX456,ދަފްތަރު ނަންބަރު ރސ 1176,ފަޒީލާ މުޙައްމަދު
+437,Male ,G Maafarivaage,Mohamed Adam,M,AXXX648,ގ މާފަރިވާގެ,މުޙައްމަދު އާދަމް
+438,Male ,H Ilolhi,Aishath Nashwa,F,AXXX120,ހ އިލޮޅި,ޢާއިޝަތު ނަޝްވާ
+439,Male ,H Malares,Ahmed Irufan,M,AXXX104,ހ މަލަރެސް,އަޙްމަދު އިރުފާން
+440,Male ,H Thanbee Aage,Aminath Shany,F,AXXX275,ހ ތަންބީއާގެ,އާމިނަތު ޝާނީ
+441,Male ,Hulhu Male Flat No 70 G 01,Mohamed Shahid,M,AXXX876,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 07,މުޙައްމަދު ޝާހިދު
+442,Male ,M Seed,Ali Ibrahim Didi,M,AXXX152,މ ސީޑް,ޢަލީ އިބްރާހީމްދީދީ
+443,Male ,V Feyzaa,Aishath Abdulla,F,AXXX001,ވިލިމާލެ ފޭޒާ,ޢާއިޝަތު ޢަބްދުﷲ
+444,N Kendhikulhudhoo,Kulhudhoo Dhoorigam,Hussain Rasheed,M,AXXX627,ކުޅުދޫ ދޫރިގަމް,ޙުސައިން ރަޝީދު
+445,R Alifushi,Ever Bright,Abdul Razzag Mohamed,M,AXXX892,އެވަރބްރައިޓް,ޢަބްދުއްރައްޒާޤު މުޙައްމަދު
+446,R Alifushi,Farivaa,Ali Hassan,M,AXXX892,ފަރިވާ,ޢަލީ ޙަސަން
+447,R Hulhudhuffaaru,Munaa Manzil,Aminath Suna,F,AXXX189,މުނާމަންޒިލް,އާމިނަތު ޞުނާ
+448,R Maduvvari,Blue Star,Aminath Riyaaza,F,AXXX304,ބުލޫސްޓާރ,އާމިނަތު ރިޔާޟާ
+449,R Ungoofaaru,Zilythan,Ibrahim Nazim,M,AXXX719,ޒިލީތަން,އިބްރާހީމް ނާޡިމް
+450,R Ungoofaaru,Zilythan,Masitha Wajdhee,F,AXXX628,ޒިލީތަން,މާސިޠާ ވަޖުދީ
+451,S Hulhudhoo,Alimas Vaadhee,Mohamed Musnad,M,AXXX470,އަލިމަސްވާދީ,މުޙައްމަދު މުސްނަދު
+452,S Hulhudhoo,Alimas Vaadhee,Ahmed Maazin,M,AXXX506,އަލިމަސްވާދީ,އަޙްމަދު މާޒިން
+453,S Hulhudhoo,Alimas Vaadhee,Fathimath Manhal Abdulla,F,AXXX508,އަލިމަސްވާދީ,ފާޠިމަތު މަންހަލް ޢަބްދުﷲ
+454,S Hulhudhoo,Kasthoorige,Shaheeda,F,AXXX892,ކަސްތޫރިގެ,ޝަހީދާ
+455,S Maradhoo,Akiri,Ali Shareef,M,AXXX838,އަކިރި,ޢަލީ ޝަރީފް
+456,Th Kinbidhoo,Fenfiyaazuge Aage,Mariyam Shazna,F,AXXX820,ފެންފިޔާޒުގެއާގެ,މަރްޔަމް ޝަޒްނާ
+457,V Rakeedhoo,Luxury Wood,Mariyam Jaudha Jaleel,F,AXXX318,ލަގްޒަރީވުޑް,މަރްޔަމް ޖަޢުދާ ޖަލީލް
