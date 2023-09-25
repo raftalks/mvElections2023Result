@@ -1,0 +1,703 @@
+#,Island,House Name,Name,Sex,National ID,Address_DV,Name_DV
+1,Male ,H Henveyru Fehi,Fathimath Anaan Majdhee,F,AXXX966,ހ ހެންވޭރުފެހި,ފާޠިމަތު ޢަނާން މަޖްދީ
+2,Male ,H Nestal Uthurubai,Khadheejath Arjooza Hassan,F,AXXX116,ހ ނެސްޓަލްއުތުރުބައި,ޚަދީޖަތު އަރްޖޫޒާ ޙަސަން
+3,Male ,Hulhu Male 12 Residence Flat No 3 08,Hassan Dhilshan,M,AXXX931,ހުޅުމާލެ 21 ރެސިޑެންސް ފްލެޓް ނަންބަރު 80 3,ޙަސަން ދިލްޝާން
+4,Male ,Hulhu Male Alamaa Hiyaa,Abdul Raheem Mohamed,M,AXXX664,ހުޅުމާލެ އަލަމާ ހިޔާ,ޢަބްދުއްރަޙީމް މުޙައްމަދު
+5,Male ,Hulhu Male Amber Terrace 1 R 15 01,Aminath Ali,F,AXXX664,ހުޅުމާލެ އެމްބަރ ޓެރަސް 1 އާރް 10 51,އާމިނަތު ޢަލީ
+6,Male ,Hulhu Male Ameen Avenue Flat 3 01,Hafeeza Hassan,F,AXXX524,ހުޅުމާލެ އަމީން އެވެނިއު ފްލެޓް 10 3,ޙަފީޡާ ޙަސަން
+7,Male ,Hulhu Male Amin Avenue Maple 2 03,Fathimath Shifa,F,AXXX649,ހުޅުމާލެ އަމީން އެވެނިއު މެPަލް 30 2,ފާޠިމަތު ޝިފާ
+8,Male ,Hulhu Male Amin Avenue Teak 5 08,Hussain Dhinah Abdul Latheef,M,AXXX045,ހުޅުމާލެ އަމިން އެވެނިއު ޓީކް 80 5,ޙުސައިން ދިނާޙު ޢަބްދުއްލަޠީފް
+9,Male ,Hulhu Male Bimuge No 11453 Flat 103 2 03,Ibrahim Rasheed,M,AXXX937,ހުޅުމާލެ ބިމުގެ ނަމްބަރ 35411 ފްލެޓް 30 2 301,އިބްރާހީމް ރަޝީދު
+10,Male ,Hulhu Male Flat 116 1 01,Mariyam Aroosha,F,AXXX148,ހުޅުމާލެ ފްލެޓް 10 1 611,މަރްޔަމް ޢަރޫޝާ
+11,Male ,Hulhu Male Flat 121 2 02,Aishath Rukhushy Rameez,F,AXXX008,ހުޅުމާލެ ފްލެޓް 20 2 121,ޢާއިޝަތު ރުޚުޝީ ރަމީޒު
+12,Male ,Hulhu Male Flat 122 1 01,Naeema Hassan,F,AXXX608,ހުޅުމާލެ ފްލެޓް 10 1 221,ނަޢީމާ ޙަސަން
+13,Male ,Hulhu Male Flat 122 3 02,Aishath Looba,F,AXXX638,ހުޅުމާލެ ފްލެޓް 20 3 221,ޢާއިޝަތު ލޫބާ
+14,Male ,Hulhu Male Flat 122 3 02,Mohamed Zuhal,M,AXXX401,ހުޅުމާލެ ފްލެޓް 20 3 221,މުޙައްމަދު ޒުހަލް
+15,Male ,Hulhu Male Flat 123 G 01,Nazima Adam,F,AXXX187,ހުޅުމާލެ ފްލެޓް 10 ޖީ 321,ނާޡިމާ އާދަމް
+16,Male ,Hulhu Male Flat 123 G 06,Mohamed Maniku,M,AXXX934,ހުޅުމާލެ ފްލެޓް 60 ޖީ 321,މުޙައްމަދުމަނިކު
+17,Male ,Hulhu Male Flat 132 2 04,Fazna Shukoor,F,AXXX731,ހުޅުމާލެ ފްލެޓް 40 2 231,ފަޒްނާ ޝުކޫރު
+18,Male ,Hulhu Male Flat 133 1 02,Ahmed Zian,M,AXXX120,ހުޅުމާލެ ފްލެޓް 20 1 331,އަޙްމަދު ޒިޢާން
+19,Male ,Hulhu Male Flat 137 3 01,Abdul Razzaq,M,AXXX434,ހުޅުމާލެ ފްލެޓް 10 3 731,ޢަބްދުއްރައްޒާޤް
+20,Male ,Hulhu Male Flat 139 1 02,Mariyam Hassan Manik,F,AXXX432,ހުޅުމާލެ ފްލެޓް 20 1 931,މަރްޔަމް ޙަސަންމަނިކު
+21,Male ,Hulhu Male Flat 139 1 05,Aneesa Rasheed,F,AXXX383,ހުޅުމާލެ ފްލެޓް 50 1 931,އަނީސާ ރަޝީދު
+22,Male ,Hulhu Male Flat 139 2 06,Ismail Samah,M,AXXX384,ހުޅުމާލެ ފްލެޓް 60 2 931,އިސްމާޢީލް ސަމާޙް
+23,Male ,Hulhu Male Flat 139 3 04,Aminath Meesam Saeed,F,AXXX240,ހުޅުމާލެ ފްލެޓް 40 3 931,އާމިނަތު މީސަމް ސަޢީދު
+24,Male ,Hulhu Male Flat 139 G 02,Ghaanim Mohamed,M,AXXX296,ހުޅުމާލެ ފްލެޓް 20 ޖީ 931,ޣާނިމް މުޙައްމަދު
+25,Male ,Hulhu Male Flat 139 G 05,Asadullah Hussain,M,AXXX835,ހުޅުމާލެ ފްލެޓް 50 ޖީ 931,އަސަދުﷲ ޙުސައިން
+26,Male ,Hulhu Male Flat 139 G 05,Mohamed Rayis Asadulla,M,AXXX456,ހުޅުމާލެ ފްލެޓް 50 ޖީ 931,މުޙައްމަދު ރާޔިސް ޢަސަދުﷲ
+27,Male ,Hulhu Male Flat 139 G 06,Hassan Zareer,M,AXXX715,ހުޅުމާލެ ފްލެޓް 60 ޖީ 931,ޙަސަން ޒަރީރު
+28,Male ,Hulhu Male Flat 140 1 04,Ibrahim Uwais,M,AXXX021,ހުޅުމާލެ ފްލެޓް 40 1 041,އިބްރާހީމް ޢުވައިސު
+29,Male ,Hulhu Male Flat 140 1 04,Aishath Moonisa,F,AXXX074,ހުޅުމާލެ ފްލެޓް 40 1 041,ޢާއިޝަތު މޫނިސާ
+30,Male ,Hulhu Male Flat 140 1 04,Raeef Fathuhee,M,AXXX964,ހުޅުމާލެ ފްލެޓް 40 1 041,ރަޢީފް ފަތުޙީ
+31,Male ,Hulhu Male Flat 140 1 05,Hawwa Ahmed,F,AXXX842,ހުޅުމާލެ ފްލެޓް 50 1 041,ޙައްވާ އަޙްމަދު
+32,Male ,Hulhu Male Flat 140 1 05,Saadhuna Hassan,F,AXXX844,ހުޅުމާލެ ފްލެޓް 50 1 041,ސާދުނާ ޙަސަން
+33,Male ,Hulhu Male Flat 140 1 06,Vaarish Shiyam,M,AXXX824,ހުޅުމާލެ ފްލެޓް 60 1 041,ވާރިޝް ޝިޔާމް
+34,Male ,Hulhu Male Flat 140 2 02,Abdulla Shahid,M,AXXX565,ހުޅުމާލެ ފްލެޓް 20 2 041,ޢަބްދުﷲ ޝާހިދު
+35,Male ,Hulhu Male Flat 140 2 04,Aishath Anisa,F,AXXX291,ހުޅުމާލެ ފްލެޓް 40 2 041,ޢާއިޝަތު އާނިސާ
+36,Male ,Hulhu Male Flat 140 2 05,Faiza Ali,F,AXXX954,ހުޅުމާލެ ފްލެޓް 50 2 041,ފާއިޒާ ޢަލީ
+37,Male ,Hulhu Male Flat 140 3 05,Fathimath Niufa,F,AXXX989,ހުޅުމާލެ ފްލެޓް 50 3 041,ފާޠިމަތު ނިޢުފާ
+38,Male ,Hulhu Male Flat 140 G 03,Hassan Khaleel,M,AXXX477,ހުޅުމާލެ ފްލެޓް 30 ޖީ 041,ޙަސަން ޚަލީލް
+39,Male ,Hulhu Male Flat 140 G 03,Haniyya Hilmy,F,AXXX838,ހުޅުމާލެ ފްލެޓް 30 ޖީ 041,ހަނިއްޔާ ޙިލްމީ
+40,Male ,Hulhu Male Flat 140 G 03,Ahmed Farish Khaleel,M,AXXX526,ހުޅުމާލެ ފްލެޓް 30 ޖީ 041,އަޙްމަދު ފާރިޝް ޚަލީލް
+41,Male ,Hulhu Male Flat 140 G 05,Hussain Abdul Wahid,M,AXXX882,ހުޅުމާލެ ފްލެޓް 50 ޖީ 041,ޙުސައިން ޢަބްދުލްވާޙިދު
+42,Male ,Hulhu Male Flat 140 G 06,Mohamed Razeen,M,AXXX934,ހުޅުމާލެ ފްލެޓް 60 ޖީ 041,މުޙައްމަދު ރަޒީން
+43,Male ,Hulhu Male Flat 140 G 06,Zahaadhathu Razeenu,F,AXXX437,ހުޅުމާލެ ފްލެޓް 60 ޖީ 041,ޒަހާދަތު ރަޒީނު
+44,Male ,Hulhu Male Flat 140 G 06,Fazuhath Naseem,F,AXXX382,ހުޅުމާލެ ފްލެޓް 60 ޖީ 041,ފަޒްޙަތު ނަސީމް
+45,Male ,Hulhu Male Flat 140 G 06,Yoosuf Razeen,M,AXXX489,ހުޅުމާލެ ފްލެޓް 60 ޖީ 041,ޔޫސުފް ރަޒީން
+46,Male ,Hulhu Male Flat 141 1 04,Abdul Salam Mohamed,M,AXXX480,ހުޅުމާލެ ފްލެޓް 40 1 141,ޢަބްދުއްސަލާމް މުޙައްމަދު
+47,Male ,Hulhu Male Flat 141 1 04,Samiyyath Mohamed,F,AXXX414,ހުޅުމާލެ ފްލެޓް 40 1 141,ސަމިއްޔަތު މުޙައްމަދު
+48,Male ,Hulhu Male Flat 141 G 02,Ibrahim Rasheed,M,AXXX507,ހުޅުމާލެ ފްލެޓް 20 ޖީ 141,އިބްރާހީމް ރަޝީދު
+49,Male ,Hulhu Male Flat 141 G 02,Rameez Ali,M,AXXX319,ހުޅުމާލެ ފްލެޓް 20 ޖީ 141,ރަމީޒު ޢަލީ
+50,Male ,Hulhu Male Flat 141 G 02,Khalida Ali,F,AXXX380,ހުޅުމާލެ ފްލެޓް 20 ޖީ 141,ޚާލިދާ ޢަލީ
+51,Male ,Hulhu Male Flat 142 1 01,Luthufy Adam,M,AXXX295,ހުޅުމާލެ ފްލެޓް 10 1 241,ލުޠުފީ އާދަމް
+52,Male ,Hulhu Male Flat 142 1 01,Aishath Fizleen,F,AXXX298,ހުޅުމާލެ ފްލެޓް 10 1 241,ޢާއިޝަތު ފިޟްލީން
+53,Male ,Hulhu Male Flat 142 1 03,Fathimath Waheedha,F,AXXX100,ހުޅުމާލެ ފްލެޓް 30 1 241,ފާޠިމަތު ވަޙީދާ
+54,Male ,Hulhu Male Flat 142 1 04,Easa Zaleeg,M,AXXX181,ހުޅުމާލެ ފްލެޓް 40 1 241,ޢީސާ ޒަލީޤު
+55,Male ,Hulhu Male Flat 142 3 01,Abdulla Nafiu,M,AXXX101,ހުޅުމާލެ ފްލެޓް 10 3 241,ޢަބްދުﷲ ނާފިޢު
+56,Male ,Hulhu Male Flat 142 G 02,Adam Ali,M,AXXX763,ހުޅުމާލެ ފްލެޓް 20 ޖީ 241,އާދަމް ޢަލީ
+57,Male ,Hulhu Male Flat 143 1 02,Ali Zahir,M,AXXX410,ހުޅުމާލެ ފްލެޓް 20 1 341,ޢަލީ ޒާހިރު
+58,Male ,Hulhu Male Flat 143 1 02,Shaheedha Yoosuf,F,AXXX691,ހުޅުމާލެ ފްލެޓް 20 1 341,ޝަހީދާ ޔޫސުފް
+59,Male ,Hulhu Male Flat 143 1 02,Shaaheen Ali,M,AXXX925,ހުޅުމާލެ ފްލެޓް 20 1 341,ޝާހީން ޢަލީ
+60,Male ,Hulhu Male Flat 144 1 01,IBRAHIM HUSSAIN,M,AXXX299,ހުޅުމާލެ ފްލެޓް 10 1 441,އިބްރާހީމް ޙުސައިން
+61,Male ,Hulhu Male Flat 144 1 01,Aishath Ismail,F,AXXX915,ހުޅުމާލެ ފްލެޓް 10 1 441,ޢާއިޝަތު އިސްމާޢީލް
+62,Male ,Hulhu Male Flat 144 3 03,Mohamed Ibrahim,M,AXXX991,ހުޅުމާލެ ފްލެޓް 30 3 441,މުޙައްމަދު އިބްރާހީމް
+63,Male ,Hulhu Male Flat 144 3 03,Aminath Looza,F,AXXX527,ހުޅުމާލެ ފްލެޓް 30 3 441,އާމިނަތު ލޫޒާ
+64,Male ,Hulhu Male Flat 144 3 03,Fauziyya Gasim,F,AXXX943,ހުޅުމާލެ ފްލެޓް 30 3 441,ފައުޒިއްޔާ ޤާސިމް
+65,Male ,Hulhu Male Flat 144 3 04,Azmeena Ismail,F,AXXX807,ހުޅުމާލެ ފްލެޓް 40 3 441,ޢަޒުމީނާ އިސްމާޢީލް
+66,Male ,Hulhu Male Flat 144 G 02,Ahmed Ibrahim Hussain,M,AXXX235,ހުޅުމާލެ ފްލެޓް 20 ޖީ 441,އަޙްމަދު އިބްރާހީމް ޙުސައިން
+67,Male ,Hulhu Male Flat 144 G 02,Fathimath Sharumeela,F,AXXX520,ހުޅުމާލެ ފްލެޓް 20 ޖީ 441,ފާޠިމަތު ޝަރުމީލާ
+68,Male ,Hulhu Male Flat 144 G 03,Mariyam Shifna,F,AXXX950,ހުޅުމާލެ ފްލެޓް 30 ޖީ 441,މަރްޔަމް ޝިފްނާ
+69,Male ,Hulhu Male Flat 144 G 04,Mohamed Naeem,M,AXXX999,ހުޅުމާލެ ފްލެޓް 40 ޖީ 441,މުޙައްމަދު ނަޢީމް
+70,Male ,Hulhu Male Flat 145 2 01,Aishath Ismail,F,AXXX783,ހުޅުމާލެ ފްލެޓް 10 2 541,ޢާއިޝަތު އިސްމާޢީލް
+71,Male ,Hulhu Male Flat 145 3 01,Fathmath Farzana Hashim,F,AXXX401,ހުޅުމާލެ ފްލެޓް 10 3 541,ފާޠިމަތު ފަރުޒާނާ ހާޝިމް
+72,Male ,Hulhu Male Flat 145 G 01,Fathimath Nasrath,F,AXXX374,ހުޅުމާލެ ފްލެޓް 10 ޖީ 541,ފާޠިމަތު ނަސްރަތު
+73,Male ,Hulhu Male Flat 146 1 02,Fazeela Zahir,F,AXXX757,ހުޅުމާލެ ފްލެޓް 20 1 641,ފަޟީލާ ޒާހިރު
+74,Male ,Hulhu Male Flat 146 1 02,Najila Ahmed,F,AXXX707,ހުޅުމާލެ ފްލެޓް 20 1 641,ނާޖިލާ އަޙްމަދު
+75,Male ,Hulhu Male Flat 146 1 02,Naja Ahmed Nazeem,F,AXXX441,ހުޅުމާލެ ފްލެޓް 20 1 641,ނަޖާ އަޙްމަދު ނަޒީމް
+76,Male ,Hulhu Male Flat 146 2 01,Abdulla Shameem,M,AXXX594,ހުޅުމާލެ ފްލެޓް 10 2 641,ޢަބްދުﷲ ޝަމީމް
+77,Male ,Hulhu Male Flat 146 2 01,Ibrahim Shaamil Shameem,M,AXXX071,ހުޅުމާލެ ފްލެޓް 10 2 641,އިބްރާހީމް ޝާމިލް ޝަމީމް
+78,Male ,Hulhu Male Flat 146 2 01,Ali Shaimal Shameem,M,AXXX956,ހުޅުމާލެ ފްލެޓް 10 2 641,ޢަލީ ޝައިމަލް ޝަމީމް
+79,Male ,Hulhu Male Flat 147 3 01,Ahmed Moosa,M,AXXX990,ހުޅުމާލެ ފްލެޓް 10 3 741,އަޙްމަދު މޫސާ
+80,Male ,Hulhu Male Flat 147 G 03,Zulfa Abdulla,F,AXXX595,ހުޅުމާލެ ފްލެޓް 30 ޖީ 741,ޒުލްފާ ޢަބްދުﷲ
+81,Male ,Hulhu Male Flat 147 G 03,Akram Zuhair,M,AXXX272,ހުޅުމާލެ ފްލެޓް 30 ޖީ 741,އަކްރަމް ޒުހައިރު
+82,Male ,Hulhu Male Flat 148 1 02,Aishath Hassan,F,AXXX948,ހުޅުމާލެ ފްލެޓް 20 1 841,ޢާއިޝަތު ޙަސަން
+83,Male ,Hulhu Male Flat 148 2 03,Hussain Amir,M,AXXX570,ހުޅުމާލެ ފްލެޓް 30 2 841,ޙުސައިން ޢާމިރު
+84,Male ,Hulhu Male Flat 148 3 02,Adam Hafeez,M,AXXX471,ހުޅުމާލެ ފްލެޓް 20 3 841,އާދަމް ޙަފީޡް
+85,Male ,Hulhu Male Flat 149 1 01,Mohamed Faiz,M,AXXX428,ހުޅުމާލެ ފްލެޓް 10 1 941,މުޙައްމަދު ފާއިޒް
+86,Male ,Hulhu Male Flat 149 1 06,Mohamed Haleem,M,AXXX048,ހުޅުމާލެ ފްލެޓް 60 1 941,މުޙައްމަދު ޙަލީމް
+87,Male ,Hulhu Male Flat 149 1 06,Hussain Yanoof Mohamed,M,AXXX350,ހުޅުމާލެ ފްލެޓް 60 1 941,ޙުސައިން ޔަނޫފް މުޙައްމަދު
+88,Male ,Hulhu Male Flat 149 1 06,Aminath Najaha,F,AXXX449,ހުޅުމާލެ ފްލެޓް 60 1 941,އާމިނަތު ނަޖާޙާ
+89,Male ,Hulhu Male Flat 149 1 06,Aishath Jinan,F,AXXX451,ހުޅުމާލެ ފްލެޓް 60 1 941,ޢާއިޝަތު ޖިނާން
+90,Male ,Hulhu Male Flat 149 2 05,Ibrahim Rameez,M,AXXX044,ހުޅުމާލެ ފްލެޓް 50 2 941,އިބްރާހީމް ރަމީޒް
+91,Male ,Hulhu Male Flat 149 2 05,Iaanath Ibrahim,F,AXXX007,ހުޅުމާލެ ފްލެޓް 50 2 941,އިޢާނަތު އިބްރާހީމް
+92,Male ,Hulhu Male Flat 149 2 05,Eema Ibrahim Rameez,F,AXXX564,ހުޅުމާލެ ފްލެޓް 50 2 941,އީމާ އިބްރާހީމް ރަމީޒް
+93,Male ,Hulhu Male Flat 149 2 05,Aishath Mohamed,F,AXXX582,ހުޅުމާލެ ފްލެޓް 50 2 941,ޢާއިޝަތު މުޙައްމަދު
+94,Male ,Hulhu Male Flat 149 G 03,Samiya Mahir,F,AXXX404,ހުޅުމާލެ ފްލެޓް 30 ޖީ 941,ސާމިޔާ މާހިރު
+95,Male ,Hulhu Male Flat 149 G 04,Aishath Fareesha,F,AXXX129,ހުޅުމާލެ ފްލެޓް 40 ޖީ 941,ޢާއިޝަތު ފަރީޝާ
+96,Male ,Hulhu Male Flat 149 G 05,Nizar Mohamed,M,AXXX133,ހުޅުމާލެ ފްލެޓް 50 ޖީ 941,ނިޒާރު މުޙައްމަދު
+97,Male ,Hulhu Male Flat 150 1 06,Sazla Ahmed,F,AXXX316,ހުޅުމާލެ ފްލެޓް 60 1 051,ސަޒްލާ އަޙްމަދު
+98,Male ,Hulhu Male Flat 150 G 06,Hassan Riyaz,M,AXXX072,ހުޅުމާލެ ފްލެޓް 60 ޖީ 051,ޙަސަން ރިޔާޟް
+99,Male ,Hulhu Male Flat 150 G 06,Naail Riyaz,M,AXXX727,ހުޅުމާލެ ފްލެޓް 60 ޖީ 051,ނާއިލް ރިޔާޟް
+100,Male ,Hulhu Male Flat 151 1 01,Mohamed Gasim,M,AXXX132,ހުޅުމާލެ ފްލެޓް 10 1 151,މުޙައްމަދު ޤާސިމް
+101,Male ,Hulhu Male Flat 151 1 01,AISHATH LAISA MOHAMED,F,AXXX947,ހުޅުމާލެ ފްލެޓް 10 1 151,ޢާއިޝަތު ލައިސާ މުޙައްމަދު
+102,Male ,Hulhu Male Flat 151 1 03,Ali Sulaiman,M,AXXX888,ހުޅުމާލެ ފްލެޓް 30 1 151,ޢަލީ ސުލައިމާން
+103,Male ,Hulhu Male Flat 151 2 01,Sharmeela Idrees,F,AXXX756,ހުޅުމާލެ ފްލެޓް 10 2 151,ޝަރުމީލާ އިދުރީސް
+104,Male ,Hulhu Male Flat 151 G 03,Hussain Shareef Ali,M,AXXX133,ހުޅުމާލެ ފްލެޓް 30 ޖީ 151,ޙުސައިން ޝަރީފް ޢަލީ
+105,Male ,Hulhu Male Flat 151 G 03,Shameema Adam,F,AXXX195,ހުޅުމާލެ ފްލެޓް 30 ޖީ 151,ޝަމީމާ އާދަމް
+106,Male ,Hulhu Male Flat 151 G 03,Arusham Shareef,M,AXXX684,ހުޅުމާލެ ފްލެޓް 30 ޖީ 151,އަރްޝަމް ޝަރީފް
+107,Male ,Hulhu Male Flat 151 G 04,Mohamed Fauzee,M,AXXX336,ހުޅުމާލެ ފްލެޓް 40 ޖީ 151,މުޙައްމަދު ފައުޒީ
+108,Male ,Hulhu Male Flat 151 G 04,Shareefa Adam,F,AXXX470,ހުޅުމާލެ ފްލެޓް 40 ޖީ 151,ޝަރީފާ އާދަމް
+109,Male ,Hulhu Male Flat 151 G 04,Aminath Rafha,F,AXXX438,ހުޅުމާލެ ފްލެޓް 40 ޖީ 151,އާމިނަތު ރަފްހާ
+110,Male ,Hulhu Male Flat 151 G 04,Ahmed Fauzan,M,AXXX766,ހުޅުމާލެ ފްލެޓް 40 ޖީ 151,އަޙްމަދު ފައުޒާން
+111,Male ,Hulhu Male Flat 152 1 03,Husam,M,AXXX556,ހުޅުމާލެ ފްލެޓް 30 1 251,ޙުސާމް
+112,Male ,Hulhu Male Flat 152 2 01,Ali Amir,M,AXXX815,ހުޅުމާލެ ފްލެޓް 10 2 251,ޢަލީ ޢާމިރު
+113,Male ,Hulhu Male Flat 152 2 01,Naureen Amir,F,AXXX703,ހުޅުމާލެ ފްލެޓް 10 2 251,ނައުރީން ޢާމިރު
+114,Male ,Hulhu Male Flat 152 2 01,Shiura Amir,F,AXXX757,ހުޅުމާލެ ފްލެޓް 10 2 251,ޝިޢުރާ ޢާމިރު
+115,Male ,Hulhu Male Flat 152 2 03,Azra Aboobakur,F,AXXX294,ހުޅުމާލެ ފްލެޓް 30 2 251,ޢަޒުރާ އަބޫބަކުރު
+116,Male ,Hulhu Male Flat 152 2 03,Aishath Isra Hussain,F,AXXX214,ހުޅުމާލެ ފްލެޓް 30 2 251,ޢާއިޝަތު އިސްރާ ޙުސައިން
+117,Male ,Hulhu Male Flat 153 3 03,Hawwa Gasim,F,AXXX108,ހުޅުމާލެ ފްލެޓް 30 3 351,ޙައްވާ ޤާސިމް
+118,Male ,Hulhu Male Flat 153 G 03,Umar Mamdooh,M,AXXX632,ހުޅުމާލެ ފްލެޓް 30 ޖީ 351,ޢުމަރު މަމްދޫޙް
+119,Male ,Hulhu Male Flat 154 1 01,Mohamed Amir,M,AXXX400,ހުޅުމާލެ ފްލެޓް 10 1 451,މުޙައްމަދު ޢާމިރު
+120,Male ,Hulhu Male Flat 154 1 01,Fathimath Jinaan,F,AXXX863,ހުޅުމާލެ ފްލެޓް 10 1 451,ފާޠިމަތު ޖިނާން
+121,Male ,Hulhu Male Flat 154 1 01,Hawwa Jumaan,F,AXXX635,ހުޅުމާލެ ފްލެޓް 10 1 451,ޙައްވާ ޖުމާން
+122,Male ,Hulhu Male Flat 154 1 01,Ahmed Juraaz Amir,M,AXXX676,ހުޅުމާލެ ފްލެޓް 10 1 451,އަޙްމަދު ޖުރާޒް ޢާމިރު
+123,Male ,Hulhu Male Flat 154 1 01,Yoosuf Jazaal Amir,M,AXXX753,ހުޅުމާލެ ފްލެޓް 10 1 451,ޔޫސުފް ޖަޒާލް ޢާމިރު
+124,Male ,Hulhu Male Flat 154 2 04,Mohamed Firdaus,M,AXXX148,ހުޅުމާލެ ފްލެޓް 40 2 451,މުޙައްމަދު ފިރުދައުސް
+125,Male ,Hulhu Male Flat 154 2 06,Ahmed Azeel,M,AXXX720,ހުޅުމާލެ ފްލެޓް 60 2 451,އަޙްމަދު ޢަޒީލް
+126,Male ,Hulhu Male Flat 154 2 06,Suhaana Mohamed,F,AXXX564,ހުޅުމާލެ ފްލެޓް 60 2 451,ސުހާނާ މުޙައްމަދު
+127,Male ,Hulhu Male Flat 154 3 02,Aminath Nuha,F,AXXX201,ހުޅުމާލެ ފްލެޓް 20 3 451,އާމިނަތު ނުހާ
+128,Male ,Hulhu Male Flat 154 3 04,Mohamed Luthfy,M,AXXX065,ހުޅުމާލެ ފްލެޓް 40 3 451,މުޙައްމަދު ލުޠުފީ
+129,Male ,Hulhu Male Flat 154 3 04,Fathimath Shirmeen,F,AXXX446,ހުޅުމާލެ ފްލެޓް 40 3 451,ފާޠިމަތު ޝިރްމީން
+130,Male ,Hulhu Male Flat 154 G 02,Zulaikha Abdul Ghanee,F,AXXX348,ހުޅުމާލެ ފްލެޓް 20 ޖީ 451,ޒުލައިޚާ ޢަބްދުލްޣަނީ
+131,Male ,Hulhu Male Flat 155 1 04,Mohamed Rasheed,M,AXXX885,ހުޅުމާލެ ފްލެޓް 40 1 551,މުޙައްމަދު ރަޝީދު
+132,Male ,Hulhu Male Flat 155 1 04,Aishath Maakhath,F,AXXX205,ހުޅުމާލެ ފްލެޓް 40 1 551,ޢާއިޝަތު މާޚަތު
+133,Male ,Hulhu Male Flat 155 1 04,Majudhu Rasheed,M,AXXX610,ހުޅުމާލެ ފްލެޓް 40 1 551,މަޖުދު ރަޝީދު
+134,Male ,Hulhu Male Flat 155 3 01,Ismail Rasheed,M,AXXX555,ހުޅުމާލެ ފްލެޓް 10 3 551,އިސްމާޢީލް ރަޝީދު
+135,Male ,Hulhu Male Flat 155 3 05,Aishath Shakira,F,AXXX097,ހުޅުމާލެ ފްލެޓް 50 3 551,ޢާއިޝަތު ޝާކިރާ
+136,Male ,Hulhu Male Flat 155 G 06,Abdulla Haleem,M,AXXX512,ހުޅުމާލެ ފްލެޓް 60 ޖީ 551,ޢަބްދުﷲ ޙަލީމު
+137,Male ,Hulhu Male Flat 156 1 05,Hassan Musthafa,M,AXXX560,ހުޅުމާލެ ފްލެޓް 50 1 651,ޙަސަން މުޞްޠަފާ
+138,Male ,Hulhu Male Flat 156 1 05,Zulaikha Abdullah,F,AXXX603,ހުޅުމާލެ ފްލެޓް 50 1 651,ޒުލައިޚާ ޢަބްދުﷲ
+139,Male ,Hulhu Male Flat 156 1 05,Maisha Musthafa,F,AXXX994,ހުޅުމާލެ ފްލެޓް 50 1 651,މާއިޝާ މުޞްޠަފާ
+140,Male ,Hulhu Male Flat 156 2 03,Shafeega Mohamed,F,AXXX368,ހުޅުމާލެ ފްލެޓް 30 2 651,ޝަފީޤާ މުޙައްމަދު
+141,Male ,Hulhu Male Flat 156 G 01,Ismail Faiz,M,AXXX520,ހުޅުމާލެ ފްލެޓް 10 ޖީ 651,އިސްމާޢީލް ފާއިޒް
+142,Male ,Hulhu Male Flat 157 1 01,Saniya Ibrahim,F,AXXX297,ހުޅުމާލެ ފްލެޓް 10 1 751,ސާނިޔާ އިބްރާހީމް
+143,Male ,Hulhu Male Flat 158 1 01,Aminath Aliya,F,AXXX538,ހުޅުމާލެ ފްލެޓް 10 1 851,އާމިނަތު ޢާލިޔާ
+144,Male ,Hulhu Male Flat 158 3 04,Mohamed Niyaz,M,AXXX195,ހުޅުމާލެ ފްލެޓް 40 3 851,މުޙައްމަދު ނިޔާޒް
+145,Male ,Hulhu Male Flat 159 2 04,Aminath Leela,F,AXXX478,ހުޅުމާލެ ފްލެޓް 40 2 951,އާމިނަތު ލީލާ
+146,Male ,Hulhu Male Flat 159 3 04,Ali Afaag,M,AXXX071,ހުޅުމާލެ ފްލެޓް 40 3 951,ޢަލީ އާފާޤު
+147,Male ,Hulhu Male Flat 159 3 04,Aisha Suma Afaq,F,AXXX881,ހުޅުމާލެ ފްލެޓް 40 3 951,ޢާއިޝާ ސުމާ އާފާޤު
+148,Male ,Hulhu Male Flat 159 G 03,Asma Moosa,F,AXXX570,ހުޅުމާލެ ފްލެޓް 30 ޖީ 951,އަސްމާ މޫސާ
+149,Male ,Hulhu Male Flat 159 G 03,Aishath Shabaa,F,AXXX143,ހުޅުމާލެ ފްލެޓް 30 ޖީ 951,ޢާއިޝަތު ޝަބާ
+150,Male ,Hulhu Male Flat 159 G 04,Asia Ali Naseer,F,AXXX713,ހުޅުމާލެ ފްލެޓް 40 ޖީ 951,އާސިއާ ޢަލީ ނަޞީރު
+151,Male ,Hulhu Male Flat 159 G 04,Nasif Ibrahim,M,AXXX663,ހުޅުމާލެ ފްލެޓް 40 ޖީ 951,ނާޞިފް އިބްރާހީމް
+152,Male ,Hulhu Male Flat 159 G 04,Nashfa Ibrahim,F,AXXX993,ހުޅުމާލެ ފްލެޓް 40 ޖީ 951,ނަޝްފާ އިބްރާހީމް
+153,Male ,Hulhu Male Flat 160 2 04,Ibrahim Jamal,M,AXXX103,ހުޅުމާލެ ފްލެޓް 40 2 061,އިބްރާހީމް ޖަމާލް
+154,Male ,Hulhu Male Flat 160 2 04,Mariyam Hafeeza,F,AXXX216,ހުޅުމާލެ ފްލެޓް 40 2 061,މަރްޔަމް ޙަފީޡާ
+155,Male ,Hulhu Male Flat 160 2 04,Mohamed Aiham Ibrahim,M,AXXX822,ހުޅުމާލެ ފްލެޓް 40 2 061,މުޙައްމަދު އައިހަމް އިބްރާހީމް
+156,Male ,Hulhu Male Flat 160 3 02,Ali Faiz,M,AXXX585,ހުޅުމާލެ ފްލެޓް 20 3 061,ޢަލީ ފާއިޒް
+157,Male ,Hulhu Male Flat 160 3 02,Aishath Hafeeza,F,AXXX951,ހުޅުމާލެ ފްލެޓް 20 3 061,ޢާއިޝަތު ޙަފީޡާ
+158,Male ,Hulhu Male Flat 160 3 02,Mariyam Shiuna,F,AXXX959,ހުޅުމާލެ ފްލެޓް 20 3 061,މަރްޔަމް ޝިއުނާ
+159,Male ,Hulhu Male Flat 161 2 03,Ahmed Hussain,M,AXXX068,ހުޅުމާލެ ފްލެޓް 30 2 161,އަޙްމަދު ޙުސައިން
+160,Male ,Hulhu Male Flat 161 2 03,Aishath Shaalinee,F,AXXX681,ހުޅުމާލެ ފްލެޓް 30 2 161,ޢާއިޝަތު ޝާލިނީ
+161,Male ,Hulhu Male Flat 161 2 03,Fathimath Shaliya,F,AXXX683,ހުޅުމާލެ ފްލެޓް 30 2 161,ފާޠިމަތު ޝާލިޔާ
+162,Male ,Hulhu Male Flat 161 2 03,Mohamed Shaihaan,M,AXXX239,ހުޅުމާލެ ފްލެޓް 30 2 161,މުޙައްމަދު ޝައިޙާން
+163,Male ,Hulhu Male Flat 161 2 03,Aiminath Shaiba,F,AXXX892,ހުޅުމާލެ ފްލެޓް 30 2 161,އާމިނަތު ޝައިބާ
+164,Male ,Hulhu Male Flat 161 2 03,Mariyam Shaahiya,F,AXXX415,ހުޅުމާލެ ފްލެޓް 30 2 161,މަރްޔަމް ޝާހިޔާ
+165,Male ,Hulhu Male Flat 161 G 02,Abdulla Ibrahim,M,AXXX797,ހުޅުމާލެ ފްލެޓް 20 ޖީ 161,ޢަބްދުﷲ އިބްރާހީމް
+166,Male ,Hulhu Male Flat 161 G 03,Aishath Yumna,F,AXXX102,ހުޅުމާލެ ފްލެޓް 30 ޖީ 161,ޢާއިޝަތު ޔުމްނާ
+167,Male ,Hulhu Male Flat 162 1 01,Aminath Maashaa,F,AXXX775,ހުޅުމާލެ ފްލެޓް 10 1 261,އާމިނަތު މާޝާ
+168,Male ,Hulhu Male Flat 162 1 01,Mohamed Dhaim Ahmed,M,AXXX724,ހުޅުމާލެ ފްލެޓް 10 1 261,މުޙައްމަދު ދާއިމް އަޙްމަދު
+169,Male ,Hulhu Male Flat 162 2 02,Aishath Afeefa Moosa,F,AXXX417,ހުޅުމާލެ ފްލެޓް 20 2 261,ޢާއިޝަތު ޢަފީފާ މޫސާ
+170,Male ,Hulhu Male Flat 162 2 02,Aminath Raaya Ashraf,F,AXXX893,ހުޅުމާލެ ފްލެޓް 20 2 261,އާމިނަތު ރާޔާ އަޝްރަފް
+171,Male ,Hulhu Male Flat 162 2 03,Sanfa Ali Didi,F,AXXX211,ހުޅުމާލެ ފްލެޓް 30 2 261,ސަންފާ ޢަލީދީދީ
+172,Male ,Hulhu Male Flat 162 2 04,Fareeda Yoosuf,F,AXXX602,ހުޅުމާލެ ފްލެޓް 40 2 261,ފަރީދާ ޔޫސުފް
+173,Male ,Hulhu Male Flat 162 3 01,Fathmath Ahmed,F,AXXX395,ހުޅުމާލެ ފްލެޓް 10 3 261,ފާޠިމަތު އަޙްމަދު
+174,Male ,Hulhu Male Flat 162 3 01,Zubana Ali,F,AXXX935,ހުޅުމާލެ ފްލެޓް 10 3 261,ޒުބާނާ ޢަލީ
+175,Male ,Hulhu Male Flat 162 G 04,Abdul Gayoom,M,AXXX538,ހުޅުމާލެ ފްލެޓް 40 ޖީ 261,ޢަބްދުލްޤައްޔޫމް
+176,Male ,Hulhu Male Flat 163 2 02,Khalid Yoosuf,M,AXXX056,ހުޅުމާލެ ފްލެޓް 20 2 361,ޚާލިދު ޔޫސުފް
+177,Male ,Hulhu Male Flat 163 2 04,Mohamed Musthafa Moosa,M,AXXX559,ހުޅުމާލެ ފްލެޓް 40 2 361,މުޙައްމަދު މުޞްޠަފާ މޫސާ
+178,Male ,Hulhu Male Flat 164 2 02,Saeed Adam,M,AXXX447,ހުޅުމާލެ ފްލެޓް 20 2 461,ސަޢީދު އާދަމް
+179,Male ,Hulhu Male Flat 164 2 03,Aminath Shakeeba,F,AXXX944,ހުޅުމާލެ ފްލެޓް 30 2 461,އާމިނަތު ޝަކީބާ
+180,Male ,Hulhu Male Flat 164 3 05,Aminath Shazlee,F,AXXX713,ހުޅުމާލެ ފްލެޓް 50 3 461,އާމިނަތު ޝާޒްލީ
+181,Male ,Hulhu Male Flat 165 1 01,Aishath Saeedha,F,AXXX869,ހުޅުމާލެ ފްލެޓް 10 1 561,ޢާއިޝަތު ސަޢީދާ
+182,Male ,Hulhu Male Flat 166 2 01,Ali Naseer Abdul Gadir,M,AXXX607,ހުޅުމާލެ ފްލެޓް 10 2 661,ޢަލީ ނަޞީރު ޢަބްދުލްޤާދިރު
+183,Male ,Hulhu Male Flat 166 2 02,Ali Shah,M,AXXX182,ހުޅުމާލެ ފްލެޓް 20 2 661,ޢަލީ ޝާހް
+184,Male ,Hulhu Male Flat 167 1 04,Aishath Naaz,F,AXXX299,ހުޅުމާލެ ފްލެޓް 40 1 761,ޢާއިޝަތު ނާޒް
+185,Male ,Hulhu Male Flat 167 2 01,Shadiya Adam,F,AXXX923,ހުޅުމާލެ ފްލެޓް 10 2 761,ޝާދިޔާ އާދަމް
+186,Male ,Hulhu Male Flat 167 3 03,Mohamed Ihsan,M,AXXX358,ހުޅުމާލެ ފްލެޓް 30 3 761,މުޙައްމަދު އިޙްސާން
+187,Male ,Hulhu Male Flat 167 3 03,Lahfa Ihsan,F,AXXX568,ހުޅުމާލެ ފްލެޓް 30 3 761,ލަޙުފާ އިޙްސާން
+188,Male ,Hulhu Male Flat 167 3 03,Shifa Ihsan,F,AXXX703,ހުޅުމާލެ ފްލެޓް 30 3 761,ޝިފާ އިޙްސާން
+189,Male ,Hulhu Male Flat 167 3 03,Shafa Ihsan,F,AXXX705,ހުޅުމާލެ ފްލެޓް 30 3 761,ޝަފާ އިޙްސާން
+190,Male ,Hulhu Male Flat 167 3 03,Shaam Ihsan,M,AXXX910,ހުޅުމާލެ ފްލެޓް 30 3 761,ޝާމް އިޙްސާން
+191,Male ,Hulhu Male Flat 167 3 03,Shaaha Ihsan,F,AXXX913,ހުޅުމާލެ ފްލެޓް 30 3 761,ޝާހާ އިޙުސާން
+192,Male ,Hulhu Male Flat 167 G 01,Mohamed Saeed,M,AXXX861,ހުޅުމާލެ ފްލެޓް 10 ޖީ 761,މުޙައްމަދު ސަޢީދު
+193,Male ,Hulhu Male Flat 167 G 01,Fathimath Saeed,F,AXXX543,ހުޅުމާލެ ފްލެޓް 10 ޖީ 761,ފާޠިމަތު ސަޢީދު
+194,Male ,Hulhu Male Flat 167 G 02,Zulaikha Moosa,F,AXXX950,ހުޅުމާލެ ފްލެޓް 20 ޖީ 761,ޒުލައިޚާ މޫސާ
+195,Male ,Hulhu Male Flat 167 G 04,Ali Faisal,M,AXXX664,ހުޅުމާލެ ފްލެޓް 40 ޖީ 761,ޢަލީ ފައިޞަލް
+196,Male ,Hulhu Male Flat 167 G 04,Mohamed Firas Faisal,M,AXXX165,ހުޅުމާލެ ފްލެޓް 40 ޖީ 761,މުޙައްމަދު ފިރާސް ފައިޞަލް
+197,Male ,Hulhu Male Flat 168 1 04,Fahumiyya Ibrahim,F,AXXX174,ހުޅުމާލެ ފްލެޓް 40 1 861,ފަހުމިއްޔާ އިބްރާހީމް
+198,Male ,Hulhu Male Flat 168 1 04,Mohamed Ibrahim,M,AXXX195,ހުޅުމާލެ ފްލެޓް 40 1 861,މުޙައްމަދު އިބްރާހީމް
+199,Male ,Hulhu Male Flat 168 1 04,Aminath Roona,F,AXXX406,ހުޅުމާލެ ފްލެޓް 40 1 861,އާމިނަތު ރޫނާ
+200,Male ,Hulhu Male Flat 168 1 04,Ibrahim Raamy Rifath,M,AXXX152,ހުޅުމާލެ ފްލެޓް 40 1 861,އިބްރާހީމް ރާމީ ރިފްޢަތު
+201,Male ,Hulhu Male Flat 168 1 04,Fathimath Nazneen,F,AXXX717,ހުޅުމާލެ ފްލެޓް 40 1 861,ފާޠިމަތު ނާޒުނީނު
+202,Male ,Hulhu Male Flat 168 1 04,Yoosuf Raee Rifath,M,AXXX115,ހުޅުމާލެ ފްލެޓް 40 1 861,ޔޫސުފް ރާޢީ ރިފުޢަތު
+203,Male ,Hulhu Male Flat 168 3 04,Mohamed Ali,M,AXXX792,ހުޅުމާލެ ފްލެޓް 40 3 861,މުޙައްމަދު ޢަލީ
+204,Male ,Hulhu Male Flat 168 3 04,Ahmed Yamin,M,AXXX991,ހުޅުމާލެ ފްލެޓް 40 3 861,އަޙްމަދު ޔާމިން
+205,Male ,Hulhu Male Flat 169 1 05,Waseema Abdul Nasir,F,AXXX388,ހުޅުމާލެ ފްލެޓް 50 1 961,ވަސީމާ ޢަބްދުއްނާޞިރު
+206,Male ,Hulhu Male Flat 169 1 05,Ibrahim Rasheed,M,AXXX295,ހުޅުމާލެ ފްލެޓް 50 1 961,އިބްރާހީމް ރަޝީދު
+207,Male ,Hulhu Male Flat 169 1 05,Ahmed Viam,M,AXXX865,ހުޅުމާލެ ފްލެޓް 50 1 961,އަޙްމަދު ވިއާމް
+208,Male ,Hulhu Male Flat 169 1 05,Mohamed Wishah,M,AXXX713,ހުޅުމާލެ ފްލެޓް 50 1 961,މުޙައްމަދު ވިޝާޙު
+209,Male ,Hulhu Male Flat 169 2 03,Hassan Ibadh,M,AXXX688,ހުޅުމާލެ ފްލެޓް 30 2 961,ޙަސަން ޢިބާދު
+210,Male ,Hulhu Male Flat 169 2 06,Mohamed Waheed,M,AXXX557,ހުޅުމާލެ ފްލެޓް 60 2 961,މުޙައްމަދު ވަޙީދު
+211,Male ,Hulhu Male Flat 169 2 06,Aminath Reekhan Waheed,F,AXXX251,ހުޅުމާލެ ފްލެޓް 60 2 961,އާމިނަތު ރީޚާން ވަޙީދު
+212,Male ,Hulhu Male Flat 169 3 03,Bunyameen Fahmee,M,AXXX987,ހުޅުމާލެ ފްލެޓް 30 3 961,ބުންޔާމީން ފަހުމީ
+213,Male ,Hulhu Male Flat 169 G 02,Ahmed Abdullah Didi,M,AXXX250,ހުޅުމާލެ ފްލެޓް 20 ޖީ 961,އަޙްމަދު ޢަބްދުﷲދީދީ
+214,Male ,Hulhu Male Flat 169 G 03,Aishath Mohamed,F,AXXX268,ހުޅުމާލެ ފްލެޓް 30 ޖީ 961,ޢާއިޝަތު މުޙައްމަދު
+215,Male ,Hulhu Male Flat 169 G 03,Mohamed Gasim,M,AXXX458,ހުޅުމާލެ ފްލެޓް 30 ޖީ 961,މުޙައްމަދު ޤާސިމް
+216,Male ,Hulhu Male Flat 169 G 05,Ibunithasiu Musthafa,M,AXXX085,ހުޅުމާލެ ފްލެޓް 50 ޖީ 961,އިބްނިއްތާސިޢު މުޞްޠަފާ
+217,Male ,Hulhu Male Flat 169 G 05,Aminath Ibaanath Ibunithasiu Musthafa,F,AXXX161,ހުޅުމާލެ ފްލެޓް 50 ޖީ 961,އާމިނަތު އިބާނަތު އިބުނިއްތާސިޢު މުޞްޠަފާ
+218,Male ,Hulhu Male Flat 169 G 06,Amliya Mohamed Saeed,F,AXXX202,ހުޅުމާލެ ފްލެޓް 60 ޖީ 961,އަމްލިޔާ މުޙައްމަދު ސަޢީދު
+219,Male ,Hulhu Male Flat 170 1 04,Sabana,F,AXXX589,ހުޅުމާލެ ފްލެޓް 40 1 071,ސަބާނާ
+220,Male ,Hulhu Male Flat 170 1 05,Abdul Muhusin,M,AXXX486,ހުޅުމާލެ ފްލެަޓް 50 1 071,ޢަބްދުލްމުޙުސިން
+221,Male ,Hulhu Male Flat 170 1 05,Aneesa Moosa,F,AXXX999,ހުޅުމާލެ ފްލެަޓް 50 1 071,އަނީސާ މޫސާ
+222,Male ,Hulhu Male Flat 170 2 01,Ibrahim Rasheed,M,AXXX894,ހުޅުމާލެ ފްލެޓް 10 2 071,އިބްރާހީމް ރަޝީދު
+223,Male ,Hulhu Male Flat 170 2 01,Hisham Ibrahim,M,AXXX881,ހުޅުމާލެ ފްލެޓް 10 2 071,ހިޝާމް އިބްރާހީމް
+224,Male ,Hulhu Male Flat 170 2 01,Unaisha Ibrahim,F,AXXX693,ހުޅުމާލެ ފްލެޓް 10 2 071,އުނައިޝާ އިބްރާހީމް
+225,Male ,Hulhu Male Flat 170 G 03,Moosa Azmeel,M,AXXX999,ހުޅުމާލެ ފްލެޓް 30 ޖީ 071,މޫސާ ޢަޒްމީލް
+226,Male ,Hulhu Male Flat 170 G 04,Ali Waheed,M,AXXX342,ހުޅުމާލެ ފްލެޓް 40 ޖީ 071,ޢަލީ ވަޙީދު
+227,Male ,Hulhu Male Flat 170 G 04,Samiyya Abdulla,F,AXXX344,ހުޅުމާލެ ފްލެޓް 40 ޖީ 071,ސަމިއްޔާ ޢަބްދުﷲ
+228,Male ,Hulhu Male Flat 170 G 04,Aminath Zaeema,F,AXXX962,ހުޅުމާލެ ފްލެޓް 40 ޖީ 071,އާމިނަތު ޒަޢީމާ
+229,Male ,Hulhu Male Flat 170 G 04,Hussain Yaanis,M,AXXX073,ހުޅުމާލެ ފްލެޓް 40 ޖީ 071,ޙުސައިން ޔާނިސް
+230,Male ,Hulhu Male Flat 170 G 04,Ibrahim Maaish,M,AXXX075,ހުޅުމާލެ ފްލެޓް 40 ޖީ 071,އިބްރާހީމް މާއިޝް
+231,Male ,Hulhu Male Flat 171 1 01,Ali Zahir,M,AXXX613,ހުޅުމާލެ ފްލެޓް 10 1 171,ޢަލީ ޒާހިިރު
+232,Male ,Hulhu Male Flat 171 1 01,Shazla Mohamed,F,AXXX623,ހުޅުމާލެ ފްލެޓް 10 1 171,ޝާޒްލާ މުޙައްމަދު
+233,Male ,Hulhu Male Flat 171 1 01,Mohamed Joodh Zahir,M,AXXX960,ހުޅުމާލެ ފްލެޓް 10 1 171,މުޙައްމަދު ޖޫދު ޒާހިރު
+234,Male ,Hulhu Male Flat 171 1 01,Saaid Mohamed,M,AXXX708,ހުޅުމާލެ ފްލެޓް 10 1 171,ސާޢިދު މުޙައްމަދު
+235,Male ,Hulhu Male Flat 171 1 01,Fathmath Jana Zahir,F,AXXX573,ހުޅުމާލެ ފްލެޓް 10 1 171,ފާޠިމަތު ޖަނާ ޒާހިރު
+236,Male ,Hulhu Male Flat 171 1 05,Ahmed Ash had,M,AXXX003,ހުޅުމާލެ ފްލެޓް 50 1 171,އަޙްމަދު އަޝްހަދު
+237,Male ,Hulhu Male Flat 171 3 01,Aishath Shahula,F,AXXX874,ހުޅުމާލެ ފްލެޓް 10 3 171,ޢާއިޝަތު ޝަހުލާ
+238,Male ,Hulhu Male Flat 171 3 01,Mohamed Iyash Hassan,M,AXXX468,ހުޅުމާލެ ފްލެޓް 10 3 171,މުޙައްމަދު ޢިޔާޝް ޙަސަން
+239,Male ,Hulhu Male Flat 171 3 05,Azima Mohamed,F,AXXX128,ހުޅުމާލެ ފްލެޓް 50 3 171,ޢާޒިމާ މުޙައްމަދު
+240,Male ,Hulhu Male Flat 172 1 02,Hawwa Hassan,F,AXXX813,ހުޅުމާލެ ފްލެޓް 20 1 271,ޙައްވާ ޙަސަން
+241,Male ,Hulhu Male Flat 172 1 03,Yoosuf Sidgee,M,AXXX175,ހުޅުމާލެ ފްލެޓް 30 1 271,ޔޫސުފް ޞިދުޤީ
+242,Male ,Hulhu Male Flat 172 1 03,Aishath Shaiban,F,AXXX612,ހުޅުމާލެ ފްލެޓް 30 1 271,ޢާއިޝަތު ޝައިބާން
+243,Male ,Hulhu Male Flat 172 1 03,Mohamed Saih,M,AXXX524,ހުޅުމާލެ ފްލެޓް 30 1 271,މުޙައްމަދު ސާއިޙް
+244,Male ,Hulhu Male Flat 172 1 03,Fathimath Shaihan,F,AXXX514,ހުޅުމާލެ ފްލެޓް 30 1 271,ފާޠިމަތު ޝައިހާން
+245,Male ,Hulhu Male Flat 172 1 03,Hawwa Saifaana Sidhgee,F,AXXX212,ހުޅުމާލެ ފްލެޓް 30 1 271,ޙައްވާ ސައިފާނާ ޞިދްޤީ
+246,Male ,Hulhu Male Flat 173 1 01,Shamsiyya Abdul Samad,F,AXXX858,ހުޅުމާލެ ފްލެޓް 10 1 371,ޝަމްސިއްޔާ ޢަބްދުއްޞަމަދު
+247,Male ,Hulhu Male Flat 173 1 05,Hamida Idrees,F,AXXX904,ހުޅުމާލެ ފްލެޓް 50 1 371,ޙާމިދާ އިދުރީސް
+248,Male ,Hulhu Male Flat 173 1 05,Saudulla Ismail,M,AXXX558,ހުޅުމާލެ ފްލެޓް 50 1 371,ސަޢުދުﷲ އިސްމާޢީލް
+249,Male ,Hulhu Male Flat 173 3 02,Ishara Ibrahim,F,AXXX959,ހުޅުމާލެ ފްލެޓް 20 3 371,އިޝާރާ އިބްރާހީމް
+250,Male ,Hulhu Male Flat 173 3 02,Fathimath Zuha Zahir,F,AXXX319,ހުޅުމާލެ ފްލެޓް 20 3 371,ފާޠިމަތު ޒުހާ ޒާހިރު
+251,Male ,Hulhu Male Flat 174 1 02,Mohamed Sodig,M,AXXX548,ހުޅުމާލެ ފްލެޓް 20 1 471,މުޙައްމަދު ޞާދިޤު
+252,Male ,Hulhu Male Flat 174 1 03,Ahmed Aslam,M,AXXX320,ހުޅުމާލެ ފްލެޓް 30 1 471,އަޙްމަދު އަސްލަމް
+253,Male ,Hulhu Male Flat 174 1 06,Abdulla Jihad,M,AXXX434,ހުޅުމާލެ ފްލެޓް 60 1 471,ޢަބްދުﷲ ޖިހާދު
+254,Male ,Hulhu Male Flat 174 1 06,Aminath Sharumeela,F,AXXX884,ހުޅުމާލެ ފްލެޓް 60 1 471,އާމިނަތު ޝަރުމީލާ
+255,Male ,Hulhu Male Flat 174 G 02,Ahmed Shahid,M,AXXX824,ހުޅުމާލެ ފްލެޓް 20 ޖީ 471,އަޙްމަދު ޝާހިދު
+256,Male ,Hulhu Male Flat 174 G 02,Fathimath Mohamed,F,AXXX744,ހުޅުމާލެ ފްލެޓް 20 ޖީ 471,ފާޠިމަތު މުޙައްމަދު
+257,Male ,Hulhu Male Flat 175 1 02,Abdulla Ashraf,M,AXXX476,ހުޅުމާލެ ފްލެޓް 20 1 571,ޢަބްދުﷲ އަޝްރަފް
+258,Male ,Hulhu Male Flat 175 G 02,Ahmed Ziyad,M,AXXX467,ހުޅުމާލެ ފްލެޓް 20 ޖީ 571,އަޙްމަދު ޒިޔާދު
+259,Male ,Hulhu Male Flat 175 G 02,Murshidha Abdul Rasheed,F,AXXX550,ހުޅުމާލެ ފްލެޓް 20 ޖީ 571,މުރުޝިދާ ޢަބްދުއްރަޝީދު
+260,Male ,Hulhu Male Flat 175 G 02,Mohamed Ahzam Ziyad,M,AXXX097,ހުޅުމާލެ ފްލެޓް 20 ޖީ 571,މުޙައްމަދު އަޙުޒަމް ޒިޔާދު
+261,Male ,Hulhu Male Flat 19 G 01,Hussain Didi,M,AXXX980,ހުޅުމާލެ ފްލެޓް 10 ޖީ 91,ޙުސައިން ދީދީ
+262,Male ,Hulhu Male Flat 20 3 08,Habeeba Mohamed,F,AXXX948,ހުޅުމާލެ ފްލެޓް 80 3 02,ޙަބީބާ މުޙައްމަދު
+263,Male ,Hulhu Male Flat 32 1 03,Ali Rasheed,M,AXXX006,ހުޅުމާލެ ފްލެޓް 30 1 23,ޢަލީ ރަޝީދު
+264,Male ,Hulhu Male Flat 53 G 01,Fazna Moosa,F,AXXX085,ހުޅުމާލެ ފްލެޓް 35 ޖީ 10,ފަޒުނާ މޫސާ
+265,Male ,Hulhu Male Flat 53 G 01,Ali Asif,M,AXXX872,ހުޅުމާލެ ފްލެޓް 35 ޖީ 10,ޢަލީ އާސިފް
+266,Male ,Hulhu Male Flat 62 G 01,Zakariyya Hussain,M,AXXX582,ހުޅުމާލެ ހުޅުމާލެ ފްލެޓް 10 ޖީ 26,ޒަކަރިއްޔާ ޙުސައިން
+267,Male ,Hulhu Male Flat 62 G 01,Hussain Samah,M,AXXX479,ހުޅުމާލެ ހުޅުމާލެ ފްލެޓް 10 ޖީ 26,ޙުސައިން ސަމާޙް
+268,Male ,Hulhu Male Flat 62 G 01,Aminath Irene Zakariyya,F,AXXX094,ހުޅުމާލެ ހުޅުމާލެ ފްލެޓް 10 ޖީ 26,އާމިނަތު އައިރީން ޒަކަރިއްޔާ
+269,Male ,Hulhu Male Flat 62 G 01,Ahmed Awshan Zakariyya,M,AXXX289,ހުޅުމާލެ ހުޅުމާލެ ފްލެޓް 10 ޖީ 26,އަޙްމަދު އަވްޝަން ޒަކަރިއްޔާ
+270,Male ,Hulhu Male Flat 6 3 05,Aminath Hameeda,F,AXXX685,ހުޅުމާލެ ފްލެޓް 50 3 6,އާމިނަތު ޙަމީދާ
+271,Male ,Hulhu Male Flat 63 1 03,Mohamed Muaz,M,AXXX412,ހުޅުމާލެ ފްލެޓް 30 1 36,މުޙައްމަދު މުޢާޛު
+272,Male ,Hulhu Male Flat 63 3 07,Fathmath Nahula,F,AXXX817,ހުޅުމާލެ ފްލެޓް 70 3 36,ފާޠިމަތު ނަޙުލާ
+273,Male ,Hulhu Male Flat 63 G 01,Shaheela Mohamed,F,AXXX962,ހުޅުމާލެ ފްލެޓް 10 ޖީ 36,ޝަހީލާ މުޙައްމަދު
+274,Male ,Hulhu Male Flat 63 G 01,Ahmed Sharaah,M,AXXX461,ހުޅުމާލެ ފްލެޓް 10 ޖީ 36,އަޙްމަދު ޝަރާޙު
+275,Male ,Hulhu Male Flat 65 1 03,Shahzad,M,AXXX318,ހުޅުމާލެ ފްލެޓް 30 1 56,ޝާހުޒާދު
+276,Male ,Hulhu Male Flat 65 1 03,Fathimath Neelam,F,AXXX697,ހުޅުމާލެ ފްލެޓް 30 1 56,ފާޠިމަތު ނީލަމް
+277,Male ,Hulhu Male Flat 67 1 03,Abdulla Ibrahim,M,AXXX773,ހުޅުމާލެ ފްލެޓް 30 1 76,ޢަބްދުﷲ އިބްރާހީމް
+278,Male ,Hulhu Male Flat 67 G 01,Afeefa Ismail,F,AXXX895,ހުޅުމާލެ ފްލެޓް 10 ޖީ 76,ޢަފީފާ އިސްމާޢީލް
+279,Male ,Hulhu Male Flat 67 G 02,Dawood Mahmood,M,AXXX796,ހުޅުމާލެ ފްލެޓް 20 ޖީ 76,ދާއޫދު މަޙްމޫދު
+280,Male ,Hulhu Male Flat 67 G 02,Waseema Hussain,F,AXXX798,ހުޅުމާލެ ފްލެޓް 20 ޖީ 76,ވަސީމާ ޙުސައިން
+281,Male ,Hulhu Male Flat 67 G 02,Aminath Rashida,F,AXXX641,ހުޅުމާލެ ފްލެޓް 20 ޖީ 76,އާމިނަތު ރާޝިދާ
+282,Male ,Hulhu Male Flat 67 G 02,AHMED LAYAAN,M,AXXX996,ހުޅުމާލެ ފްލެޓް 20 ޖީ 76,އަޙްމަދު ލަޔާން
+283,Male ,Hulhu Male Flat 67 G 02,HAWWA REESHA,F,AXXX999,ހުޅުމާލެ ފްލެޓް 20 ޖީ 76,ޙައްވާ ރީޝާ
+284,Male ,Hulhu Male Flat 67 G 02,Aishath Reema,F,AXXX001,ހުޅުމާލެ ފްލެޓް 20 ޖީ 76,ޢާއިޝަތު ރީމާ
+285,Male ,Hulhu Male Flat 69 1 03,Abdul Rasheed,M,AXXX577,ހުޅުމާލެ ފްލެޓް 30 1 96,ޢަބްދުއްރަޝީދު
+286,Male ,Hulhu Male Flat 69 G 01,Mohamed Rasheed Moosa,M,AXXX861,ހުޅުމާލެ ފްލެޓް 10 ޖީ 96,މުޙައްމަދު ރަޝީދު މޫސާ
+287,Male ,Hulhu Male Flat 69 G 01,Yaish Rasheed Moosa,F,AXXX053,ހުޅުމާލެ ފްލެޓް 10 ޖީ 96,ޔައިޝް ރަޝީދު މޫސާ
+288,Male ,Hulhu Male Flat 70 1 03,Hassan Ibrahim Manik,M,AXXX161,ހުޅުމާލެ ފްލެޓް 30 1 07,ޙަސަން އިބްރާހީމްމަނިކު
+289,Male ,Hulhu Male Flat 71 3 08,Aminath Gasim,F,AXXX301,ހުޅުމާލެ ފްލެޓް 80 3 17,އާމިނަތު ޤާސިމް
+290,Male ,Hulhu Male Flat 72 2 06,Mohamed Shahin,M,AXXX662,ހުޅުމާލެ ފްލެޓް 60 2 27,މުޙައްމަދު ޝާހިން
+291,Male ,Hulhu Male Flat 80 2 06,Hussain Hassan,M,AXXX114,ހުޅުމާލެ ފްލެޓް 60 2 08,ޙުސައިން ޙަސަން
+292,Male ,Hulhu Male Flat 80 3 08,Ali Ibrahim,M,AXXX144,ހުޅުމާލެ ފްލެޓް 80 3 08,ޢަލީ އިބްރާހީމް
+293,Male ,Hulhu Male Flat 80 G 01,Mohamed Naseem,M,AXXX507,ހުޅުމާލެ ފްލެޓް 10 ޖީ 08,މުޙައްމަދު ނަސީމް
+294,Male ,Hulhu Male Flat 82 1 03,Mohamed Abdul Rahman,M,AXXX234,ހުޅުމާލެ ފްލެޓް 30 1 28,މުޙައްމަދު ޢަބްދުއްރަޙްމާނު
+295,Male ,Hulhu Male Flat 84 3 04,Asiya Ibrahim,F,AXXX926,ހުޅުމާލެ ފްލެޓް 40 3 48,އާސިޔާ އިބްރާހީމް
+296,Male ,Hulhu Male Flat 84 G 02,Sakeena Ali,F,AXXX570,ހުޅުމާލެ ފްލެޓް 20 ޖީ 48,ސަކީނާ ޢަލީ
+297,Male ,Hulhu Male Flat C1 2 D,Ali Luthfee,M,AXXX890,ހުޅުމާލެ ފްލެޓް ޑީ 2 1ސީ,ޢަލީ ލުޠުފީ
+298,Male ,Hulhu Male Flat C2 2 A,Abdullah Ali,M,AXXX064,ހުޅުމާލެ ފްލެޓް އޭ 2 2ސީ,ޢަބްދުﷲ ޢަލީ
+299,Male ,Hulhu Male Flat C2 3 B,Firag Ahmed,M,AXXX386,ހުޅުމާލެ ފްލެޓް ބީ 3 2ސީ,ފިރާޤު އަޙްމަދު
+300,Male ,Hulhu Male Flat C5 4 D,Giyas Haneef,M,AXXX701,ހުޅުމާލެ ފްލެޓް ސީ5 4ޑީ,ޤިޔާސް ޙަނީފް
+301,Male ,Hulhu Male Flat C5 4 D,Hawwa Ahmed Didi,F,AXXX352,ހުޅުމާލެ ފްލެޓް ސީ5 4ޑީ,ޙައްވާ އަޙްމަދުދީދީ
+302,Male ,Hulhu Male Flat C7 2 A,Ahmed Firaq,M,AXXX893,ހުޅުމާލެ ފްލެޓް އޭ 2 7ސީ,އަޙްމަދު ފިރާޤް
+303,Male ,Hulhu Male Flat C7 2 A,Shadiya Rasheed,F,AXXX015,ހުޅުމާލެ ފްލެޓް އޭ 2 7ސީ,ޝާދިޔާ ރަޝީދު
+304,Male ,Hulhu Male Flat C7 2 A,Zaha Firaq,F,AXXX978,ހުޅުމާލެ ފްލެޓް އޭ 2 7ސީ,ޒަހާ ފިރާޤު
+305,Male ,Hulhu Male Flat C7 4 B,Mohamed Ramzee,M,AXXX306,ހުޅުމާލެ ފްލެޓް ބީ 4 7ސީ,މުޙައްމަދު ރަމްޒީ
+306,Male ,Hulhu Male Flat C7 GF B,Mohamed Ali,M,AXXX864,ހުޅުމާލެ ފްލެޓް ސީ7 ޖީއެފް ބީ,މުޙައްމަދު ޢަލީ
+307,Male ,Hulhu Male Flat C7 GF B,Ilhama Mohamed,F,AXXX392,ހުޅުމާލެ ފްލެޓް ސީ7 ޖީއެފް ބީ,އިލްހާމާ މުޙައްމަދު
+308,Male ,Hulhu Male Flat C7 GF B,Hassan Nooh Mohamed,M,AXXX358,ހުޅުމާލެ ފްލެޓް ސީ7 ޖީއެފް ބީ,ޙަސަން ނޫޙް މުޙައްމަދު
+309,Male ,Hulhu Male Flat C8 3 A,Amsooda Hussain,F,AXXX483,ހުޅުމާލެ ފްލެޓް ސީ8 3 އޭ,އަމްސޫދާ ޙުސައިން
+310,Male ,Hulhu Male Flat C8 3 A,Ali Mohamed,M,AXXX533,ހުޅުމާލެ ފްލެޓް ސީ8 3 އޭ,ޢަލީ މުޙައްމަދު
+311,Male ,Hulhu Male Flat C8 3 A,Aishath Milna Ali,F,AXXX825,ހުޅުމާލެ ފްލެޓް ސީ8 3 އޭ,ޢާއިޝަތު މިލްނާ ޢަލީ
+312,Male ,Hulhu Male Flat C8 3 A,MOHAMED MANAL ALI,M,AXXX023,ހުޅުމާލެ ފްލެޓް ސީ8 3 އޭ,މުޙައްމަދު މަނާލު ޢަލީ
+313,Male ,Hulhu Male Flat C9 2 B,Ahmed Nafeez,M,AXXX070,ހުޅުމާލެ ފްލެޓް ބީ 2 9ސީ,އަޙްމަދު ނަފީޒް
+314,Male ,Hulhu Male Flat C9 2 B,Nadeem Yoosuf,M,AXXX579,ހުޅުމާލެ ފްލެޓް ބީ 2 9ސީ,ނަދީމް ޔޫސުފް
+315,Male ,Hulhu Male Flat C9 3 A,Ameena Abdul Rahman,F,AXXX242,ހުޅުމާލެ ފްލެޓް އޭ 3 9ސީ,އަމީނާ ޢަބްދުއްރަޙްމާނު
+316,Male ,Hulhu Male Flat C9 3 A,Abdulla Nafiz,M,AXXX435,ހުޅުމާލެ ފްލެޓް އޭ 3 9ސީ,ޢަބްދުﷲ ނާފިޒް
+317,Male ,Hulhu Male Flat C9 3 A,Dhimsa Saleem,F,AXXX855,ހުޅުމާލެ ފްލެޓް އޭ 3 9ސީ,ދިމްޘާ ސަލީމް
+318,Male ,Hulhu Male Flat C9 3 C,Ahmed Imran Khalid,M,AXXX094,ހުޅުމާލެ ފްލެޓް ސީ 3 9ސީ,އަޙްމަދު ޢިމްރާން ޚާލިދު
+319,Male ,Hulhu Male Flat C9 4 D,Mohamed Niyaz Moosa,M,AXXX783,ހުޅުމާލެ ފްލެޓް ސީ9 4 ޑީ,މުޙައްމަދު ނިޔާޒު މޫސާ
+320,Male ,Hulhu Male Flat C9 4 D,Zulaikha Ibrahim,F,AXXX017,ހުޅުމާލެ ފްލެޓް ސީ9 4 ޑީ,ޒުލައިޚާ އިބްރާހީމް
+321,Male ,Hulhu Male Flat No 03 01 Rain View ,Hawwa Yoosuf,F,AXXX341,ހުޅުމާލެ ފްލެޓްނަންބަރު 10 30 ރެއިންވިއު,ޙައްވާ ޔޫސުފް
+322,Male ,Hulhu Male Flat No 03 01 Rain View ,Aishath Soodha,F,AXXX618,ހުޅުމާލެ ފްލެޓްނަންބަރު 10 30 ރެއިންވިއު,ޢާއިޝަތު ސޫދާ
+323,Male ,Hulhu Male Flat No 119 1 02,Hussain Shareef,M,AXXX175,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 1 911,ޙުސައިން ޝަރީފު
+324,Male ,Hulhu Male Flat No 119 1 02,Hassan Shareef,M,AXXX074,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 1 911,ޙަސަން ޝަރީފް
+325,Male ,Hulhu Male Flat No 121 1 02,Saniya Mohamed,F,AXXX261,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 1 121,ސާނިޔާ މުޙައްމަދު
+326,Male ,Hulhu Male Flat No 121 1 03,AHMED IBRAHIM SARMAD,M,AXXX768,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 1 121,އަޙްމަދު އިބްރާހީމް ސަރުމަދު
+327,Male ,Hulhu Male Flat No 121 2 05,Ali Najeeb,M,AXXX091,ހުޅުމާލެ ފްލެޓްނަންބަރު 50 2 121,ޢަލީ ނަޖީބު
+328,Male ,Hulhu Male Flat No 121 3 02,Mohamed Rasheed,M,AXXX816,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 3 121,މުޙައްމަދު ރަޝީދު
+329,Male ,Hulhu Male Flat No 121 3 05,Mareena Mohamed,F,AXXX440,ހުޅުމާލެ ފްލެޓްނަންބަރު 50 3 121,މަރީނާ މުޙައްމަދު
+330,Male ,Hulhu Male Flat No 121 3 05,Mohamed Inaz,M,AXXX319,ހުޅުމާލެ ފްލެޓްނަންބަރު 50 3 121,މުޙައްމަދު އިނާޒް
+331,Male ,Hulhu Male Flat No 121 3 05,Fathimath Eanaa Rasheed,F,AXXX336,ހުޅުމާލެ ފްލެޓްނަންބަރު 50 3 121,ފާޠިމަތު ޢީނާ ރަޝީދު
+332,Male ,Hulhu Male Flat No 121 3 05,Mariyam Sazlee,F,AXXX151,ހުޅުމާލެ ފްލެޓްނަންބަރު 50 3 121,މަރްޔަމް ސާޒްލީ
+333,Male ,Hulhu Male Flat No 121 3 05,Ahmed Nabeel,M,AXXX113,ހުޅުމާލެ ފްލެޓްނަންބަރު 50 3 121,އަޙްމަދު ނަބީލް
+334,Male ,Hulhu Male Flat No 121 G 04,Ahmed Shakeel,M,AXXX323,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 ޖީ 121,އަޙްމަދު ޝަކީލް
+335,Male ,Hulhu Male Flat No 121 G 04,Abdulla Nashith Shakeel,M,AXXX141,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 ޖީ 121,ޢަބްދުﷲ ނާޝިޠު ޝަކީލް
+336,Male ,Hulhu Male Flat No 121 G 04,Nazeema Hassan,F,AXXX222,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 ޖީ 121,ނަޡީމާ ޙަސަން
+337,Male ,Hulhu Male Flat No 121 G 04,Mariyam Nikhaath Shakeel,F,AXXX737,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 ޖީ 121,މަރްޔަމް ނިޚާޠު ޝަކީލް
+338,Male ,Hulhu Male Flat No 121 G 04,Fathimath Nashaath Shakeel,F,AXXX159,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 ޖީ 121,ފާޠިމަތު ނަޝާޠު ޝަކީލް
+339,Male ,Hulhu Male Flat No 121 G 04,Mohamed Nasheeth Shakeel,M,AXXX161,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 ޖީ 121,މުޙައްމަދު ނަޝީޠު ޝަކީލް
+340,Male ,Hulhu Male Flat No 121 G 06,Hawwa Rasheeda,F,AXXX852,ހުޅުމާލެ ފްލެޓްނަންބަރު 60 ޖީ 121,ޙައްވާ ރަޝީދާ
+341,Male ,Hulhu Male Flat No 121 G 06,Ibrahim Rishvan,M,AXXX536,ހުޅުމާލެ ފްލެޓްނަންބަރު 60 ޖީ 121,އިބްރާހީމް ރިޝްވާން
+342,Male ,Hulhu Male Flat No 121 G 06,Azina Abdul Matheen,F,AXXX099,ހުޅުމާލެ ފްލެޓްނަންބަރު 60 ޖީ 121,އާޒިނާ ޢަބްދުލްމަތީނު
+343,Male ,Hulhu Male Flat No 121 G 06,Asghar Abdul Matheen,M,AXXX517,ހުޅުމާލެ ފްލެޓްނަންބަރު 60 ޖީ 121,އަޞްޣަރު ޢަބްދުލްމަތީން
+344,Male ,Hulhu Male Flat No 122 2 01,Ahmed Ibrahim,M,AXXX717,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 2 221,އަޙްމަދު އިބްރާހީމް
+345,Male ,Hulhu Male Flat No 122 2 01,Azzam Ahmed,M,AXXX853,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 2 221,ޢައްޒާމް އަޙްމަދު
+346,Male ,Hulhu Male Flat No 122 2 01,Lamha Ahmed,F,AXXX515,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 2 221,ލަމްހާ އަޙްމަދު
+347,Male ,Hulhu Male Flat No 122 2 01,Lahufa Ahmed,F,AXXX516,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 2 221,ލަޙުފާ އަޙްމަދު
+348,Male ,Hulhu Male Flat No 122 2 03,Ahmed Shakir,M,AXXX065,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 2 221,އަޙްމަދު ޝާކިރު
+349,Male ,Hulhu Male Flat No 122 2 03,Mohamed Vidad,M,AXXX648,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 2 221,މުޙައްމަދު ވިދާދު
+350,Male ,Hulhu Male Flat No 122 3 04,Mohamed Rasheed,M,AXXX709,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 3 221,މުޙައްމަދު ރަޝީދު
+351,Male ,Hulhu Male Flat No 122 G 03,Ahmed Ibrahim,M,AXXX189,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 ޖީ 221,އަޙްމަދު އިބްރާހީމް
+352,Male ,Hulhu Male Flat No 122 G 03,Mohamed Azeez,M,AXXX283,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 ޖީ 221,މުޙައްމަދު ޢަޒީޒް
+353,Male ,Hulhu Male Flat No 122 G 03,Ibrahim Inaaz,M,AXXX286,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 ޖީ 221,އިބްރާހީމް އިނާޒު
+354,Male ,Hulhu Male Flat No 122 G 03,Hussain Bassaam,M,AXXX287,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 ޖީ 221,ޙުސައިން ބައްސާމް
+355,Male ,Hulhu Male Flat No 122 G 03,Azeeza Abdul Gadir,F,AXXX317,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 ޖީ 221,ޢަޒީޒާ ޢަބްދުލްޤާދިރު
+356,Male ,Hulhu Male Flat No 123 1 01,Hassan Mayaas Mohamed,M,AXXX568,ހުޅުމާލެ ފްލެޓްނަންބަރު 10 1 321,ޙަސަން މަޔާސް މުޙައްމަދު
+357,Male ,Hulhu Male Flat No 123 1 01,Hussain Maeesh Mohamed,M,AXXX572,ހުޅުމާލެ ފްލެޓްނަންބަރު 10 1 321,ޙުސައިން މަޢީޝް މުޙައްމަދު
+358,Male ,Hulhu Male Flat No 123 1 02,Khadeeja Moosa,F,AXXX203,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 1 321,ޚަދީޖާ މޫސާ
+359,Male ,Hulhu Male Flat No 123 1 04,Azeeza Hussain,F,AXXX518,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 321,ޢަޒީޒާ ޙުސައިން
+360,Male ,Hulhu Male Flat No 123 1 04,Azim Mohamed,M,AXXX556,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 321,ޢާޡިމް މުޙައްމަދު
+361,Male ,Hulhu Male Flat No 123 1 04,Mohamed Anees,M,AXXX761,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 321,މުޙައްމަދު އަނީސް
+362,Male ,Hulhu Male Flat No 123 1 06,Moosa Fathy,M,AXXX318,ހުޅުމާލެ ފްލެޓްނަންބަރު 60 1 321,މޫސާ ފަތުޙީ
+363,Male ,Hulhu Male Flat No 123 2 05,Rifga Rasheed,F,AXXX414,ހުޅުމާލެ ފްލެޓްނަންބަރު 50 2 321,ރިފްޤާ ރަޝީދު
+364,Male ,Hulhu Male Flat No 123 2 05,RISHFAAN RASHEED,M,AXXX864,ހުޅުމާލެ ފްލެޓްނަންބަރު 50 2 321,ރިޝްފާން ރަޝީދު
+365,Male ,Hulhu Male Flat No 123 2 05,Raidh Rasheed,M,AXXX870,ހުޅުމާލެ ފްލެޓްނަންބަރު 50 2 321,ރާއިދު ރަޝީދު
+366,Male ,Hulhu Male Flat No 123 2 06,Hassan Saeed,M,AXXX467,ހުޅުމާލެ ފްެލެޓްނަންބަރު 60 2 321,ޙަސަން ސަޢީދު
+367,Male ,Hulhu Male Flat No 123 3 03,Adnan Ali,M,AXXX088,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 3 321,ޢަދުނާނު ޢަލީ
+368,Male ,Hulhu Male Flat No 123 3 05,Hussain Zaheen,M,AXXX012,ހުޅުމާލެ ފްލެޓް ނަންބަރު 50 3 321,ޙުސައިން ޒަހީން
+369,Male ,Hulhu Male Flat No 123 3 05,Aishath Maureen,F,AXXX141,ހުޅުމާލެ ފްލެޓް ނަންބަރު 50 3 321,ޢާއިޝަތު މައުރީން
+370,Male ,Hulhu Male Flat No 123 G 04,Saudulla Ali Shakir,M,AXXX746,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 ޖީ 321,ސަޢުދުﷲ ޢަލީ ޝާކިރު
+371,Male ,Hulhu Male Flat No 123 G 05,Arifa Umaru,F,AXXX024,ހުޅުމާލެ ފްލެޓް ނަންބަރ 50 ޖީ 321,ޢާރިފާ ޢުމަރު
+372,Male ,Hulhu Male Flat No 123 G 05,Mariyam Shehenaz,F,AXXX327,ހުޅުމާލެ ފްލެޓް ނަންބަރ 50 ޖީ 321,މަރްޔަމް ޝެހެނާޒް
+373,Male ,Hulhu Male Flat No 123 G 05,Hassan Simal,M,AXXX415,ހުޅުމާލެ ފްލެޓް ނަންބަރ 50 ޖީ 321,ހަސަން ސިމާލް
+374,Male ,Hulhu Male Flat No 123 G 05,Ibrahim Safvan,M,AXXX385,ހުޅުމާލެ ފްލެޓް ނަންބަރ 50 ޖީ 321,އިބްރާހީމް ޞަފުވާނު
+375,Male ,Hulhu Male Flat No 123 G 05,Abdulla Safraz,M,AXXX386,ހުޅުމާލެ ފްލެޓް ނަންބަރ 50 ޖީ 321,ޢަބްދުﷲ ސަފްރާޒް
+376,Male ,Hulhu Male Flat No 123 G 05,Ismail Sivan,M,AXXX092,ހުޅުމާލެ ފްލެޓް ނަންބަރ 50 ޖީ 321,އިސްމާޢީލް ސިވާން
+377,Male ,Hulhu Male Flat No 139 1 04,Aminath Rifa,F,AXXX875,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 1 931,އާމިނަތު ރިފާ
+378,Male ,Hulhu Male Flat No 140 2 06,Sama Fahmy,F,AXXX829,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 041,ސަމާ ފަހުމީ
+379,Male ,Hulhu Male Flat no 143 1 04,Laila,F,AXXX106,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 1 341,ލައިލާ
+380,Male ,Hulhu Male Flat no 143 1 04,Aiham Fayaz,M,AXXX237,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 1 341,އައިހަމް ފަޔާޟު
+381,Male ,Hulhu Male Flat No 143 2 02,Razzan Jaufar,M,AXXX210,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 2 341,ރައްޒާނު ޖަޢުފަރު
+382,Male ,Hulhu Male Flat No 143 2 02,Aminath Fariha Jaufar,F,AXXX211,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 2 341,އާމިނަތު ފާރިޙާ ޖަޢުފަރު
+383,Male ,Hulhu Male Flat No 145 G 02,Mohamed Adam,M,AXXX084,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 541,މުޙައްމަދު އާދަމް
+384,Male ,Hulhu Male Flat No 147 G 02,Moosa Aboobakur,M,AXXX556,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 741,މޫސާ އަބޫބަކުރު
+385,Male ,Hulhu Male Flat No 147 G 02,Mareena Mohamed,F,AXXX636,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 741,މަރީނާ މުޙައްމަދު
+386,Male ,Hulhu Male Flat No 150 1 04,Reena Umar,F,AXXX871,ހުޅުމާލެ ފްލެޓް ނަންބަރު 051 1 40,ރީނާ ޢުމަރު
+387,Male ,Hulhu Male Flat No 150 2 04,Hafsa Ismail,F,AXXX971,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 2 051,ޙަފްޞާ އިސްމާޢީލް
+388,Male ,Hulhu Male Flat No 150 2 04,Ahmed Shaheed,M,AXXX976,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 2 051,އަޙްމަދު ޝަހީދު
+389,Male ,Hulhu Male Flat No 151 3 02,Ali Mahir,M,AXXX507,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 3 151,ޢަލީ މާހިރު
+390,Male ,Hulhu Male Flat No 151 3 02,Maha Mahir,F,AXXX666,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 3 151,މާހާ މާހިރު
+391,Male ,Hulhu Male Flat No 152 3 01,Ali Riza,M,AXXX733,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 3 251,ޢަލީ ރިޟާ
+392,Male ,Hulhu Male Flat No 152 3 02,Ahmed Azim Nazeer,M,AXXX002,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 3 251,އަޙްމަދު ޢާޒިމް ނަޒީރު
+393,Male ,Hulhu Male Flat No 152 3 02,Aishath Anaa Azim,F,AXXX201,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 3 251,ޢާއިޝަތު އަނާ ޢާޒިމް
+394,Male ,Hulhu Male Flat No 152 3 02,Maryam Aani Azim,F,AXXX689,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 3 251,މަރްޔަމް އާނީ ޢާޒިމް
+395,Male ,Hulhu Male Flat No 152 3 02,Ibrahim Athshan Azim,M,AXXX690,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 3 251,އިބްރާހީމް ޢަޠްޝާން ޢާޒިމް
+396,Male ,Hulhu Male Flat No 155 2 06,Mashitha Abdulla,F,AXXX848,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 551,މާޝިޠާ ޢަބްދުﷲ
+397,Male ,Hulhu Male Flat No 155 G 03,Aminath Waheeda,F,AXXX685,ހުޅުމާލެ ފްލެޓް ނަންބަރު 30 ޖީ 551,އާމިނަތު ވަޙީދާ
+398,Male ,Hulhu Male Flat No 156 1 02,Ahmed Abdul Rahman,M,AXXX877,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 1 651,އަޙްމަދު ޢަބްދުއްރަޙްމާން
+399,Male ,Hulhu Male Flat No 156 1 02,Hawwa Yaugoob,F,AXXX775,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 1 651,ޙައްވާ ޔަޢުޤޫބު
+400,Male ,Hulhu Male Flat No 156 1 02,Mohamed Aseel,M,AXXX578,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 1 651,މުޙައްމަދު އަޞީލް
+401,Male ,Hulhu Male Flat No 156 1 02,Ibrahim Afzal Ahmed,M,AXXX450,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 1 651,އިބްރާހީމް އަފްޟަލް އަޙްމަދު
+402,Male ,Hulhu Male Flat No 156 3 04,Abdulla Mohamed,M,AXXX942,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 3 651,ޢަބްދުﷲ މުޙައްމަދު
+403,Male ,Hulhu Male Flat No 157 2 04,Usman Mohamed,M,AXXX502,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 2 751,ޢުޘްމާން މުޙައްމަދު
+404,Male ,Hulhu Male Flat No 158 G 04,Aishath Zahura,F,AXXX134,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 ޖީ 851,ޢާއިޝަތު ޒަހުރާ
+405,Male ,Hulhu Male Flat No 158 G 04,Aifa Wajeeh,F,AXXX999,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 ޖީ 851,އައިފާ ވަޖީހު
+406,Male ,Hulhu Male Flat No 159 G 01,Aishath Nashydha,F,AXXX316,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 951,ޢާއިޝަތު ނަޝީދާ
+407,Male ,Hulhu Male Flat No 159 G 01,Aishath Ahmed,F,AXXX284,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 951,ޢާއިޝަތު އަޙްމަދު
+408,Male ,Hulhu Male Flat No 159 G 01,Mariyam Rasheedha,F,AXXX916,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 951,މަރްޔަމް ރަޝީދާ
+409,Male ,Hulhu Male Flat No 159 G 01,Fathimath Nasha,F,AXXX506,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 951,ފާޠިމަތު ނަޝާ
+410,Male ,Hulhu Male Flat No 160 2 02,Afeefa Ahmed,F,AXXX064,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 2 061,ޢަފީފާ އަޙްމަދު
+411,Male ,Hulhu Male Flat No 160 2 02,Hassan Sabah,M,AXXX524,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 2 061,ޙަސަން ޞަބާޙް
+412,Male ,Hulhu Male Flat No 160 2 02,Mohamed Saahil Sabah,M,AXXX612,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 2 061,މުޙައްމަދު ސާޙިލް ޞަބާޙް
+413,Male ,Hulhu Male Flat No 160 2 02,Aishath Saaha Sabah,F,AXXX191,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 2 061,ޢާއިޝަތު ސާޙާ ޞަބާޙް
+414,Male ,Hulhu Male Flat No 162 1 03,Hawwa Rasheeda,F,AXXX642,ހުޅުމާލެ ފްލެޓް ނަންބަރު 30 1 261,ޙައްވާ ރަޝީދާ
+415,Male ,Hulhu Male Flat No 162 1 03,Jafna Ibrahim,F,AXXX097,ހުޅުމާލެ ފްލެޓް ނަންބަރު 30 1 261,ޖަފްނާ އިބްރާހީމް
+416,Male ,Hulhu Male Flat No 162 1 03,Jazlee Ibrahim,F,AXXX100,ހުޅުމާލެ ފްލެޓް ނަންބަރު 30 1 261,ޖަޒްލީ އިބްރާހީމް
+417,Male ,Hulhu Male Flat No 164 3 02,Ahmed Saleem,M,AXXX040,ހުޅުމާލެ ފްލެޓް ނަމްބަރު 20 3 461,އަޙްމަދު ސަލީމް
+418,Male ,Hulhu Male Flat No 165 1 02,Fathimath Waheedha,F,AXXX597,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 1 561,ފާޠިމަތު ވަޙީދާ
+419,Male ,Hulhu Male Flat No 165 1 02,Hussain Ibrahim,M,AXXX283,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 1 561,ޙުސައިން އިބްރާހީމް
+420,Male ,Hulhu Male Flat No 165 1 02,Silm Hussain,M,AXXX048,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 1 561,ސިލްމް ޙުސައިން
+421,Male ,Hulhu Male Flat No 165 2 04,Mariyam Saeeda,F,AXXX615,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 2 561,މަރްޔަމް ސަޢީދާ
+422,Male ,Hulhu Male Flat No 167 1 01,Aishath Naashidha,F,AXXX913,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 1 761,ޢާއިޝަތު ނާޝިދާ
+423,Male ,Hulhu Male Flat No 167 1 01,Jameela Ibrahim,F,AXXX917,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 1 761,ޖަމީލާ އިބްރާހީމް
+424,Male ,Hulhu Male Flat No 167 1 01,Mariyam Raafiyath,F,AXXX281,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 1 761,މަރްޔަމް ރާފިޔަތު
+425,Male ,Hulhu Male Flat No 167 1 01,Mohamed Aiman,M,AXXX164,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 1 761,މުޙައްމަދު އައިމަން
+426,Male ,Hulhu Male Flat No 168 1 03,Salma Abdul Raheem,F,AXXX930,ހުޅުމާލެ ފްލެޓް ނަންބަރު 30 1 861,ސަލްމާ ޢަބްދުއްރަޙީމް
+427,Male ,Hulhu Male Flat No 168 1 03,Mariyam Sana,F,AXXX595,ހުޅުމާލެ ފްލެޓް ނަންބަރު 30 1 861,މަރްޔަމް ސަނާ
+428,Male ,Hulhu Male Flat No 168 1 03,Aminath Shaba,F,AXXX622,ހުޅުމާލެ ފްލެޓް ނަންބަރު 30 1 861,އާމިނަތު ޝަބާ
+429,Male ,Hulhu Male Flat No 170 2 02,Abdulla Shan,M,AXXX069,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 2 071,ޢަބްދުﷲ ޝާން
+430,Male ,Hulhu Male Flat No 170 2 02,Aminath Reesha,F,AXXX587,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 2 071,އާމިނަތު ރީޝާ
+431,Male ,Hulhu Male Flat No 171 3 02,Shirumeena Ibrahim,F,AXXX698,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 3 171,ޝިރުމީނާ އިބްރާހީމް
+432,Male ,Hulhu Male Flat No 171 3 02,Ibrahim Ismail,M,AXXX469,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 3 171,އިބްރާހީމް އިސްމާޢީލް
+433,Male ,Hulhu Male Flat No 171 G 04,Aminath Shahuma,F,AXXX941,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 ޖީ 171,އާމިނަތު ޝަހުމާ
+434,Male ,Hulhu Male Flat No 171 G 04,Mariyam Shahama,F,AXXX178,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 ޖީ 171,މަރްޔަމް ޝަހާމާ
+435,Male ,Hulhu Male Flat No 171 G 04,Fathimath Waheeda Usman,F,AXXX796,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 ޖީ 171,ފާޠިމަތު ވަޙީދާ ޢުޘްމާން
+436,Male ,Hulhu Male Flat No 171 G 04,Ahmed Shah Mohamed,M,AXXX110,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 ޖީ 171,އަޙްމަދު ޝާހް މުޙައްމަދު
+437,Male ,Hulhu Male Flat No 171 G 04,Jameelaa Samaa Mohamed,F,AXXX965,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 ޖީ 171,ޖަމީލާ ސަމާ މުޙައްމަދު
+438,Male ,Hulhu Male Flat No 173 1 03,Nazaahath Abdul Nasir,F,AXXX720,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 1 371,ނަޒާޙަތު ޢަބްދުއްނާޞިރު
+439,Male ,Hulhu Male Flat No 173 1 03,Fathimath Shahidha,F,AXXX533,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 1 371,ފާޠިމަތު ޝާހިދާ
+440,Male ,Hulhu Male Flat No 173 1 03,Nuzukha,F,AXXX540,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 1 371,ނުޒުޚާ
+441,Male ,Hulhu Male Flat No 173 1 03,Afrah,M,AXXX027,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 1 371,އަފްރާޙް
+442,Male ,Hulhu Male Flat No 173 1 03,Nuha Abdul Nasir,F,AXXX028,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 1 371,ނުހާ ޢަބްދުއްނާޞިރު
+443,Male ,Hulhu Male Flat No 173 1 03,Nazleen Abdul Nasir,F,AXXX031,ހުޅުމާލެ ފްލެޓްނަންބަރު 30 1 371,ނާޒްލީން ޢަބްދުއްނާޞިރު
+444,Male ,Hulhu Male Flat No 173 3 01,Dheeba Hussain,F,AXXX161,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 3 371,ދީބާ ޙުސައިން
+445,Male ,Hulhu Male Flat No 173 3 01,Aminath Sara Abdulla,F,AXXX334,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 3 371,އާމިނަތު ސާރާ ޢަބްދުﷲ
+446,Male ,Hulhu Male Flat No 36 3 07,Sara Adam,F,AXXX016,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 63,ސާރާ އާދަމް
+447,Male ,Hulhu Male Flat No 62 1 03,Abdulla Hilmy,M,AXXX792,ހުޅުމާލެ ފްލެޓް ނަންބަރު 30 1 26,ޢަބްދުﷲ ޙިލްމީ
+448,Male ,Hulhu Male Flat No 62 1 03,Abdul Razzag Ali,M,AXXX259,ހުޅުމާލެ ފްލެޓް ނަންބަރު 30 1 26,ޢަބްދުއްރައްޒާޤު ޢަލީ
+449,Male ,Hulhu Male Flat No 62 1 03,Mohamed Asir,M,AXXX786,ހުޅުމާލެ ފްލެޓް ނަންބަރު 30 1 26,މުޙައްމަދު އާސިރު
+450,Male ,Hulhu Male Flat No 62 3 07,Zahida Ali,F,AXXX536,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 26,ޒާހިދާ ޢަލީ
+451,Male ,Hulhu Male Flat No 62 3 07,Rifshan Mohamed Sodig,M,AXXX211,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 26,ރިފްޝާން މުޙައްމަދު ޞާދިޤު
+452,Male ,Hulhu Male Flat No 62 3 07,Sausan Mohamed,F,AXXX531,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 26,ސައުސަން މުޙައްމަދު
+453,Male ,Hulhu Male Flat No 62 3 07,Liushadha Saeed,F,AXXX334,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 26,ލިއުޝާދާ ސަޢީދު
+454,Male ,Hulhu Male Flat No 62 3 07,Lubna Mohamed Sodhiq,F,AXXX490,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 26,ލުބްނާ މުޙައްމަދު ޞާދިޤް
+455,Male ,Hulhu Male Flat No 63 1 04,Hussain Adam,M,AXXX777,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 1 36,ޙުސައިން އާދަމް
+456,Male ,Hulhu Male Flat No 63 2 06,Mohamed Fahmy,M,AXXX420,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 36,މުޙައްމަދު ފަޙުމީ
+457,Male ,Hulhu Male Flat No 63 2 06,Riyasa Fahumy,F,AXXX572,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 36,ރިޔާސާ ފަހުމީ
+458,Male ,Hulhu Male Flat No 63 2 06,Saima Fahmy,F,AXXX579,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 36,ޞާއިމާ ފަހުމީ
+459,Male ,Hulhu Male Flat No 64 2 06,Ali Moosa,M,AXXX510,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 46,ޢަލީ މޫސާ
+460,Male ,Hulhu Male Flat No 64 2 06,Samiya Hussain,F,AXXX705,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 46,ސާމިޔާ ޙުސައިން
+461,Male ,Hulhu Male Flat No 64 2 06,Aminath Aroosha,F,AXXX668,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 46,އާމިނަތު ޢަރޫޝާ
+462,Male ,Hulhu Male Flat No 64 2 06,Ahmed Aruham,M,AXXX143,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 46,އަޙްމަދު އަރްހަމް
+463,Male ,Hulhu Male Flat No 64 G 01,Mohamed Amir,M,AXXX852,ހުޅުމާލެ ފްލެޓް ނަންބަރު 46 ޖީ 10,މުޙައްމަދު ޢާމިރު
+464,Male ,Hulhu Male Flat No 64 G 02,Aishath Sameera,F,AXXX670,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 46,ޢާއިޝަތު ސަމީރާ
+465,Male ,Hulhu Male Flat No 66 2 06,Ibrahim Naseem,M,AXXX482,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 66,އިބްރާހީމް ނަސީމް
+466,Male ,Hulhu Male Flat No 66 2 06,Najma Easa,F,AXXX408,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 66,ނަޖުމާ ޢީސާ
+467,Male ,Hulhu Male Flat No 66 2 06,Jailam Ibrahim,M,AXXX571,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 66,ޖައިލަމް އިބްރާހީމް
+468,Male ,Hulhu Male Flat No 66 2 06,Fathimath Maisha Ibrahim,F,AXXX806,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 66,ފާޠިމަތު މައިޝާ އިބްރާހީމް
+469,Male ,Hulhu Male Flat No 66 2 06,Mariyam Saniyya,F,AXXX714,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 66,މަރްޔަމް ސަނިއްޔާ
+470,Male ,Hulhu Male Flat No 66 3 07,Hassan Ishan,M,AXXX045,ހުޅުމާލެ ފްލެޓްނަންބަރު 70 3 66,ޙަސަން އިޝާން
+471,Male ,Hulhu Male Flat No 66 3 08,Ibrahim Khaleel,M,AXXX980,ހުޅުމާލެ ފްލެޓް ނަންބަރު 80 3 66,އިބްރާހީމް ޚަލީލް
+472,Male ,Hulhu Male Flat No 66 3 08,Aminath Ikrama Ahmed,F,AXXX560,ހުޅުމާލެ ފްލެޓް ނަންބަރު 80 3 66,އާމިނަތު އިކްރާމާ އަޙްމަދު
+473,Male ,Hulhu Male Flat No 66 3 08,Mohamed Lassan Khaleel,M,AXXX583,ހުޅުމާލެ ފްލެޓް ނަންބަރު 80 3 66,މުޙައްމަދު ލައްސާން ޚަލީލް
+474,Male ,Hulhu Male Flat No 66 3 08,Fathimath Asaal Khaleel,F,AXXX045,ހުޅުމާލެ ފްލެޓް ނަންބަރު 80 3 66,ފާޠިމަތު އާޞާލް ޚަލީލް
+475,Male ,Hulhu Male Flat No 66 G 01,Abdulla Saeed,M,AXXX276,ހުޅުމާލެ ފްލެޓްނަންބަރު 10 ޖީ 66,ޢަބްދުﷲ ސަޢީދު
+476,Male ,Hulhu Male Flat No 67 2 05,Fathimath Fazeela,F,AXXX674,ހުޅުމާލެ ފްލެޓް ނަންބަރު 50 2 76,ފާޠިމަތު ފަޟީލާ
+477,Male ,Hulhu Male Flat No 67 2 06,Abdulla Rasheed,M,AXXX806,ހުޅުމާލެ ފްލެޓްނަންބަރު 60 2 76,ޢަބްދުﷲ ރަޝީދު
+478,Male ,Hulhu Male Flat No 67 3 07,Ibrahim Naeem,M,AXXX183,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 76,އިބްރާހީމް ނަޢީމް
+479,Male ,Hulhu Male Flat No 67 3 07,Aminath Muna,F,AXXX381,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 76,އާމިނަތު Mުނާ
+480,Male ,Hulhu Male Flat No 67 3 07,Husna Sameer,F,AXXX382,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 76,ޙުސްނާ ސަމީރު
+481,Male ,Hulhu Male Flat No 67 3 07,Ismail Wafir,M,AXXX847,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 76,އިސްމާޢީލް ވާފިރު
+482,Male ,Hulhu Male Flat No 67 3 07,Mamdhooha Naeem,F,AXXX577,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 76,މަމްދޫޙާ ނަޢީމް
+483,Male ,Hulhu Male Flat No 68 2 05,Khadheeja Sodhuma,F,AXXX042,ހުޅުމާލެ ފްލެޓް ނަންބަރު 50 2 86,ޚަދީޖާ ޞަދުމާ
+484,Male ,Hulhu Male Flat No 68 G 01,Ameena Ismail,F,AXXX918,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 86,އަމީނާ އިސްމާޢީލް
+485,Male ,Hulhu Male Flat No 68 G 01,Fathimath Neena,F,AXXX726,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 86,ފާޠިމަތު ނީނާ
+486,Male ,Hulhu Male Flat No 68 G 01,Khadheeja Nazaha,F,AXXX872,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 86,ޚަދީޖާ ނަޒާޙާ
+487,Male ,Hulhu Male Flat No 69 2 06,Shamrath Mohamed,F,AXXX727,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 96,ޝަމްރަތު މުޙައްމަދު
+488,Male ,Hulhu Male Flat No 69 2 06,Mohamed Gasim,M,AXXX151,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 96,މުޙައްމަދު ޤާސިމް
+489,Male ,Hulhu Male Flat No 69 2 06,Ahmed Mohamed,M,AXXX459,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 96,އަޙްމަދު މުޙައްމަދު
+490,Male ,Hulhu Male Flat No 69 2 06,Nazhath Mohamed,F,AXXX830,ހުޅުމާލެ ފްލެޓް ނަންބަރު 60 2 96,ނަޒުހަތު މުޙައްމަދު
+491,Male ,Hulhu Male Flat No 69 3 07,Abida Ali,F,AXXX708,ހުޅުމާލެ ފްލެޓް ނަމްބަރ 70 3 96,ޢާބިދާ ޢަލީ
+492,Male ,Hulhu Male Flat No 69 3 08,Hussain Gasim,M,AXXX253,ހުޅުމާލެ ފްލެޓް ނަންބަރު 80 3 96,ޙުސައިން ޤާސިމް
+493,Male ,Hulhu Male Flat No 69 3 08,Fathimath Samha,F,AXXX731,ހުޅުމާލެ ފްލެޓް ނަންބަރު 80 3 96,ފާޠިމަތު ސަމްޙާ
+494,Male ,Hulhu Male Flat No 69 3 08,Ahmed Saam,M,AXXX732,ހުޅުމާލެ ފްލެޓް ނަންބަރު 80 3 96,އަޙްމަދު ޘާމް
+495,Male ,Hulhu Male Flat No 70 2 05,Ali Rifau,M,AXXX621,ހުޅުމާލެ ފްލެޓް ނަންބަރު 07 2 50,ޢަލީ ރިފާޢު
+496,Male ,Hulhu Male Flat No 70 3 07,Ahmed Asif Naseem,M,AXXX829,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 07,އަޙްމަދު ޢާޞިފް ނަސީމް
+497,Male ,Hulhu Male Flat No 70 G 01,Mohamed Saeed,M,AXXX488,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 07,މުޙައްމަދު ސަޢީދު
+498,Male ,Hulhu Male Flat No 71 1 04,Zubaira Gasim,F,AXXX565,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 1 17,ޒުބައިރާ ޤާސިމް
+499,Male ,Hulhu Male Flat No 71 1 04,Ibrahim Mohamed,M,AXXX967,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 1 17,އިބްރާހީމް މުޙައްމަދު
+500,Male ,Hulhu Male Flat No 71 1 04,Ahmed Rishfan,M,AXXX747,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 1 17,އަޙްމަދު ރިޝްފާން
+501,Male ,Hulhu Male Flat No 71 1 04,Mohamed Rilwan,M,AXXX618,ހުޅުމާލެ ފްލެޓް ނަންބަރު 40 1 17,މުޙައްމަދު ރިޟްވާން
+502,Male ,Hulhu Male Flat No 71 2 05,Ali Waheed,M,AXXX511,ހުޅުމާލެ ފްލެޓް ނަމްބަރ 50 2 17,ޢަލީ ވަޙީދު
+503,Male ,Hulhu Male Flat No 71 2 06,Adam Haleem,M,AXXX780,ހުޅުމާލެ ފްލެޓްނަންބަރު 60 2 17,އާދަމް ޙަލީމް
+504,Male ,Hulhu Male Flat No 71 3 07,Ibrahim Ahmed Manik,M,AXXX911,ހުޅުމާލެ ފްލެޓްނަންބަރު 70 3 17,އިބްރާހީމް އަޙްމަދުމަނިކު
+505,Male ,Hulhu Male Flat No 71 3 07,Aishath Neela Ibrahim,F,AXXX389,ހުޅުމާލެ ފްލެޓްނަންބަރު 70 3 17,ޢާއިޝަތު ނީލާ އިބްރާހީމް
+506,Male ,Hulhu Male Flat No 71 G 01,Hafeeza Abdulla,F,AXXX373,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 17ަ,ޙަފީޡާ ޢަބްދުﷲ
+507,Male ,Hulhu Male Flat No 71 G 01,Hassan Shameem,M,AXXX962,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 17ަ,ޙަސަން ޝަމީމް
+508,Male ,Hulhu Male Flat No 71 G 02,Ahmed Zahir,M,AXXX499,ހުޅުމާލެ ފްލެޓް ނަމްބަރ 17 ޖީ 20,އަޙްމަދު ޒާހިރު
+509,Male ,Hulhu Male Flat No 72 1 03,Mohamed Shavin,M,AXXX194,ހުޅުމާލެ ފްލެޓް ނަމްބަރު 30 1 27,މުޙައްމަދު ޝާވިން
+510,Male ,Hulhu Male Flat No 72 1 03,Mariyam Siznee,F,AXXX200,ހުޅުމާލެ ފްލެޓް ނަމްބަރު 30 1 27,މަރްޔަމް ސިޒްނީ
+511,Male ,Hulhu Male Flat No 72 1 04,Hawwa Ibrahim,F,AXXX639,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 27,ޙައްވާ އިބްރާހީމް
+512,Male ,Hulhu Male Flat No 72 1 04,Ali Sinan,M,AXXX576,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 27,ޢަލީ ސިނާން
+513,Male ,Hulhu Male Flat No 72 1 04,Mohamed Zeeshan Farhad,M,AXXX791,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 27,މުޙައްމަދު ޒީޝާން ފަރުހާދު
+514,Male ,Hulhu Male Flat No 72 1 04,Fathimath Amaan Faruhad,F,AXXX378,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 27,ފާޠިމަތު އަމާން ފަރުހާދު
+515,Male ,Hulhu Male Flat No 72 1 04,Aminath Amaany Faruhad,F,AXXX379,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 27,އާމިނަތު އަމާނީ ފަރުހާދު
+516,Male ,Hulhu Male Flat No 72 2 05,Abdulla Jameel,M,AXXX420,ހުޅުމާލެ ފްލެޓް ނަންބަރު 50 2 27,ޢަބްދުﷲ ޖަމީލް
+517,Male ,Hulhu Male Flat No 72 2 05,Mohamed Aloof Abdulla,M,AXXX409,ހުޅުމާލެ ފްލެޓް ނަންބަރު 50 2 27,މުޙައްމަދު އަލޫފް ޢަބްދުﷲ
+518,Male ,Hulhu Male Flat No 72 3 08,Zahir Shaugy,M,AXXX549,ހުޅުމާލެ ފްލެޓް ނަންބަރު 80 3 27,ޒާހިރު ޝައުޤީ
+519,Male ,Hulhu Male Flat No 73 G 01,Ahmed Anees,M,AXXX986,ހުޅުމާލެ ފްލެޓްނަންބަރު 10 ޖީ 37,އަޙްމަދު އަނީސް
+520,Male ,Hulhu Male Flat No 73 G 01,Mohamed Anees,M,AXXX225,ހުޅުމާލެ ފްލެޓްނަންބަރު 10 ޖީ 37,މުޙައްމަދު އަނީސް
+521,Male ,Hulhu Male Flat No 73 G 01,Ahmed Anees,M,AXXX753,ހުޅުމާލެ ފްލެޓްނަންބަރު 10 ޖީ 37,އަޙްމަދު އަނީސް
+522,Male ,Hulhu Male Flat No 73 G 01,Aishath Anees,F,AXXX171,ހުޅުމާލެ ފްލެޓްނަންބަރު 10 ޖީ 37,ޢާއިޝަތު އަނީސް
+523,Male ,Hulhu Male Flat No 73 G 01,Mariyam Anees,F,AXXX315,ހުޅުމާލެ ފްލެޓްނަންބަރު 10 ޖީ 37,މަރްޔަމް އަނީސް
+524,Male ,Hulhu Male Flat No 74 1 04,Ibrahim Thaufeeq,M,AXXX630,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 47,އިބްރާހީމް ތައުފީޤް
+525,Male ,Hulhu Male Flat No 74 2 05,AISHATH ZOONA,F,AXXX860,ހުޅުމާލެ ފްލެޓް ނަންބަރު 50 2 47,ޢާއިޝަތު ޒޫނާ
+526,Male ,Hulhu Male Flat No 74 3 07,Ali Shareef,M,AXXX690,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 47,ޢަލީ ޝަރީފު
+527,Male ,Hulhu Male Flat No 74 G 01,Gasim Hassan,M,AXXX443,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 47,ޤާސިމް ޙަސަން
+528,Male ,Hulhu Male Flat No 74 G 01,Mohamed Naufal Gasim,M,AXXX180,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 47,މުޙައްމަދު ނައުފަލް ޤާސިމް
+529,Male ,Hulhu Male Flat No 74 G 01,Zaara Gasim,F,AXXX194,ހުޅުމާލެ ފްލެޓް ނަންބަރު 10 ޖީ 47,ޒާރާ ޤާސިމް
+530,Male ,Hulhu Male Flat No 74 G 02,Abdul Wahhab Ibrahim,M,AXXX704,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 47,ޢަބްދުލްވައްހާބް އިބްރާހީމް
+531,Male ,Hulhu Male Flat No 74 G 02,Zuhaira Moosa,F,AXXX714,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 47,ޒުހައިރާ މޫސާ
+532,Male ,Hulhu Male Flat No 74 G 02,Aminath Luha Abdul Wahhab,F,AXXX879,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 47,އާމިނަތު ލުހާ ޢަބްދުލްވައްހާބް
+533,Male ,Hulhu Male Flat No 74 G 02,Ibrahim Labeed Abdul Wahhab,M,AXXX718,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 47,އިބްރާހީމް ލަބީދު ޢަބްދުލްވައްހާބު
+534,Male ,Hulhu Male Flat No 74 G 02,Mariyam Lua Abdul Wahhab,F,AXXX749,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 47,މަރްޔަމް ލުއާ ޢަބްދުލްވައްހާބު
+535,Male ,Hulhu Male Flat No 76 1 03,Shahidha Mohamed,F,AXXX563,ހުޅުމާލެ ފްލެޓް ނަމްބަރ 30 1 67,ޝާހިދާ މުޙައްމަދު
+536,Male ,Hulhu Male Flat No 76 1 04,Aishath Nasheeda,F,AXXX485,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 67,ޢާއިޝަތު ނަޝީދާ
+537,Male ,Hulhu Male Flat No 76 1 04,Alyasau Arif,M,AXXX539,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 67,އަލްޔަސަޢު ޢާރިފު
+538,Male ,Hulhu Male Flat No 76 1 04,Mohamed Raaee,M,AXXX471,ހުޅުމާލެ ފްލެޓްނަންބަރު 40 1 67,މުޙައްމަދު ރާއީ
+539,Male ,Hulhu Male Flat No 76 G 02,Aminath Rasheeda,F,AXXX176,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 67,އާމިނަތު ރަޝީދާ
+540,Male ,Hulhu Male Flat No 76 G 02,Asif Ibrahim,M,AXXX445,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 67,ޢާޞިފް އިބްރާހީމް
+541,Male ,Hulhu Male Flat No 76 G 02,Anif Ibrahim,M,AXXX326,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 67,އާނިފް އިބްރާހީމް
+542,Male ,Hulhu Male Flat No 78 2 05,Navaal Aisha Rasheed,F,AXXX871,ހުޅުމާލެ ފްލެޓް ނަންބަރު 50 2 87,ނަވާލް ޢާއިޝާ ރަޝީދު
+543,Male ,Hulhu Male Flat No 78 2 06,Mohamed Niyaz,M,AXXX031,ހުޅުމާލެ ފްލެޓްނަންބަރު 60 2 87,މުޙައްމަދު ނިޔާޒް
+544,Male ,Hulhu Male Flat No 78 2 06,Rameeza Ibrahim,F,AXXX581,ހުޅުމާލެ ފްލެޓްނަންބަރު 60 2 87,ރަމީޒާ އިބްރާހީމް
+545,Male ,Hulhu Male Flat No 78 3 07,Sabira Hussain Moosa,F,AXXX548,ހުޅުމާލެ ފްލެޓް ނަންބަރު 70 3 87,ޞާބިރާ ޙުސައިން މޫސާ
+546,Male ,Hulhu Male Flat No 78 G 02,Mariyam Sina,F,AXXX043,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 87,މަރްޔަމް ސިނާ
+547,Male ,Hulhu Male Flat No 80 G 02,Ibrahim Abdulla,M,AXXX586,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 08,އިބްރާހީމް ޢަބްދުﷲ
+548,Male ,Hulhu Male Flat No 80 G 02,Aishath Shirani,F,AXXX585,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 ޖީ 08,ޢާއިޝަތު ޝިރާނީ
+549,Male ,Hulhu Male Flat No 82 2 05,Abdul Hakeem,M,AXXX937,ހުޅުމާލެ ފްލެޓް ނަންބަރު 50 2 28,ޢަބްދުލްޙަކީމް
+550,Male ,Hulhu Male Flat No 82 2 05,Rizana Mohamed,F,AXXX423,ހުޅުމާލެ ފްލެޓް ނަންބަރު 50 2 28,ރިޒާނާ މުޙައްމަދު
+551,Male ,Hulhu Male Flat No 82 3 08,Hussain Ali,M,AXXX230,ހުޅުމާލެ ފްލެޓްނަންބަރު 80 3 28,ޙުސައިން ޢަލީ
+552,Male ,Hulhu Male Flat No 82 3 08,Auf Hussain,M,AXXX198,ހުޅުމާލެ ފްލެޓްނަންބަރު 80 3 28,ޢައުފް ޙުސައިން
+553,Male ,Hulhu Male Flat No 82 G 02,Ahmed Fayaz,M,AXXX780,ހުޅުމާލެ ފްލެޓްނަންބަރު 20 ޖީ 28,އަޙްމަދު ފަޔާޟް
+554,Male ,Hulhu Male Flat No 94 1 02,Mohamed Abdul Gafoor,M,AXXX813,ހުޅުމާލެ ފްލެޓް ނަންބަރު 20 1 49,މުޙައްމަދު ޢަބްދުލްޣަފޫރު
+555,Male ,Hulhu Male Flat No 97 G 01,Shareefa Ibrahim,F,AXXX297,ހުޅުމާލެ ފްލެޓް ނަނަްބަރު 10 ޖީ 79,ޝަރީފާ އިބްރާހީމް
+556,Male ,Hulhu Male Flat No C1 1 A,Riyasa Ahmed,F,AXXX639,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ1 1 އޭ,ރިޔާސާ އަޙްމަދު
+557,Male ,Hulhu Male Flat No C1 1 A,Hassan Zareer Ibrahim,M,AXXX104,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ1 1 އޭ,ޙަސަން ޒަރީރު އިބްރާހީމް
+558,Male ,Hulhu Male Flat No C1 1 D,Abdulla Saeed,M,AXXX156,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 1 1ސީ,ޢަބްދުﷲ ސަޢީދު
+559,Male ,Hulhu Male Flat No C1 1 D,Mahdiyya Shakir,F,AXXX268,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 1 1ސީ,މަހުދިއްޔާ ޝާކިރު
+560,Male ,Hulhu Male Flat No C1 1 D,Fathimath Zeyna Abdulla Saeed,F,AXXX629,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 1 1ސީ,ފާޠިމަތު ޒޭނާ ޢަބްދުﷲ ސަޢީދު
+561,Male ,Hulhu Male Flat No C1 1 D,Ahmed Ziyan Abdulla,M,AXXX631,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 1 1ސީ,އަޙްމަދު ޒިޔާން ޢަބްދުﷲ
+562,Male ,Hulhu Male Flat No C1 1 D,Mohamed Zeehan Abdulla,M,AXXX864,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 1 1ސީ,މުޙައްމަދު ޒީޙާން ޢަބްދުﷲ
+563,Male ,Hulhu Male Flat No C1 3 A,Faris Abdulla,M,AXXX904,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ1 3 އޭ,ފާރިސް ޢަބްދުﷲ
+564,Male ,Hulhu Male Flat No C1 3 A,Mausooma Rasheed,F,AXXX078,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ1 3 އޭ,މަޢުޞޫމާ ރަޝީދު
+565,Male ,Hulhu Male Flat No C1 3 B,Hassan Zareer,M,AXXX442,ހުޅުމާލެ ފްލެޓްނަންބަރު ބީ 3 1ސީ,ޙަސަން ޒަރީރު
+566,Male ,Hulhu Male Flat No C1 3 C,Ahmed Shareef,M,AXXX803,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 3 1ސީ,އަޙްމަދު ޝަރީފް
+567,Male ,Hulhu Male Flat No C1 3 C,Hawwa Zakariyya,F,AXXX399,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 3 1ސީ,ޙައްވާ ޒަކަރިއްޔާ
+568,Male ,Hulhu Male Flat No C1 3 C,Aishath Ahlam Ahmed,F,AXXX774,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 3 1ސީ,ޢާއިޝަތު އަޙްލާމް އަޙްމަދު
+569,Male ,Hulhu Male Flat No C1 3 C,Ali Aiham Ahmed,M,AXXX546,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 3 1ސީ,ޢަލީ އައިހަމް އަޙްމަދު
+570,Male ,Hulhu Male Flat No C1 3 C,Fathimath Alhan Ahmed,F,AXXX542,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 3 1ސީ,ފާޠިމަތު އަލްޙާން އަޙްމަދު
+571,Male ,Hulhu Male Flat No C1 4 D,Ahmed Mujuthaba,M,AXXX610,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ1 4 ޑީ,އަޙްމަދު މުޖުތަބާ
+572,Male ,Hulhu Male Flat No C1 GF A,Ibrahim Latheef,M,AXXX246,ހުޅުމާލެ ފްލެޓްނަންބަރު އޭ އެފްޖީ 1ސީ,އިބްރާހީމް ލަޠީފް
+573,Male ,Hulhu Male Flat No C2 1 D,Zakiyya Yoosuf,F,AXXX885,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 1 2ސީ,ޒަކިއްޔާ ޔޫސުފް
+574,Male ,Hulhu Male Flat No C2 2 D,Jeehan Rasheed,F,AXXX180,ހުޅުމާލެ ފްލެޓް ނަންބަރު ޑީ 2 2ސީ,ޖީހާން ރަޝީދު
+575,Male ,Hulhu Male Flat No C2 2 D,Aishath Janaan Rasheed,F,AXXX066,ހުޅުމާލެ ފްލެޓް ނަންބަރު ޑީ 2 2ސީ,ޢާއިޝަތު ޖަނާން ރަޝީދު
+576,Male ,Hulhu Male Flat No C2 3 C,Ibrahim Rasheed,M,AXXX987,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 3 2ސީ,އިބްރާހީމް ރަޝީދު
+577,Male ,Hulhu Male Flat No C2 3 C,Ahmed Zuhair,M,AXXX294,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 3 2ސީ,އަޙްމަދު ޒުހައިރު
+578,Male ,Hulhu Male Flat No C2 3 C,Abdulla Zurair,M,AXXX122,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 3 2ސީ,ޢަބްދުﷲ ޒުރައިރު
+579,Male ,Hulhu Male Flat No C2 3 C,Nafeesa,F,AXXX484,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 3 2ސީ,ނަފީސާ
+580,Male ,Hulhu Male Flat No C2 3 C,Ali Zaid,M,AXXX658,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 3 2ސީ,ޢަލީ ޒައިދު
+581,Male ,Hulhu Male Flat No C2 3 C,Hussain Ziyaadh,M,AXXX827,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 3 2ސީ,ޙުސައިން ޛިޔާދު
+582,Male ,Hulhu Male Flat No C3 2 A,Hussain Waheed,M,AXXX766,ހުޅުމާލެ ފްލެޓްނަންބަރު އޭ 2 3ސީ,ޙުސައިން ވަޙީދު
+583,Male ,Hulhu Male Flat No C3 2 B,Mohamed Shamrah,M,AXXX638,ހުޅުމާލެ ފްލެޓްނަންބަރު ބީ 2 3ސީ,މުޙައްމަދު ޝަމްރާޚު
+584,Male ,Hulhu Male Flat No C3 2 B,Fathimath Shamra,F,AXXX977,ހުޅުމާލެ ފްލެޓްނަންބަރު ބީ 2 3ސީ,ފާޠިމަތު ޝަމްރާ
+585,Male ,Hulhu Male Flat No C3 2 D,Fathimath Saeeda,F,AXXX779,ހުޅުމާލެ ފްލެޓް ނަންބަރު ޑީ 2 3ސީ,ފާޠިމަތު ސަޢީދާ
+586,Male ,Hulhu Male Flat No C3 2 D,Musthafa Ali,M,AXXX991,ހުޅުމާލެ ފްލެޓް ނަންބަރު ޑީ 2 3ސީ,މުޞްޠަފާ ޢަލީ
+587,Male ,Hulhu Male Flat No C3 2 D,Mariyam Malaaha Musthafa,F,AXXX483,ހުޅުމާލެ ފްލެޓް ނަންބަރު ޑީ 2 3ސީ,މަރްޔަމް މަލާހާ މުޞްޠަފާ
+588,Male ,Hulhu Male Flat No C3 2 D,Mohamed Muanis Musthafa,M,AXXX530,ހުޅުމާލެ ފްލެޓް ނަންބަރު ޑީ 2 3ސީ,މުޙައްމަދު މުއާނިސް މުޞްޠަފާ
+589,Male ,Hulhu Male Flat No C3 4 B,Hamid Ali,M,AXXX061,ހުޅުމާލެ ފްލެޓް ނަންބަރު ބީ 4 3ސީ,ޙާމިދު ޢަލީ
+590,Male ,Hulhu Male Flat No C3 4 B,Ali Saleem,M,AXXX623,ހުޅުމާލެ ފްލެޓް ނަންބަރު ބީ 4 3ސީ,ޢަލީ ސަލީމް
+591,Male ,Hulhu Male Flat No C3 GF B,Aminath Rasheeda,F,I AXXX351,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ3 ޖީ އެފް ,އާމިނަތު ރަޝީދާ
+592,Male ,Hulhu Male Flat No C4 1 A,Mohamed Shameem,M,AXXX291,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ4 1 އޭ,މުޙައްމަދު ޝަމީމް
+593,Male ,Hulhu Male Flat No C4 1 C,Amjad Musthafa,M,AXXX547,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ4 1 ސީ,އަމްޖަދު މުޞްޠަފާ
+594,Male ,Hulhu Male Flat No C4 1 C,Ahmeen Amjad Musthafa,M,AXXX475,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ4 1 ސީ,އަޙްމީން އަމްޖަދު މުޞްޠަފާ
+595,Male ,Hulhu Male Flat No C4 GF C,Aishath Fazla,F,AXXX129,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ ޖީއެފް 4ސީ,ޢާއިޝަތު ފަޟްލާ
+596,Male ,Hulhu Male Flat No C4 GF C,Mohamed Naseem,M,AXXX081,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ ޖީއެފް 4ސީ,މުޙައްމަދު ނަސީމް
+597,Male ,Hulhu Male Flat No C5 2 A,Mohamed Abdulla,M,AXXX553,ހުޅުމާލެ ފްލެޓް ނަންބަރު އޭ 2 5ސ ީ,މުޙައްމަދު ޢަބްދުﷲ
+598,Male ,Hulhu Male Flat No C5 2 A,Abdulla Aiman Mohamed,M,AXXX534,ހުޅުމާލެ ފްލެޓް ނަންބަރު އޭ 2 5ސ ީ,ޢަބްދުﷲ އައިމަން މުޙައްމަދު
+599,Male ,Hulhu Male Flat No C5 2 A,Aishath Sana Mohamed,F,AXXX420,ހުޅުމާލެ ފްލެޓް ނަންބަރު އޭ 2 5ސ ީ,ޢާއިޝަތު ސަނާ މުޙައްމަދު
+600,Male ,Hulhu Male Flat No C5 2 C,Mohamed Ali,M,AXXX100,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ 2 5ސީ,މުޙައްމަދު ޢަލީ
+601,Male ,Hulhu Male Flat No C5 2 C,Aishath Aniya,F,AXXX863,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ 2 5ސީ,ޢާއިޝަތު ޢާނިޔާ
+602,Male ,Hulhu Male Flat No C5 2 C,Aminath Mohamed Ali,F,AXXX865,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ 2 5ސީ,އާމިނަތު މުޙައްމަދު ޢަލީ
+603,Male ,Hulhu Male Flat No C5 3 A,Ibrahim Shakir Hassan,M,AXXX869,ހުޅުމާލެ ފްލެޓް ނަންބަރު އޭ 3 5ސީ,އިބްރާހީމް ޝާކިރު ޙަސަން
+604,Male ,Hulhu Male Flat No C5 3 A,Mohamed Nadheem,M,AXXX707,ހުޅުމާލެ ފްލެޓް ނަންބަރު އޭ 3 5ސީ,މުޙައްމަދު ނަދީމް
+605,Male ,Hulhu Male Flat No C5 3 A,Fathmath Nahida,F,AXXX917,ހުޅުމާލެ ފްލެޓް ނަންބަރު އޭ 3 5ސީ,ފާޠިމަތު ނާހިދާ
+606,Male ,Hulhu Male Flat No C5 3 A,Hoona Haleem,F,AXXX271,ހުޅުމާލެ ފްލެޓް ނަންބަރު އޭ 3 5ސީ,ހޫނާ ޙަލީމް
+607,Male ,Hulhu Male Flat No C5 3 A,Aishath Shamha,F,AXXX426,ހުޅުމާލެ ފްލެޓް ނަންބަރު އޭ 3 5ސީ,ޢާއިޝަތު ޝަމްޙާ
+608,Male ,Hulhu Male Flat No C5 3 B,Ahmed Ibrahim,M,AXXX668,ހުޅުމާލެ ފްލެޓްނަންބަރު ބީ 3 5ސީ,އަޙްމަދު އިބްރާހީމް
+609,Male ,Hulhu Male Flat No C5 3 B,Mausooma Ahmed,F,AXXX967,ހުޅުމާލެ ފްލެޓްނަންބަރު ބީ 3 5ސީ,މަޢުޞޫމާ އަޙްމަދު
+610,Male ,Hulhu Male Flat No C5 3 B,Ibrahim Aiman Ahmed,M,AXXX738,ހުޅުމާލެ ފްލެޓްނަންބަރު ބީ 3 5ސީ,އިބްރާހީމް އައިމަން އަޙްމަދު
+611,Male ,Hulhu Male Flat No C5 3 D,Mohamed Rasheed Ali,M,AXXX145,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ5 3 ޑީ,މުޙައްމަދު ރަޝީދު ޢަލީ
+612,Male ,Hulhu Male Flat No C5 3 D,Farahanaz Yoosuf,F,AXXX412,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ5 3 ޑީ,ފަރަޙަނާޒް ޔޫސުފް
+613,Male ,Hulhu Male Flat No C5 4 A,Ibrahim Azmeel,M,AXXX129,ހުޅުމާލެ ފްލެޓް ނަންބަރު އޭ 4 5ސީ,އިބްރާހީމް އަޒުމީލް
+614,Male ,Hulhu Male Flat No C5 4 A,Mohamed Nahil Azmeel,M,AXXX526,ހުޅުމާލެ ފްލެޓް ނަންބަރު އޭ 4 5ސީ,މުޙައްމަދު ނާހިލް އަޒްމީލް
+615,Male ,Hulhu Male Flat No C5 4 C,Abdulla Waheed Abdul Raheem,M,AXXX228,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ5 4 ސީ,ޢަބްދުﷲ ވަޙީދު ޢަބްދުއްރަޙީމް
+616,Male ,Hulhu Male Flat No C5 4 C,Mariyam Rasheeda,F,AXXX591,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ5 4 ސީ,މަރްޔަމް ރަޝީދާ
+617,Male ,Hulhu Male Flat No C5 4 C,Mohamed Madin Abdulla,M,AXXX220,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ5 4 ސީ,މުޙައްމަދު މާދިން ޢަބްދުﷲ
+618,Male ,Hulhu Male Flat No C6 1 D,Mukhuthar Asim,M,AXXX866,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 1 6ސީ,މުޚްތާރު ޢާޞިމް
+619,Male ,Hulhu Male Flat No C6 1 D,Madeeha Ali,F,AXXX698,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 1 6ސީ,މަދީޙާ ޢަލީ
+620,Male ,Hulhu Male Flat No C6 1 D,Mohamed Maahy,M,AXXX868,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 1 6ސީ,މުޙައްމަދު މާޙީ
+621,Male ,Hulhu Male Flat No C6 3 A,Neeza Haleem,F,AXXX115,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ6 3 އޭ,ނީޒާ ޙަލީމް
+622,Male ,Hulhu Male Flat No C6 4 D,Mariyam Shaheeda,F,AXXX914,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 4 6ސީ,މަރްޔަމް ޝަހީދާ
+623,Male ,Hulhu Male Flat No C6 4 D,Mohamed Sajeeu,M,AXXX675,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 4 6ސީ,މުޙައްމަދު ސަޖީޢު
+624,Male ,Hulhu Male Flat No C7 1 B,Mohamed Ibrahim,M,AXXX198,ހުޅުމާލެ ފްލެޓް ނަންބަރު ބީ 1 7ސީ,މުޙައްމަދު އިބްރާހީމް
+625,Male ,Hulhu Male Flat No C7 1 B,Aminath Junaina Mohamed,F,AXXX949,ހުޅުމާލެ ފްލެޓް ނަންބަރު ބީ 1 7ސީ,އާމިނަތު ޖުނައިނާ މުޙައްމަދު
+626,Male ,Hulhu Male Flat No C7 1 B,Aishath Junana Mohamed,F,AXXX868,ހުޅުމާލެ ފްލެޓް ނަންބަރު ބީ 1 7ސީ,ޢާއިޝަތު ޖުނާނާ މުޙައްމަދު
+627,Male ,Hulhu Male Flat No C7 1 C,Aminath Ameeza,F,AXXX485,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ 1 7ސީ,އާމިނަތު އަމީޒާ
+628,Male ,Hulhu Male Flat No C7 1 C,Ahmed Zydan Shafiu,M,AXXX001,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ 1 7ސީ,އަޙްމަދު ޒައިދާން ޝާފިޢު
+629,Male ,Hulhu Male Flat No C7 1 C,Moosa Zajil Shafiu,M,AXXX294,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ 1 7ސީ,މޫސާ ޒާޖިލް ޝާފިޢު
+630,Male ,Hulhu Male Flat No C7 2 D,Ahmed Hashim,M,AXXX259,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 2 7ސީ,އަޙްމަދު ހާޝިމް
+631,Male ,Hulhu Male Flat No C7 3 B,Ahmed Khaleel,M,AXXX077,ހުޅުމާލެ ފްލެޓްނަންބަރު ބީ 3 7ސީ,އަޙްމަދު ޚަލީލް
+632,Male ,Hulhu Male Flat No C8 2 D,Ahmed Riza,M,AXXX436,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 2 8ސީ,އަޙްމަދު ރިޟާ
+633,Male ,Hulhu Male Flat No C8 2 D,Shimad Ibrahim,M,AXXX186,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 2 8ސީ,ޝިމާދު އިބްރާހީމް
+634,Male ,Hulhu Male Flat No C8 2 D,Aishath Nafiza,F,AXXX254,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 2 8ސީ,ޢާއިޝަތު ނާފިޡާ
+635,Male ,Hulhu Male Flat No C8 4 A,Ibrahim Yaameen Naeem,M,AXXX376,ހުޅުމާލެ ފްލެޓްނަންބަރު އޭ 4 8ސީ,އިބްރާހީމް ޔާމީން ނަޢީމް
+636,Male ,Hulhu Male Flat No C8 4 D,Sudna Saleem,F,AXXX150,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 4 8ސީ,ޞުދުނާ ސަލީމް
+637,Male ,Hulhu Male Flat No C9 2 C,Abdulla Amjad,M,AXXX983,ހުޅުމާލެ ފްލެޓް ނަންބަރު ސީ 2 9ސީ,ޢަބްދުﷲ އަމްޖަދު
+638,Male ,Hulhu Male Flat No C9 2 D,Ismail Mohamed,M,AXXX892,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 2 9ސީ,އިސްމާޢީލް މުޙައްމަދު
+639,Male ,Hulhu Male Flat No C9 2 D,Muneeb Ismail Mohamed,M,AXXX068,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 2 9ސީ,މުނީބު އިސްމާޢީލް މުޙައްމަދު
+640,Male ,Hulhu Male Flat No C9 2 D,Mutheeu Ismail Mohamed,M,AXXX486,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 2 9ސީ,މުޠީޢު އިސްމާޢީލް މުޙައްމަދު
+641,Male ,Hulhu Male Flat No C9 2 D,Anjum Ismail Mohamed,F,AXXX190,ހުޅުމާލެ ފްލެޓްނަންބަރު ޑީ 2 9ސީ,އަންޖުމް އިސްމާޢީލް މުޙައްމަދު
+642,Male ,Hulhu Male Flat No C9 3 B,Abdulla Rafeeu,M,AXXX019,ހުޅުމާލެ ފްލެޓް ނަމްބަރ ބީ 3 9ސީ,ޢަބްދުﷲ ރަފީޢު
+643,Male ,Hulhu Male Flat No C9 4 C,Ahmed Nizam,M,AXXX052,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 4 9ސީ,އަޙްމަދު ނިޡާމް
+644,Male ,Hulhu Male Flat No C9 4 C,Hawwa Zeina Nizam,F,AXXX615,ހުޅުމާލެ ފްލެޓްނަންބަރު ސީ 4 9ސީ,ޙައްވާ ޒައިނާ ނިޡާމް
+645,Male ,Hulhu Male Flat No RIM 805,Ali Mohamed,M,AXXX864,ހުޅުމާލެ ފްލެޓް ނަންބަރު އާރު އައި އެމް 50,ޢަލީ މުޙައްމަދު
+646,Male ,Hulhu Male Goathi 10619 Flat No 169 3 06 ,Mariyam Shaneezad,F,AXXX379,ހުޅުމާލެ ގޯތި 91601 ފްލެޓް ނަންބަރު 60 3 961 ,މަރްޔަމް ޝާނީޒާދު
+647,Male ,Hulhu Male Goathi 10654 ge 01 A Flat,Naseema Ibrahim,F,AXXX168,ހުޅުމާލެ ގޯތި 45601 ގެ އޭ 10 ފްލެޓް,ނަސީމާ އިބްރާހީމް
+648,Male ,Hulhu Male Goathi 10654 ge 01 A Flat,Aminath Zidhna,F,AXXX212,ހުޅުމާލެ ގޯތި 45601 ގެ އޭ 10 ފްލެޓް,އާމިނަތު ޒިދުނާ
+649,Male ,Hulhu Male Goathi 10654 ge 01 A Flat,Mohamed Shafee,M,AXXX216,ހުޅުމާލެ ގޯތި 45601 ގެ އޭ 10 ފްލެޓް,މުޙައްމަދު ޝާފީ
+650,Male ,Hulhu Male Goathi 10867 Ge B 2 4C Flat,Asma Moosa,F,AXXX375,ހުޅުމާލެ ގޯތި 76801 ގެ ބީ 2 4ސީ ފްލެޓް,އަސްމާ މޫސާ
+651,Male ,Hulhu Male Goathi 10867 Ge B 2 4C Flat,Musaidh Mohamed,M,AXXX440,ހުޅުމާލެ ގޯތި 76801 ގެ ބީ 2 4ސީ ފްލެޓް,މުސާޢިދު މުޙައްމަދު
+652,Male ,Hulhu Male Goathi 10867 Ge B 2 4C Flat,Maleeh Mohamed,M,AXXX391,ހުޅުމާލެ ގޯތި 76801 ގެ ބީ 2 4ސީ ފްލެޓް,މަލީޙް މުޙައްމަދު
+653,Male ,Hulhu Male Goathi No 10514,Hassan Thawfeeq,M,AXXX157,ހުޅުމާލެ ގޯތި ނަންބަރު 41501,ޙަސަން ތައުފީޤް
+654,Male ,Hulhu Male Goathi No 10822 Misk ,Fathimath Mohamed,F,AXXX247,ހުޅުމާލެ ގޯތި ނަންބަރު 22801 މިިސްކް ,ފާޠިމަތު މުޙައްމަދު
+655,Male ,Hulhu Male Goathi No 11081,Ahmed Salih,M,AXXX155,ހުޅުމާލެ ގޯތި ނަންބަރު 18011,އަޙްމަދު ޞާލިޙް
+656,Male ,Hulhu Male Goathi No 11159,Mohamed Ishan,M,AXXX718,ހުޅުމާލެ ގޯތި ނަންބަރު 95111,މުޙައްމަދު އިޝާން
+657,Male ,Hulhu Male Goathi No 11249,Aishath Moosa,F,AXXX947,ހުޅުމާލެ ގޯތި ނަންބަރު 94211,ޢާއިޝަތު މޫސާ
+658,Male ,Hulhu Male Goathi No 11314,Ali Ibrahim,M,AXXX296,ހުޅުމާލެ ގޯތި ނަންބަރު 41311,ޢަލީ އިބްރާހީމް
+659,Male ,Hulhu Male Goathi No 11338 Coral ,Adam Shareef,M,AXXX105,ހުޅުމާލެ ގޯތި ނަންބަރު 83311 ކޮރަލް ,އާދަމް ޝަރީފް
+660,Male ,Hulhu Male Goathi No 11338 Coral ,Agisa Shafeeg,F,AXXX604,ހުޅުމާލެ ގޯތި ނަންބަރު 83311 ކޮރަލް ,ޢާޤިޞާ ޝަފީޤު
+661,Male ,Hulhu Male Hiyaa 10 07 12,HAWWA DHIE,F,AXXX105,ހުޅުމާލެ ހިޔާ 01 70 21,ޙައްވާދިއެ
+662,Male ,Hulhu Male Hiyaa 10 10 13,Mohamed Shiham,M,AXXX674,ހުޅުމާލެ ހިޔާ 01 01 31,މުޙައްމަދު ޝިހާމް
+663,Male ,Hulhu Male Hiyaa 10 23 16,Hawwa Rasheeda,F,AXXX147,ހުޅުމާލެ ހިޔާ 01 32 61,ޙައްވާ ރަޝީދާ
+664,Male ,Hulhu Male Hiyaa 10 24 14,Hassan Rasheed,M,AXXX024,ހުޅުމާލެ ހިޔާ 01 42 41,ޙަސަން ރަޝީދު
+665,Male ,Hulhu Male Hiyaa 1 08 11,Shakira Mohamed,F,AXXX740,ހުޅުމާލެ ހިޔާ 1 80 11,ޝާކިރާ މުޙައްމަދު
+666,Male ,Hulhu Male Hiyaa 11 06 05,Aishath Hassan,F,AXXX711,ހުޅުމާލެ ހިޔާ 11 60 50,ޢާއިޝަތު ޙަސަން
+667,Male ,Hulhu Male Hiyaa 11 08 02,Mohamed Ibrahim,M,AXXX875,ހުޅުމާލެ ހިޔާ 11 80 20,މުޙައްމަދު އިބްރާހީމް
+668,Male ,Hulhu Male Hiyaa 11 21 03,Ahmed Hilmee,M,AXXX148,ހުޅުމާލެ ހިޔާ 11 12 30,އަޙްމަދު ޙިލްމީ
+669,Male ,Hulhu Male Hiyaa 11 21 10,Mohamed Naseem,M,AXXX206,ހުޅުމާލެ ހިޔާ 11 12 01,މުޙައްމަދު ނަސީމް
+670,Male ,Hulhu Male Hiyaa 12 10 13,Mohamed Aboobakuru,M,AXXX797,ހުޅުމާލެ ހިޔާ 21 01 31,މުޙައްމަދު އަބޫބަކުރު
+671,Male ,Hulhu Male Hiyaa 12 23 15,Ismail Riyaz,M,AXXX257,ހުޅުމާލެ ހިޔާ 21 32 51,އިސްމާޢީލް ރިޔާޟް
+672,Male ,Hulhu Male Hiyaa 13 19 07,Mariyam Riza,F,AXXX643,ހުޅުމާލެ ހިޔާ 31 91 70,މަރްޔަމް ރިޟާ
+673,Male ,Hulhu Male Hiyaa 13 22 02,Ahmed Mohamed,M,AXXX419,ހުޅުމާލެ ހިޔާ 31 22 20,އަޙްމަދު މުޙައްމަދު
+674,Male ,Hulhu Male Hiyaa 16 13 05,Ali Khaleel,M,AXXX881,ހުޅުމާލެ ހިޔާ 61 31 50,ޢަލީ ޚަލީލް
+675,Male ,Hulhu Male Hiyaa 16 20 07,Abdulla Didi,M,AXXX391,ހުޅުމާލެ ހިޔާ 61 02 70,ޢަބްދުﷲދީދީ
+676,Male ,Hulhu Male Hiyaa 2 08 03,Shuzana Ali,F,AXXX514,ހުޅުމާލެ ހިޔާ 2 80 30,ޝުޒާނާ ޢަލީ
+677,Male ,Hulhu Male Hiyaa 2 17 03,Ibrahim Abdulla,M,AXXX426,ހުޅުމާލެ ހިޔާ 2 71 30,އިބްރާހީމް ޢަބްދުﷲ
+678,Male ,Hulhu Male Hiyaa 3 23 04,Khadeeja Mohamed,F,AXXX501,ހުޅުމާލެ ހިޔާ 3 32 40,ޚަދީޖާ މުޙައްމަދު
+679,Male ,Hulhu Male Hiyaa 4 10 04,Ali Abdul Raheem,M,AXXX093,ހުޅުމާލެ ހިޔާ 4 01 40,ޢަލީ ޢަބްދުއްރަޙީމް
+680,Male ,Hulhu Male Hiyaa 4 17 19,Zainab Adam,F,AXXX710,ހުޅުމާލެ ހިޔާ 4 71 91,ޒައިނަބު އާދަމް
+681,Male ,Hulhu Male Hiyaa 5 02 06,Fathimath Ibrahim,F,AXXX293,ހުޅުމާލެ ހިޔާ 5 20 60,ފާޠިމަތު އިބްރާހީމް
+682,Male ,Hulhu Male Hiyaa 5 14 07,Abdul Sattar Hussain,M,AXXX938,ހުޅުމާލެ ހިޔާ 5 41 70,ޢަބްދުއްސައްތާރު ޙުސައިން
+683,Male ,Hulhu Male Hiyaa 5 20 17,Fathmath Saeed,F,AXXX870,ހުޅުމާލެ ހިޔާ 5 02 71,ފާޠިމަތު ސަޢީދު
+684,Male ,Hulhu Male Hiyaa 6 08 09,MAUMOONA WAHEED,F,AXXX162,ހުޅުމާލެ ހިޔާ 6 80 90,މައުމޫނާ ވަޙީދު
+685,Male ,Hulhu Male Hiyaa 6 16 07,Safeena Ali,F,AXXX167,ހުޅުމާލެ ހިޔާ 6 61 70,ސަފީނާ ޢަލީ
+686,Male ,Hulhu Male Hiyaa 7 09 08,Mohamed Ali,M,AXXX286,ހުޅުމާލެ ހިޔާ 7 90 80,މުޙައްމަދު ޢަލީ
+687,Male ,Hulhu Male Hiyaa 7 09 08,Ahmed Firash,M,AXXX748,ހުޅުމާލެ ހިޔާ 7 90 80,އަޙްމަދު ފިރާޝް
+688,Male ,Hulhu Male Hiyaa 7 14 14,Azaad Rushdhee,M,AXXX052,ހުޅުމާލެ ހިޔާ 7 41 41,އާޒާދު ރުޝްދީ
+689,Male ,Hulhu Male Hiyaa 7 15 10,Ahmed Waheed,M,AXXX512,ހުޅުމާލެ ހިޔާ 7 51 01,އަޙްމަދު ވަޙީދު
+690,Male ,Hulhu Male Hiyaa 7 16 03,Fathimath Moosa Didi,F,AXXX633,ހުޅުމާލެ ހިޔާ 7 61 30,ފާޠިމަތު މޫސާދީދީ
+691,Male ,Hulhu Male Hiyaa 8 02 05,Nahula Hassan,F,AXXX670,ހުޅުމާލެ ހިޔާ 8 20 50,ނަޙުލާ ޙަސަން
+692,Male ,Hulhu Male Hiyaa 8 21 18,Moosa Ali,M,AXXX212,ހުޅުމާލެ ހިޔާ 8 12 81,މޫސާ ޢަލީ
+693,Male ,Hulhu Male Hiyaa 9 05 10,Saudulla Ahmed,M,AXXX649,ހުޅުމާލެ ހިޔާ 9 50 01,ސަޢުދުﷲ އަޙްމަދު
+694,Male ,Hulhu Male Hiyaa 9 08 07,Mariyam Zareena,F,AXXX267,ހުޅުމާލެ ހިޔާ 9 80 70,މަރްޔަމް ޒަރީނާ
+695,Male ,Hulhu Male HM Nivehi,Ahmed Niyaz,M,AXXX325,ހުޅުމާލެ ހމ ނިވެހި,އަޙްމަދު ނިޔާޒު
+696,Male ,Hulhu Male HM 10658 Goathi G02,Aishath Naila,F,AXXX507,ހުޅުމާލެ ހމ 85601 ގޯތި 20 ޖީ,ޢާއިޝަތު ނާއިލާ
+697,Male ,Hulhu Male HM 10658 Goathi G02,Fathimath Lathufaa Ahmed,F,AXXX555,ހުޅުމާލެ ހމ 85601 ގޯތި 20 ޖީ,ފާޠިމަތު ލަޠްފާ އަޙްމަދު
+698,Male ,Hulhu Male Hulhu Male Flat 62 G 02,Abdulla Waheed,M,AXXX097,ހުޅުމާލެ ހުޅުމާލެފްލެޓް 20 ޖީ 26,ޢަބްދުﷲ ވަޙީދު
+699,Male ,Hulhu Male Irudheymaa,Hassan Solah,M,AXXX285,ހުޅުމާލެ އިރުދޭމާ,ޙަސަން ޞަލާޙް
+700,Male ,Hulhu Male Rilaali,Ali Shareef Adam,M,AXXX058,ހުޅުމާލެ ރިލާލި,ޢަލީ ޝަރީފު އާދަމް
+701,Male ,Hulhu Male Vin Pearl,Ibrahim Naseem,M,AXXX041,ހުޅުމާލެ ވިން ޕާރލް,އިބްރާހީމް ނަސީމް
+702,Male ,Hulhu Male Water lily Apartment 01 02 Flat,Hussain Ali,M,AXXX290,ހުޅުމާލެ ވޯޓަރލިލީ އެޕާރޓްމެންޓްސް 20 10 ފްލެޓް,ޙުސައިން ޢަލީ
